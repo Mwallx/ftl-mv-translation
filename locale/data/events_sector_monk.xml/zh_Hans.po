@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-20 17:40+0000\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_monkxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_monk.xml:35
 msgid "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/text"
@@ -427,10 +434,9 @@ msgstr ""
 "信道者们没对你的呼叫口头回应，而是发出信息。\"你好。这艘船不再属于超能信道者了。我们是魂灵族。这艘船的武装水平过低，弹药还不足，你能给我们一些吗？\""
 
 #: src-en/data/events_sector_monk.xml:342
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/event/choice[1]/text"
-msgstr "给他们15发弹药。"
+msgstr "给他们5发弹药。"
 
 #: src-en/data/events_sector_monk.xml:344
 msgid ""
@@ -443,10 +449,9 @@ msgid ""
 msgstr "卡斯颇尔"
 
 #: src-en/data/events_sector_monk.xml:352
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/event/choice[2]/text"
-msgstr "给他们15发弹药。"
+msgstr "给他们10发弹药。"
 
 #: src-en/data/events_sector_monk.xml:354
 msgid ""
@@ -773,7 +778,6 @@ msgid ""
 msgstr "\"啊—，终于有人为我们的合理的价格买单了！\"黑客们放弃了对修道院的控制，跃迁离开。"
 
 #: src-en/data/events_sector_monk.xml:613
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_HOSTAGES\"]/choice[2]/event/choice/text"
 msgstr "联系信道者们。"
@@ -786,7 +790,7 @@ msgstr "\"谢谢你，朋友。我还以为今天就是我们的死期。黑客�
 #: src-en/data/events_sector_monk.xml:616
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_HOSTAGES\"]/choice[2]/event/choice/event/crewMember"
-msgstr ""
+msgstr "信道者"
 
 #: src-en/data/events_sector_monk.xml:622
 msgid ""
@@ -978,11 +982,11 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_monk.xml:791
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_CONVOY_DESTINATION\"]/event[2]/text"
 msgstr ""
-"超能信道者很快就跃迁了进来。\"你做得很好。我们必须依靠像你这样的暴力野蛮人，这是一种耻辱，但这是一个残酷无情的银河系。请接受这笔金钱捐赠作为感谢。\""
+"信道者们很快就跃迁了过来。\"你做得很好。真是悲哀我们必须依靠像你这样的暴力野"
+"蛮人。但我们毕竟生活在一个残酷无情的银河系。请接受这笔金钱捐赠作为感谢。\""
 
 #: src-en/data/events_sector_monk.xml:821
 msgid ""
@@ -997,7 +1001,8 @@ msgstr "信道者并不是唯一能在这被遇见的超能族船只。一艘正
 #: src-en/data/events_sector_monk.xml:827
 msgid ""
 "data/events_sector_monk.xml$//textList[@name=\"TEXT_ENCOUNTER_MONK_ZOLTAN\"]/text[2]"
-msgstr "\"你们是谁？海盗？雇佣兵？你们是来超能信道者的，对吗？准备好迎接末日吧！\"一艘困惑的超能族战舰进场攻击。"
+msgstr "\"你们是谁？海盗？雇佣兵？你们是来伤害信道者们的，对吗？准备好迎接末日吧！"
+"\"一艘困惑的超能族战舰进场攻击。"
 
 #: src-en/data/events_sector_monk.xml:828
 msgid ""
@@ -1191,10 +1196,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_monk.xml:973
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_RIFT_FIGHT\"]/choice[5]/text"
-msgstr "食铁族"
+msgstr "食铁族。"
 
 #: src-en/data/events_sector_monk.xml:975
 msgid ""
@@ -1908,7 +1912,6 @@ msgid ""
 msgstr "\"那好吧，朋友。一路平安。\""
 
 #: src-en/data/events_sector_monk.xml:1640
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_TEMPLE\"]/choice[1]/event/choice[2]/text"
 msgstr "算了。"
@@ -2200,10 +2203,9 @@ msgid ""
 msgstr "一团纳米机器人在你周围形成，一个声音对你说话。\"你需要什么服务？\""
 
 #: src-en/data/events_sector_monk.xml:1875
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[8]/choice[1]/text"
-msgstr "驾驶"
+msgstr "驾驶。"
 
 #: src-en/data/events_sector_monk.xml:1877
 msgid ""
@@ -2231,10 +2233,9 @@ msgid ""
 msgstr "L-6644"
 
 #: src-en/data/events_sector_monk.xml:1889
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[8]/choice[3]/text"
-msgstr "战斗"
+msgstr "战斗。"
 
 #: src-en/data/events_sector_monk.xml:1891
 msgid ""
@@ -2426,10 +2427,9 @@ msgid ""
 msgstr "一团纳米机器人在你周围形成，一个声音对你说话。\"你需要什么服务？\""
 
 #: src-en/data/events_sector_monk.xml:2059
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[8]/choice[1]/text"
-msgstr "驾驶"
+msgstr "驾驶。"
 
 #: src-en/data/events_sector_monk.xml:2061
 msgid ""
@@ -2457,10 +2457,9 @@ msgid ""
 msgstr "L-6644"
 
 #: src-en/data/events_sector_monk.xml:2073
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[8]/choice[3]/text"
-msgstr "战斗"
+msgstr "战斗。"
 
 #: src-en/data/events_sector_monk.xml:2075
 msgid ""
@@ -2746,4 +2745,3 @@ msgstr "请求船员。"
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_PEACE_QUEST_REWARD\"]/choice[2]/event/crewMember"
 msgstr "特使"
-

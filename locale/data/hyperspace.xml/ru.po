@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 15:37+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"PO-Revision-Date: 2024-03-20 15:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
 "hyperspace-xml/ru/>\n"
 "Language: ru\n"
@@ -218,6 +218,9 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_sealant\"]/tooltip"
 msgstr ""
+"ГЕРМЕТИК ПРОБОИН:\n"
+"Пробоины на этом противнике будут автоматически заделываться даже без "
+"участия экипажа."
 
 #: src-en/data/hyperspace.xml:757
 msgid ""
@@ -262,6 +265,10 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_safetybelt\"]/tooltip"
 msgstr ""
+"СПАСАТЕЛЬНЫЕ ЖИЛЕТЫ:\n"
+"Когда здоровье вражеского экипажа опускается ниже половины, они получают "
+"удвоенную скорость передвижения, лечения и выламывания дверей, а также вдвое "
+"уменьшенный урон от опасностей."
 
 #: src-en/data/hyperspace.xml:789
 msgid ""
@@ -299,45 +306,42 @@ msgstr ""
 "системы также имеют 15% шанс противостоять прямому урону."
 
 #: src-en/data/hyperspace.xml:810
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_grid\"]/tooltip"
 msgstr ""
 "ДЕЗИНТЕГРИРУЮЩИЕ ПОЛЯ:\n"
 "Системы этого врага дополнительно защищены от эрозии призраков, что снижает "
-"урон при саботаже на 20%. При наличии системы дверей все члены экипажа и "
-"дроны (включая анаэробный экипаж) получают базовый урон 4 ОЗ/с с "
-"дополнительным 1 ОЗ за каждый уровень Дверей выше 1."
+"урон при саботаже на 20%.\n"
+"При наличии и работы системы Дверей все члены экипажа и дроны (включая "
+"анаэробный экипаж) теряют 4 ОЗ/с с дополнительным 1 ОЗ за каждый уровень "
+"Дверей выше 1."
 
 #: src-en/data/hyperspace.xml:817
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_pheromones\"]/tooltip"
 msgstr ""
 "ФЕРОМОНЫ:\n"
 "Этот вражеский корабль наполнен феромонами. За каждую единицу энергии в "
-"кислороде их экипаж получает бонус 25% скорости передвижения и 6,25% "
-"максимального здоровья."
+"системе Жизнеобеспечения их экипаж получает бонус 25% скорости передвижения "
+"и 6,25% максимального здоровья."
 
 #: src-en/data/hyperspace.xml:822
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_freepheromones\"]/tooltip"
 msgstr ""
 "СИНТЕТИЧЕСКИЕ ФЕРОМОНЫ:\n"
 "Этот вражеский корабль наполнен нестабильными феромонами. За каждую единицу "
-"энергии в кислороде их экипаж получает бонус 15% боевого урона. Каждый "
-"уровень выше 1 снижает скорость ремонта на 25%."
+"энергии в системе Жизнеобеспечения их экипаж получает бонус 15% боевого "
+"урона. Каждый уровень выше 1 снижает скорость ремонта на 25%."
 
 #: src-en/data/hyperspace.xml:827
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_suzpheromones\"]/tooltip"
 msgstr ""
 "ФЕРОМОНЫ СЮЗЕРЕНА:\n"
 "Этот вражеский корабль наполнен превосходными феромонами. За каждую единицу "
-"энергии в кислороде их экипаж получает бонус 33% к скорости передвижения и "
-"15% к сокращению перезарядки способностей."
+"энергии в системе Жизнеобеспечения их экипаж получает бонус 33% к скорости "
+"передвижения и 15% к сокращению перезарядки способностей."
 
 #: src-en/data/hyperspace.xml:832
 msgid ""
@@ -361,7 +365,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_aether_shield\"]/tooltip"
 msgstr ""
-"ЭФИРНЫЕ ЩИТЫ:\n"
+"ЭФИРНЫЙ ЩИТ:\n"
 "Этот противник защищен более сильным, чем обычно, энергетическим щитом. В "
 "дополнение к обычным преимуществам суперщита, щиты перезаряжаются на 20% "
 "быстрее."
@@ -384,46 +388,45 @@ msgstr ""
 "использовать боеприпасы при стрельбе из своего оружия."
 
 #: src-en/data/hyperspace.xml:859
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_spores\"]/tooltip"
 msgstr ""
 "РАСПЫЛИТЕЛЬ СПОР:\n"
-"Этот враг загрязняет свой воздух токсичными спорами, из-за чего вражеские "
-"абордажники получают на 20% больше урона от всех источников."
+"Этот враг загрязняет свой воздух омолаживающими спорами, из-за чего экипаж "
+"получает на 10% больше здоровья и на 20% больше скорости передвижения на "
+"корабле. При наличии Медотсека они также восстанавливают 1 ОЗ/с."
 
 #: src-en/data/hyperspace.xml:865
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas\"]/tooltip"
 msgstr ""
 "ТОКСИЧНЫЙ ГАЗ:\n"
 "Этот вражеский корабль наполнен смертельным нейротоксином, который со "
-"временем пассивно повреждает ваш экипаж. Ракушки, призраки, ланиусы и "
-"Вампсорняки невосприимчивы."
+"временем пассивно наносит вашему экипажу урон на 6 ОЗ/с.\n"
+"Дроны, ракушки, Вампсорняки, призраки и ланиусы невосприимчивы."
 
 #: src-en/data/hyperspace.xml:871
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas_heal\"]/tooltip"
 msgstr ""
 "СЕЛЕКТИВНЫЙ ГАЗ:\n"
 "Этот вражеский корабль наполнен смертельным нейротоксином, который со "
-"временем пассивно повреждает экипаж. Пока вражеский медотсек работает, его "
-"команда будет лечиться со скоростью 90% от скорости лечения медотсека 1 "
-"уровня за его пределами. Ракушки, призраки, ланиусы и Вампсорняки "
-"невосприимчивы к разрушительным свойствам газа."
+"временем пассивно наносит вашему экипажу урон на 3 ОЗ/с. Пока вражеский "
+"Медотсек работает, его экипаж будет лечиться со скоростью 90% от скорости "
+"лечения Медотсека 1 уровня за его пределами. \n"
+"Дроны, ракушки, Вампсорняки, призраки и ланиусы невосприимчивы к "
+"разрушительным свойствам газа."
 
 #: src-en/data/hyperspace.xml:877
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas_repair\"]/tooltip"
 msgstr ""
 "НАНИТНЫЙ ГАЗ:\n"
 "Этот вражеский корабль наполнен смертельным нейротоксином, который со "
-"временем пассивно повреждает экипаж. Активно тушит пожары и заделывает "
-"пробоины на вражеском корабле. Ракушки, призраки, ланиусы и Вампсорняки "
-"невосприимчивы к разрушительным свойствам газа."
+"временем пассивно наносит вашему экипажу урон на 3 ОЗ/с. Активно тушит "
+"пожары и заделывает пробоины на вражеском корабле.\n"
+"Дроны, ракушки, Вампсорняки, призраки и ланиусы невосприимчивы к "
+"разрушительным свойствам газа."
 
 #: src-en/data/hyperspace.xml:884
 msgid ""
@@ -434,14 +437,13 @@ msgstr ""
 "врага, будут оглушены."
 
 #: src-en/data/hyperspace.xml:889
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_sluggel\"]/tooltip"
 msgstr ""
-"ГЕРМЕТИК ПРОБОИН:\n"
+"РЕМОНТНЫЙ ГЕЛЬ СЛИЗНЕЙ:\n"
 "Пробоины на этом противнике будут автоматически заделываться даже без "
-"участия экипажа. Также дает 35% сопротивления к урону и 50% сопротивления к "
-"опасностям в пустых помещениях."
+"участия экипажа. Также обеспечивает 35% сопротивления к урону в бою с "
+"экипажем и 50% сопротивления к опасностям для экипажа в пустых отсеках."
 
 #: src-en/data/hyperspace.xml:894
 msgid ""
@@ -486,14 +488,14 @@ msgstr ""
 "того, он имеет очень небольшой шанс противостоять повреждениям системы."
 
 #: src-en/data/hyperspace.xml:921
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_paladin_armor\"]/tooltip"
 msgstr ""
 "БОЖЕСТВЕННАЯ БРОНЯ:\n"
 "Чрезвычайно прочная броня, усиленная эфиром, собранным из руин предтеч, "
-"соединенная с уже устойчивой броней валунов. Имеет 70% шанс противостоять "
-"повреждениям корпуса, но не может противостоять пробивному оружию."
+"соединенная с уже устойчивой броней валунов. Дает 70% шанс противостоять "
+"повреждениям корпуса, но не может противостоять снарядам или бомбам с "
+"гарантированным шансом пробоины."
 
 #: src-en/data/hyperspace.xml:4589
 msgid ""
@@ -761,7 +763,6 @@ msgid ""
 msgstr "Фредди"
 
 #: src-en/data/hyperspace.xml:4935
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_queen/@name"
 msgstr "Королева"
@@ -794,7 +795,7 @@ msgstr "Алькали"
 #: src-en/data/hyperspace.xml:4941
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_ivar/@name"
-msgstr ""
+msgstr "Ивар"
 
 #: src-en/data/hyperspace.xml:4942
 msgid ""
@@ -849,7 +850,7 @@ msgstr "Майев"
 #: src-en/data/hyperspace.xml:4953
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "Тай Э'Рел"
 
 #: src-en/data/hyperspace.xml:4975
 msgid ""
@@ -884,12 +885,12 @@ msgstr "Майев"
 #: src-en/data/hyperspace.xml:5002
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_ORCHID_2\"]/crew/unique_ivar/@name"
-msgstr ""
+msgstr "Ивар"
 
 #: src-en/data/hyperspace.xml:5013
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_ORCHID_3\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "Тай Э'Рел"
 
 #: src-en/data/hyperspace.xml:5142
 msgid ""
@@ -952,13 +953,11 @@ msgid ""
 msgstr "Первый"
 
 #: src-en/data/hyperspace.xml:5340
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_CEL_3\"]/crew/beans[1]/@name"
 msgstr "Сильврик"
 
 #: src-en/data/hyperspace.xml:5341
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_CEL_3\"]/crew/beans[2]/@name"
 msgstr "Сильврик"
@@ -1031,7 +1030,7 @@ msgstr "Обин"
 #: src-en/data/hyperspace.xml:6265
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_AMBASSADOR\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "Тай Э'Рел"
 
 #: src-en/data/hyperspace.xml:7399
 msgid ""
@@ -1111,7 +1110,7 @@ msgstr "Телец"
 #: src-en/data/hyperspace.xml:8455
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_ORCHID_CRUISER\"]/crew/orchid_praetor/@name"
-msgstr ""
+msgstr "Бралмеб"
 
 #: src-en/data/hyperspace.xml:10540
 msgid ""
@@ -1146,7 +1145,7 @@ msgstr "Винезалеон"
 #: src-en/data/hyperspace.xml:10736
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_GB_ZUUL_GATE\"]/crew/gbzuul/@name"
-msgstr ""
+msgstr "Зуул"
 
 #: src-en/data/hyperspace.xml:11173
 msgid ""
@@ -1290,7 +1289,7 @@ msgstr "Перец"
 #: src-en/data/hyperspace.xml:12418
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_OUTCAST_BATTLESHIP_FAT\"]/crew/rock_outcast/@name"
-msgstr ""
+msgstr "Чунг Бунгалунг"
 
 #: src-en/data/hyperspace.xml:12459
 msgid ""
@@ -1624,7 +1623,7 @@ msgstr "Альфис"
 #: src-en/data/hyperspace.xml:16613
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_NORMAL\"]/crew/orchid_vampweed/@name"
-msgstr "Флауи"
+msgstr "Цветик"
 
 #: src-en/data/hyperspace.xml:16624
 msgid ""
@@ -1654,7 +1653,7 @@ msgstr "Альфис"
 #: src-en/data/hyperspace.xml:16629
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_CHALLENGE\"]/crew/orchid_vampweed/@name"
-msgstr "Флауи"
+msgstr "Цветик"
 
 #: src-en/data/hyperspace.xml:16640
 msgid ""
@@ -1684,7 +1683,7 @@ msgstr "Альфис"
 #: src-en/data/hyperspace.xml:16645
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_EXTREME\"]/crew/orchid_cultivator/@name"
-msgstr ""
+msgstr "Цветик"
 
 #: src-en/data/hyperspace.xml:16656
 msgid ""
@@ -1719,11 +1718,11 @@ msgstr "Меттатон"
 #: src-en/data/hyperspace.xml:16662
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_CHAOS\"]/crew/orchid_cultivator/@name"
-msgstr "флауи"
+msgstr "Цветик"
 
 #: src-en/data/hyperspace.xml:17069
 msgid "data/hyperspace.xml$//race[@name=\"hologram\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПРЕКРАЩЕНИЕ"
 
 #: src-en/data/hyperspace.xml:17070
 msgid "data/hyperspace.xml$//race[@name=\"hologram\"]/powerEffect/tooltip"
@@ -1823,7 +1822,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml:18357
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_jerry_pony_crystal\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:18358
 msgid ""
@@ -1850,12 +1849,11 @@ msgid ""
 msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml:18670
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl4\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с  ДЛИТЕЛЬНОСТЬ:7с]\n"
-"\t\t\t\tУрон в бою удваивается и мгновенно ломает двери."
+"\t\t\t\tУрон в бою удваивается."
 
 #: src-en/data/hyperspace.xml:18710
 msgid ""
@@ -1863,12 +1861,11 @@ msgid ""
 msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml:18711
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl5\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с  ДЛИТЕЛЬНОСТЬ:7с]\n"
-"\t\t\t\tУрон в бою удваивается и мгновенно ломает двери."
+"\t\t\t\tУрон в бою удваивается."
 
 #: src-en/data/hyperspace.xml:18750
 msgid ""
@@ -1876,12 +1873,11 @@ msgid ""
 msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml:18751
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl6\"]/powerEffect/tooltip"
 msgstr ""
-"[ЗАРЯД:25с  ДЛИТЕЛЬНОСТЬ:10с]\n"
-"\t\t\t\tБоевой урон удваивается, но становится неконтролируемым и получает "
+"[ПЕРЕЗАРЯДКА:25с  ДЛИТЕЛЬНОСТЬ:10с]\n"
+"\t\t\t\tБоевой урон утраивается, но становится неконтролируемым и получает "
 "удвоенный урон от опасности."
 
 #: src-en/data/hyperspace.xml:18803
@@ -1929,19 +1925,17 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_turzil\"]/powerEffect/buttonTex
 msgstr "ЩИТ"
 
 #: src-en/data/hyperspace.xml:18913
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_turzil\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:25с]\n"
-"\t\t\t\tКаждый из ваших союзников в отсеке получит только 0,1x урона от "
-"любого источника, а скорость их ремонта будет увеличена в четыре раза."
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
+"\t\t\t\tКаждый из ваших союзников в отсеке получит только 0.25x урона от "
+"ЛЮБОГО источника, а скорость их ремонта будет увеличена в четыре раза."
 
 #: src-en/data/hyperspace.xml:19000
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_monk\"]/powerEffect/buttonText"
 msgstr "ИМПУЛЬС"
 
 #: src-en/data/hyperspace.xml:19001
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_monk\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:27с]\n"
@@ -1967,17 +1961,15 @@ msgid "data/hyperspace.xml$//race[@name=\"zoltan_martyr\"]/powerEffect/buttonTex
 msgstr "ТАЙМЕР"
 
 #: src-en/data/hyperspace.xml:19123
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_martyr\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:7с]\n"
 "\t\t\t\tЗапустите обратный отсчет времени самоубийства. Когда отсчет "
-"закончится, произойдет взрыв, наносящий 45 урона всему экипажу (30 союзникам)"
-" в отсеке. Если обратный отсчет прерван смертью, способность будет отменена. "
-"Не может активироваться при оглушении или телепортации.\n"
-"\t\t\t\tВзрыв наносит Мученику только 50 единиц самоповреждения, но снижает "
-"его максимальное здоровье на 50 единиц и отключает телепортацию на короткие "
-"расстояния."
+"закончится, произойдет взрыв, который наносит 45 урона экипажу (30 союзникам)"
+" и оглушает всех членов экипажа в отсеке на 4 секунды, с вероятностью 50% "
+"вызывает пожар.\n"
+"\t\t\t\tЕсли обратный отсчет прерван смертью, способность будет отменена. Не "
+"может активироваться при оглушении или телепортации."
 
 #: src-en/data/hyperspace.xml:19173
 msgid ""
@@ -2051,6 +2043,10 @@ msgstr "СПОРЫ"
 #: src-en/data/hyperspace.xml:19523
 msgid "data/hyperspace.xml$//race[@name=\"orchid_praetor\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:10с]\n"
+"\t\t\t\tСоздает полупостоянный эффект в текущем отсеке, который рассеивается "
+"только при прыжке. Все союзники в затронутом отсеке получают удвоенное "
+"максимальное здоровье, скорость ремонта и генерацию/высасывание энергии."
 
 #: src-en/data/hyperspace.xml:19655
 msgid ""
@@ -2058,31 +2054,35 @@ msgid ""
 msgstr "СПОРА"
 
 #: src-en/data/hyperspace.xml:19656
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"orchid_cultivator\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ:15с]\n"
-"\t\t\t\tВыпускает ядовитые споры. Близлежащие враги получают на 50% больше "
-"урона от любого источника и оглушаются на 50% дольше.\n"
-"\t\t\t\tВо время действия способности Культиватор обездвижен и наносит "
-"половину урона."
+"\t\t\t\tВыпускает ядовитые споры. Близлежащие враги получают на 60% больше "
+"урона от ЛЮБОГО источника и оглушаются на 50% дольше.\n"
+"\t\t\t\tКультиватор будет обездвижен и сможет атаковать только экипаж, "
+"нанося 0.75x базового урона."
 
 #: src-en/data/hyperspace.xml:19773
 msgid "data/hyperspace.xml$//race[@name=\"unique_tyerel\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАССЕИВАНИЕ"
 
 #: src-en/data/hyperspace.xml:19774
 msgid "data/hyperspace.xml$//race[@name=\"unique_tyerel\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:20с]\n"
+"\t\t\t\tЭффекты Флоралов и Вампсорняков распространяются на все отсеки на "
+"одном корабле."
 
 #: src-en/data/hyperspace.xml:19881
 msgid "data/hyperspace.xml$//race[@name=\"unique_mayeb\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ВТОРОЕ ДЫХАНИЕ"
 
 #: src-en/data/hyperspace.xml:19882
 msgid "data/hyperspace.xml$//race[@name=\"unique_mayeb\"]/powerEffect/tooltip"
 msgstr ""
+"[ДЛИТЕЛЬНОСТЬ:45с]\n"
+"\t\t\t\tЛечит"
 
 #: src-en/data/hyperspace.xml:19999
 msgid ""
@@ -2126,7 +2126,7 @@ msgstr "ФЕРОМОНЫ"
 #: src-en/data/hyperspace.xml:20143
 msgid "data/hyperspace.xml$//race[@name=\"mantis_warlord\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:15s  ДЛИТЕЛЬНОСТЬ:9с  -7ОЗ]\n"
+"[КД:15s  ДЛИТЕЛЬНОСТЬ:9с  -7 ОЗ]\n"
 "\t\t\tУвеличит скорость передвижения до 5x и урон экипажа до 3,5x."
 
 #: src-en/data/hyperspace.xml:20183
@@ -2231,16 +2231,15 @@ msgstr ""
 "\t\t\t\tУстроит пожар в занимаемом отсеке."
 
 #: src-en/data/hyperspace.xml:21413
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"rock_paladin\"]/powerEffect/buttonText"
-msgstr "УСКОРЕНИЕ"
+msgstr "БУЛЬДОЗЕР"
 
 #: src-en/data/hyperspace.xml:21414
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"rock_paladin\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:10с  ДЛИТЕЛЬНОСТЬ:10с  -50ОЗ]\n"
-"\t\t\t\tВременно двигается с нормальной скоростью."
+"[КД:7с  ДЛИТЕЛЬНОСТЬ:3с  -40 ОЗ]\n"
+"\t\t\t\tВременно двигается с нормальной скоростью и мгновенно разрушает "
+"двери."
 
 #: src-en/data/hyperspace.xml:21539
 msgid "data/hyperspace.xml$//race[@name=\"rock_cultist\"]/powerEffect/buttonText"
@@ -2249,7 +2248,7 @@ msgstr "СТИМУЛЯНТЫ"
 #: src-en/data/hyperspace.xml:21540
 msgid "data/hyperspace.xml$//race[@name=\"rock_cultist\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:30с  ДЛИТЕЛЬНОСТЬ:12с  -75ОЗ]\n"
+"[КД:30с  ДЛИТЕЛЬНОСТЬ:12с  -75 ОЗ]\n"
 "\t\t\t\tДает следующие преимущества:\n"
 "\t\t\t\t-1.5x скорость передвижения\n"
 "\t\t\t\t-2.5x скорость ремонта, боевой урон и скорость саботажа\n"
@@ -2266,7 +2265,7 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_vortigon\"]/powerEffect/tooltip
 msgstr ""
 "[ПЕРЕЗАРЯДКА:37с  ДЛИТЕЛЬНОСТЬ:20с]\n"
 "\t\t\t\tДает следующие эффекты:\n"
-"\t\t\t\t-Регенерация здоровья 65ОЗ/с.\n"
+"\t\t\t\t-Регенерация здоровья 65 ОЗ/с.\n"
 "\t\t\t\t-3x боевой урон\n"
 "\t\t\t\t-0,25x скорость передвижения\n"
 "\t\t\t\t-Получает 7x урона от ЛЮБОГО источника"
@@ -2284,25 +2283,25 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml:21843
 msgid "data/hyperspace.xml$//race[@name=\"crystal\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:21844
 msgid "data/hyperspace.xml$//race[@name=\"crystal\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:38с  -7ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:38с  -7 ОЗ]\n"
 "\t\t\t\tБлокирует занятый отсек на 12 секунд, не позволяя экипажу войти "
 "внутрь."
 
 #: src-en/data/hyperspace.xml:21892
 msgid ""
 "data/hyperspace.xml$//race[@name=\"crystal_liberator\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:21893
 msgid ""
 "data/hyperspace.xml$//race[@name=\"crystal_liberator\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:20с  ДЛИТЕЛЬНОСТЬ:12с  -7ОЗ]\n"
+"[КД:20с  ДЛИТЕЛЬНОСТЬ:12с  -7 ОЗ]\n"
 "\t\t\t\tЗапирает отсек и дает следующие бонусы себе и всем союзникам "
 "поблизости:\n"
 "\t\t\t\t-1.25x скорость ремонта\n"
@@ -2312,18 +2311,18 @@ msgstr ""
 #: src-en/data/hyperspace.xml:21998
 msgid ""
 "data/hyperspace.xml$//race[@name=\"crystal_sentinel\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:21999
 msgid "data/hyperspace.xml$//race[@name=\"crystal_sentinel\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:5с   -7ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:5с   -7 ОЗ]\n"
 "\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу войти в "
 "него."
 
 #: src-en/data/hyperspace.xml:22049
 msgid "data/hyperspace.xml$//race[@name=\"unique_ruwen\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:22050
 msgid "data/hyperspace.xml$//race[@name=\"unique_ruwen\"]/powerEffect/tooltip"
@@ -2338,7 +2337,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml:22127
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_dianesh\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:22128
 msgid "data/hyperspace.xml$//race[@name=\"unique_dianesh\"]/powerEffect/tooltip"
@@ -2352,12 +2351,12 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_obyn\"]/powerEffect/buttonText"
 msgstr "СОЛЬ"
 
 #: src-en/data/hyperspace.xml:22196
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_obyn\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tНепрерывно наносит урон ближайшему экипажу. Враги теряют 4 ОЗ/с, "
-"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с."
+"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с. Сам Обин "
+"невосприимчив к этой способности."
 
 #: src-en/data/hyperspace.xml:22283
 msgid ""
@@ -2365,12 +2364,12 @@ msgid ""
 msgstr "СОЛЬ"
 
 #: src-en/data/hyperspace.xml:22284
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_obyn_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tНепрерывно наносит урон ближайшему экипажу. Враги теряют 4 ОЗ/с, "
-"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с."
+"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с. Сам Обин "
+"невосприимчив к этой способности."
 
 #: src-en/data/hyperspace.xml:22373
 msgid ""
@@ -2378,12 +2377,12 @@ msgid ""
 msgstr "СОЛЬ"
 
 #: src-en/data/hyperspace.xml:22374
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"nexus_obyn_cel\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tНепрерывно наносит урон ближайшему экипажу. Враги теряют 4 ОЗ/с, "
-"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с."
+"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с. Сам Обин "
+"невосприимчив к этой способности."
 
 #: src-en/data/hyperspace.xml:22449
 msgid "data/hyperspace.xml$//race[@name=\"slug_hektar\"]/powerEffect/buttonText"
@@ -2426,31 +2425,30 @@ msgid "data/hyperspace.xml$//race[@name=\"slug_saboteur\"]/powerEffect/buttonTex
 msgstr "МАСКИРОВКА"
 
 #: src-en/data/hyperspace.xml:22566
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_saboteur\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:40с  ДЛИТЕЛЬНОСТЬ:20с]\n"
 "\t\t\t\tДает следующие эффекты:\n"
 "\t\t\t\t-Экипаж не может нанести ему урон, теряет способность сражаться с "
 "ними.\n"
-"\t\t\t\t-Проходит сквозь двери\n"
+"\t\t\t\t-Проходит сквозь двери, 0.4x скорость передвижения\n"
 "\t\t\t\t-3x скорость саботажа (-0.5x за каждого врага, присутствующего в "
 "отсеке)\n"
-"\t\t\t\t-0.4x скорость передвижения"
+"\t\t\t\t-Ближайшие враги получают на 50% больше боевого урона"
 
 #: src-en/data/hyperspace.xml:22635
 msgid "data/hyperspace.xml$//race[@name=\"slug_knight\"]/powerEffect/buttonText"
 msgstr "МАСКИРОВКА"
 
 #: src-en/data/hyperspace.xml:22636
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_knight\"]/powerEffect/tooltip"
 msgstr ""
 "[ДЛИТЕЛЬНОСТЬ:10с]\n"
-"\t\t\t\tРазместите оглушающую бомбу (12с оглушения, 1 ионный урон) в текущем "
+"\t\t\t\tРазместите оглушающую бомбу (5с оглушения, 1 ионный урон) в текущем "
 "отсеке. Не оглушает союзников, но может ионизировать ваши системы.\n"
 "\t\t\t\tДополнительно получает следующие эффекты:\n"
-"\t\t\t\t-Экипаж не может нанести ему урон.\n"
+"\t\t\t\t-Экипаж не может нанести ему урон, все еще может атаковать с 1x "
+"уроном\n"
 "\t\t\t\t-Регенерация здоровья 5 ОЗ/с\n"
 "\t\t\t\t-0,6x скорость передвижения"
 
@@ -2501,11 +2499,10 @@ msgid "data/hyperspace.xml$//race[@name=\"slug_ranger\"]/powerEffect/buttonText"
 msgstr "БОМБА"
 
 #: src-en/data/hyperspace.xml:22819
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_ranger\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ:12с]\n"
-"\t\t\t\tРазмещает оглушающую бомбу (12с оглушения, 1 ионный урон) в текущем "
+"\t\t\t\tРазмещает оглушающую бомбу (5с оглушения, 1 ионный урон) в текущем "
 "отсеке. Не оглушает союзников, но может ионизировать ваши системы.\n"
 "\t\t\t\tВременно маскируется и прекращает движение на 12 секунд, скрываясь "
 "от вражеского экипажа. Во время действия способности может атаковать с "
@@ -2516,12 +2513,12 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_irwin\"]/powerEffect/buttonText
 msgstr "ТРАНКВИЛ"
 
 #: src-en/data/hyperspace.xml:22862
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_irwin\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ:20с]\n"
-"\t\t\t\tНейтрализует всех членов экипажа в отсеке, кроме себя, устанавливая "
-"их характеристики по умолчанию. Не влияет на способности, эффекты смерти или "
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tНейтрализует всех членов экипажа в отсеке, присутствующих в момент "
+"применения способности, кроме себя, на 20 секунд, устанавливая их "
+"характеристики по умолчанию. Не влияет на способности, эффекты смерти или "
 "возможности."
 
 #: src-en/data/hyperspace.xml:23129
@@ -2530,14 +2527,16 @@ msgid ""
 msgstr "ТРАНКВИЛ"
 
 #: src-en/data/hyperspace.xml:23130
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_irwin_demon\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ:20с]\n"
-"\t\t\t\tНейтрализует всех членов экипажа в отсеке, кроме себя, на 20 секунд, "
-"устанавливая их характеристики по умолчанию. Не влияет на способности, "
-"эффекты смерти или возможности."
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tНейтрализует всех членов экипажа в отсеке, присутствующих в момент "
+"применения способности, кроме себя, на 20 секунд, устанавливая их "
+"характеристики по умолчанию. Не влияет на способности, эффекты смерти или "
+"возможности.\n"
+"\t\t\tБонус: Транквилизатор также лишает некоторых жутких существ природных "
+"свойств, мешая Нечто копировать себя и позволяя Порождениям получать урон"
 
 #: src-en/data/hyperspace.xml:23473
 msgid "data/hyperspace.xml$//race[@name=\"unique_sylvan\"]/powerEffect/buttonText"
@@ -2606,13 +2605,12 @@ msgid "data/hyperspace.xml$//race[@name=\"saltpapy\"]/powerEffect/buttonText"
 msgstr "СОЛЬ"
 
 #: src-en/data/hyperspace.xml:23843
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"saltpapy\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tНепрерывно наносит урон ближайшему экипажу и замедляет его скорость "
-"на 25%. Враги теряют 4 ОЗ/с, союзники - 2 ОЗ/с, слизни теряют дополнительные "
-"4 ОЗ/с."
+"на 50%. Враги теряют 4 ОЗ/с, союзники - 2 ОЗ/с, слизни теряют дополнительные "
+"4 ОЗ/с. Сам Обин невосприимчив к этой способности."
 
 #: src-en/data/hyperspace.xml:23946
 msgid "data/hyperspace.xml$//race[@name=\"sylvanmaid\"]/powerEffect/buttonText"
@@ -2738,12 +2736,11 @@ msgid "data/hyperspace.xml$//race[@name=\"shell\"]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:24656
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:5с  ДЛИТЕЛЬНОСТЬ:26с  -50ОЗ]\n"
+"[КД:5с  ДЛИТЕЛЬНОСТЬ:26с  -50 ОЗ]\n"
 "\t\t\t\tНаносит 15 урона вражескому экипажу и 1 повреждение вражеским "
-"системам. Медленно восстанавливает потерянное здоровье."
+"системам. Медленно восстанавливает 52 здоровья."
 
 #: src-en/data/hyperspace.xml:24691
 msgid ""
@@ -2751,12 +2748,11 @@ msgid ""
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:24692
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_scientist\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:18с  ДЛИТЕЛЬНОСТЬ:13с  -50ОЗ]\n"
+"[КД:18с  ДЛИТЕЛЬНОСТЬ:13с  -50 ОЗ]\n"
 "\t\t\t\tИсцеляет всех дружественных членов экипажа в отсеке до полного "
-"здоровья. Медленно восстанавливает потерянное здоровье."
+"здоровья. Медленно восстанавливает 74 здоровья."
 
 #: src-en/data/hyperspace.xml:24732
 msgid ""
@@ -2764,12 +2760,11 @@ msgid ""
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:24733
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_mechanic\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:2с  ДЛИТЕЛЬНОСТЬ:26с  -50ОЗ]\n"
-"\t\t\t\tПолностью ремонтирует занятую систему. Медленно восстанавливает "
-"потерянное здоровье."
+"[КД:2с  ДЛИТЕЛЬНОСТЬ:26с  -50 ОЗ]\n"
+"\t\t\t\tПолностью ремонтирует занятую систему. Медленно восстанавливает 52 "
+"здоровья."
 
 #: src-en/data/hyperspace.xml:24765
 msgid ""
@@ -2779,7 +2774,7 @@ msgstr "ЗАЖЕЧЬ"
 #: src-en/data/hyperspace.xml:24766
 msgid "data/hyperspace.xml$//race[@name=\"shell_guardian\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:10с  ДЛИТЕЛЬНОСТЬ:15с  -75ОЗ]\n"
+"[КД:10с  ДЛИТЕЛЬНОСТЬ:15с  -75 ОЗ]\n"
 "\t\t\t\tНанесите 30 урона вражескому экипажу и 2 повреждения вражеским "
 "системам. Получает 0,3x урона от ЛЮБОГО источника в течение времени действия."
 
@@ -2788,26 +2783,24 @@ msgid "data/hyperspace.xml$//race[@name=\"shell_radiant\"]/powerEffect/buttonTex
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:24801
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_radiant\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:1с  ДЛИТЕЛЬНОСТЬ:3с  -15ОЗ]\n"
+"[КД:1с  ДЛИТЕЛЬНОСТЬ:3с  -15 ОЗ]\n"
 "\t\t\t\tНаносит 15 урона вражескому экипажу и 1 повреждение вражеским "
-"системам. Быстро перезаряжается, но регенерирует мало."
+"системам. Быстро перезаряжается, но восстанавливает только 6 здоровья, "
+"модификаторы на скорость исцеления на него не влияют."
 
 #: src-en/data/hyperspace.xml:24842
 msgid "data/hyperspace.xml$//race[@name=\"unique_alkali\"]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:24843
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_alkali\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:18с  ДЛИТЕЛЬНОСТЬ:15с  -75ОЗ]\n"
+"[КД:18с  ДЛИТЕЛЬНОСТЬ:15с  -75 ОЗ]\n"
 "\t\t\t\tЛечит всех дружественных членов экипажа в отсеке до полного "
-"здоровья. Медленно восстанавливает потерянное здоровье, а также исцеляет "
-"всех друзей на корабле со скоростью 5,5 ОЗ/с и получает временный иммунитет "
-"к удушью."
+"здоровья. Исцеляет себя и всех друзей на корабле со скоростью 5,5 ОЗ/с и "
+"получает временный иммунитет к удушью."
 
 #: src-en/data/hyperspace.xml:24984
 msgid "data/hyperspace.xml$//race[@name=\"blobzoltan\"]/powerEffect/buttonText"
@@ -2823,12 +2816,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml:25057
 msgid "data/hyperspace.xml$//race[@name=\"blobcrystal\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:25058
 msgid "data/hyperspace.xml$//race[@name=\"blobcrystal\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:38с  -7ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:38с  -7 ОЗ]\n"
 "\t\t\t\tБлокирует занятый отсек на 12 секунд, не позволяя экипажу войти "
 "внутрь."
 
@@ -2850,7 +2843,7 @@ msgstr "ЗАЖЕЧЬ"
 #: src-en/data/hyperspace.xml:25260
 msgid "data/hyperspace.xml$//race[@name=\"blobshell\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:5с  ДЛИТЕЛЬНОСТЬ:26с  -50ОЗ]\n"
+"[КД:5с  ДЛИТЕЛЬНОСТЬ:26с  -50 ОЗ]\n"
 "\t\t\t\tНаносит 15 урона вражескому экипажу и 1 повреждение вражеским "
 "системам. Медленно восстанавливает потерянное здоровье."
 
@@ -2859,12 +2852,12 @@ msgid "data/hyperspace.xml$//race[@name=\"blobsalt\"]/powerEffect/buttonText"
 msgstr "СОЛЬ"
 
 #: src-en/data/hyperspace.xml:25452
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"blobsalt\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tНепрерывно наносит урон ближайшему экипажу. Враги теряют 4 ОЗ/с, "
-"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с."
+"союзники теряют 2 ОЗ/с, слизни теряют дополнительные 4 ОЗ/с. Сам Обин "
+"невосприимчив к этой способности."
 
 #: src-en/data/hyperspace.xml:25593
 msgid "data/hyperspace.xml$//race[@name=\"golddefend\"]/powerEffect/buttonText"
@@ -2879,12 +2872,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml:25679
 msgid "data/hyperspace.xml$//race[@name=\"goldsentinel\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:25680
 msgid "data/hyperspace.xml$//race[@name=\"goldsentinel\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:5с   -7ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:5с   -7 ОЗ]\n"
 "\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу войти в "
 "него."
 
@@ -2906,7 +2899,7 @@ msgstr "ФЕРОМОНЫ"
 #: src-en/data/hyperspace.xml:25767
 msgid "data/hyperspace.xml$//race[@name=\"goldwarlord\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:15с  ДЛИТЕЛЬНОСТЬ:9с  -7ОЗ]\n"
+"[КД:15с  ДЛИТЕЛЬНОСТЬ:9с  -7 ОЗ]\n"
 "\t\t\t\tУвеличивает скорость передвижения до 5x и урон экипажа до 3.5x."
 
 #: src-en/data/hyperspace.xml:25811
@@ -2914,17 +2907,16 @@ msgid "data/hyperspace.xml$//race[@name=\"goldsabo\"]/powerEffect/buttonText"
 msgstr "МАСКИРОВКА"
 
 #: src-en/data/hyperspace.xml:25812
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"goldsabo\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:40с  ДЛИТЕЛЬНОСТЬ:20с]\n"
 "\t\t\t\tДает следующие эффекты:\n"
 "\t\t\t\t-Экипаж не может нанести ему урон, теряет способность сражаться с "
 "ними.\n"
-"\t\t\t\t-Проходит сквозь двери\n"
+"\t\t\t\t-Проходит сквозь двери, 0.4x скорость передвижения\n"
 "\t\t\t\t-3x скорость саботажа (-0.5x за каждого врага, присутствующего в "
 "отсеке)\n"
-"\t\t\t\t-0.4x скорость передвижения"
+"\t\t\t\t-Ближайшие враги получают на 50% больше боевого урона"
 
 #: src-en/data/hyperspace.xml:25901
 msgid "data/hyperspace.xml$//race[@name=\"goldwelder\"]/powerEffect/buttonText"
@@ -2944,6 +2936,10 @@ msgstr "СПОРЫ"
 #: src-en/data/hyperspace.xml:25968
 msgid "data/hyperspace.xml$//race[@name=\"goldpraetor\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:10с]\n"
+"\t\t\t\tСоздает полупостоянный эффект в текущем отсеке, который рассеивается "
+"только при прыжке. Все союзники в затронутом отсеке получают удвоенное "
+"максимальное здоровье, скорость ремонта и генерацию/высасывание энергии."
 
 #: src-en/data/hyperspace.xml:26066
 msgid ""
@@ -2953,6 +2949,11 @@ msgstr "СПОРА"
 #: src-en/data/hyperspace.xml:26067
 msgid "data/hyperspace.xml$//race[@name=\"goldcultivator\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ:15с]\n"
+"\t\t\t\tВыпускает ядовитые споры. Близлежащие враги получают на 60% больше "
+"урона от ЛЮБОГО источника и оглушаются на 50% дольше.\n"
+"\t\t\t\tКультиватор будет обездвижен и сможет атаковать только экипаж, "
+"нанося 0.75x базового урона."
 
 #: src-en/data/hyperspace.xml:26135
 msgid "data/hyperspace.xml$//race[@name=\"goldtoxic\"]/powerEffect/buttonText"
@@ -2961,7 +2962,7 @@ msgstr "ЗАЖЕЧЬ"
 #: src-en/data/hyperspace.xml:26136
 msgid "data/hyperspace.xml$//race[@name=\"goldtoxic\"]/powerEffect/tooltip"
 msgstr ""
-"[КД:1с  ДЛИТЕЛЬНОСТЬ:3с  -15ОЗ]\n"
+"[КД:1с  ДЛИТЕЛЬНОСТЬ:3с  -15 ОЗ]\n"
 "\t\t\t\tНаносит 15 урона вражескому экипажу и 1 повреждение вражеским "
 "системам. Быстро перезаряжается, но регенерирует мало."
 
@@ -2982,12 +2983,11 @@ msgid "data/hyperspace.xml$//race[@name=\"goldqueen\"]/powerEffect/buttonText"
 msgstr "РЫЧАТЬ"
 
 #: src-en/data/hyperspace.xml:26239
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"goldqueen\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:20с ДЛИТЕЛЬНОСТЬ:9с]\n"
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:9с]\n"
 "\t\t\t\tДает бонус к регенерации 2 ОЗ/с и 50% скорости передвижения другим "
-"союзным паукам, находящимся поблизости."
+"союзным паукам-морфам, находящимся поблизости."
 
 #: src-en/data/hyperspace.xml:26423
 msgid ""
@@ -3012,12 +3012,12 @@ msgid ""
 msgstr "АССИМИЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:26844
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"lanius_augmented\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с ДЛИТЕЛЬНОСТЬ:8с]\n"
 "\t\t\t\tИсцеляет до полного здоровья и останавливает разложение, наносит 1 "
-"урон корпусу и системе и получает x2 повышенных статов."
+"урон корпусу и системе и получает 2x повышение характеристик + 4x поглощение "
+"кислорода."
 
 #: src-en/data/hyperspace.xml:26901
 msgid ""
@@ -3088,9 +3088,8 @@ msgid ""
 msgstr "ШОК"
 
 #: src-en/data/hyperspace.xml:27184
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"phantom_wraith\"]/powerEffect/tooltip"
-msgstr "Наносит 2 ионных повреждении системе и оглушает экипаж на 7 секунд."
+msgstr "Наносит 2 ионного урона системе и оглушает экипаж на 7 секунд."
 
 #: src-en/data/hyperspace.xml:27217
 msgid ""
@@ -3098,10 +3097,9 @@ msgid ""
 msgstr "ШОК"
 
 #: src-en/data/hyperspace.xml:27218
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"phantom_wraith_alpha\"]/powerEffect/tooltip"
-msgstr "Наносит 2 ионных повреждении системе и оглушает экипаж на 7 секунд."
+msgstr "Наносит 2 ионного урона системе и оглушает экипаж на 7 секунд."
 
 #: src-en/data/hyperspace.xml:27250
 msgid ""
@@ -3117,70 +3115,62 @@ msgid "data/hyperspace.xml$//race[@name=\"gbeleanor\"]/powerEffect/buttonText"
 msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml:27274
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbeleanor\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с]\n"
-"\t\t\t\tНаносит 30 урона ближайшему экипажу и 1 повреждение системе, 50% "
-"шанс пробоины"
+"\t\t\t\tНаносит 30 урона ближайшему экипажу и 1 повреждение системе, с "
+"вероятностью 50% вызывает пробоины."
 
 #: src-en/data/hyperspace.xml:27306
 msgid "data/hyperspace.xml$//race[@name=\"gbscoleri\"]/powerEffect/buttonText"
 msgstr "ТОК"
 
 #: src-en/data/hyperspace.xml:27307
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbscoleri\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:20C]\n"
-"\t\t\t\tНаносит 3 ионных повреждения занятой системе"
+"[ПЕРЕЗАРЯДКА:20с]\n"
+"\t\t\t\tНаносит 3 ионного урона занятой системе."
 
 #: src-en/data/hyperspace.xml:27330
 msgid "data/hyperspace.xml$//race[@name=\"gbslimer\"]/powerEffect/buttonText"
 msgstr "ЕСТЬ"
 
 #: src-en/data/hyperspace.xml:27331
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbslimer\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15c]\n"
-"\t\t\t\tПожирает ближайший экипаж на 20 урона"
+"\t\t\t\tПожирает ближайший экипаж на 20 урона."
 
 #: src-en/data/hyperspace.xml:27355
 msgid "data/hyperspace.xml$//race[@name=\"gbpsych\"]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml:27356
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbpsych\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10с  ДЛИТЕЛЬНОСТЬ:3с]\n"
-"\t\t\t\tЖестокое возгорание. Наносит 2 повреждения системе, 15 урона "
-"экипажу, 50% вероятность пожара, пробоины, оглушения. Неконтролируем в "
-"течение 3 секунд."
+"\t\t\t\tНаносит 2 урона системе и 15 урона экипажу, с вероятностью 50% "
+"вызывает пожар/пробоину/оглушение. Временно становится неконтролируемым."
 
 #: src-en/data/hyperspace.xml:27393
 msgid "data/hyperspace.xml$//race[@name=\"gbvinz\"]/powerEffect/buttonText"
 msgstr "ПЕКЛО"
 
 #: src-en/data/hyperspace.xml:27394
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbvinz\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:1с]\n"
-"\t\t\t\tУстроит пожар в занимаемом отсеке."
+"[ПЕРЕЗАРЯДКА:15с]\n"
+"\t\t\t\tУстраивает пожар в занимаемом отсеке."
 
 #: src-en/data/hyperspace.xml:27417
 msgid "data/hyperspace.xml$//race[@name=\"gbzuul\"]/powerEffect/buttonText"
 msgstr "ПОГЛОЩЕНИЕ"
 
 #: src-en/data/hyperspace.xml:27418
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbzuul\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
-"\t\t\t\tНаносит 1 повреждение системе и открывает пробоину в захваченном "
-"отсеке"
+"\t\t\t\tНаносит 1 урон системе и открывает пробоину в захваченном отсеке."
 
 #: src-en/data/hyperspace.xml:27470
 msgid "data/hyperspace.xml$//race[@name=\"spider\"]/powerEffect/buttonText"
@@ -3239,13 +3229,12 @@ msgid "data/hyperspace.xml$//race[@name=\"spider_venom\"]/powerEffect/buttonText
 msgstr "ЯД"
 
 #: src-en/data/hyperspace.xml:27833
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"spider_venom\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
 "\t\t\t\tНаносит смертельную ядовитую атаку всем остальным вражеским членам "
-"экипажа в отсеке, заставляя их получать урон со скоростью 2 ОЗ/с в течение 2 "
-"минут."
+"экипажа в отсеке, заставляя их получать урон со скоростью 3 ОЗ/с в течение "
+"40 секунд."
 
 #: src-en/data/hyperspace.xml:27920
 msgid ""
@@ -3253,14 +3242,13 @@ msgid ""
 msgstr "ЯД"
 
 #: src-en/data/hyperspace.xml:27921
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"spider_venom_chaos\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
 "\t\t\t\tНаносит смертельную ядовитую атаку всем остальным вражеским членам "
-"экипажа в отсеке, заставляя их получать урон со скоростью 2 ОЗ/с в течение 2 "
-"минут."
+"экипажа в отсеке, заставляя их получать урон со скоростью 3 ОЗ/с в течение "
+"40 секунд."
 
 #: src-en/data/hyperspace.xml:27996
 msgid ""
@@ -3295,7 +3283,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml:28227
 msgid "data/hyperspace.xml$//race[@name=\"ponyc\"]/powerEffect/buttonText"
-msgstr "БЛОКИРОВКА"
+msgstr "ИЗОЛЯЦИЯ"
 
 #: src-en/data/hyperspace.xml:28228
 msgid "data/hyperspace.xml$//race[@name=\"ponyc\"]/powerEffect/tooltip"
@@ -3365,8 +3353,8 @@ msgstr "СВОБОДА"
 msgid "data/hyperspace.xml$//race[@name=\"cognitive\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:30с]\n"
-"\t\t\t\tПереключить в освобожденный режим. Когнитив не будет контролируем, "
-"но получит повышенные характеристики:\n"
+"\t\t\t\tПереключить в режим свободы. Когнитив не будет контролируем, но "
+"получит повышенные характеристики:\n"
 "\t\t\t\t70 ОЗ -> 100 ОЗ\n"
 "\t\t\t\t0.75x скорость передвижения -> 1.3x\n"
 "\t\t\t\t1.25x боевой урон -> 1.5x\n"
@@ -3397,8 +3385,8 @@ msgid ""
 "data/hyperspace.xml$//race[@name=\"cognitive_advanced\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:30с]\n"
-"\t\t\t\tПереключить в освобожденный режим. Когнитив не будет контролируем, "
-"но получит повышенные характеристики:\n"
+"\t\t\t\tПереключить в режим свободы. Когнитив не будет контролируем, но "
+"получит повышенные характеристики:\n"
 "\t\t\t\t100 ОЗ -> 150 ОЗ\n"
 "\t\t\t\t0.75x скорость передвижения -> 2x\n"
 "\t\t\t\t1.5x боевой урон -> 2x\n"
@@ -3639,19 +3627,19 @@ msgstr "Дрон-солдат II"
 
 #: src-en/data/hyperspace.xml:30464
 msgid "data/hyperspace.xml$//drone[@name=\"CONSTRUCTOR\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-конструктор"
 
 #: src-en/data/hyperspace.xml:30468
 msgid "data/hyperspace.xml$//drone[@name=\"PRODUCER\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-изготовитель"
 
 #: src-en/data/hyperspace.xml:30472
 msgid "data/hyperspace.xml$//drone[@name=\"GRAZIER_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-пастух"
 
 #: src-en/data/hyperspace.xml:30476
 msgid "data/hyperspace.xml$//drone[@name=\"GRAZIER_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Дрон-пастух"
 
 #: src-en/data/hyperspace.xml:30481
 msgid "data/hyperspace.xml$//drone[@name=\"BUTLER_DEFENSE\"]/tooltipName"
@@ -3663,11 +3651,11 @@ msgstr "Лакей"
 
 #: src-en/data/hyperspace.xml:30490
 msgid "data/hyperspace.xml$//drone[@name=\"A55_BATTLE\"]/tooltipName"
-msgstr "34CP4H3Ц"
+msgstr "34СР4Н3Ц"
 
 #: src-en/data/hyperspace.xml:30494
 msgid "data/hyperspace.xml$//drone[@name=\"A55_BOARDER\"]/tooltipName"
-msgstr "34CP4H3Ц"
+msgstr "34СР4Н3Ц"
 
 #: src-en/data/hyperspace.xml:30499
 msgid "data/hyperspace.xml$//drone[@name=\"GANA_BATTLE\"]/tooltipName"
@@ -3716,12 +3704,15 @@ msgstr "Робот-пылесос"
 #: src-en/data/hyperspace.xml:31831
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LOCKED_GLOBAL_TELEPORT\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СМЕРТЬ"
 
 #: src-en/data/hyperspace.xml:31832
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LOCKED_GLOBAL_TELEPORT\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:15с]\n"
+"\t\t\t\t\t\tУбивает члена экипажа без эффектов смерти. Используется в "
+"качестве запасного варианта, если возвращение невозможно."
 
 #: src-en/data/hyperspace.xml:35068
 msgid ""
@@ -3758,14 +3749,13 @@ msgid ""
 msgstr "ФЕРОМОНЫ"
 
 #: src-en/data/hyperspace.xml:35164
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"EX_LAB_MANTIS_FIRE\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:17с ДЛИТЕЛЬНОСТЬ:7с]\n"
-"\t\t\t\tУвеличивает скорость передвижения до 3.5x и урон экипажа до 3x. "
+"[ПЕРЕЗАРЯДКА:17с  ДЛИТЕЛЬНОСТЬ:7с]\n"
+"\t\t\t\t\t\tУвеличивает скорость передвижения до 3.5x и урон экипажа до 3x. "
 "Также увеличивает урон от опасностей в 4x.\n"
-"\t\t\t\t\t\t(Лаб улучшение светлицы снижает получаемый урон от огня до 1х.)"
+"\t\t\t\t\t\t(Лаб улучшение светлячки снижает получаемый урон от огня до 1х.)"
 
 #: src-en/data/hyperspace.xml:35199
 msgid ""
@@ -3773,7 +3763,6 @@ msgid ""
 msgstr "ФЕРОМОНЫ"
 
 #: src-en/data/hyperspace.xml:35200
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"EX_LAB_MANTIS_FIRE\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
@@ -3781,7 +3770,7 @@ msgstr ""
 "\t\t\t\t\t\tУвеличивает скорость передвижения до 6x и урон экипажа до 4.3x. "
 "Также увеличивает урон от опасностей в 7x, и в течение всего времени не "
 "может ремонтировать.\n"
-"\t\t\t\t\t\t(Лаб улучшение светлицы снижает получаемый урон от огня до 1х.)"
+"\t\t\t\t\t\t(Лаб улучшение светлячки снижает получаемый урон от огня до 1х.)"
 
 #: src-en/data/hyperspace.xml:35300
 msgid ""
@@ -3801,12 +3790,11 @@ msgid ""
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml:36160
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LAB_VAGABOND_STABLE\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:29с]\n"
-"\t\t\t\tУстроит пожар в занимаемом отсеке."
+"[ПЕРЕЗАРЯДКА:20с]\n"
+"\t\t\t\t\t\tУстраивает пожар в занимаемом отсеке."
 
 #: src-en/data/hyperspace.xml:36177
 msgid ""
@@ -3814,12 +3802,11 @@ msgid ""
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml:36178
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LAB_VAGABOND_STABLE\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:1с]\n"
-"\t\t\t\tУстроит пожар в занимаемом отсеке."
+"[ПЕРЕЗАРЯДКА:13с]\n"
+"\t\t\t\t\t\tУстраивает пожар в занимаемом отсеке."
 
 #: src-en/data/hyperspace.xml:36196
 msgid ""
@@ -5141,7 +5128,7 @@ msgstr "МОДУЛИ"
 #: src-en/data/hyperspace.xml:46956
 msgid ""
 "data/hyperspace.xml$/FTL/store[1]/customStore[@id=\"STORE_SYLVAN_ANCIENT\"]/category[1]/customTitle"
-msgstr "ЭФИРНЫЕ ОРУДИЯ"
+msgstr "ЭФИРНОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml:46974
 msgid ""
@@ -5315,7 +5302,7 @@ msgstr "\\1 ????? Концовка"
 
 #: src-en/data/hyperspace.xml:50809
 msgid "data/hyperspace.xml$/FTL/victories/peace/secretDescription"
-msgstr "Примите путь Монаха на борту любого \\1"
+msgstr "Воспользуйтесь методами Монаха на борту любого \\1"
 
 #: src-en/data/hyperspace.xml:50813
 msgid "data/hyperspace.xml$/FTL/victories/true/name"
@@ -5411,9 +5398,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_SIGNAL\"]/name"
 msgstr "Передача получена"
 
 #: src-en/data/hyperspace.xml:50866
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_SIGNAL\"]/description"
-msgstr "Активируйте таинственный маяк."
+msgstr "Получите таинственный маяк."
 
 #: src-en/data/hyperspace.xml:50871
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_DIVE\"]/name"
@@ -5470,10 +5456,9 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_ITB\"]/name"
 msgstr "Снова в пролом"
 
 #: src-en/data/hyperspace.xml:50918
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_ITB\"]/description"
 msgstr ""
-"Добудьте Гану, взорвите бомбы Рейнфилда и посетите Землю за одно прохождение."
+"Добудьте Гану, взорвите бомбы Ренфилда и посетите Землю за одно прохождение."
 
 #: src-en/data/hyperspace.xml:50919
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_ITB\"]/secretDescription"
@@ -5674,10 +5659,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_CRYSTAL\"]/name"
 msgstr "В топку"
 
 #: src-en/data/hyperspace.xml:51028
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_CRYSTAL\"]/description"
-msgstr ""
-"Победите Ренегата кристаллинов В и получите Янтарную пусковую установку."
+msgstr "Победите Ренегата Империи В и получите Янтарную пусковую установку."
 
 #: src-en/data/hyperspace.xml:51030
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_CRYSTAL\"]/header"
@@ -5725,7 +5708,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_FED\"]/name"
 msgstr "Партизанский Арсенал"
 
 #: src-en/data/hyperspace.xml:51052
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_FED\"]/description"
 msgstr "Победите Ренегата Федерации Б и получите миномет \"Фараон\"."
 
@@ -5778,9 +5760,9 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_LEECH\"]/name"
 msgstr "Детоксикация"
 
 #: src-en/data/hyperspace.xml:51076
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_LEECH\"]/description"
-msgstr "Победите Ренегата пиявок В и получите Большую Поглощающую Бомбу."
+msgstr ""
+"Победите Республиканского Ренегата В и получите Большую Поглощающую Бомбу."
 
 #: src-en/data/hyperspace.xml:51078
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_LEECH\"]/header"
@@ -5804,7 +5786,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MANTIS\"]/name"
 msgstr "Бомбогомол"
 
 #: src-en/data/hyperspace.xml:51088
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MANTIS\"]/description"
 msgstr "Победите Ренегата Улья Б и получите Самоподдерживающую бомбу."
 
@@ -5817,9 +5798,9 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MONK\"]/name"
 msgstr "Электризующая вера"
 
 #: src-en/data/hyperspace.xml:51094
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MONK\"]/description"
-msgstr "Победите Ренегата Монахов Б и получите Цепнозарядную ионную пушку."
+msgstr ""
+"Победите Иллесктрианского Ренегата Б и получите Цепнозарядную ионную пушку."
 
 #: src-en/data/hyperspace.xml:51096
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MONK\"]/header"
@@ -5830,9 +5811,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ORCHID\"]/name"
 msgstr "Свежая Зелень"
 
 #: src-en/data/hyperspace.xml:51100
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ORCHID\"]/description"
-msgstr "Победите Ренегата орхидей Б и получите Клубничную пушку."
+msgstr "Победите Ренегата Соцветия В и получите Клубничную пушку."
 
 #: src-en/data/hyperspace.xml:51102
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ORCHID\"]/header"
@@ -5843,9 +5823,9 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SHELL\"]/name"
 msgstr "Умри-фракция"
 
 #: src-en/data/hyperspace.xml:51106
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SHELL\"]/description"
-msgstr "Победите Ренегата ракушек В и получите Токсическую пусковую установку."
+msgstr ""
+"Победите Ренегата Гениократии В и получите Токсическую пусковую установку."
 
 #: src-en/data/hyperspace.xml:51108
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SHELL\"]/header"
@@ -5856,9 +5836,9 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ROCK\"]/name"
 msgstr "Алмазный наконечник"
 
 #: src-en/data/hyperspace.xml:51112
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ROCK\"]/description"
-msgstr "Победите Ренегата валунов В и получите Обсидиановую ракетную установку."
+msgstr ""
+"Победите Ренегата Теократии В и получите Обсидиановую ракетную установку."
 
 #: src-en/data/hyperspace.xml:51114
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ROCK\"]/header"
@@ -5882,9 +5862,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SLUG\"]/name"
 msgstr "Полдень"
 
 #: src-en/data/hyperspace.xml:51124
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SLUG\"]/description"
-msgstr "Победите Ренегата слизней В и получите Большую ионную пушку."
+msgstr "Победите Ренегата Клептократии В и получите Большую ионную пушку."
 
 #: src-en/data/hyperspace.xml:51126
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SLUG\"]/header"
@@ -5919,9 +5898,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ZOLTAN\"]/name"
 msgstr "Неограниченная энергия"
 
 #: src-en/data/hyperspace.xml:51142
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ZOLTAN\"]/description"
-msgstr "Победите Ренегата золтанов В и получите Луч с блоком питания."
+msgstr "Победите Ренегата Министерства В и получите Луч с блоком питания."
 
 #: src-en/data/hyperspace.xml:51144
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ZOLTAN\"]/header"
@@ -5965,9 +5943,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_HORSE\"]/name"
 msgstr "Еще больше историй"
 
 #: src-en/data/hyperspace.xml:51165
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_HORSE\"]/description"
-msgstr "Победите Ренегата Эквинокса Б и получите Киберпони."
+msgstr "Победите Ренегата эквиноидов В и получите Киберпони."
 
 #: src-en/data/hyperspace.xml:51168
 msgid ""
@@ -6043,14 +6020,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Союза."
 
 #: src-en/data/hyperspace.xml:51203
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_UNION\"]/description"
-msgstr "Получите прототип с транспорта Союза."
+msgstr "Получите Импульсный лазер I с транспорта Союза."
 
 #: src-en/data/hyperspace.xml:51205
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_UNION\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51208
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MILITIA\"]/name"
@@ -6062,14 +6037,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Ополчения."
 
 #: src-en/data/hyperspace.xml:51210
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MILITIA\"]/description"
-msgstr "Получите прототип с транспорта Ополчения."
+msgstr "Получите Импульсный лазер II с транспорта Ополчения."
 
 #: src-en/data/hyperspace.xml:51212
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MILITIA\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51215
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FEDERATION\"]/name"
@@ -6081,15 +6054,13 @@ msgid ""
 msgstr "Получите прототип с транспорта Федерации."
 
 #: src-en/data/hyperspace.xml:51217
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FEDERATION\"]/description"
-msgstr "Получите прототип с транспорта Федерации."
+msgstr "Получите Тяжелый лазер II с транспорта Федерации."
 
 #: src-en/data/hyperspace.xml:51219
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FEDERATION\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51222
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HARMONY\"]/name"
@@ -6101,14 +6072,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Гармонии."
 
 #: src-en/data/hyperspace.xml:51224
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HARMONY\"]/description"
-msgstr "Получите прототип с транспорта Гармонии."
+msgstr "Получите боевого или защитного дрона с транспорта Гармонии."
 
 #: src-en/data/hyperspace.xml:51226
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HARMONY\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51229
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SEPARATIST\"]/name"
@@ -6120,15 +6089,13 @@ msgid ""
 msgstr "Получите прототип с транспорта Сепаратистов."
 
 #: src-en/data/hyperspace.xml:51231
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SEPARATIST\"]/description"
-msgstr "Получите прототип с транспорта Сепаратистов."
+msgstr "Получите дрона-солдата с транспорта Сепаратистов."
 
 #: src-en/data/hyperspace.xml:51233
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SEPARATIST\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51236
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ZOLTAN\"]/name"
@@ -6140,14 +6107,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Министерства."
 
 #: src-en/data/hyperspace.xml:51238
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ZOLTAN\"]/description"
-msgstr "Получите прототип с транспорта Министерства."
+msgstr "Получите \"Пику\" или \"Люцерну\" с транспорта Министерства."
 
 #: src-en/data/hyperspace.xml:51240
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ZOLTAN\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51243
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DUSKBRINGER\"]/name"
@@ -6159,15 +6124,13 @@ msgid ""
 msgstr "Получите прототип с транспорта Вестников Заката."
 
 #: src-en/data/hyperspace.xml:51245
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DUSKBRINGER\"]/description"
-msgstr "Получите прототип с транспорта Вестников Заката."
+msgstr "Получите Тяжелую энергетическую пушку с транспорта Вестников Заката."
 
 #: src-en/data/hyperspace.xml:51247
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DUSKBRINGER\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51250
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ORCHID\"]/name"
@@ -6179,33 +6142,30 @@ msgid ""
 msgstr "Получите прототип с транспорта Соцветия."
 
 #: src-en/data/hyperspace.xml:51252
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ORCHID\"]/description"
-msgstr "Получите прототип с транспорта Соцветия."
+msgstr "Получите Элитный зерномет с транспорта Соцветия."
 
 #: src-en/data/hyperspace.xml:51254
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ORCHID\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51257
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/name"
-msgstr ""
+msgstr "Транспортный корабль Конфедерации"
 
 #: src-en/data/hyperspace.xml:51258
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/secretDescription"
-msgstr "Получите прототип с транспорта Федерации."
+msgstr "Получите прототип с транспорта Конфедерации."
 
 #: src-en/data/hyperspace.xml:51259
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/description"
-msgstr ""
+msgstr "Получите Элитный споромет с транспорта Конфедерации."
 
 #: src-en/data/hyperspace.xml:51261
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/header"
-msgstr ""
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51264
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/name"
@@ -6217,14 +6177,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Империи."
 
 #: src-en/data/hyperspace.xml:51266
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/description"
-msgstr "Получите прототип с транспорта Империи."
+msgstr "Получите Элитное кристаллическое орудие с транспорта Империи."
 
 #: src-en/data/hyperspace.xml:51268
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51271
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MANTIS\"]/name"
@@ -6236,14 +6194,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Улья."
 
 #: src-en/data/hyperspace.xml:51273
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MANTIS\"]/description"
-msgstr "Получите прототип с транспорта Улья."
+msgstr "Получите бомбу или легкий лазер II с транспорта Улья."
 
 #: src-en/data/hyperspace.xml:51275
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MANTIS\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51278
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FREEMANTIS\"]/name"
@@ -6255,15 +6211,13 @@ msgid ""
 msgstr "Получите прототип с транспорта Свободных Богомолов."
 
 #: src-en/data/hyperspace.xml:51280
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FREEMANTIS\"]/description"
-msgstr "Получите прототип с транспорта Свободных Богомолов."
+msgstr "Получите оглушающую бомбу с транспорта Свободных Богомолов."
 
 #: src-en/data/hyperspace.xml:51282
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FREEMANTIS\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51285
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROCK\"]/name"
@@ -6275,14 +6229,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Теократии."
 
 #: src-en/data/hyperspace.xml:51287
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROCK\"]/description"
-msgstr "Получите прототип с транспорта Теократии."
+msgstr "Получите \"Гермес\" с транспорта Теократии."
 
 #: src-en/data/hyperspace.xml:51289
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROCK\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51292
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LOSTSUN\"]/name"
@@ -6294,14 +6246,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Затерянных Солнц."
 
 #: src-en/data/hyperspace.xml:51294
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LOSTSUN\"]/description"
-msgstr "Получите прототип с транспорта Затерянных Солнц."
+msgstr "Получите \"Аид\" или \"Сехмет\" с транспорта Затерянных Солнц."
 
 #: src-en/data/hyperspace.xml:51296
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LOSTSUN\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51299
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SLUG\"]/name"
@@ -6313,14 +6263,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Клептократии."
 
 #: src-en/data/hyperspace.xml:51301
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SLUG\"]/description"
-msgstr "Получите прототип с транспорта Клептократии."
+msgstr "Получите \"Фокон\" с транспорта Клептократии."
 
 #: src-en/data/hyperspace.xml:51303
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SLUG\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51306
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CLAN\"]/name"
@@ -6332,14 +6280,12 @@ msgid ""
 msgstr "Получите прототип с транспорта ГОЭ."
 
 #: src-en/data/hyperspace.xml:51308
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CLAN\"]/description"
-msgstr "Получите прототип с транспорта ГОЭ."
+msgstr "Получите Облучающий лазер с транспорта ГОЭ."
 
 #: src-en/data/hyperspace.xml:51310
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CLAN\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51313
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SHELL\"]/name"
@@ -6351,35 +6297,29 @@ msgid ""
 msgstr "Получите прототип с транспорта Гениократии."
 
 #: src-en/data/hyperspace.xml:51315
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SHELL\"]/description"
-msgstr "Получите прототип с транспорта Гениократии."
+msgstr "Получите Противокорпусный лазер I с транспорта Гениократии."
 
 #: src-en/data/hyperspace.xml:51317
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SHELL\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51320
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/name"
-msgstr "Транспортный корабль Ирген"
+msgstr "Республиканский транспортный корабль"
 
 #: src-en/data/hyperspace.xml:51321
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/secretDescription"
-msgstr "Получите прототип с транспорта повстанцев."
+msgstr "Получите прототип с Республиканского транспорта."
 
 #: src-en/data/hyperspace.xml:51322
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/description"
-msgstr "Получите прототип с транспорта Ирген."
+msgstr "Получите Осколочное орудие II с Республиканского транспорта."
 
 #: src-en/data/hyperspace.xml:51324
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51327
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_COALITION\"]/name"
@@ -6391,15 +6331,13 @@ msgid ""
 msgstr "Получите прототип с транспорта Коалиции."
 
 #: src-en/data/hyperspace.xml:51329
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_COALITION\"]/description"
-msgstr "Получите прототип с транспорта Коалиции."
+msgstr "Получите \"Эриду\" с транспорта Коалиции."
 
 #: src-en/data/hyperspace.xml:51331
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_COALITION\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51334
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_REBEL\"]/name"
@@ -6411,14 +6349,12 @@ msgid ""
 msgstr "Получите прототип с транспорта повстанцев."
 
 #: src-en/data/hyperspace.xml:51336
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_REBEL\"]/description"
-msgstr "Получите прототип с транспорта повстанцев."
+msgstr "Получите Зарядный лазер II с транспорта повстанцев."
 
 #: src-en/data/hyperspace.xml:51338
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_REBEL\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51341
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUTO\"]/name"
@@ -6430,14 +6366,12 @@ msgid ""
 msgstr "Получите прототип с транспортного авто-корабля."
 
 #: src-en/data/hyperspace.xml:51343
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUTO\"]/description"
-msgstr "Получите прототип с транспортного авто-корабля."
+msgstr "Получите Консервативный дрон с автотранспорта."
 
 #: src-en/data/hyperspace.xml:51345
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUTO\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51348
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LANIUS\"]/name"
@@ -6449,14 +6383,12 @@ msgid ""
 msgstr "Получите прототип с транспорта ланиусов."
 
 #: src-en/data/hyperspace.xml:51350
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LANIUS\"]/description"
-msgstr "Получите прототип с транспорта ланиусов."
+msgstr "Получите Цепное осколочное орудие с транспорта ланиусов."
 
 #: src-en/data/hyperspace.xml:51352
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LANIUS\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51355
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DYNASTY\"]/name"
@@ -6468,14 +6400,12 @@ msgid ""
 msgstr "Получите прототип с транспорта Династии."
 
 #: src-en/data/hyperspace.xml:51357
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DYNASTY\"]/description"
-msgstr "Получите прототип с транспорта Династии."
+msgstr "Получите \"Рунку\" с транспорта Династии."
 
 #: src-en/data/hyperspace.xml:51359
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DYNASTY\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51362
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/name"
@@ -6486,9 +6416,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/secretName"
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51364
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/description"
-msgstr "Получите прототип с транспорта Инноваций."
+msgstr "Получите Амфи-дрона с транспорта Инноваций."
 
 #: src-en/data/hyperspace.xml:51365
 msgid ""
@@ -6496,9 +6425,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51368
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51371
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/name"
@@ -6509,9 +6437,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/secretName"
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51373
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/description"
-msgstr "Получите прототип с транспорта Гектара."
+msgstr "Получите Модуль перезарядки с транспорта \"Гектар Индастриз\"."
 
 #: src-en/data/hyperspace.xml:51374
 msgid ""
@@ -6519,13 +6446,12 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51377
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51380
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/name"
-msgstr ""
+msgstr "Атаманский транспортный корабль"
 
 #: src-en/data/hyperspace.xml:51381
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/secretName"
@@ -6533,7 +6459,7 @@ msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51382
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/description"
-msgstr ""
+msgstr "Получите \"Корбин\" с Атаманского транспорта."
 
 #: src-en/data/hyperspace.xml:51383
 msgid ""
@@ -6542,7 +6468,7 @@ msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51386
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/header"
-msgstr ""
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51389
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/name"
@@ -6553,9 +6479,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/secretName"
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51391
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/description"
-msgstr "Получите прототип с транспорта культа Вечного Жара."
+msgstr "Получите пронзающий луч \"Факел\" с транспорта культа Вечного Жара."
 
 #: src-en/data/hyperspace.xml:51392
 msgid ""
@@ -6563,9 +6488,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51395
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51398
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUGMENTED\"]/name"
@@ -6577,10 +6501,9 @@ msgid ""
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51400
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUGMENTED\"]/description"
-msgstr "Получите прототип с транспорта Возвышенных."
+msgstr "Получите Осколочный дрон с усилителем с транспорта Возвышенных."
 
 #: src-en/data/hyperspace.xml:51401
 msgid ""
@@ -6588,9 +6511,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51404
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUGMENTED\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51407
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/name"
@@ -6601,9 +6523,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/secretName
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51409
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/description"
-msgstr "Получите прототип с транспорта обелисков."
+msgstr "Получите орудие обелисков с транспорта обелисков."
 
 #: src-en/data/hyperspace.xml:51410
 msgid ""
@@ -6611,9 +6532,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51413
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51416
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/name"
@@ -6624,9 +6544,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/secretName"
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51418
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/description"
-msgstr "Получите прототип с транспорта Дворян."
+msgstr "Получите орудие Дворян с транспорта Дворян."
 
 #: src-en/data/hyperspace.xml:51419
 msgid ""
@@ -6634,9 +6553,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51422
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51425
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/name"
@@ -6647,9 +6565,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/secretName"
 msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml:51427
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/description"
-msgstr "Получите прототип с транспорта повстанцев в Протекторате Джерома."
+msgstr "Получите \"прототип\" с транспорта повстанцев в Протекторате Джерома."
 
 #: src-en/data/hyperspace.xml:51428
 msgid ""
@@ -6657,9 +6574,8 @@ msgid ""
 msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml:51431
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/header"
-msgstr "Транспорт захвачен"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml:51434
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CONVINCE\"]/name"
@@ -6765,7 +6681,7 @@ msgstr "Р3КРУТИР0В4Н"
 
 #: src-en/data/hyperspace.xml:51486
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_A55\"]/description"
-msgstr "Спасите капитана 34CP4HЦ4 от Корпуса инженеров."
+msgstr "Спасите капитана 34СР4Н3Ц от Корпуса инженеров."
 
 #: src-en/data/hyperspace.xml:51487
 msgid ""
@@ -6812,16 +6728,16 @@ msgstr "Персонаж рекрутирован"
 
 #: src-en/data/hyperspace.xml:51509
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/name"
-msgstr ""
+msgstr "Цветочная сила"
 
 #: src-en/data/hyperspace.xml:51510
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/description"
-msgstr ""
+msgstr "Помогите Майеву убедить Преторов."
 
 #: src-en/data/hyperspace.xml:51511
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/secretDescription"
-msgstr ""
+msgstr "Отправляйтесь в Рт'лак Эт и разрешите спор."
 
 #: src-en/data/hyperspace.xml:51512
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/header"
@@ -6829,16 +6745,16 @@ msgstr "Персонаж рекрутирован"
 
 #: src-en/data/hyperspace.xml:51517
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/name"
-msgstr ""
+msgstr "Лепесток к металлу"
 
 #: src-en/data/hyperspace.xml:51518
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/description"
-msgstr ""
+msgstr "Спасите Ивара от переворота Аира."
 
 #: src-en/data/hyperspace.xml:51519
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/secretDescription"
-msgstr ""
+msgstr "Спасите лидера из-под заговора."
 
 #: src-en/data/hyperspace.xml:51520
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/header"
@@ -6846,11 +6762,11 @@ msgstr "Персонаж рекрутирован"
 
 #: src-en/data/hyperspace.xml:51525
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TYEREL\"]/name"
-msgstr ""
+msgstr "Оставляйте хорошее впечатление"
 
 #: src-en/data/hyperspace.xml:51526
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TYEREL\"]/description"
-msgstr ""
+msgstr "Спасите Тай Э'Рела от Коалиции."
 
 #: src-en/data/hyperspace.xml:51527
 msgid ""
@@ -6966,7 +6882,7 @@ msgstr "Персонаж рекрутирован"
 
 #: src-en/data/hyperspace.xml:51584
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TUCO\"]/name"
-msgstr "Ужасный пират"
+msgstr "Грозный пират"
 
 #: src-en/data/hyperspace.xml:51585
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TUCO\"]/description"
@@ -7264,7 +7180,7 @@ msgstr "Спасите столицу Династии от ЦРБА и убед
 #: src-en/data/hyperspace.xml:51721
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_DESSIUS\"]/secretDescription"
-msgstr "Уничтожить Сердце демона."
+msgstr "Уничтожьте Сердце демона."
 
 #: src-en/data/hyperspace.xml:51722
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_DESSIUS\"]/header"
@@ -7791,7 +7707,7 @@ msgstr "Получите благо ??? от Сеста."
 #: src-en/data/hyperspace.xml:51964
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_A55\"]/description"
 msgstr ""
-"Покажите капитана 34CP4H3Ц Сесту. \n"
+"Покажите капитана 34СР4Н3Ц Сесту. \n"
 "\t\t\t\tПока действует; пехотные дроны получают 50 здоровья и удвоенную "
 "скорость передвижения."
 
@@ -7861,7 +7777,6 @@ msgid ""
 msgstr "Получите дар пилотирования от Корби."
 
 #: src-en/data/hyperspace.xml:51999
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_PILOT\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную рулевую рубку. \n"
@@ -7882,7 +7797,6 @@ msgid ""
 msgstr "Получите дар вооружения от Корби."
 
 #: src-en/data/hyperspace.xml:52008
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_WEAPONS\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную оружейную систему. \n"
@@ -7902,7 +7816,6 @@ msgid ""
 msgstr "Получите дар щитов от Корби."
 
 #: src-en/data/hyperspace.xml:52017
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SHIELDS\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную систему Щитов. \n"
@@ -7922,7 +7835,6 @@ msgid ""
 msgstr "Получите дар двигателей от Корби."
 
 #: src-en/data/hyperspace.xml:52026
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ENGINES\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную систему Двигателей. \n"
@@ -7963,10 +7875,9 @@ msgid ""
 msgstr "Получите дар клонирования от Корби."
 
 #: src-en/data/hyperspace.xml:52044
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_CLONEBAY\"]/description"
 msgstr ""
-"Покажите Корби полностью модернизированную систему Клонирования. \n"
+"Покажите Корби полностью модернизированный Клон-отсек. \n"
 "\t\t\t\tПока действует; навыки не теряются при клонировании."
 
 #: src-en/data/hyperspace.xml:52046
@@ -8002,13 +7913,12 @@ msgid ""
 msgstr "Получите дар телепортации от Корби."
 
 #: src-en/data/hyperspace.xml:52062
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_TELEPORTER\"]/description"
 msgstr ""
 "Покажите полностью модернизированную систему телепортации Корби. \n"
 "\t\t\t\tПока действует; ваш экипаж лечится со скоростью 1 ОЗ/с, пока "
-"находится в отсеке телепорта."
+"находится в отсеке Телепортатора."
 
 #: src-en/data/hyperspace.xml:52064
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_TELEPORTER\"]/header"
@@ -8084,11 +7994,10 @@ msgid ""
 msgstr "Получите дар дронов от Корби."
 
 #: src-en/data/hyperspace.xml:52098
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_DRONES\"]/description"
 msgstr ""
-"Покажите Корби полностью модернизированную систему Управления дронами. \n"
-"\t\t\t\tПока действует; ваш экипаж ремонтирует систему управления дронами на "
+"Покажите Корби полностью модернизированную систему Контроля дронов. \n"
+"\t\t\t\tПока действует; ваш экипаж ремонтирует систему Контроля дронов на "
 "75% быстрее."
 
 #: src-en/data/hyperspace.xml:52100
@@ -8105,12 +8014,11 @@ msgid ""
 msgstr "Получите дар сенсоров от Корби."
 
 #: src-en/data/hyperspace.xml:52107
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENSORS\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную подсистему Сенсоров. \n"
-"\t\t\t\tПока действует; сенсоры немедленно обновляются до уровня 3. Если на "
-"вашем корабле нет сенсоров, они будут установлены бесплатно."
+"\t\t\t\tПока действует; Сенсоры получают 2 улучшения бесплатно. Если на "
+"вашем корабле нет Сенсоров, вы получите Сенсоры 2 уровня бесплатно."
 
 #: src-en/data/hyperspace.xml:52109
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENSORS\"]/header"
@@ -8224,22 +8132,19 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_START\"]/header"
 msgstr "Благословение получено"
 
 #: src-en/data/hyperspace.xml:52164
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/name"
-msgstr "Благословение зерен"
+msgstr "Благословение роста"
 
 #: src-en/data/hyperspace.xml:52165
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/secretDescription"
-msgstr "Получите благословение зерен от Уэйксона."
+msgstr "Получите благословение роста от Уэйксона."
 
 #: src-en/data/hyperspace.xml:52166
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/description"
 msgstr ""
-"Покажите Уэйксону элитную пусковую установку зерен. \n"
-"\t\t\t\tПока действует; Немедленно получите 6 ракет."
+"Покажите Уэйксону элитный зерномет или элитный споромет. \n"
+"\t\t\t\tПока действует; Незамедлительно получите 6 ракет."
 
 #: src-en/data/hyperspace.xml:52168
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/header"
@@ -8537,12 +8442,11 @@ msgid ""
 msgstr "Получите благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml:52301
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_AETHER\"]/description"
 msgstr ""
 "Покажите Уэйксону любое эфирное оружие или дрон. \n"
-"\t\t\t\tПока действует; руины предтеч теперь будут отображаться на карте при "
-"каждом появлении."
+"\t\t\t\tПока действует; руины предтеч теперь будут глобально отображаться на "
+"карте когда они присутствуют."
 
 #: src-en/data/hyperspace.xml:52303
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_AETHER\"]/header"
@@ -8639,7 +8543,7 @@ msgstr "Приведите Джерри к Лии в Протекторате Д
 #: src-en/data/hyperspace.xml:52355
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_LEAH_JERRY\"]/secretDescription"
-msgstr "Воссоединить Лию с ее лучшим другом."
+msgstr "Воссоедините Лию с ее лучшим другом."
 
 #: src-en/data/hyperspace.xml:52356
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_LEAH_JERRY\"]/header"
@@ -8834,7 +8738,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_OBEL_GHOSTMACHINE\"]/name"
 msgstr "Призрак в машине"
 
 #: src-en/data/hyperspace.xml:52456
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_OBEL_GHOSTMACHINE\"]/description"
 msgstr "Дублируйте призрака с помощью Квантового репликатора предметов."
@@ -9092,7 +8995,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_BEANS\"]/name"
 msgstr "Банка бобов"
 
 #: src-en/data/hyperspace.xml:52590
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_BEANS\"]/description"
 msgstr "Убедите Сильвана Первого, вернуть Сильврику форму слизня."
 
@@ -9113,7 +9015,7 @@ msgstr "Решите все головоломки Папобина."
 #: src-en/data/hyperspace.xml:52597
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_PAPYRUS\"]/secretDescription"
-msgstr "Ньехехе!"
+msgstr "Нье-хе-хе!"
 
 #: src-en/data/hyperspace.xml:52601
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_MAID\"]/name"
@@ -9261,7 +9163,7 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml:52671
 msgid "data/hyperspace.xml$/FTL/achievements/page[9]/section/@text"
-msgstr ""
+msgstr "Музыка"
 
 #: src-en/data/hyperspace.xml:52673
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_GALACTIC\"]/name"
@@ -9281,7 +9183,7 @@ msgstr "Флорал"
 
 #: src-en/data/hyperspace.xml:52709
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_VAMPWEED\"]/name"
-msgstr ""
+msgstr "Конфедерация"
 
 #: src-en/data/hyperspace.xml:52718
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_SEPARATIST\"]/name"
@@ -9305,7 +9207,7 @@ msgstr "Призрачный"
 
 #: src-en/data/hyperspace.xml:52763
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_DYNASTY\"]/name"
-msgstr ""
+msgstr "Династия"
 
 #: src-en/data/hyperspace.xml:52772
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_SHELL\"]/name"
@@ -9401,7 +9303,7 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml:52907
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_HER\"]/name"
-msgstr ""
+msgstr "Двоеточие, правая скобка + Улыбающаяся бездна"
 
 #: src-en/data/hyperspace.xml:52908
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_HER\"]/secretName"
@@ -9445,9 +9347,8 @@ msgstr "Последний Рубеж"
 
 #: src-en/data/hyperspace.xml:53002
 msgid "data/hyperspace.xml$//achievement[@name=\"CHALLENGE_MODES\"]/name"
-msgstr ""
+msgstr "Уровни сложности!"
 
 #: src-en/data/hyperspace.xml:53004
 msgid "data/hyperspace.xml$//achievement[@name=\"CHALLENGE_MODES\"]/header"
-msgstr ""
-
+msgstr "Уровни сложности разблокированы"

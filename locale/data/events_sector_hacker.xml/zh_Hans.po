@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-26 04:40+0000\n"
+"Last-Translator: axnone <roger.zh@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_hackerxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_hacker.xml:46
 msgid ""
@@ -12,7 +19,7 @@ msgstr "这是真正的出口信标。"
 
 #: src-en/data/events_sector_hacker.xml:49
 msgid "data/events_sector_hacker.xml$//event[@name=\"FINISH_BEACON_HACKER\"]/text"
-msgstr ""
+msgstr "你到达了星区出口..."
 
 #: src-en/data/events_sector_hacker.xml:51
 msgid ""
@@ -24,7 +31,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"FINISH_BEACON_HACKER\"]/choice[@req=\"loc_hacker_exit\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "你似乎找到了出口，但你的星区数据集没能连接。有什么东西阻挡了信号......"
 
 #: src-en/data/events_sector_hacker.xml:56
 msgid ""
@@ -63,7 +70,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_hacker.xml:81
-#, fuzzy
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"FINISH_BEACON_HACKER\"]/choice[@req=\"loc_hacker_exit\""
 " and @lvl=\"1\"]/event/choice[@req=\"engines\"]/text"
@@ -116,10 +122,9 @@ msgstr ""
 "\"一艘船！我没想到会有人找到我们。一个营的黑客通过这里，洗劫了我们的空间站。我们没有物资了，没有物资我们就无法做生意。你愿意卖给我们一些吗？我们没有废料，但我们可以提供其他方式的付款。\""
 
 #: src-en/data/events_sector_hacker.xml:142
-#, fuzzy
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKER_CIVILIAN_STATION\"]/choice[1]/text"
-msgstr "给他们1份燃料。"
+msgstr "给他们燃料。"
 
 #: src-en/data/events_sector_hacker.xml:144
 msgid ""
@@ -337,7 +342,6 @@ msgstr ""
 "\"所以你想追随我们的脚步？可爱。真的，相当可爱。不要让它进入你的头脑，我们将统治这个星系！\"蛞蝓族派出一个小组在你的船上安装黑客系统。你一定要小心地盯着他们。"
 
 #: src-en/data/events_sector_hacker.xml:317
-#, fuzzy
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKER_OFFER\"]/choice[1]/event/choice[4]/text"
 msgstr "算了。"
@@ -489,7 +493,7 @@ msgstr "呼叫殖民地。"
 #: src-en/data/events_sector_hacker.xml:458
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_HOSTAGES\"]/choice[3]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_sector_hacker.xml:460
 msgid ""
@@ -696,28 +700,31 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_hacker.xml:629
 msgid "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/text"
-msgstr "一艘蛞蝓族飞船和黑客飞船似乎正在这个信标处对峙。从你截获的两艘船之间的对话来看，他们似乎在争论什么...船舶等级？"
+msgstr "一艘蛞蝓族飞船和黑客飞船似乎正在这个信标处对峙。从你截获的两艘船之间的对话来"
+"看，他们似乎在争论什么...舰别？"
 
 #: src-en/data/events_sector_hacker.xml:631
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/text"
-msgstr "询问他们的论点。"
+msgstr "询问争论的要点。"
 
 #: src-en/data/events_sector_hacker.xml:633
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/text"
 msgstr ""
-"黑客不会回应你的呼唤，但蛞蝓族会。\"黑客们多年来一直从蛞蝓族的船厂里偷取蛞蝓的船！他们轻而易举地改变了内部结构，并给它们起了一些狂热的名字。他们轻而易举地重塑了内部结构，并给它们起了一些奇怪的名字！想象一下，这有多大的胆量。\""
+"黑客们没有回应你，但蛞蝓族回应了你。\"这些黑客多年来一直从我们的船厂偷船"
+"！他们然后稍微改变一下内部结构，就给它们取起花哨的名字！想想他们胆子有多大。"
+"\""
 
 #: src-en/data/events_sector_hacker.xml:635
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[1]/text"
-msgstr "与蛞蝓族站在一起。"
+msgstr "站在蛞蝓族那边。"
 
 #: src-en/data/events_sector_hacker.xml:637
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[1]/event/text"
-msgstr "你已经决定保卫蛞蝓族与黑客船作战。准备好战斗！"
+msgstr "你决定与黑客作战来为蛞蝓族伸张正义。准备好战斗！"
 
 #: src-en/data/events_sector_hacker.xml:640
 msgid ""
@@ -727,12 +734,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_hacker.xml:646
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[2]/text"
-msgstr "站在黑客一边。"
+msgstr "站在黑客那边。"
 
 #: src-en/data/events_sector_hacker.xml:648
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[2]/event/text"
-msgstr "你已经决定保卫黑客与蛞蝓船作战。准备战斗吧！"
+msgstr "你决定与蛞蝓们作战来支持黑客们的行为。准备好战斗！"
 
 #: src-en/data/events_sector_hacker.xml:651
 msgid ""
@@ -742,12 +749,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_hacker.xml:657
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[3]/text"
-msgstr "好吧，祝你们玩得开心。"
+msgstr "好吧，祝你们吵得开心。"
 
 #: src-en/data/events_sector_hacker.xml:659
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[1]/event/choice[3]/event/text"
-msgstr "你不要参与两艘蛞蝓族飞船之间的决斗。相互毁灭将是他们俩的合适结局。"
+msgstr "你决定不参与两艘蛞蝓族飞船之间的争斗。相互毁灭才是他们俩的合适结局。"
 
 #: src-en/data/events_sector_hacker.xml:661
 msgid ""
@@ -760,15 +767,14 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_hacker.xml:673
-#, fuzzy
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[2]/text"
-msgstr "无视这艘舰船。"
+msgstr "无视这些飞船。"
 
 #: src-en/data/events_sector_hacker.xml:675
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKED_FANCY_CLASS\"]/choice[2]/event/text"
-msgstr "你不要参与两艘蛞蝓族飞船之间的决斗。相互毁灭将是他们俩的合适结局。"
+msgstr "你决定不参与两艘蛞蝓族飞船之间的争斗。相互毁灭才是他们俩的合适结局。"
 
 #: src-en/data/events_sector_hacker.xml:677
 msgid ""
@@ -782,7 +788,7 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_hacker.xml:688
 msgid "data/events_sector_hacker.xml$//event[@name=\"FANCY_CLASS_HACKER\"]/text"
-msgstr "你已经打败了黑客船。你打捞残骸。"
+msgstr "你已经打败了黑客飞船，并捞回残骸。"
 
 #: src-en/data/events_sector_hacker.xml:691
 msgid ""
@@ -790,14 +796,13 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_hacker.xml:693
-#, fuzzy
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"FANCY_CLASS_HACKER\"]/choice/event/text"
-msgstr "\"一个有趣的转折...但不是我打算抱怨的。对你来说，有些事是有必要的。\""
+msgstr "\"有意思的转折...但我高兴还来不及。可能有必要给你点什么。\""
 
 #: src-en/data/events_sector_hacker.xml:699
 msgid "data/events_sector_hacker.xml$//event[@name=\"FANCY_CLASS_SLUG\"]/text"
-msgstr "你已经打败了蛞蝓船。你打捞残骸。"
+msgstr "你已经打败了蛞蝓飞船，并捞回残骸。"
 
 #: src-en/data/events_sector_hacker.xml:702
 msgid ""
@@ -807,7 +812,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_hacker.xml:704
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"FANCY_CLASS_SLUG\"]/choice/event/text"
-msgstr "\"这真是...意想不到。道理个屁，我知道你在寻找奖励。我不认为你会在叛军舰队中找到我们...\""
+msgstr "\"真是...意想不到。他们可真是不道德。我知道你想寻求奖励。不知道延误一下下叛军"
+"舰队如何...\""
 
 #: src-en/data/events_sector_hacker.xml:715
 msgid ""
@@ -1300,7 +1306,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_hacker.xml:1145
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKER_CACHE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视空间站。"
 
 #: src-en/data/events_sector_hacker.xml:1147
 msgid ""
@@ -1479,4 +1485,3 @@ msgstr ""
 msgid ""
 "data/events_sector_hacker.xml$//event[@name=\"HACKER_FED_WIN\"]/choice/event/crewMember"
 msgstr "科米"
-

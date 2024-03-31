@@ -1,15 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 17:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_droppointxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_droppoint.xml:26
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_UNION_PROTESTORS\"]/destroyed/text"
-msgstr "你摧毁了那艘平民船，他们的废料现在属于你了。"
+msgstr "你摧毁了那艘同盟飞船，他们的废料现在属于你了。"
 
 #: src-en/data/events_sector_droppoint.xml:29
 msgid ""
@@ -17,10 +23,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:34
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_UNION_PROTESTORS\"]/deadCrew/text"
-msgstr "你消灭了平民船上的所有生命，他们的废料现在属于你了。"
+msgstr "你消灭了同盟飞船上的所有生命，他们的废料现在属于你了。"
 
 #: src-en/data/events_sector_droppoint.xml:37
 msgid ""
@@ -150,12 +155,12 @@ msgstr "解决他们。"
 #: src-en/data/events_sector_droppoint.xml:208
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/destroyed/text"
-msgstr ""
+msgstr "不管是无意，还是...有意，看来你已经杀死了那名自由螳螂。现在只剩搜刮可做了。"
 
 #: src-en/data/events_sector_droppoint.xml:212
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/deadCrew/text"
-msgstr ""
+msgstr "不管是无意，还是...有意，看来你已经杀死了那名自由螳螂。现在只剩搜刮可做了。"
 
 #: src-en/data/events_sector_droppoint.xml:215
 msgid ""
@@ -616,10 +621,11 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:642
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_DISTRESS_CRASH_LANDING\"]/text"
-msgstr "你来到了一个在太空中漂流的孤独、无光的星球。对表面进行快速扫描，发现一艘飞船坠落在星球的另一端。它已经破烂不堪，但有可能有人幸存下来。"
+msgstr ""
+"你来到了一个在太空中漂流的星球，它环绕着一颗衰败中的恒星。对表面进行快速扫描"
+"后发现有一艘飞船坠落在星球的另一端。它已经破烂不堪，但有可能有人幸存下来。"
 
 #: src-en/data/events_sector_droppoint.xml:645
 msgid ""
@@ -647,7 +653,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_droppoint.xml:665
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/destroyed/text"
 msgstr "你击败了这艘叛军战舰，并进行搜刮。"
@@ -658,13 +663,12 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:670
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/destroyed/choice/event/text"
-msgstr "叛军的船况比你想象的还要差，它剩下的无人机电源离线了，对你毫无招架之力。他们向你提供了补给以求投降。"
+msgstr "叛军母舰的状况比你想象得还要差，它剩余的载舰们都未启动，对你毫无招架之力。对"
+"方向你提供了补给以求投降。"
 
 #: src-en/data/events_sector_droppoint.xml:676
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/deadCrew/text"
 msgstr "你击败了这艘叛军战舰，并进行搜刮。"
@@ -675,16 +679,16 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:681
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/deadCrew/choice/event/text"
-msgstr "叛军的船况比你想象的还要差，它剩下的无人机电源离线了，对你毫无招架之力。他们向你提供了补给以求投降。"
+msgstr "叛军母舰的状况比你想象得还要差，它剩余的载舰们都未启动，对你毫无招架之力。对"
+"方向你提供了补给以求投降。"
 
 #: src-en/data/events_sector_droppoint.xml:689
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_CRASH_LANDING_INSPECT\"]/event[1]/text"
-msgstr "这里的船不是普通的船。它是一艘巨大的叛军航空母舰！它一定是探测到了你，因为它仅有的几个系统已经启动，它派出了一艘自动飞船来对付你。"
+msgstr "这里的船不是普通的船。它是一艘巨大的叛军空天母舰！它一定是探测到了你，因为它"
+"仅有的几个系统已经启动，它派出了一艘载舰来对付你。"
 
 #: src-en/data/events_sector_droppoint.xml:692
 msgid ""
@@ -943,10 +947,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:905
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_HELP_MINERS\"]/choice[@req=\"LIST_CREW_LOSTSUN\"]/text"
-msgstr "(迷失烈阳突击兵)提出教授他们制作简易爆炸物的方法。"
+msgstr "(迷失烈阳船员)提出教授他们制作简易爆炸物的方法。"
 
 #: src-en/data/events_sector_droppoint.xml:907
 msgid ""
@@ -978,7 +981,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_TERRAFORMING_SCAN\"]/text"
 msgstr ""
-"一个在附近卫星上工作的小型地球化小组向你致意，屏幕上出现了一个矮小粗短的岩石族舰长。\"我们需要帮助，而你是我们在这个星系中看到的第一艘船，几周来。我们正在改造这颗贫瘠的卫星，但我们的传感器不够强大，无法突破大气层。\""
+"一个在附近卫星上工作的小型环境改造小组向你致意，屏幕上出现了一个矮小粗短的岩"
+"石族舰长。\"我们需要帮助，而你是我们在这个星系中看到的第一艘船，几周来。我们"
+"正在改造这颗贫瘠的卫星，但我们的传感器不够强大，无法突破大气层。\""
 
 #: src-en/data/events_sector_droppoint.xml:931
 msgid ""
@@ -988,7 +993,8 @@ msgstr "提供援助。"
 #: src-en/data/events_sector_droppoint.xml:933
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_TERRAFORMING_SCAN\"]/choice[1]/event/text"
-msgstr "\"谢谢你！我们需要在开始地貌改造前扫描这颗星球上的生命体，但是我们的传感器达不到穿透大气层所需的功率。我们的工期快到了，你能想想办法吗？\""
+msgstr "\"谢谢你！我们需要在开始环境改造前扫描这颗星球上的生命体，但是我们的传感器达"
+"不到穿透大气层所需的功率。我们的工期快到了，你能想想办法吗？\""
 
 #: src-en/data/events_sector_droppoint.xml:935
 msgid ""
@@ -1074,7 +1080,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_droppoint.xml:1001
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_HIGH_SCAN_TERRAFORMING\"]/event[3]/text"
-msgstr "对星球的全面扫描显示一种霉菌是其上存在的唯一生命。工程队声明他们的地貌改造计划只考虑智慧生命；他们可以开工了。"
+msgstr "对星球的全面扫描显示一种霉菌是其上存在的唯一生命。工程队声明他们的环境改造计"
+"划只考虑智慧生命；他们可以开工了。"
 
 #: src-en/data/events_sector_droppoint.xml:1003
 msgid ""
@@ -1160,7 +1167,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:1072
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_ROGUE_REBEL\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
@@ -1320,10 +1326,9 @@ msgid ""
 msgstr "令人惊讶的是，海盗们确实信守承诺，你的引擎提高了效率。这将在今后的道路上起到很大助力。"
 
 #: src-en/data/events_sector_droppoint.xml:1213
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SKETCHY_UPGRADES\"]/choice/event/choice[2]/text"
-msgstr "攻击对方。"
+msgstr "攻击对方！"
 
 #: src-en/data/events_sector_droppoint.xml:1215
 msgid ""
@@ -1359,7 +1364,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_droppoint.xml:1241
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SKETCHY_UPGRADES\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_droppoint.xml:1243
 msgid ""
@@ -1456,7 +1461,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:1323
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_SLAVER_LIST\"]/event[1]/choice[3]/text"
 msgstr "算了。"
@@ -1497,7 +1501,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_droppoint.xml:1358
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_SLAVER_LIST\"]/event[2]/choice[3]/text"
 msgstr "算了。"
@@ -1688,10 +1691,9 @@ msgid ""
 msgstr "看来这个信标是联邦前哨的所在地...或者至少它是，直到一群海盗过来并蹂躏了这个地方！如果你能清除攻击者，可能会留下一些补给。"
 
 #: src-en/data/events_sector_droppoint.xml:1522
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_PIRATE_RAID\"]/choice[1]/text"
-msgstr "攻击海盗。"
+msgstr "攻击海盗！"
 
 #: src-en/data/events_sector_droppoint.xml:1524
 msgid ""
@@ -2090,7 +2092,9 @@ msgstr "超能族舀起废料，预言了你的好运。不久之后跃迁了。
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_FREEMANTIS\"]/text"
 msgstr ""
-"一只自由的螳螂热切地向你问候，他们断断续续的对话让翻译器难以跟上。\"哦，联邦舰长，我问你是否值得我支持！是的，我有信心，但我必须看到证据。打我，赢了，我加入船员。我只知道你要小心，我不会怜悯你的！\""
+"一名自由螳螂热切地向你问候，他断断续续的对话让翻译器难以跟上。\"哦，联邦舰长"
+"，我问你是否值得我支持！是的，我有信心，但我必须看到证据。打我，赢了，我加入"
+"船员。只知道你要小心，我不会怜悯你的！\""
 
 #: src-en/data/events_sector_droppoint.xml:1819
 msgid ""
@@ -2826,4 +2830,3 @@ msgstr "星舰管理。"
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT_ATTACK_MANTIS\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
-

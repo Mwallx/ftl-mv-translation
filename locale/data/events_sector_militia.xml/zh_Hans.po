@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-24 04:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_militiaxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_militia.xml:28
 msgid ""
@@ -87,7 +94,7 @@ msgstr "尽管蛞蝓族有心灵感应的能力，他们似乎甚至没有意识
 #: src-en/data/events_sector_militia.xml:96
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"MILITIA_CLANSMEN\"]/choice/event/choice[@req=\"LIST_CREW_CLAN\"]/text"
-msgstr "(猎甲兵船员)声称你也是猎手。"
+msgstr "(异猎会船员)声称你也是猎手。"
 
 #: src-en/data/events_sector_militia.xml:98
 msgid ""
@@ -325,7 +332,15 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"MILITIA_TEXTWALL_TEXT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"波琳轻舔页脚，翻到下一页。她轻咳一声并拍了拍胸口，继续念稿。\"自从叛军出现之后，联邦舰队就致力于从境内抹除叛军舰船。这使得大片星域无人守卫。之前因狡猾叛逆的本性而被联邦拒之门外的蛞蝓族注意到了这一点并开始大规模迁移至联邦境内。虽然他们一开始从隐秘的星云星区开始，但很快就嚣张到明目张胆地攻击普通星区，有时甚至开始将主权星域占为己有。当他们侵犯了螳螂族与岩石族的星域后，这种做法就导致了问题，因为这两个物种的掌权者自然不会容忍这种侵占。螳螂母巢与神权国长老一齐向蛞蝓族宣战，战争持续了数年。结果以蛞蝓战败投降并完全吐出吞并的星域结束。这些欺软怕硬的家伙甚至反而提出赠送胜方一些自己的星域，这为之后的星联的成立打下了基础。\""
+"波琳轻舔页脚，翻到下一页。她轻咳一声并拍了拍胸口，继续念稿。"
+"\"自从叛军出现之后，联邦舰队就致力于从境内抹除叛军舰船。这使得大片星域无人守"
+"卫。之前因狡猾叛逆的本性而被联邦拒之门外的蛞蝓族注意到了这一点并开始大规模迁"
+"移至联邦境内。虽然他们一开始从隐秘的星云星区开始，但很快就嚣张到明目张胆地攻"
+"击普通星区，有时甚至开始将主权星域占为己有。当他们侵犯了螳螂族与岩石族的星域"
+"后，这种做法就导致了问题，因为这两个物种的掌权者自然不会容忍这种侵占。母巢与"
+"神权国长老一齐向蛞蝓族宣战，战争持续了数年。结果以蛞蝓战败投降并完全吐出吞并"
+"的星域结束。这些欺软怕硬的家伙甚至反而提出赠送胜方一些自己的星域，这为之后的"
+"星联的成立打下了基础。\""
 
 #: src-en/data/events_sector_militia.xml:253
 msgid ""
@@ -346,7 +361,13 @@ msgstr "真是太好了。"
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"MILITIA_TEXTWALL_TEXT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"\"不过，我还是要讲讲星联的故事，以防你们对此不清楚。星联是由赛思念星盗会、尤则瑞安神权国、耶蒂伊克母巢与埃尔根共和国间的休战协议组成。这4个物种或许是银河系内威胁性最大的种族，因此星联的存在不仅对联邦威胁巨大，甚至连叛军也对其十分畏惧。此时此刻，星联还在不停壮大之中，甚至占领了数个叛军的星区。它们还获得了蛞蝓族运输星云气体制造人工星云的天体构造技术。虽然这些假星云无法形成真正的气态恒星，但其仍然会使传感器失效，甚至可以产生致命的离子风暴，相信在座的去过星云星区的驾驶员们应该对此很熟悉。\""
+"\"不过，我还是要讲讲星联的故事，以防你们对此不清楚。星联是由赛思念星盗会、尤"
+"则瑞安神权国、耶蒂伊克母巢与埃尔根共和国间的休战协议组成。这四个物种或许是银"
+"河系内威胁性最大的种族，因此星联的存在不仅对联邦威胁巨大，甚至连叛军也对其十"
+"分畏惧。此时此刻，星联还在不停壮大之中，甚至占领了数个叛军的星区。它们还获得"
+"了蛞蝓族运输星云气体制造人工星云的天体构造技术。虽然这些假星云无法形成真正的"
+"气态恒星，但其仍然会使传感器失效，甚至可以产生致命的离子风暴，相信在座的去过"
+"星云星区的驾驶员们应该对此很熟悉。\""
 
 #: src-en/data/events_sector_militia.xml:262
 msgid ""
@@ -684,7 +705,10 @@ msgstr ""
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"MILITIA_TRAINIES_WIN\"]/text"
 msgstr ""
-"其他舰船离开后，舰长本人再次联系你：\"感谢您的协助！这些人都是刚招募来的新兵，几乎没有实战经验。我相信对他们来说与一位货真价实的多元宇宙变元者交战很有意义！我们没有多少资源可以给你，但这一件用于演习的战斗部件请您笑纳，或许你能物尽其用。\""
+"其他舰船离开后，舰长本人再次联系你：\"感谢您的协助！这些人都是刚招募来的新兵"
+"，几乎没有实战经验。我相信对他们来说与一位货真价实的多元宇宙变元者交战很有意"
+"义！我们没有多少资源可以给您，但这一件用于演习的战斗部件请您笑纳，或许您能物"
+"尽其用。\""
 
 #: src-en/data/events_sector_militia.xml:521
 msgid "data/events_sector_militia.xml$//event[@name=\"MILITIA_RECRUITMENT\"]/text"
@@ -914,10 +938,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_militia.xml:705
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DISTRESS_MILITIA_KERNELS\"]/choice[2]/text"
-msgstr "无视这艘舰船。"
+msgstr "无视这些船。"
 
 #: src-en/data/events_sector_militia.xml:707
 msgid ""
@@ -1453,7 +1476,7 @@ msgstr "夏洛克·海因斯"
 #: src-en/data/events_sector_militia.xml:1122
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"MILITIA_DETECTIVE\"]/choice[3]/text"
-msgstr ""
+msgstr "无视空间站。"
 
 #: src-en/data/events_sector_militia.xml:1124
 msgid ""
@@ -1508,7 +1531,6 @@ msgid ""
 msgstr "与丹尼尔交谈。"
 
 #: src-en/data/events_sector_militia.xml:1163
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_EVIDENCE_MENU\"]/choice[1]/event/choice[5]/text"
 msgstr "算了。"
@@ -1559,7 +1581,6 @@ msgid ""
 msgstr "调查武器系统。"
 
 #: src-en/data/events_sector_militia.xml:1201
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_EVIDENCE_MENU\"]/choice[3]/event/choice[7]/text"
 msgstr "算了。"
@@ -2133,7 +2154,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_militia.xml:1537
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_TALK_THOM\"]/choice[7]/event/choice[4]/text"
 msgstr "算了。"
@@ -2330,7 +2350,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_militia.xml:1667
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_TALK_AMY\"]/choice[7]/event/choice[4]/text"
 msgstr "算了。"
@@ -2497,7 +2516,6 @@ msgid ""
 msgstr "问丹尼尔关于氧气系统的事情。"
 
 #: src-en/data/events_sector_militia.xml:1777
-#, fuzzy
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_TALK_DANIEL\"]/choice[7]/event/choice[4]/text"
 msgstr "算了。"
@@ -2851,4 +2869,3 @@ msgstr ""
 msgid ""
 "data/events_sector_militia.xml$//event[@name=\"DETECTIVE_HANGARATTACK_DEADCREW\"]/choice/event/choice/text"
 msgstr "继续。"
-

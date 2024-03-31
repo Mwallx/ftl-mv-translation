@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-28 05:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_piratexml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_pirate.xml:28
 msgid ""
@@ -45,7 +52,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:249
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:251
 msgid ""
@@ -56,7 +63,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:257
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:259
 msgid ""
@@ -76,7 +83,7 @@ msgstr "\"쪼아, 쪼아요. 가격을 쪼끔 내리면요?\""
 #: src-en/data/events_sector_pirate.xml:270
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:272
 msgid ""
@@ -87,7 +94,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:278
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:280
 msgid ""
@@ -107,7 +114,7 @@ msgstr "\"이거 놓치면 찐짜 후회할 거예요. 가격을 더더 내리�
 #: src-en/data/events_sector_pirate.xml:291
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:293
 msgid ""
@@ -118,7 +125,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:299
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:301
 msgid ""
@@ -138,7 +145,7 @@ msgstr "\"으, 찐짜 나쁜 싸람이야. 이게 마찌막이에요. 더는 안
 #: src-en/data/events_sector_pirate.xml:312
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:314
 msgid ""
@@ -149,7 +156,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:320
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:322
 msgid ""
@@ -169,7 +176,7 @@ msgstr "\"알아써요, 거찠말이어써요. 이번이 찐짜 마찌막이에�
 #: src-en/data/events_sector_pirate.xml:333
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:335
 msgid ""
@@ -180,7 +187,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:341
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:343
 msgid ""
@@ -200,7 +207,7 @@ msgstr "\"아, 쩨바알! 그냥 싸요!\""
 #: src-en/data/events_sector_pirate.xml:354
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:356
 msgid ""
@@ -211,7 +218,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:362
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "열어본다."
 
 #: src-en/data/events_sector_pirate.xml:364
 msgid ""
@@ -231,7 +238,7 @@ msgstr "\"알아써요! 그냥 가쪄요! 공짜에요! 쩐 이제 쌍관 없써
 #: src-en/data/events_sector_pirate.xml:375
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_DESPERATE_SLUG\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_pirate.xml:377
 msgid ""
@@ -311,7 +318,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:440
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SHEEPISH_FED\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "물론 필요합니다."
 
 #: src-en/data/events_sector_pirate.xml:442
 msgid ""
@@ -369,7 +376,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:470
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SHEEPISH_FED\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:472
 msgid ""
@@ -380,7 +387,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:480
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SHEEPISH_FED\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:482
 msgid ""
@@ -442,7 +449,7 @@ msgstr "평범한 맨티스를 구매한다."
 #: src-en/data/events_sector_pirate.xml:534
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_VENGEFUL_ENGI\"]/choice[1]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_pirate.xml:536
 msgid ""
@@ -453,7 +460,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:542
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_VENGEFUL_ENGI\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:544
 msgid ""
@@ -463,7 +470,7 @@ msgstr "엔지는 원래 남에게 복수를 하는 종족이 아니지만, 이�
 #: src-en/data/events_sector_pirate.xml:550
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_VENGEFUL_ENGI\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:552
 msgid ""
@@ -538,7 +545,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:598
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SICK_MARKET\"]/choice[1]/event/choice[@req=\"BLUELIST_BOMBS_HEAL\"]/event/choice[@req=\"BOMB_HEAL\"]/text"
-msgstr ""
+msgstr "폭탄을 판다."
 
 #: src-en/data/events_sector_pirate.xml:600
 msgid ""
@@ -645,7 +652,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:688
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SMUGGLER_WONDERDRONE\"]/choice[4]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:690
 msgid ""
@@ -675,7 +682,7 @@ msgstr "원더드론을 산다."
 #: src-en/data/events_sector_pirate.xml:715
 msgid ""
 "data/events_sector_pirate.xml$//eventList[@name=\"SMUGGLER_WONDERDRONE_NEGOTIATE\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "됐습니다."
 
 #: src-en/data/events_sector_pirate.xml:717
 msgid ""
@@ -709,12 +716,12 @@ msgstr "일반적인 장비보다 전력을 덜 소모하는 무기와 드론이
 #: src-en/data/events_sector_pirate.xml:743
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SMUGGLER_PLAYER_WEPS\"]/choice[1]/text"
-msgstr ""
+msgstr "무기를 산다."
 
 #: src-en/data/events_sector_pirate.xml:747
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SMUGGLER_PLAYER_WEPS\"]/choice[2]/text"
-msgstr ""
+msgstr "무기를 산다."
 
 #: src-en/data/events_sector_pirate.xml:751
 msgid ""
@@ -760,7 +767,8 @@ msgstr "피난선을 무시한다."
 #: src-en/data/events_sector_pirate.xml:880
 msgid ""
 "data/events_sector_pirate.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_PIRATE_MV\"]/event[2]/text"
-msgstr ""
+msgstr "피난선에 교신을 보내자, 갑자기 해적선 한 척이 이 행성계로 도약해 옵니다... "
+"이 피난민들을 미끼로 쓰고 있던 것입니다!"
 
 #: src-en/data/events_sector_pirate.xml:883
 msgid ""
@@ -788,10 +796,10 @@ msgid ""
 msgstr "끼어들지 않는다."
 
 #: src-en/data/events_sector_pirate.xml:906
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"PIRATE_CIVILIAN_MV\"]/choice[2]/event/text"
-msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 조난 신호가 멈췄습니다."
+msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 "
+"조난 신호가 멈췄습니다."
 
 #: src-en/data/events_sector_pirate.xml:908
 msgid ""
@@ -1080,7 +1088,6 @@ msgid ""
 msgstr "'EEEE'를 제안한다."
 
 #: src-en/data/events_sector_pirate.xml:1101
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"PIRATE_NAME\"]/choice[2]/text"
 msgstr "해적을 무시한다."
@@ -1217,7 +1224,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1201
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DEAD_SLAVES\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "(슬러그 선원) 노예상의 의도를 확인하게 한다."
 
 #: src-en/data/events_sector_pirate.xml:1203
 msgid ""
@@ -1227,7 +1234,7 @@ msgstr "\"쩌 놈들은 쭉은 노예를 팔아요! 싸기꾼 놈들. 배짱은 
 #: src-en/data/events_sector_pirate.xml:1205
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DEAD_SLAVES\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/text"
-msgstr ""
+msgstr "빌어먹을 노예상을 공격한다!"
 
 #: src-en/data/events_sector_pirate.xml:1207
 msgid ""
@@ -1272,7 +1279,7 @@ msgstr "\"이 노예들은 시이이체를 팔고 있스으읍니다! 그들에�
 #: src-en/data/events_sector_pirate.xml:1236
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DEAD_SLAVES\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "빌어먹을 노예상을 공격한다!"
 
 #: src-en/data/events_sector_pirate.xml:1238
 msgid ""
@@ -1307,7 +1314,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1263
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DEAD_SLAVES\"]/choice[5]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_pirate.xml:1265
 msgid ""
@@ -1332,7 +1339,7 @@ msgstr "노예상이 감사를 표하고 노예를 보냈습니다. 그런데 �
 #: src-en/data/events_sector_pirate.xml:1283
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DEAD_SLAVES_BUY\"]/choice[1]/text"
-msgstr ""
+msgstr "빌어먹을 노예상을 공격한다!"
 
 #: src-en/data/events_sector_pirate.xml:1285
 msgid ""
@@ -1396,7 +1403,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:1332
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DEAD_CREW_SLAVER_DEADSLAVES\"]/choice[1]/text"
-msgstr ""
+msgstr "맨티스에게 합류하도록 명령하고 나머지는 풀어준다."
 
 #: src-en/data/events_sector_pirate.xml:1334
 msgid ""
@@ -1406,7 +1413,7 @@ msgstr "맨티스라고 적혀있는 우리를 열었지만, 노예는 바닥에
 #: src-en/data/events_sector_pirate.xml:1339
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DEAD_CREW_SLAVER_DEADSLAVES\"]/choice[2]/text"
-msgstr ""
+msgstr "락맨에게 합류하도록 명령하고 나머지는 풀어준다."
 
 #: src-en/data/events_sector_pirate.xml:1341
 msgid ""
@@ -1416,7 +1423,7 @@ msgstr "락맨이라고 적혀있는 우리를 열었지만, 노예는 바닥에
 #: src-en/data/events_sector_pirate.xml:1346
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DEAD_CREW_SLAVER_DEADSLAVES\"]/choice[3]/text"
-msgstr ""
+msgstr "엔지에게 합류하도록 명령하고 나머지는 풀어준다."
 
 #: src-en/data/events_sector_pirate.xml:1348
 msgid ""
@@ -1426,7 +1433,7 @@ msgstr "엔지라고 적혀있는 우리를 열었지만, 노예는 바닥에 �
 #: src-en/data/events_sector_pirate.xml:1353
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DEAD_CREW_SLAVER_DEADSLAVES\"]/choice[4]/text"
-msgstr ""
+msgstr "우리는 노예상이 아니다. 모두 풀어주자."
 
 #: src-en/data/events_sector_pirate.xml:1355
 msgid ""
@@ -1462,7 +1469,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1380
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1382
 msgid ""
@@ -1482,7 +1489,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1394
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "(슬러그 선원) 노예상의 의도를 확인하게 한다."
 
 #: src-en/data/events_sector_pirate.xml:1398
 msgid ""
@@ -1519,7 +1526,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1443
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_BETRAY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1446
 msgid ""
@@ -1549,7 +1556,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1467
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_HUMAN\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 인간이라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1469
 msgid ""
@@ -1564,7 +1571,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1480
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_HUMAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1483
 msgid ""
@@ -1574,7 +1581,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1489
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1491
 msgid ""
@@ -1594,7 +1601,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1504
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ENGI\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 엔지라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1506
 msgid ""
@@ -1609,7 +1616,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1517
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ENGI\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1520
 msgid ""
@@ -1619,7 +1626,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1526
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ENGI\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1528
 msgid ""
@@ -1639,7 +1646,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1541
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ORCHID\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 오키드라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1543
 msgid ""
@@ -1654,7 +1661,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1554
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ORCHID\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1557
 msgid ""
@@ -1664,7 +1671,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1563
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ORCHID\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1565
 msgid ""
@@ -1684,7 +1691,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1578
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ROCK\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 락맨이라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1580
 msgid ""
@@ -1699,7 +1706,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1591
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ROCK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1594
 msgid ""
@@ -1709,7 +1716,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1600
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_ROCK\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1602
 msgid ""
@@ -1729,7 +1736,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1615
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_MANTIS\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 맨티스라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1617
 msgid ""
@@ -1744,7 +1751,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1628
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_MANTIS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1631
 msgid ""
@@ -1754,7 +1761,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1637
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_MANTIS\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1639
 msgid ""
@@ -1774,7 +1781,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:1652
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_CRYSTAL\"]/text"
-msgstr ""
+msgstr "당신의 선원에 따르면, 노예의 종족은 크리스탈이라고 합니다."
 
 #: src-en/data/events_sector_pirate.xml:1654
 msgid ""
@@ -1789,7 +1796,7 @@ msgstr "쓰레기 같은 노예상을 공격한다."
 #: src-en/data/events_sector_pirate.xml:1665
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_CRYSTAL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "기만적인 노예상을 공격한다."
 
 #: src-en/data/events_sector_pirate.xml:1668
 msgid ""
@@ -1799,7 +1806,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1674
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BETRAYAL_SLUG_CRYSTAL\"]/choice[3]/text"
-msgstr ""
+msgstr "관심 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1676
 msgid ""
@@ -1825,7 +1832,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:1706
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_LANIUS_SLAVE\"]/choice/text"
-msgstr ""
+msgstr "계속."
 
 #: src-en/data/events_sector_pirate.xml:1708
 msgid ""
@@ -1915,7 +1922,7 @@ msgstr "노예선 하나가 근처에서 표류중입니다. 딱 봐도 동력�
 #: src-en/data/events_sector_pirate.xml:1765
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DRIFTER\"]/choice[1]/text"
-msgstr ""
+msgstr "교신을 시도한다."
 
 #: src-en/data/events_sector_pirate.xml:1769
 msgid ""
@@ -1937,7 +1944,7 @@ msgstr "(강습 드론) 강습 드론을 보낸다. [-1|]"
 #: src-en/data/events_sector_pirate.xml:1781
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DRIFTER\"]/choice[5]/text"
-msgstr "표류하게 내버려 둔다."
+msgstr "표류하게 내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:1783
 msgid ""
@@ -1962,7 +1969,7 @@ msgstr "노예선은 아무 반응도 없습니다. 안에 누가 살아있긴 �
 #: src-en/data/events_sector_pirate.xml:1799
 msgid ""
 "data/events_sector_pirate.xml$//eventList[@name=\"SLAVER_DRIFTER_HAIL\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "함선을 인양한다."
 
 #: src-en/data/events_sector_pirate.xml:1801
 msgid ""
@@ -1979,7 +1986,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1811
 msgid ""
 "data/events_sector_pirate.xml$//eventList[@name=\"SLAVER_DRIFTER_HAIL\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "위험을 무릅쓰지 않는다."
 
 #: src-en/data/events_sector_pirate.xml:1816
 msgid ""
@@ -2035,7 +2042,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:1853
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_DRIFTER_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "위험을 무릅쓰지 않는다."
 
 #: src-en/data/events_sector_pirate.xml:1858
 msgid ""
@@ -2057,10 +2064,9 @@ msgstr ""
 "겉으로는 평범해 보이는 함선 하나가 대단히 이상하게 행동하고 있습니다. 밀수꾼 같은데, 달리 증거가 없으니 별 의미는 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:1870
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SUSPICIOUS_SMUGGLER\"]/choice[1]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_pirate.xml:1872
 msgid ""
@@ -2103,10 +2109,9 @@ msgid ""
 msgstr "\"어... 그럼 당연하지. 어서 와!\""
 
 #: src-en/data/events_sector_pirate.xml:1896
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_SUSPICIOUS_SMUGGLER\"]/choice[2]/event/choice/event/choice[2]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_pirate.xml:1898
 msgid ""
@@ -2221,7 +2226,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:1973
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_ENGI_ILLEGAL\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:1975
 msgid ""
@@ -2305,7 +2310,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:2029
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_ENGI_ILLEGAL_SURRENDER\"]/choice[2]/text"
-msgstr ""
+msgstr "계속 싸운다."
 
 #: src-en/data/events_sector_pirate.xml:2034
 msgid ""
@@ -2315,7 +2320,7 @@ msgstr "엔지를 죽이지 말라던 경고를 무시한 대가를 치를 생�
 #: src-en/data/events_sector_pirate.xml:2037
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_ENGI_ILLEGAL_KILL\"]/choice/text"
-msgstr ""
+msgstr "졸탄에게 연락한다."
 
 #: src-en/data/events_sector_pirate.xml:2039
 msgid ""
@@ -2461,7 +2466,7 @@ msgstr "당신은 두 함선이 싸우느라 정신없는 틈을 타 암시장�
 #: src-en/data/events_sector_pirate.xml:2132
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_MANTIS_ROCK_OFFEND\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_pirate.xml:2134
 msgid ""
@@ -2486,7 +2491,7 @@ msgstr "맨티스 함선을 격침하고 재빨리 잔해에서 자원을 수집
 #: src-en/data/events_sector_pirate.xml:2150
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"BLACKMARKET_MANTIS_ROCK_OFFEND_WIN_ROCK\"]/choice/text"
-msgstr ""
+msgstr "락맨에게 연락한다."
 
 #: src-en/data/events_sector_pirate.xml:2152
 msgid ""
@@ -2513,7 +2518,8 @@ msgstr "\"우리 도움 필요 없었어. 하지만... 도움 받았네. 좋아,
 #: src-en/data/events_sector_pirate.xml:2183
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/text"
-msgstr ""
+msgstr "구조 신호를 보낸 것은 노예상에게 쫓기는 작은 흡혈초 왕복선이었습니다. 그들은 "
+"달리 방어 수단이 없어 보입니다."
 
 #: src-en/data/events_sector_pirate.xml:2187
 msgid ""
@@ -2523,7 +2529,8 @@ msgstr "노예 상인을 공격한다!"
 #: src-en/data/events_sector_pirate.xml:2189
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신이 다가가자 노예상은 목표물을 바꿉니다. \"또 다른 먹잇감인가! 아주 "
+"맛있게 요리해 주지!\""
 
 #: src-en/data/events_sector_pirate.xml:2192
 msgid ""
@@ -2533,17 +2540,20 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2198
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/text"
-msgstr ""
+msgstr "노예상이 사냥감을 잡을 때까지 기다린다."
 
 #: src-en/data/events_sector_pirate.xml:2200
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/text"
 msgstr ""
+"당신은 노예상이 일을 마칠 때까지 정중히 기다렸습니다. 사냥이 끝나자 "
+"노예상에게서 교신이 왔습니다. \"참을성 있는 분이군요. 거래하고 싶으신 건가요?"
+"\""
 
 #: src-en/data/events_sector_pirate.xml:2202
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "흡혈초 노예를 산다."
 
 #: src-en/data/events_sector_pirate.xml:2204
 msgid ""
@@ -2558,7 +2568,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2216
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "셸 노예를 산다."
 
 #: src-en/data/events_sector_pirate.xml:2218
 msgid ""
@@ -2573,7 +2583,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2230
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/choice[@req=\"rep_slaver\"]/text"
-msgstr ""
+msgstr "[평판: 1+] 경작자를 산다."
 
 #: src-en/data/events_sector_pirate.xml:2232
 msgid ""
@@ -2588,12 +2598,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2244
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/choice[4]/text"
-msgstr "응답하지 않는다."
+msgstr "아니요."
 
 #: src-en/data/events_sector_pirate.xml:2246
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[2]/event/choice[4]/event/text"
-msgstr ""
+msgstr "\"예 알겠습니다. 그렇게 말하신다면...?\" 노예상은 어리둥절해하며 떠납니다."
 
 #: src-en/data/events_sector_pirate.xml:2248
 msgid ""
@@ -2608,7 +2618,8 @@ msgstr "정거장을 피한다."
 #: src-en/data/events_sector_pirate.xml:2258
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_VAMPWEED\"]/choice[3]/event/text"
-msgstr ""
+msgstr "이런 상황에 휘말릴 필요 없습니다. 굳이 개입하지 않으면 누구도 당신을 좋거나 "
+"나쁘게 생각하지 않을 것입니다."
 
 #: src-en/data/events_sector_pirate.xml:2260
 msgid ""
@@ -2623,17 +2634,18 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:2273
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/text"
-msgstr ""
+msgstr "알게온 함선이 구조 신호를 송출하고 있습니다. 노예를 수급하려는 티카카 함선에 "
+"쫓기는 중입니다."
 
 #: src-en/data/events_sector_pirate.xml:2275
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[1]/text"
-msgstr ""
+msgstr "티카카 함선과 싸운다."
 
 #: src-en/data/events_sector_pirate.xml:2277
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[1]/event/text"
-msgstr ""
+msgstr "티카카 함선은 당신이 새로운 사냥감으로서 마음에 든 모양입니다!"
 
 #: src-en/data/events_sector_pirate.xml:2280
 msgid ""
@@ -2643,12 +2655,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2286
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[2]/text"
-msgstr ""
+msgstr "티카카 측이 도착하기 전에 알게온 함선과 싸운다."
 
 #: src-en/data/events_sector_pirate.xml:2288
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[2]/event/text"
-msgstr ""
+msgstr "알게온 함선은 교전을 피할 수 없는 상황이지만, 이곳에 가만히 있을 생각은 없어 "
+"보입니다!"
 
 #: src-en/data/events_sector_pirate.xml:2291
 msgid ""
@@ -2658,12 +2671,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2297
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[3]/text"
-msgstr ""
+msgstr "해적과 엮이지 말자."
 
 #: src-en/data/events_sector_pirate.xml:2299
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"DISTRESS_PIRATE_ARGEONN_TIIIKAKA\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신은 해적들이 알아서 분쟁을 해결하도록 내버려뒀습니다."
 
 #: src-en/data/events_sector_pirate.xml:2301
 msgid ""
@@ -2679,26 +2692,34 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/text"
 msgstr ""
+"사고를 당한 노예선이 이 송신소에 표류하고 있습니다. 손상이 심해서 교신도 "
+"버거워 보입니다. \"이 함선의 선원들은 끔찍한 식물 괴물에게 잡아먹혔어요! "
+"다행히도 저희 노예들은 구금실에 있었기 때문에 들키지 않았죠...\""
 
 #: src-en/data/events_sector_pirate.xml:2326
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/text"
-msgstr ""
+msgstr "식물 괴물에 대해 물어본다."
 
 #: src-en/data/events_sector_pirate.xml:2328
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/text"
 msgstr ""
+"\"괴물은 이 함선에 있던 모두를, 물론 우리는 빼고, 전부 잡아먹고 자기 "
+"함선으로 돌아갔어요... 아마 이 구역 어딘가에서 찾을 수 있을 거예요.\" "
+"노예들은 괴물의 행선지를 파악하는 데 도움이 되도록 노예선의 일지를 "
+"보내줬습니다. 노예 중 한 명을 설득해 함께 가자고 할 수도 있습니다."
 
 #: src-en/data/events_sector_pirate.xml:2331
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "분리주의자에게 함께 가자고 한다."
 
 #: src-en/data/events_sector_pirate.xml:2333
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "분리주의자 노예는 당신의 배에서 일하기로 동의했고, 나머지 노예는 가까운 "
+"번화계에서 내리기로 했습니다."
 
 #: src-en/data/events_sector_pirate.xml:2336
 msgid ""
@@ -2708,12 +2729,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2342
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "의무병에게 함께 가자고 한다."
 
 #: src-en/data/events_sector_pirate.xml:2344
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "의무병 노예는 당신의 배에서 일하기로 동의했고, 나머지 노예는 가까운 "
+"번화계에서 내리기로 했습니다."
 
 #: src-en/data/events_sector_pirate.xml:2347
 msgid ""
@@ -2723,12 +2745,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2353
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "망명자에게 함께 가자고 한다."
 
 #: src-en/data/events_sector_pirate.xml:2355
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "망명자 노예는 당신의 배에서 일하기로 동의했고, 나머지 노예는 가까운 "
+"번화계에서 내리기로 했습니다."
 
 #: src-en/data/events_sector_pirate.xml:2358
 msgid ""
@@ -2738,17 +2761,18 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2364
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "아무도 데려가지 않는다."
 
 #: src-en/data/events_sector_pirate.xml:2370
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[2]/text"
-msgstr ""
+msgstr "이 미친 노예들을 무시한다."
 
 #: src-en/data/events_sector_pirate.xml:2372
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SLAVE_SHIP_DERELICT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 노예들을 모두 가까운 번화게에 내려주기로 했습니다. 자유를 되찾다니 "
+"엄청난 행운이죠."
 
 #: src-en/data/events_sector_pirate.xml:2374
 msgid ""
@@ -2764,16 +2788,23 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"PIRATE_VIGILANTE_SCRAP\"]/text"
 msgstr ""
+"당신은 모든 생존자를 태운 후, 버려진 노예선에서 쓸만한 걸 찾기 시작합니다. "
+"이미 대부분 약탈당했지만 잔해 속에서 약간의 자원을 찾을 수 있었습니다. "
+"당신은 안전한 피난처를 발견하고 곧바로 노예들을 내려줬습니다."
 
 #: src-en/data/events_sector_pirate.xml:2392
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "이 송신소에 선원을 먹는 식인 식물 괴물이 있다는 이야기를 들었습니다."
 
 #: src-en/data/events_sector_pirate.xml:2402
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_SLAVER\"]/text"
 msgstr ""
+"도약을 마치자마자 화제의 그 함선이 당신을 향해 돌아섰습니다. 가까이 "
+"다가가자, 무기를 충전 중인 것이 보입니다. 커다란 경작자가 당신을 비웃습니다. "
+"\"도색은 다르지만... 너도 노예무역에 가담한 적 있지? 대답할 필요 없어. 이제 "
+"곧 그 선택을 후회하게 될 거야!\""
 
 #: src-en/data/events_sector_pirate.xml:2405
 msgid ""
@@ -2783,62 +2814,77 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2410
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/text"
-msgstr ""
+msgstr "도약을 마치자마자 화제의 그 함선이 당신을 향해 돌아섰습니다. \"원하는 게 "
+"뭐야? 너랑 말다툼할 시간 없어.\""
 
 #: src-en/data/events_sector_pirate.xml:2412
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/text"
-msgstr ""
+msgstr "그의 학살에서 살아남은 노예들에 대해 얘기한다."
 
 #: src-en/data/events_sector_pirate.xml:2414
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/text"
 msgstr ""
+"\"그래서? 그 노예들하고 말다툼할 시간도 없어. 내 허기는 오직 노예상으로만 "
+"채워져.\" 경작자의 복부(또는 그에 준하는 것)가 꾸르륵거립니다. \"으, 하지만 "
+"결코 가득 차는 일은 없지.\""
 
 #: src-en/data/events_sector_pirate.xml:2416
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "노예상과 무슨 일이 있었던 겁니까?"
 
 #: src-en/data/events_sector_pirate.xml:2418
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"예전에 티카카 선박 몇 척과 협정을 맺은 적이 있었어. 어떤 국토에서 순찰대를 "
+"발견하면 다른 함선들에 알리기로 말이야. 그러면 그 함선들도 또다시 다른 "
+"함선들에 알리는 거지. 그런데 너, 혹시 '도둑들 사이에 의리란 없다'라는 격언 "
+"알아? 알고 보니 정규 통신원 중 하나가 우리를 희생해서 승진할 기회를 "
+"찾았더라고.\""
 
 #: src-en/data/events_sector_pirate.xml:2420
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "왜 그렇게 허기를 느끼는 거죠?"
 
 #: src-en/data/events_sector_pirate.xml:2422
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"물론, 처음부터 이랬던 건 아니야. 나의 옛 함선과 동료들이 버려졌을 때, "
+"보급품은 다 떨어지고 없었어. 살아남으려면 무엇을 해야 할지 금방 알 수 "
+"있었지. 하지만 나는 혼자 남은 후에도 한참을 버텨야 했고, 그러다 우연히 셸이 "
+"나를 발견했어. 그 뭐냐, 걔들은 항상 흡혈초 지원자를 구하잖아. 덕분에 나는 "
+"살아났지만, 그 이후로 허기가 가시질 않아.\""
 
 #: src-en/data/events_sector_pirate.xml:2424
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "도울 일이 있을까요?"
 
 #: src-en/data/events_sector_pirate.xml:2430
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "도울 일이 있을까요?"
 
 #: src-en/data/events_sector_pirate.xml:2436
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "도울 일이 있을까요?"
 
 #: src-en/data/events_sector_pirate.xml:2442
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[2]/text"
-msgstr ""
+msgstr "죽어라, 괴물아!"
 
 #: src-en/data/events_sector_pirate.xml:2444
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"그래, 내가 괴물로 보이지? 그렇다면 그 함선을 쳐부수고 네 시체를 맛봐도 "
+"이해해 주겠군!\""
 
 #: src-en/data/events_sector_pirate.xml:2447
 msgid ""
@@ -2848,12 +2894,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2453
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[3]/text"
-msgstr ""
+msgstr "문제 일으킬 생각 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:2455
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_NORMAL\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"좋아. 동감이야.\""
 
 #: src-en/data/events_sector_pirate.xml:2457
 msgid ""
@@ -2869,6 +2915,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_GOOD\"]/text"
 msgstr ""
+"도약을 마치자마자 화제의 그 함선이 당신을 향해 돌아섰습니다. 통신기에 나타난 "
+"경작자가 이를 드러내며 웃습니다. \"배회자, 최근에 노예상을 몇몇 죽였다고 "
+"들었어. 그 시체 수를 더 늘리고 싶다면, 나에게 딱 맞는 제안이 있지.\""
 
 #: src-en/data/events_sector_pirate.xml:2470
 msgid ""
@@ -2878,12 +2927,13 @@ msgstr "이야기를 들어본다."
 #: src-en/data/events_sector_pirate.xml:2474
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_GOOD\"]/choice[2]/text"
-msgstr ""
+msgstr "죽어라, 괴물아!"
 
 #: src-en/data/events_sector_pirate.xml:2476
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_GOOD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"그래, 내가 괴물로 보이지? 그렇다면 그 함선을 쳐부수고 네 시체를 맛봐도 "
+"이해해 주겠군!\""
 
 #: src-en/data/events_sector_pirate.xml:2479
 msgid ""
@@ -2893,12 +2943,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2485
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_GOOD\"]/choice[3]/text"
-msgstr ""
+msgstr "문제 일으킬 생각 없습니다."
 
 #: src-en/data/events_sector_pirate.xml:2487
 msgid ""
 "data/events_sector_pirate.xml$/FTL/event[@name=\"VIGILANTE_CULTIVATOR_GOOD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"그럼 다른 곳으로 가줘. 우리가 알아서 처리할 테니.\""
 
 #: src-en/data/events_sector_pirate.xml:2489
 msgid ""
@@ -2914,16 +2964,22 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_HELP\"]/text"
 msgstr ""
+"\"최근 티카카에 고속 승진 중인 노예상이 있어. 그리고 그들의 기지가 이 "
+"송신소에 숨겨져 있지. 공격을 계획하고 있지만 나 혼자 가는 건 어려워 보여. "
+"기지는 항상 세 척의 함선이 지키고 있는데, 두 척까지는 어떻게 해보겠지만, 세 "
+"척은 무리야. 특히 지원군을 요청할 수도 있으니 더더욱.\""
 
 #: src-en/data/events_sector_pirate.xml:2502
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_HELP\"]/choice[1]/text"
-msgstr ""
+msgstr "노예선을 공격하는 데 동의한다."
 
 #: src-en/data/events_sector_pirate.xml:2504
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_HELP\"]/choice[1]/event/text"
 msgstr ""
+"\"완벽해. 반대편에서 보자.\" 당신과 흡혈초의 함선이 기지에 접근합니다. "
+"경비선 중 하나가 기지로부터 화력 지원을 받으며 곧바로 돌격합니다!"
 
 #: src-en/data/events_sector_pirate.xml:2508
 msgid ""
@@ -2933,12 +2989,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:2514
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_HELP\"]/choice[2]/text"
-msgstr ""
+msgstr "거절한다."
 
 #: src-en/data/events_sector_pirate.xml:2516
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"VIGILANTE_CULTIVATOR_HELP\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"시간만 잡아먹었군.\""
 
 #: src-en/data/events_sector_pirate.xml:2518
 msgid ""
@@ -2954,26 +3010,35 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BASE_ASSAULT_AFTERMATH\"]/text"
 msgstr ""
+"당신은 경작자가 다른 경비선을 정리하는 것을 도왔습니다. 경작자의 함선은 "
+"수명이 다해가지만, 그 선원들은 함선이 폭발하기 직전에 노예상 기지로 내려가는 "
+"데 성공했습니다. 당신도 그들을 따라 내려갔을 때는 이미 학살극이 벌어지고 "
+"있었습니다. 경작자가 이에 낀 무언가를 빼내며 두목의 숙소에서 걸어 나옵니다. "
+"\"아주 만족스러웠어. 어쨌든, 내 함선이 사라졌으니 이제 널 따라가도 되겠어. "
+"어때?\""
 
 #: src-en/data/events_sector_pirate.xml:2533
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BASE_ASSAULT_AFTERMATH\"]/choice[1]/text"
-msgstr ""
+msgstr "경작자를 데려간다."
 
 #: src-en/data/events_sector_pirate.xml:2535
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BASE_ASSAULT_AFTERMATH\"]/choice[1]/event/text"
-msgstr ""
+msgstr "경작자가 선원으로 합류했습니다. 그의 전 동료들은 기지에 남아 기지에 있는 "
+"재물을 모으고 노예들을 풀어줬습니다."
 
 #: src-en/data/events_sector_pirate.xml:2540
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BASE_ASSAULT_AFTERMATH\"]/choice[2]/text"
-msgstr ""
+msgstr "경작자를 기지에 두고 간다."
 
 #: src-en/data/events_sector_pirate.xml:2542
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"SLAVER_BASE_ASSAULT_AFTERMATH\"]/choice[2]/event/text"
 msgstr ""
+"\"흠, 좋아. 그럼 어떤 부주의한 노예상이 재보급하러 이곳에 올 때까지 기다리지 "
+"뭐.\" 당신은 전장 주변의 잔해를 모두 인양했습니다."
 
 #: src-en/data/events_sector_pirate.xml:2552
 msgid ""
@@ -2998,7 +3063,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:2559
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SMUGGLER_RAID_START\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_pirate.xml:2561
 msgid ""
@@ -3042,7 +3107,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:2591
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SMUGGLER_RAID\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄이 압류한 밀수업자 금고의 위치입니다."
 
 #: src-en/data/events_sector_pirate.xml:2593
 msgid "data/events_sector_pirate.xml$//event[@name=\"QUEST_SMUGGLER_RAID\"]/text"
@@ -3348,7 +3413,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:2771
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SMUGGLER_RAID_VAULT\"]/choice/event/choice[8]/text"
-msgstr ""
+msgstr "문을 부숴버린다."
 
 #: src-en/data/events_sector_pirate.xml:2773
 msgid ""
@@ -3360,7 +3425,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml:2786
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_SMUGGLER_RAID_FINISH\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "화물을 돌려주고 보상을 받으러 간다."
 
 #: src-en/data/events_sector_pirate.xml:2788
 msgid ""
@@ -3423,7 +3488,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:2847
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"FLOATING_CARGO_MV\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 화물을 스캔해본다."
 
 #: src-en/data/events_sector_pirate.xml:2851
 msgid ""
@@ -3657,6 +3722,9 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml:3070
 msgid "data/events_sector_pirate.xml$//event[@name=\"SMUGGLER_UNLOCK_1\"]/text"
 msgstr ""
+"당신은 선원을 경비정으로 순간이동시켰습니다. 지원군이 도착할 때까지 시간이 "
+"별로 없지만, 좌표가 표시된 성도를 발견했습니다. 일종의 조선소로 향하는 "
+"좌표로 보입니다. 당신은 좌표를 당신의 성도에 표시하고 경비정을 빠져나갑니다."
 
 #: src-en/data/events_sector_pirate.xml:3074
 msgid ""
@@ -3977,7 +4045,7 @@ msgstr "이런 걸 찾아온 게 아니다. 떠나자."
 #: src-en/data/events_sector_pirate.xml:3292
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"QUEST_TUCO_CASINO\"]/choice[2]/event/text"
-msgstr ""
+msgstr "여기서 무엇을 하려고 했든 이제 무의미해졌습니다."
 
 #: src-en/data/events_sector_pirate.xml:3294
 msgid ""
@@ -4122,12 +4190,12 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_pirate.xml:3389
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"TUCO_SEARCH\"]/choice[2]/text"
-msgstr ""
+msgstr "에이, 그냥 가자."
 
 #: src-en/data/events_sector_pirate.xml:3391
 msgid ""
 "data/events_sector_pirate.xml$//event[@name=\"TUCO_SEARCH\"]/choice[2]/event/text"
-msgstr ""
+msgstr "여기서 무엇을 하려고 했든 이제 무의미해졌습니다."
 
 #: src-en/data/events_sector_pirate.xml:3393
 msgid ""
@@ -4178,4 +4246,3 @@ msgstr ""
 "투코와 싸우는 동안 온갖 곳이 박살 났지만, 요트의 주인은 당신에게 몇 번이고 감사 인사를 전합니다. \"저 멍청이는 몇 년 동안 우리 "
 "업장을 드나들면서 사고를 안 친 적이 없습니다. 이제야 응당 대가를 치루는군요. 참나, 공포의 해적 꼬라지 하고는. 감사의 표시로 이 "
 "스크랩과 슬롯머신을 받아주십시오!\" 생각치도 못한 종류의 보상을 받긴 했지만, 그렇다고 사양할 생각은 없습니다."
-

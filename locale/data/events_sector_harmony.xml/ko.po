@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-03 14:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_harmonyxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_harmony.xml:28
 msgid ""
@@ -30,7 +37,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"FINISH_BEACON_HARMONY\"]/choice[@req=\"unique_turzil\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "이제 당신에겐 시간이 좀 남아있습니다."
 
 #: src-en/data/events_sector_harmony.xml:47
 msgid ""
@@ -129,7 +136,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:126
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_SALVAGER\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_harmony.xml:128
 msgid ""
@@ -218,7 +225,7 @@ msgstr ""
 
 #: src-en/data/events_sector_harmony.xml:188
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_AID\"]/choice[1]/text"
-msgstr ""
+msgstr "수리."
 
 #: src-en/data/events_sector_harmony.xml:190
 msgid ""
@@ -227,7 +234,7 @@ msgstr "\"요구 수락됨. 수리 드론 방출.\""
 
 #: src-en/data/events_sector_harmony.xml:195
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_AID\"]/choice[2]/text"
-msgstr ""
+msgstr "연료."
 
 #: src-en/data/events_sector_harmony.xml:197
 msgid ""
@@ -236,7 +243,7 @@ msgstr "\"요구 수락됨. 공중급유 드론 방출.\""
 
 #: src-en/data/events_sector_harmony.xml:202
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_AID\"]/choice[3]/text"
-msgstr "탄약이 필요하다."
+msgstr "탄약."
 
 #: src-en/data/events_sector_harmony.xml:204
 msgid ""
@@ -245,7 +252,7 @@ msgstr "\"요구 수락됨. 보급 드론 방출.\""
 
 #: src-en/data/events_sector_harmony.xml:209
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_AID\"]/choice[4]/text"
-msgstr "지도가 필요하다."
+msgstr "지도 데이터."
 
 #: src-en/data/events_sector_harmony.xml:211
 msgid ""
@@ -307,7 +314,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:257
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_SURRENDER_MV\"]/choice[3]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_harmony.xml:259
 msgid ""
@@ -335,31 +342,39 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_INTRO\"]/text[1]"
 msgstr ""
+"\"본 함 = 하모니 조사 부대. 임무 요구 사항: 필수 구역에 안전 조치 시행. 안전 "
+"조치가 함의하는 것: 귀하의 함선에 대한 100%의 접근 권한.\""
 
 #: src-en/data/events_sector_harmony.xml:316
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_INTRO\"]/text[2]"
 msgstr ""
+"\"가만히 있어라. 귀하 = 도망자를 숨기고 있을 수도 있음. 우리는 다음을 제공: "
+"의혹에서 벗어날 기회. 요구 사항: 귀하의 함선에 대한 [완전한] 접근 허용.\""
 
 #: src-en/data/events_sector_harmony.xml:317
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_INTRO\"]/text[3]"
-msgstr ""
+msgstr "\"귀하의 선박 != 승인됨. Sudo: 하모니 엔지의 승선 허용.\" 엔지가 기대에 찬 "
+"표정으로 기다립니다."
 
 #: src-en/data/events_sector_harmony.xml:318
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_INTRO\"]/text[4]"
 msgstr ""
+"\"귀하 = 위험. 위험한 도망자 = 귀하의 함선 이용 가능성: 70%. 본 함선의 "
+"접근을 허용하지 않으면 파괴해 버릴 수 있음.\""
 
 #: src-en/data/events_sector_harmony.xml:323
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"rep_comb_engi\"]/text"
-msgstr ""
+msgstr "당신이 하모니와 좋은 관계를 유지하고 있다는 점과 당신의 임무가 중요하다는 "
+"점을 언급한다."
 
 #: src-en/data/events_sector_harmony.xml:325
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"rep_comb_engi\"]/event/text"
-msgstr ""
+msgstr "\"확인. 귀하의 존재 = 하모니에 긍정적. 보조금 지급 승인.\""
 
 #: src-en/data/events_sector_harmony.xml:328
 msgid ""
@@ -374,12 +389,13 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_harmony.xml:338
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"engi_defender\"]/text"
-msgstr ""
+msgstr "(엔지 수비대) 이 함선은 이미 승인되었습니다. 우리의 임무는 하모니에 도움이 "
+"될 것입니다."
 
 #: src-en/data/events_sector_harmony.xml:340
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"engi_defender\"]/event/text"
-msgstr ""
+msgstr "\"확인. 신뢰할 수 있는 선원 감지됨. 보조금 지급 승인.\""
 
 #: src-en/data/events_sector_harmony.xml:343
 msgid ""
@@ -395,13 +411,15 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_HARMONY_FUGITIVE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_harmony.xml:355
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_HARMONY_FUGITIVE\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"엔지는 당신의 함선을 철저히 수색하고 빈손으로 돌아갔습니다. \"귀하 = 승인됨. "
+"도망자 = 발견되면 보고할 것. 이제 이동해도 됨.\""
 
 #: src-en/data/events_sector_harmony.xml:357
 msgid ""
@@ -419,13 +437,16 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_HARMONY_FUGITIVE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "승낙한다."
 
 #: src-en/data/events_sector_harmony.xml:369
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_HARMONY_FUGITIVE\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"엔지 수사관은 당신의 함선에서 선원들을 조사했지만, 처음에는 도망자를 "
+"발견하지 못했습니다. 그러나 그들이 떠나기 직전에 문제가 되는 선원이 "
+"걸렸습니다. \"도망자 발견. 적대적 개입 = 필요.\""
 
 #: src-en/data/events_sector_harmony.xml:372
 msgid ""
@@ -436,12 +457,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:378
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "수색에 동의하지 않는다."
 
 #: src-en/data/events_sector_harmony.xml:380
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "\"용납 불가. 거부 = 유죄 인정. 체포 임박.\" 쉽게 빠져나가긴 글렀네요."
 
 #: src-en/data/events_sector_harmony.xml:383
 msgid ""
@@ -451,57 +472,66 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:389
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "제리가 초조하게 말합니다. \"하모니가 제 삼촌과의 관계를 알고 있는 것 같아요. "
+"저를 감시 목록에 올렸을 거예요.\""
 
 #: src-en/data/events_sector_harmony.xml:393
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"unique_turzil\"]/text"
-msgstr ""
+msgstr "투르질이 말합니다. \"-하모니-는 [여전히] 나를 찾고 있음. 내 존재가 발각되면 "
+"우린 공격을 받을 것.\""
 
 #: src-en/data/events_sector_harmony.xml:397
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/text"
-msgstr ""
+msgstr "분리주의자가 이 함선을 파괴해야 한다고 말합니다."
 
 #: src-en/data/events_sector_harmony.xml:401
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"human_technician\"]/text"
-msgstr ""
+msgstr "반군과 하모니의 불가침 조약에 따라 웬트워스 기술자는 하모니의 영역에 출입할 "
+"수 없습니다."
 
 #: src-en/data/events_sector_harmony.xml:405
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"human_mfk\"]/text"
-msgstr ""
+msgstr "엔지는 자신들의 영역에 전직 MFK 에이스가 들어오는 것을 용납하지 않을 "
+"것입니다."
 
 #: src-en/data/events_sector_harmony.xml:409
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"human_angel\"]/text"
-msgstr ""
+msgstr "천사가 이 상황을 벗어나기 위해선 싸우는 것이 좋다고 말합니다."
 
 #: src-en/data/events_sector_harmony.xml:413
 msgid ""
 "data/events_sector_harmony.xml$/FTL/event[@name=\"HARMONY_SEARCH_NORMAL_STANDING\"]/choice[@req=\"LIST_CREW_LEGION\"]/text"
-msgstr ""
+msgstr "군단은 반군의 모든 부대 중에서도 손에 꼽히게 위험하므로, 하모니는 이들의 "
+"존재에 분개할 것입니다."
 
 #: src-en/data/events_sector_harmony.xml:418
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_ATTACK\"]/text[1]"
-msgstr ""
+msgstr "\"도망자 발견. 폭력적 행동 = 정당함.\" 엔지 함선은 주저 없이 당신을 "
+"공격합니다."
 
 #: src-en/data/events_sector_harmony.xml:419
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_ATTACK\"]/text[2]"
-msgstr ""
+msgstr "\"당신을 파괴하면 하모니의 번영 지수가 0.03% 증가. 저항하지 말 것.\" "
+"하모니가 순찰대를 보냈습니다!"
 
 #: src-en/data/events_sector_harmony.xml:420
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_ATTACK\"]/text[3]"
-msgstr ""
+msgstr "\"최적의 하모니 안전을 위해서 당신을 말살해야 함.\" 엔지가 악명 때문에 "
+"당신을 파괴하려고 합니다."
 
 #: src-en/data/events_sector_harmony.xml:421
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"HARMONY_SEARCH_ATTACK\"]/text[4]"
-msgstr ""
+msgstr "\"당신의 생존은 하모니의 효율성에 위해가 됨. 용납할 수 없음.\" 하모니가 최근 "
+"당신의 행동을 문제 삼은 것 같습니다."
 
 #: src-en/data/events_sector_harmony.xml:427
 msgid ""
@@ -511,31 +541,35 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:433
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/text"
 msgstr ""
+"송신소에 작은 경고판이 있습니다. \"경고: 이 송신소의 행성계는 이 구역에서 "
+"가장 자주 맨티스 습격이 발생. 주의: 이 송신소에 오래 머무르지 말 것. 맨티스 "
+"함선을 발견하면 하모니에 신고 바람.\""
 
 #: src-en/data/events_sector_harmony.xml:435
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(장거리 탐사용 스캐너) 스캐너로 맨티스의 위치를 찾아낸다."
 
 #: src-en/data/events_sector_harmony.xml:439
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(최고급 스캐너) 스캐너로 맨티스의 위치를 찾아낸다."
 
 #: src-en/data/events_sector_harmony.xml:443
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/choice[3]/text"
-msgstr ""
+msgstr "맨티스를 찾아본다."
 
 #: src-en/data/events_sector_harmony.xml:447
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/choice[4]/text"
-msgstr ""
+msgstr "경고에 따라 도약을 준비한다."
 
 #: src-en/data/events_sector_harmony.xml:449
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_ADVISORY\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신은 분명 맨티스와 싸울 수 있지만, 굳이 맨티스를 찾으러 다니는 게 현명하게 "
+"시간을 보내는 방법은 아닌 것 같습니다."
 
 #: src-en/data/events_sector_harmony.xml:451
 msgid ""
@@ -551,11 +585,14 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_LOOKING_FOR_MANTIS\"]/event[1]/text"
 msgstr ""
+"안타깝지만 행성계 전체를 확인해도 맨티스의 흔적을 찾을 수 없었습니다. 지금 "
+"할 수 있는 일은 송신소로 돌아가서 도약을 준비하는 것뿐입니다."
 
 #: src-en/data/events_sector_harmony.xml:466
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_LOOKING_FOR_MANTIS\"]/event[2]/text"
-msgstr ""
+msgstr "행성계를 탐험하다가 맨티스에게 기습당했습니다! 빠져나가려면 싸워야 할 것 "
+"같습니다!"
 
 #: src-en/data/events_sector_harmony.xml:469
 msgid ""
@@ -565,7 +602,8 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:474
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_LOOKING_FOR_MANTIS\"]/event[3]/text"
-msgstr ""
+msgstr "행성계를 탐험하다가 영주에게 기습당했습니다! 빠져나가려면 싸워야 할 것 "
+"같습니다!"
 
 #: src-en/data/events_sector_harmony.xml:477
 msgid ""
@@ -576,21 +614,29 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_FORWARD_TO_HARMONY\"]/text"
 msgstr ""
+"당신은 가장 가까운 통신 허브로 장거리 통신을 보냈습니다. 얼마 지나지 않아 "
+"하모니 함선이 당신에게 다가오며 메시지를 보냅니다. \"감사함. 이 정보 덕분에 "
+"앞으로 유사한 공격이 줄어들 것임.\" 하모니는 수고에 대한 보상으로 스크랩과 "
+"드론 부품을 제공했습니다."
 
 #: src-en/data/events_sector_harmony.xml:487
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/text"
 msgstr ""
+"당신의 스캐너는 다수의 맨티스 함선을 찾아냈습니다. 이곳저곳에 매복하고 있던 "
+"모양입니다. 위치를 알고 있으므로 원하는 종류의 함선과 싸우거나, 전투는 "
+"피하고 하모니에 정보만 제공할 수도 있습니다."
 
 #: src-en/data/events_sector_harmony.xml:489
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/choice[1]/text"
-msgstr "일반 라니우스와 싸운다."
+msgstr "평범한 맨티스와 싸운다."
 
 #: src-en/data/events_sector_harmony.xml:491
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신은 매복 중인 맨티스를 신속히 조준했습니다. 하지만 그들은 반격할 준비가 "
+"되어 있었습니다!"
 
 #: src-en/data/events_sector_harmony.xml:494
 msgid ""
@@ -600,12 +646,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:500
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/choice[2]/text"
-msgstr ""
+msgstr "영주와 싸운다."
 
 #: src-en/data/events_sector_harmony.xml:502
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 매복 중인 영주를 신속히 조준했습니다. 하지만 그들은 반격할 준비가 "
+"되어 있었습니다!"
 
 #: src-en/data/events_sector_harmony.xml:505
 msgid ""
@@ -615,7 +662,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:511
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_LOCATE_MANTIS_AMBUSH\"]/choice[3]/text"
-msgstr ""
+msgstr "정보만 전달한다."
 
 #: src-en/data/events_sector_harmony.xml:516
 msgid ""
@@ -636,11 +683,13 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:524
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DEFEAT_SUZERAIN_ELITE_ADVISORY\"]/choice/event/choice/text"
-msgstr ""
+msgstr "다른 함선들의 위치 정보를 하모니에 전달한다."
 
 #: src-en/data/events_sector_harmony.xml:532
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_IMPLANT_UNION\"]/text"
 msgstr ""
+"한 하모니 함선이 협회 함선과 정박해 있습니다. 소량의 잔해가 있는 것으로 보아 "
+"당신이 도착하기 전에 전투가 있었던 것 같습니다."
 
 #: src-en/data/events_sector_harmony.xml:535
 msgid ""
@@ -651,16 +700,21 @@ msgstr "조사한다."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_IMPLANT_UNION\"]/choice/event/text"
 msgstr ""
+"엔지 함선이 응답합니다. \"이 함선 = 향후 반군에 동조할 가능성 높음. 보험 "
+"회계 보고서에 따르면 최선의 선택 = 행동 교정 임플란트를 강제로 설치하는 것. "
+"이 조치 = 하모니의 번영과 안전을 위해 필요함.\""
 
 #: src-en/data/events_sector_harmony.xml:539
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_IMPLANT_UNION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "우리는 이 역겨운 인권 침해를 방관할 수 없다!"
 
 #: src-en/data/events_sector_harmony.xml:541
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_IMPLANT_UNION\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"하모니의 번영 >> 인간의 권리. 하모니의 번영을 방해하는 행위 = 용납 불가.\" "
+"엔지는 당신의 위협에 행동으로 대응합니다."
 
 #: src-en/data/events_sector_harmony.xml:544
 msgid ""
@@ -675,7 +729,8 @@ msgstr "그들에 일에서 손을 뗀다."
 #: src-en/data/events_sector_harmony.xml:552
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_IMPLANT_UNION\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "좀 꺼림직하기는 하지만, 당신은 모르는 사실이 있을 수도 있습니다. 하모니를 "
+"자극하는 것도 좋지 않고요."
 
 #: src-en/data/events_sector_harmony.xml:554
 msgid ""
@@ -691,16 +746,24 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"ENGI_IMPLANT_UNION_SAVED\"]/text[1]"
 msgstr ""
+"\"도와주셔서 얼마나 고마운지 모르겠어요. 연방이 생각만큼 나쁘지는 않은 것 "
+"같네요.\" 민간인이 임무에 도움 될 만한 보조장비를 제공했습니다."
 
 #: src-en/data/events_sector_harmony.xml:568
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"ENGI_IMPLANT_UNION_SAVED\"]/text[2]"
 msgstr ""
+"\"맹세컨대 저희는 반군에 가담하지 않았어요. 연방이 인류에게 있어 옳은 일을 "
+"하고 있지 않다고 말할 자유를 원했을 뿐이에요. 어쨌든 구해주셔서 감사합니다.\""
+" 민간인들은 성급히 입장을 표명하면서 보조장비를 건네줬습니다."
 
 #: src-en/data/events_sector_harmony.xml:569
 msgid ""
 "data/events_sector_harmony.xml$//textList[@name=\"ENGI_IMPLANT_UNION_SAVED\"]/text[3]"
 msgstr ""
+"\"하모니는 어떤 비판도 받아들이지 않아요. 최대한 빨리 이 구역에서 "
+"빠져나가야겠어요. 도와주셔서 감사합니다.\" 민간인이 당신의 수고에 대한 "
+"보답으로 보조장비를 전해줬습니다."
 
 #: src-en/data/events_sector_harmony.xml:575
 msgid ""
@@ -709,17 +772,18 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_harmony.xml:581
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/text"
-msgstr ""
+msgstr "공동체 함선과 하모니 함선 사이에 난투가 벌어지고 있습니다."
 
 #: src-en/data/events_sector_harmony.xml:583
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[1]/text"
-msgstr ""
+msgstr "흡혈초를 공격한다."
 
 #: src-en/data/events_sector_harmony.xml:585
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"당연히 연방은 이 미친 기계의 편을 드시겠지.\" 흡혈초가 당신의 공격에 "
+"대응하기 위해 다가옵니다!"
 
 #: src-en/data/events_sector_harmony.xml:588
 msgid ""
@@ -729,12 +793,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:594
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[2]/text"
-msgstr "엔지를 공격한다!"
+msgstr "엔지를 공격한다."
 
 #: src-en/data/events_sector_harmony.xml:596
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"연방이 동맹국의 의무를 위반함. 배반자 처단 준비.\""
 
 #: src-en/data/events_sector_harmony.xml:599
 msgid ""
@@ -744,12 +808,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:605
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[3]/text"
-msgstr ""
+msgstr "싸우게 놔둔다."
 
 #: src-en/data/events_sector_harmony.xml:607
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED\"]/choice[3]/event/text"
-msgstr ""
+msgstr "이 두 함선의 일은 당신과 관련 없습니다."
 
 #: src-en/data/events_sector_harmony.xml:609
 msgid ""
@@ -765,11 +829,16 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED_VAMPWEED_KILLED\"]/text"
 msgstr ""
+"\"연방의 도움에 감사함. 편협한 외계 물질 제거됨. 드론 보상 사출.\" 엔지 "
+"함선은 무슨 일이 일어났는지에 대한 의문을 남겨둔 채 도약해 사라졌습니다."
 
 #: src-en/data/events_sector_harmony.xml:626
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VS_VAMPWEED_ENGI_KILLED\"]/text"
 msgstr ""
+"\"결국 연방에 뭔가 문제가 있는 모양이군. 우리는 무역을 하러 온 것뿐인데, 이 "
+"미친놈들이 갑자기 우리 배를 수색하더니 이유도 말하지 않고 공격했습니다.\" "
+"흡혈초 선장이 그들의 상징적인 드론을 보냈습니다."
 
 #: src-en/data/events_sector_harmony.xml:632
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_SEX\"]/text"
@@ -849,71 +918,89 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/text"
 msgstr ""
+"눈앞에 여러 개의 커다란 덩어리가 보입니다. 두 개는 엄청난 규모의 쓰레기 "
+"더미고, 그 사이에 불분명한 덩어리가 하나 있습니다. 한 쓰레기 더미에는 금속이 "
+"아주 많이 포함되어 있고, 나머지 쓰레기 더미는 크기는 더 크지만 쓸만한 물질이 "
+"거의 없어 보입니다."
 
 #: src-en/data/events_sector_harmony.xml:688
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[1]/text"
-msgstr ""
+msgstr "금속 쓰레기 더미를 조사한다."
 
 #: src-en/data/events_sector_harmony.xml:692
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/text"
-msgstr ""
+msgstr "불분명한 덩어리를 조사한다."
 
 #: src-en/data/events_sector_harmony.xml:694
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/text"
 msgstr ""
+"덩어리에 가까이 다가가자 윙윙거리는 거대한 나노기계 구름과 거대한 방이 "
+"보입니다. 엔지 함선으로 보이는 물체가 주기적으로 금속 파편 더미에서 구름 "
+"쪽으로 무언가를 끌어당기고 있습니다. 그런데 가까이 다가가니 엔지가 당신을 "
+"가로막습니다. \"이 지역 = 엔지의 나노 형태만 출입 가능. 이 송신소에서 "
+"떠나십시오.\""
 
 #: src-en/data/events_sector_harmony.xml:697
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "(하모니 선원) \"지원 = 필요.\""
 
 #: src-en/data/events_sector_harmony.xml:699
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"당신의 엔지는 임무의 중요성을 설명하고 가능한 모든 자원을 요구했습니다. \""
+"...확인. 아군 엔지: 중요한 임무 수행 중. 요청 가능: 하모니 구조물 한 개. "
+"다음 중 선택한 자원을 제공.\""
 
 #: src-en/data/events_sector_harmony.xml:702
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[1]/text"
-msgstr ""
+msgstr "또 다른 엔지를 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:704
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[1]/event/text"
 msgstr ""
+"반짝이는 안개 속으로부터 새로운 엔지가 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다. 엔지는 고개를 끄덕여 명령받을 준비가 되었음을 알립니다."
 
 #: src-en/data/events_sector_harmony.xml:709
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "선원 드론을 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:711
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "반짝이는 안개 속으로부터 드론 도식이 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다."
 
 #: src-en/data/events_sector_harmony.xml:716
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[3]/text"
-msgstr ""
+msgstr "전투 드론을 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:718
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "반짝이는 안개 속으로부터 드론 도식이 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다."
 
 #: src-en/data/events_sector_harmony.xml:725
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "여긴 뭐하는 곳입니까?"
 
 #: src-en/data/events_sector_harmony.xml:727
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"목표 = 구조물을 모아 더 큰 집단에 제공. 자원: 더 많은 [나노기계, 드론 "
+"도식, 선박 부품] 생산. 질문: 답변 완료. 떠나라.\""
 
 #: src-en/data/events_sector_harmony.xml:729
 msgid ""
@@ -923,7 +1010,7 @@ msgstr "엔지를 공격한다!"
 #: src-en/data/events_sector_harmony.xml:731
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "엔지는 당신의 공격에 즉각 반응합니다. 당신의 탐욕을 예상하였기 때문입니다."
 
 #: src-en/data/events_sector_harmony.xml:734
 msgid ""
@@ -933,7 +1020,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:740
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "떠난다."
 
 #: src-en/data/events_sector_harmony.xml:746
 msgid ""
@@ -943,7 +1030,7 @@ msgstr "엔지를 공격한다!"
 #: src-en/data/events_sector_harmony.xml:748
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "엔지는 당신의 공격에 즉각 반응합니다."
 
 #: src-en/data/events_sector_harmony.xml:751
 msgid ""
@@ -953,22 +1040,22 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:757
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "떠난다."
 
 #: src-en/data/events_sector_harmony.xml:763
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[3]/text"
-msgstr ""
+msgstr "큰 쓰레기 더미를 조사한다."
 
 #: src-en/data/events_sector_harmony.xml:767
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[4]/text"
-msgstr ""
+msgstr "덩어리들을 내버려둔다."
 
 #: src-en/data/events_sector_harmony.xml:769
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_DECONSTRUCTOR_JUNKYARD\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신은 덩어리를 조사하는 데 시간을 쓰지 않기로 합니다."
 
 #: src-en/data/events_sector_harmony.xml:771
 msgid ""
@@ -984,16 +1071,30 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[1]/text"
 msgstr ""
+"이 쓰레기 더미는 전체적으로 금속이 아주 풍부한데, 당신은 대부분의 잔해가 "
+"부서진 선박이 압축된 것이라는 사실을 금방 알아챘습니다. 이곳은 분명 일종의 "
+"고철 처리장일 것입니다. 운 좋게도 폐함선 한 척이 조각조각 나눠진 채로 큰 "
+"덩어리 주변을 떠다니고 있어, 광활한 쓰레기 더미 속에서도 쉽게 쓸만한 것을 "
+"찾을 수 있었습니다."
 
 #: src-en/data/events_sector_harmony.xml:789
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[2]/text"
 msgstr ""
+"이 쓰레기 더미는 전체적으로 금속이 아주 풍부한데, 당신은 대부분의 잔해가 "
+"부서진 선박이 압축된 것이라는 사실을 금방 알아챘습니다. 이곳은 분명 일종의 "
+"고철 처리장일 것입니다. 당신은 덩어리의 표면에서 약탈하기 좋아 보이는 "
+"폐함선을 하나 발견했습니다. 다행히도 앞서 본 선박들과는 다르게 원형을 "
+"유지하고 있습니다."
 
 #: src-en/data/events_sector_harmony.xml:794
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[3]/text"
 msgstr ""
+"이 쓰레기 더미는 전체적으로 금속이 아주 풍부하지만, 대부분 너무 단단하게 "
+"압축되어 있습니다. 당신은 스크랩을 찾아 주위를 둘러보다 덩어리 표면이 "
+"들썩이는 것을 발견했습니다. 불행히도 그곳에 있던 폐함선이 갑자기 작동하기 "
+"시작합니다. 떠돌이입니다!"
 
 #: src-en/data/events_sector_harmony.xml:797
 msgid ""
@@ -1004,16 +1105,22 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[4]/text"
 msgstr ""
+"이 쓰레기 더미는 전체적으로 금속이 아주 풍부하지만, 대부분 너무 단단하게 "
+"압축되어 있습니다. 당신은 한동안 잔해 속을 헤매며 쉽게 인양할 수 있을 만한 "
+"물건을 찾아다녔습니다. 하지만 약탈하기 좋아 보이는 커다란 난파선에 다가선 "
+"순간 엔지가 당신을 가로막았습니다. 엔지가 교신을 보냅니다. \"이 난파선 = "
+"엔지 하모니의 소유물. 귀하는 현재 무단 침입 중. 떠나지 않으면 징벌적 조치가 "
+"뒤따를 것임. 이것은 마지막 경고.\""
 
 #: src-en/data/events_sector_harmony.xml:805
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[4]/choice[1]/text"
-msgstr ""
+msgstr "버틴다."
 
 #: src-en/data/events_sector_harmony.xml:807
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_RICH_FIELD\"]/event[4]/choice[1]/event/text"
-msgstr ""
+msgstr "그냥 떠본 말은 아니었던 모양이네요. 엔지가 당신을 공격합니다!"
 
 #: src-en/data/events_sector_harmony.xml:810
 msgid ""
@@ -1029,36 +1136,50 @@ msgstr "떠난다."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[1]/text"
 msgstr ""
+"쓰레기 더미를 수색해 봤지만, 여기에는 가치 있는 것이 없는 것 같습니다. "
+"게다가 잔해가 너무 자유분방하게 퍼져 있어서 FTL 드라이브를 충전해야 하는 "
+"동안 손상을 입지 않도록 주의해야 할 것 같습니다!"
 
 #: src-en/data/events_sector_harmony.xml:827
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[2]/text"
 msgstr ""
+"쓰레기 더미를 수색해 봤지만, 여기에는 가치 있는 것이 없는 것 같습니다. "
+"게다가 잔해가 너무 자유분방하게 퍼져 있어서 FTL 드라이브를 충전해야 하는 "
+"동안 손상을 입지 않도록 주의해야 할 것 같습니다!"
 
 #: src-en/data/events_sector_harmony.xml:831
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[3]/text"
 msgstr ""
+"당신은 쓰레기 더미를 수색합니다. 쓸모없는 잡동사니가 대부분인 가운데, 커다란 "
+"잔해 속에 숨겨져 있던 미사일 다발을 겨우 건졌습니다."
 
 #: src-en/data/events_sector_harmony.xml:835
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[4]/text"
-msgstr ""
+msgstr "당신은 쓰레기 더미를 수색합니다. 쓸모없는 잡동사니가 대부분이지만, 소량의 "
+"유용한 자원을 찾아낼 수 있었습니다."
 
 #: src-en/data/events_sector_harmony.xml:839
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[5]/text"
 msgstr ""
+"당신은 쓰레기 더미를 수색합니다. 쓸모 있는 물건은 찾지 못했지만, 쓰레기들 "
+"사이에 라니우스가 한 명 있었습니다. 라니우스는 당신의 일행에 합류하고 싶은 "
+"듯 필사적으로 손짓합니다."
 
 #: src-en/data/events_sector_harmony.xml:841
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[5]/choice[1]/text"
-msgstr ""
+msgstr "라니우스를 선원으로 받아들인다."
 
 #: src-en/data/events_sector_harmony.xml:843
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[5]/choice[1]/event/text"
 msgstr ""
+"라니우스는 당신의 함선에 올라타고 최선을 다해 설명합니다. \"먹이를 찾았다. "
+"먹는 도중 작은 생물 공격받다! 그리고는 원래 집 먹혔다. 표류하게 되었다...\""
 
 #: src-en/data/events_sector_harmony.xml:848
 msgid ""
@@ -1069,16 +1190,21 @@ msgstr "라니우스를 무시한다."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[6]/text"
 msgstr ""
+"당신은 쓰레기 더미를 수색합니다. 쓸모 있는 물건은 찾지 못했지만, 쓰레기들 "
+"사이에 떠돌이가 한 명 있었습니다. 떠돌이는 당신의 일행에 합류하고 싶은 듯 "
+"필사적으로 손짓합니다."
 
 #: src-en/data/events_sector_harmony.xml:855
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[6]/choice[1]/text"
-msgstr ""
+msgstr "떠돌이를 선원으로 받아들인다."
 
 #: src-en/data/events_sector_harmony.xml:857
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[6]/choice[1]/event/text"
 msgstr ""
+"떠돌이는 당신의 함선을 타게 되어 안도한 듯합니다. \"아아, 저 기계 괴물들이 "
+"내 배를 삼켜버렸소! 나의 구세주여, 정말 감사하오.\""
 
 #: src-en/data/events_sector_harmony.xml:862
 msgid ""
@@ -1089,55 +1215,64 @@ msgstr "고스트들을 무시한다."
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[7]/text"
 msgstr ""
+"당신은 쓰레기 더미를 수색합니다. 쓸모 있는 물건은 찾지 못했지만, 평범한 잔해 "
+"속에서 단단하고 바위 같은 외관을 가진 탈출 포드로 보이는 것을 발견했습니다."
 
 #: src-en/data/events_sector_harmony.xml:869
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[7]/choice[1]/text"
-msgstr ""
+msgstr "탈출 포드를 건져 올린다."
 
 #: src-en/data/events_sector_harmony.xml:871
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[7]/choice[1]/event/text"
 msgstr ""
+"탈출 포드에서 혼자 남은 락맨 망명자가 비틀거리며 나옵니다. \"...꼼짝없이 "
+"죽는 줄로만 알았소. 엔지들이 내 함선을 보자마자 인양해 가더군... 살아있는 게 "
+"기적 같구려.\""
 
 #: src-en/data/events_sector_harmony.xml:876
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"ENGI_DECONSTRUCTOR_WASTE_FIELD\"]/event[7]/choice[2]/text"
-msgstr ""
+msgstr "탈출 포드를 무시한다."
 
 #: src-en/data/events_sector_harmony.xml:882
 msgid "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/text"
-msgstr ""
+msgstr "구름에서 답신이 옵니다. \"간청: 자비. 항복 제안.\""
 
 #: src-en/data/events_sector_harmony.xml:884
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[1]/text"
-msgstr ""
+msgstr "엔지를 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:886
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[1]/event/text"
 msgstr ""
+"반짝이는 안개 속으로부터 새로운 엔지가 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다. 엔지는 고개를 끄덕여 명령받을 준비가 되었음을 알립니다."
 
 #: src-en/data/events_sector_harmony.xml:891
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[2]/text"
-msgstr ""
+msgstr "선원 드론을 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:893
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "반짝이는 안개 속으로부터 드론 도식이 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다."
 
 #: src-en/data/events_sector_harmony.xml:898
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[3]/text"
-msgstr ""
+msgstr "전투 드론을 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:900
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"JUNKYARD_HAIL_SWARM\"]/choice[3]/event/text"
-msgstr ""
+msgstr "반짝이는 안개 속으로부터 드론 도식이 짜맞춰지며 당신의 화물칸으로 "
+"들어왔습니다."
 
 #: src-en/data/events_sector_harmony.xml:907
 msgid "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/text"
@@ -1189,12 +1324,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:937
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"unique_turzil\"]/text"
-msgstr ""
+msgstr "(투르질) 바이러스와 협상한다."
 
 #: src-en/data/events_sector_harmony.xml:939
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"unique_turzil\"]/event/text"
-msgstr ""
+msgstr "투르질이 바이러스를 격리하고 시스템에 접속해 대화를 시도합니다. 바이러스는 "
+"투르질을 지배하려 했지만, 성공하지 못합니다."
 
 #: src-en/data/events_sector_harmony.xml:941
 msgid ""
@@ -1205,6 +1341,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"unique_turzil\"]/event/choice/event/text"
 msgstr ""
+"몇 분 후, \"새사람\"이 된 바이러스가 함선의 컴퓨터 사회와 긍정적인 방식으로 "
+"통합되어 선체를 수리하고 원자로를 최적화했습니다. \"협상 성공. 원한다면 "
+"우리의 새로운 루틴에 감사할 것.\""
 
 #: src-en/data/events_sector_harmony.xml:947
 msgid ""
@@ -1215,6 +1354,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"unique_turzil\"]/event/choice/event/choice/event/text"
 msgstr ""
+"엔지는 바이러스를 없애줘서 고맙다며 감사 인사를 남겼고, 도약하기 전에 "
+"보조장비 하나를 선물로 제공했습니다. 다행히도 바이러스에 너무 몰두했는지 "
+"투르질의 존재는 알아차리지 못했습니다."
 
 #: src-en/data/events_sector_harmony.xml:952
 msgid ""
@@ -1225,7 +1367,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 바이러스를 격리시킨다."
 
 #: src-en/data/events_sector_harmony.xml:964
 msgid ""
@@ -1246,7 +1388,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr "엔지는 바이러스를 없애줘서 고맙다며 감사인사를 남깁니다. 그들이 도약하기 전, 보조장비 하나를 선물로 주었습니다."
+msgstr "엔지는 바이러스를 없애줘서 고맙다며 감사 인사를 남겼고, 도약하기 전에 "
+"보조장비 하나를 선물로 주었습니다."
 
 #: src-en/data/events_sector_harmony.xml:972
 msgid ""
@@ -1258,7 +1401,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(고급 해킹 장비) 바이러스를 재구성한다."
 
 #: src-en/data/events_sector_harmony.xml:982
 msgid ""
@@ -1345,7 +1488,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:1030
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_VIRUS\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(안티 바이러스 모듈) 바이러스를 제거한다."
+msgstr "(안티 바이러스) 바이러스를 제거한다."
 
 #: src-en/data/events_sector_harmony.xml:1032
 msgid ""
@@ -1462,10 +1605,9 @@ msgstr ""
 "있겠죠."
 
 #: src-en/data/events_sector_harmony.xml:1109
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_COMPLEX\"]/choice[1]/text"
-msgstr "정거장을 공격하라!"
+msgstr "정거장을 공격한다."
 
 #: src-en/data/events_sector_harmony.xml:1111
 msgid ""
@@ -1490,10 +1632,9 @@ msgstr ""
 "알아낼 수도 있을 것입니다."
 
 #: src-en/data/events_sector_harmony.xml:1124
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"ENGI_COMPLEX\"]/choice[@req=\"sensors\"]/event/choice[1]/text"
-msgstr "정거장을 공격하라!"
+msgstr "정거장을 공격한다."
 
 #: src-en/data/events_sector_harmony.xml:1126
 msgid ""
@@ -1729,7 +1870,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:1290
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_SALVAGE\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "아..."
 
 #: src-en/data/events_sector_harmony.xml:1292
 msgid ""
@@ -1759,7 +1900,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:1315
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_SALVAGE\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "(하모니 선원) 반으로 나눠 갖자고 제안한다."
 
 #: src-en/data/events_sector_harmony.xml:1317
 msgid ""
@@ -1776,7 +1917,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:1331
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_SALVAGE\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"cloaking\"]/text"
-msgstr "(은신 장치) 은폐장을 가동하고 떠난다."
+msgstr "(은폐장) 은폐장을 가동하고 떠난다."
 
 #: src-en/data/events_sector_harmony.xml:1339
 msgid ""
@@ -1818,7 +1959,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:1367
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_SALVAGE\"]/choice[3]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_harmony.xml:1369
 msgid ""
@@ -1965,7 +2106,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_harmony.xml:1479
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_REACTOR\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 다시 한번 스캔해본다."
 
 #: src-en/data/events_sector_harmony.xml:1483
 msgid ""
@@ -2194,10 +2335,9 @@ msgid "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_PARTY\"]/tex
 msgstr "이 구조 신호는 엔지 선박의 것이지만, 보기에는 딱히 위험에 처한 것 같지 않습니다."
 
 #: src-en/data/events_sector_harmony.xml:1651
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_PARTY\"]/choice[1]/text"
-msgstr "그들에게 연락해 뭐가 문제인지 알아본다."
+msgstr "엔지에게 연락해 뭐가 문제인지 알아본다."
 
 #: src-en/data/events_sector_harmony.xml:1653
 msgid ""
@@ -2259,12 +2399,12 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:1683
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_PARTY\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "도와줄 수 없다."
 
 #: src-en/data/events_sector_harmony.xml:1689
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"DISTRESS_ENGI_PARTY\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_harmony.xml:1691
 msgid ""
@@ -2407,7 +2547,8 @@ msgstr "(엔지 선원) \"위협 잔존 확인. 임무 변경 명령: 52.34수�
 #: src-en/data/events_sector_harmony.xml:1796
 msgid ""
 "data/events_sector_harmony.xml$//eventList[@name=\"DISTRESS_ENGI_DANGER_SAVE\"]/event[3]/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
-msgstr ""
+msgstr "그들이 답변합니다. \"수칙 이행. 현 연방 최중요 품목 재고 확인. 선체 수리 및 "
+"군수 물자 선적을 위한 도킹 개시.\""
 
 #: src-en/data/events_sector_harmony.xml:1801
 msgid ""
@@ -2498,7 +2639,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_harmony.xml:1877
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_SLAVE_FACILITY\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "맨티스가 엔지 포로를 얻기 위해 정거장을 습격해 달라고 요청했습니다."
 
 #: src-en/data/events_sector_harmony.xml:1879
 msgid ""
@@ -2508,10 +2649,9 @@ msgstr ""
 "받아내야 할 것입니다."
 
 #: src-en/data/events_sector_harmony.xml:1882
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_SLAVE_FACILITY\"]/choice[1]/text"
-msgstr "정거장을 공격하라!"
+msgstr "정거장을 공격한다."
 
 #: src-en/data/events_sector_harmony.xml:1884
 msgid ""
@@ -2620,7 +2760,7 @@ msgstr "엔지하고 맨티스는 엿이나 먹으라지, 시작한 싸움은 �
 #: src-en/data/events_sector_harmony.xml:1957
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_SLAVE_MANTIS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "맨티스들이 엔지를 배달해달라고 했습니다."
 
 #: src-en/data/events_sector_harmony.xml:1959
 msgid ""
@@ -2981,7 +3121,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2177
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_MANTIS_CORRECT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "맨티스 범인."
 
 #: src-en/data/events_sector_harmony.xml:2179
 msgid ""
@@ -3001,7 +3141,7 @@ msgstr "\"어, 뭐? 우리 많은것 했다. 자세하게 말해라.\""
 #: src-en/data/events_sector_harmony.xml:2186
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_MANTIS_CORRECT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2188
 msgid ""
@@ -3028,7 +3168,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2210
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_ROCK_CORRECT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "락맨 범인."
 
 #: src-en/data/events_sector_harmony.xml:2212
 msgid ""
@@ -3048,7 +3188,7 @@ msgstr "\"허? 무슨 말이오?\""
 #: src-en/data/events_sector_harmony.xml:2219
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_ROCK_CORRECT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2221
 msgid ""
@@ -3075,7 +3215,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2243
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_SEPARATIST_CORRECT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분리주의자 범인."
 
 #: src-en/data/events_sector_harmony.xml:2245
 msgid ""
@@ -3095,7 +3235,7 @@ msgstr "\"오류: 혼란. 무슨 말을 하는지 잘 [모르겠]음. 전후상�
 #: src-en/data/events_sector_harmony.xml:2252
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_SEPARATIST_CORRECT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2254
 msgid ""
@@ -3122,7 +3262,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2276
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_LANIUS_CORRECT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "라니우스 범인."
 
 #: src-en/data/events_sector_harmony.xml:2278
 msgid ""
@@ -3142,7 +3282,7 @@ msgstr "\"안타깝게도 이해 못하다. 확실히 가능한가?\""
 #: src-en/data/events_sector_harmony.xml:2285
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_LANIUS_CORRECT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2287
 msgid ""
@@ -3176,7 +3316,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2314
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_MANTIS_WRONG\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "맨티스 범인."
 
 #: src-en/data/events_sector_harmony.xml:2316
 msgid ""
@@ -3196,7 +3336,7 @@ msgstr "\"어, 뭐? 우리 많은것 했다. 자세하게 말해라.\""
 #: src-en/data/events_sector_harmony.xml:2323
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_MANTIS_WRONG\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2325
 msgid ""
@@ -3221,7 +3361,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2345
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_ROCK_WRONG\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "락맨 범인."
 
 #: src-en/data/events_sector_harmony.xml:2347
 msgid ""
@@ -3241,7 +3381,7 @@ msgstr "\"허? 무슨 말이오?\""
 #: src-en/data/events_sector_harmony.xml:2354
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_ROCK_WRONG\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2356
 msgid ""
@@ -3266,7 +3406,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2376
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_SEPARATIST_WRONG\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분리주의자 범인."
 
 #: src-en/data/events_sector_harmony.xml:2378
 msgid ""
@@ -3286,7 +3426,7 @@ msgstr "\"오류: 혼란. 무슨 말을 하는지 잘 [모르겠]음. 전후상�
 #: src-en/data/events_sector_harmony.xml:2385
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_SEPARATIST_WRONG\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2387
 msgid ""
@@ -3311,7 +3451,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_harmony.xml:2407
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_LANIUS_WRONG\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "라니우스 범인."
 
 #: src-en/data/events_sector_harmony.xml:2409
 msgid ""
@@ -3331,7 +3471,7 @@ msgstr "\"안타깝게도 이해 못하다. 확실히 가능한가?\""
 #: src-en/data/events_sector_harmony.xml:2416
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"QUEST_ENGI_CRIME_LANIUS_WRONG\"]/choice/event/choice/text"
-msgstr ""
+msgstr "너희가 엔지를 죽였어!"
 
 #: src-en/data/events_sector_harmony.xml:2418
 msgid ""
@@ -3489,10 +3629,9 @@ msgid ""
 msgstr "한 엔지 함선이 하모니 링크 근처에 정박하고 있습니다. 엘리트지만 아직 당신을 공격하진 않고 있습니다."
 
 #: src-en/data/events_sector_harmony.xml:2584
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_LINK_FIGHTENGI\"]/choice[1]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_harmony.xml:2586
 msgid ""
@@ -3544,7 +3683,7 @@ msgstr "떠난다."
 #: src-en/data/events_sector_harmony.xml:2620
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_LINK_FIGHTENGI\"]/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "(하모니 선원) 보급품을 요청한다."
 
 #: src-en/data/events_sector_harmony.xml:2622
 msgid ""
@@ -3579,10 +3718,9 @@ msgstr ""
 " 너다...\""
 
 #: src-en/data/events_sector_harmony.xml:2646
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_LINK_FIGHTMANTIS\"]/choice[1]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_harmony.xml:2648
 msgid ""
@@ -3627,7 +3765,7 @@ msgstr "\"좋아, 좋아. 이제 가라. 죽여야 할 것 더 남아있다.\""
 #: src-en/data/events_sector_harmony.xml:2681
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_LINK_FIGHTMANTIS\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_harmony.xml:2687
 msgid ""
@@ -3774,7 +3912,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2809
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"TURZIL_PIRATE_TRANSPORT\"]/choice[1]/text"
-msgstr ""
+msgstr "그들을 심문한다."
 
 #: src-en/data/events_sector_harmony.xml:2811
 msgid ""
@@ -3838,7 +3976,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2846
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"TURZIL_PIRATE_SURRENDER\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_harmony.xml:2848
 msgid ""
@@ -3868,7 +4006,7 @@ msgstr "당신은 밀수업자들을 전부 죽였습니다. 그들의 화물이
 #: src-en/data/events_sector_harmony.xml:2873
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"TURZIL_PIRATE_DEADCREW\"]/choice/text"
-msgstr ""
+msgstr "화물을 연다."
 
 #: src-en/data/events_sector_harmony.xml:2875
 msgid ""
@@ -3892,7 +4030,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2882
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"TURZIL_PIRATE_DEADCREW\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_harmony.xml:2884
 msgid ""
@@ -3907,6 +4045,8 @@ msgstr "거절한다."
 #: src-en/data/events_sector_harmony.xml:2905
 msgid "data/events_sector_harmony.xml$//event[@name=\"HARMONY_FUGITIVE\"]/text"
 msgstr ""
+"당신은 FTL 드라이브를 충전하던 중 한 엔지 순양함이 당신에게 다가오는 것을 "
+"발견합니다! 게다가 FTL 드라이브의 반응이 유독 늦습니다. 나쁜 예감이 드네요..."
 
 #: src-en/data/events_sector_harmony.xml:2908
 msgid ""
@@ -3924,12 +4064,29 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml:2912
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_FUGITIVE\"]/choice/event/choice[@req=\"unique_tully\"]/text"
-msgstr ""
+msgstr "(툴리) 외교적 지위를 내세운다."
 
 #: src-en/data/events_sector_harmony.xml:2914
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_FUGITIVE\"]/choice/event/choice[@req=\"unique_tully\"]/event/text"
 msgstr ""
+"툴리가 엔지 선박에 연락합니다. \"여기는 연방 함대의 툴리 제독이다. 이 함선에 "
+"사격하지 마라. 반복한다, 이 함선에 사격하지 마라.\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tHA-34U가 멈칫합니다. \"귀하의 지위는 인정됨. 그러나 귀하는 "
+"하모니에 있어 TRZ-1L를 확보하는 것의 중요성을 엄청나게 과소평가 중. 하모니는 "
+"연방의 핵심 구성원이므로, 하모니 전체의 필요가 제독 한 명보다 아래라고 "
+"생각하는 것은 잘못된 판단.\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t툴리는 가슴을 쫙 펴고 뒷짐을 집니다. \"한 가지는 맞는 말이네. "
+"엔지는 연방의 주요 구성원으로서 나에 대해 법적 조치를 취할 권리가 있지. "
+"어쩌면 그렇게 내 커리어가 끝날 수도 있고. 하지만 나는 투르질을 데리고 갈 "
+"걸세. 연방이 반군과의 전쟁에서 승리하기 전까지는, 상부에서 나와 같은 자격을 "
+"지닌 인물을 함부러 해임하지 않을 것이네.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t화면에 나타난 엔지는 몇 초 동안 말없이 멍하니 바라보다가 결국 "
+"통신을 끊었습니다. 하모니 함선은 무기도 내렸고 더 이상 당신에게 다가오지도 "
+"않습니다."
 
 #: src-en/data/events_sector_harmony.xml:2922
 msgid ""
@@ -3940,6 +4097,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_FUGITIVE\"]/choice/event/choice[@req=\"unique_tully\"]/event/choice/event/text"
 msgstr ""
+"툴리가 한숨을 내쉬며 FTL을 충전합니다. \"이 우주의 툴리가 여전히 17번 "
+"노드에서 반군을 막고 있다는 사실을 알게 되면 매우 놀라겠지. 어쨌든, 방금 "
+"일을 잊지 않을 테니 지금부터는 하모니를 피하는 게 좋겠군.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t투르질이 툴리의 팔에 손을 얹자 툴리는 고개를 돌려 그를 "
+"바라봅니다. \"어떻게 -감사-를 표현해야 할지 모르겠다. 당신은 지금도 그렇고 "
+"앞으로도... 내 -친구-다.\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t툴리는 반대 손을 투르질의 손 위에 올려놓습니다. \"다시는 널 "
+"잃지 않을게. 내 곁에 있어, 능력이 닿는 한 지켜줄 테니까. 이 모든 소동이 "
+"끝나면... 하모니가 널 찾지 못하는 우주를 찾을 수 있지 않을까?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t투르질이 고개를 끄덕입니다. \"이 우주를 [먼저] -해방-시키고.\""
 
 #: src-en/data/events_sector_harmony.xml:2932
 msgid ""
@@ -3991,7 +4161,7 @@ msgstr "\"이것은 최후통첩이다. 도주자를 넘긴다면 삶을 유지�
 #: src-en/data/events_sector_harmony.xml:2973
 msgid ""
 "data/events_sector_harmony.xml$//event[@name=\"HARMONY_FUGITIVE_SURRENDER\"]/choice[1]/text"
-msgstr ""
+msgstr "절대로 그럴 수 없다!"
 
 #: src-en/data/events_sector_harmony.xml:2977
 msgid ""
@@ -4071,4 +4241,3 @@ msgid ""
 msgstr ""
 "\"당신은 도주자를 보호해준 혐의로 수배되었음. 무기를 내리고 투항할 것.\" 엘리트 엔지 함선이 다가오고, 당신은 그를 포기할 생각이 "
 "없습니다."
-

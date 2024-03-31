@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 17:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_hivexml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_hive.xml:28
 msgid ""
@@ -23,17 +30,20 @@ msgstr "跳过。"
 #: src-en/data/events_sector_hive.xml:56
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/text"
-msgstr ""
+msgstr "你收到了一条这个信标处空间站的呼叫。“你是变元者？你接触过血兰邦吗？我们对他们"
+"很感兴趣！”"
 
 #: src-en/data/events_sector_hive.xml:58
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_ivar\"]/text"
-msgstr ""
+msgstr "(苡瓦)苡瓦他本人就在我们之中。"
 
 #: src-en/data/events_sector_hive.xml:60
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_ivar\"]/event/text"
 msgstr ""
+"螳螂族们都震惊于苡瓦总理本人在你的星舰上。苡瓦给他们讲了很多他自己的功绩故事"
+"，让大家度过了一段愉悦的时光。当他回到星舰时，还带回了一瓶出发前不存在的酒。"
 
 #: src-en/data/events_sector_hive.xml:63
 msgid ""
@@ -43,17 +53,21 @@ msgstr "继续。"
 #: src-en/data/events_sector_hive.xml:65
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_ivar\"]/event/choice/event/text"
-msgstr ""
+msgstr "曼提斯们为你提供了一件武器，感谢你为他们带来的愉快时光。他们看起来很高兴能和"
+"总理亲身畅谈。"
 
 #: src-en/data/events_sector_hive.xml:72
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_tyerel\"]/text"
-msgstr ""
+msgstr "(笛艾尔)集议会大使有些话想说。"
 
 #: src-en/data/events_sector_hive.xml:74
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_tyerel\"]/event/text"
 msgstr ""
+"笛艾尔点了点头。“是的，我可以跟你们讲很多我参与的历史性事件，还是说你们对曼提"
+"斯-血兰和平协定更感兴趣？或者说说粮厂协定？”在笛艾尔讲了很多故事之后，曼提斯"
+"们给了你一件礼物。"
 
 #: src-en/data/events_sector_hive.xml:77
 msgid ""
@@ -63,32 +77,34 @@ msgstr "继续。"
 #: src-en/data/events_sector_hive.xml:79
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_tyerel\"]/event/choice/event/text"
-msgstr ""
+msgstr "曼提斯为你提供的愉悦时光给了你一件武器。“笛艾尔被螳螂主教悬赏了......"
+"非常生气！我们不是主教但是。”"
 
 #: src-en/data/events_sector_hive.xml:86
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_mayeb\"]/text"
-msgstr ""
+msgstr "(麻椰)麻椰对血兰有一些不为人知的见闻。"
 
 #: src-en/data/events_sector_hive.xml:88
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_mayeb\"]/event/text"
-msgstr ""
+msgstr "曼提斯对麻椰并不了解，但她很好地解答了他们的问题。曼提斯对她的付出很感激。"
 
 #: src-en/data/events_sector_hive.xml:93
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_alkali\"]/text"
-msgstr ""
+msgstr "(阿尔科莱)阿尔科莱是非兰花族的一流血兰花研究专家。"
 
 #: src-en/data/events_sector_hive.xml:95
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"unique_alkali\"]/event/text"
-msgstr ""
+msgstr "阿尔科莱从甲壳族的视角展开了一场关于血草兰族历史的演说。熟悉研讨会的他成功地"
+"教授了即使是曼提斯这样的外行人也能理解的一堂课。"
 
 #: src-en/data/events_sector_hive.xml:100
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_VAMPWEED_CURIOUS\"]/choice[@req=\"orchid_cultivator\"]/text"
-msgstr ""
+msgstr "(种植者船员)你的血草兰花船员很渴望能满足他们的好奇心，尽管是为了回报。"
 
 #: src-en/data/events_sector_hive.xml:102
 msgid ""
@@ -572,7 +588,7 @@ msgstr "你交出了赌博输了的废料。幸好你还有一艘船能让你离
 #: src-en/data/events_sector_hive.xml:455
 msgid ""
 "data/events_sector_hive.xml$//eventList[@name=\"MANTIS_GAMBLE_BLUE_MV\"]/event[2]/choice[@req=\"engines\"]/text"
-msgstr "(先进引擎)拒绝付款并给引擎充能。"
+msgstr "(高级引擎)拒绝付款并给引擎充能。"
 
 #: src-en/data/events_sector_hive.xml:457
 msgid ""
@@ -713,7 +729,7 @@ msgstr "(维修无人机)派出它帮助修理。[-1|]"
 #: src-en/data/events_sector_hive.xml:607
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_BROKEN_TELEPORTER\"]/choice[@req=\"BOMB_HEAL_SYSTEM\"]/text"
-msgstr "(维修炸弹)用炸弹维修传送器。[-1}]"
+msgstr "(修复炸弹)用炸弹维修传送器。[-1}]"
 
 #: src-en/data/events_sector_hive.xml:611
 msgid ""
@@ -1040,10 +1056,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_hive.xml:901
-#, fuzzy
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"MANTIS_FIGHT_CHOICE\"]/choice[1]/text"
-msgstr "攻击这艘船！"
+msgstr "攻击这艘船。"
 
 #: src-en/data/events_sector_hive.xml:903
 msgid ""
@@ -1376,7 +1391,7 @@ msgstr "\"你想建立友谊？一，什么，持续多年？是的，我愿意�
 
 #: src-en/data/events_sector_hive.xml:1157
 msgid "data/events_sector_hive.xml$//event[@name=\"HIVE_VETERAN\"]/choice[3]/text"
-msgstr ""
+msgstr "避开他们。"
 
 #: src-en/data/events_sector_hive.xml:1159
 msgid ""
@@ -1486,10 +1501,9 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_hive.xml:1247
-#, fuzzy
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"HIVE_MANTIS_AUTO_SITUATION\"]/choice[2]/text"
-msgstr "攻击这艘船！"
+msgstr "攻击这艘船。"
 
 #: src-en/data/events_sector_hive.xml:1249
 msgid ""
@@ -1542,10 +1556,9 @@ msgstr ""
 "母巢经常派出牢狱舰船绑架入侵者，这个术语也包括你。幸运的是，这里的牢狱舰还没有看到你。你可以攻击牢狱舰，试图释放它的俘虏，或者趁你还可以的时候逃跑。"
 
 #: src-en/data/events_sector_hive.xml:1288
-#, fuzzy
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"HIVE_JAILER_CHOICE\"]/choice[1]/text"
-msgstr "攻击这艘船！"
+msgstr "攻击这艘船。"
 
 #: src-en/data/events_sector_hive.xml:1290
 msgid ""
@@ -1841,10 +1854,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_hive.xml:1538
-#, fuzzy
 msgid ""
 "data/events_sector_hive.xml$//eventList[@name=\"MANTIS_DERELICT_SCAN\"]/event[2]/choice[1]/text"
-msgstr "攻击这艘船！"
+msgstr "攻击这艘船。"
 
 #: src-en/data/events_sector_hive.xml:1540
 msgid ""
@@ -2768,10 +2780,9 @@ msgstr ""
 "一位女主教出现在屏幕上，上气不接下气，仿佛在宇宙飞船上一直在奔跑。\"你是联邦多元宇宙飞船，对吗？请忽略不拘礼节和过去的不便，因为虫后陛下莱孔普利纳克拉对你有求助。我们不能向你提供母巢的效忠或安全旅行的承诺，但你会得到虫后的感谢！如果你继续坚持，也许可以得到丰厚的现金奖励。\""
 
 #: src-en/data/events_sector_hive.xml:2468
-#, fuzzy
 msgid ""
 "data/events_sector_hive.xml$//event[@name=\"HIVE_MERCENARY\"]/choice[1]/event/choice[1]/text"
-msgstr "聆听他们的提议。"
+msgstr "聆听对方的提议。"
 
 #: src-en/data/events_sector_hive.xml:2470
 msgid ""
@@ -3123,4 +3134,3 @@ msgstr ""
 #: src-en/data/events_sector_hive.xml:2732
 msgid "data/events_sector_hive.xml$//event[@name=\"HIVE_LEAVE\"]/text"
 msgstr "这不是种族灭绝的日子。像这样杀死虫后会导致母巢的崩溃，尽管如此，螳螂族不应该受到这样的命运。当你离开时，没有更多的船只试图阻止你。"
-

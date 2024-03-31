@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-26 15:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_unexploredxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_unexplored.xml:29
 msgid ""
@@ -79,21 +86,27 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/text"
 msgstr ""
+"약간 낡은 협회 함선이 이곳에서 대기하고 있습니다. \"안녕하세요 배회자 "
+"여러분! 저희 개척자들은 전쟁에서 멀리 떨어진 조용한 성단에 정착하고 "
+"싶습니다. 그런데 이 함선은 여러분의 멋진 순양함처럼 정교한 센서 시스템도 "
+"없고, 무기 또한 별 볼 일 없단 말이죠. 그래서 요 근처 성단에 정착하고 "
+"싶었는데... 막상 가보니 해적의 흔적 같은 게 있지 뭡니까. 가서 안전한지 "
+"확인해 주실 수 있을까요?\""
 
 #: src-en/data/events_sector_unexplored.xml:102
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 뛰어난 센서를 이용해 자세한 상황을 파악한다."
 
 #: src-en/data/events_sector_unexplored.xml:106
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(장거리 탐사용 스캐너) 스캐너를 이용해 자세한 상황을 파악한다."
 
 #: src-en/data/events_sector_unexplored.xml:110
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[3]/text"
-msgstr ""
+msgstr "해당 지역을 조사해 주겠다고 한다."
 
 #: src-en/data/events_sector_unexplored.xml:114
 msgid ""
@@ -104,6 +117,8 @@ msgstr "공격한다."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[4]/event/text"
 msgstr ""
+"당신은 협회 함선을 약탈하기로 결정했습니다. 충분히 멀리까지 날아왔고 저들도 "
+"문명과 단절되어 있기 때문에 이 행동이 평판에 해를 끼치지는 않을 것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:119
 msgid ""
@@ -113,12 +128,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:125
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[5]/text"
-msgstr ""
+msgstr "직접 조사하게 놔둔다."
 
 #: src-en/data/events_sector_unexplored.xml:127
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER\"]/choice[5]/event/text"
-msgstr ""
+msgstr "개척자가 중얼거립니다. \"나는 누구에게도 의지할 수 없는 건가...\""
 
 #: src-en/data/events_sector_unexplored.xml:129
 msgid ""
@@ -134,16 +149,18 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/text"
 msgstr ""
+"밀수꾼이 인근 행성 궤도를 돌고 있습니다. 가까이 다가가자 교신이 왔습니다 "
+"\"물건을 보러 왔나, 아니면 말썽을 일으키러 왔나?\""
 
 #: src-en/data/events_sector_unexplored.xml:143
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_unexplored.xml:145
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신은 말 대신 무기를 들어 답합니다. \"말썽이군.\""
 
 #: src-en/data/events_sector_unexplored.xml:148
 msgid ""
@@ -154,37 +171,41 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "개척자에 대해 얘기하고 반응을 본다."
 
 #: src-en/data/events_sector_unexplored.xml:156
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "\"이봐, 친구. 우린 그냥 지나가는 길이야. 촌놈들 털어먹는 것보다 더 중요한 "
+"일이 있다고. 이제 뭐 살 거야 말 거야?\""
 
 #: src-en/data/events_sector_unexplored.xml:158
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "밀수꾼에게서 무기를 산다."
 
 #: src-en/data/events_sector_unexplored.xml:160
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "거래해서 고마워, 친구. 원하면 더 보고 가라고."
 
 #: src-en/data/events_sector_unexplored.xml:167
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:169
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"당신은 쇼핑을 마친 후 개척자들에게 돌아가 상황을 보고합니다. \"...그냥 "
+"지나가는 밀수업자였다고요? 확실해요? 뭐, 논쟁은 하지 않을게요. 그들이 우릴 "
+"공격하면 당신 책임인 거죠.\""
 
 #: src-en/data/events_sector_unexplored.xml:172
 msgid ""
@@ -196,49 +217,58 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:182
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"\"...그냥 지나가는 밀수업자였다고요? 확실해요? 뭐, 당신이 그렇다니 그렇겠죠. "
+"그들이 우릴 공격하면 당신 책임인 겁니다.\""
 
 #: src-en/data/events_sector_unexplored.xml:189
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "개척자에 대해 얘기하고 반응을 본다."
 
 #: src-en/data/events_sector_unexplored.xml:191
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"\"그래서 뭐? 우리가 신경이나 쓸까 봐? 우리 도색을 좀 봐, 친구. 밀수업자는 "
+"남의 주의를 끌지 않아.\" 그 순간, 당신은 밀수선이 돌고 있는 행성에 작은 "
+"은신처가 있다는 사실을 알게 됩니다. \"개척자들이 우리 이웃이 되고 싶어 "
+"한다고? 그들이 원한다면 우리는 조용히 있을 거야. 이제 뭐 살 거야 말 거야?\""
 
 #: src-en/data/events_sector_unexplored.xml:193
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "밀수꾼에게서 무기를 산다."
 
 #: src-en/data/events_sector_unexplored.xml:195
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "거래해서 고마워, 친구. 원하면 더 보고 가라고."
 
 #: src-en/data/events_sector_unexplored.xml:202
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:204
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"당신은 쇼핑을 마친 후 개척자들에게 돌아가 상황을 보고합니다. \"...밀수업자 "
+"소굴이라고요? 흠... 거참 운도 지지리도 없네요. 하지만 당신이 괜찮을 거라고 "
+"하니 한번 가보겠습니다. 그들이 우릴 공격하면 당신 책임인 거죠.\""
 
 #: src-en/data/events_sector_unexplored.xml:207
 msgid ""
@@ -250,28 +280,33 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:217
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
+"\"...밀수업자 소굴이라고요? 흠... 거참 운도 지지리도 없네요. 하지만 당신이 "
+"괜찮을 거라고 하니 한번 가보겠습니다. 그들이 우릴 공격하면 당신 책임인 거죠."
+"\""
 
 #: src-en/data/events_sector_unexplored.xml:225
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/text"
 msgstr ""
+"이곳에 노예상이 있는 것 같습니다. 지금 당장은 공격성을 보이지 않고 있지만, "
+"계속 이 지역에 남아 있는다면 개척자들은 붙잡힐 것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:228
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_unexplored.xml:230
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "개척자들은 저들이 죽기를 원할 것이고, 당신은 기꺼이 개척자들을 도우려 합니다."
 
 #: src-en/data/events_sector_unexplored.xml:233
 msgid ""
@@ -281,12 +316,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:239
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[2]/text"
-msgstr ""
+msgstr "개척자들에 대해 알려주고 보상을 받는다."
 
 #: src-en/data/events_sector_unexplored.xml:241
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[2]/event/text"
 msgstr ""
+"당신은 노예상에게 무력한 선박의 위치를 팔겠다고 제안했습니다. \"나쁘지 않군. "
+"약탈하기 딱 알맞게 무르익은 상태겠어. 여기 사례금이야.\" 노예상은 돈을 "
+"지불한 후 사냥감을 잡으러 떠납니다."
 
 #: src-en/data/events_sector_unexplored.xml:244
 msgid ""
@@ -296,27 +334,33 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:250
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[3]/text"
-msgstr ""
+msgstr "이대로 개척자들에게 돌아가 상황을 보고한다."
 
 #: src-en/data/events_sector_unexplored.xml:252
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_SLAVER\"]/choice[3]/event/text"
 msgstr ""
+"\"...그러니까 함선이 있었다고요? 하지만 파괴하지 못했고요? 유감이네요... "
+"다른 곳을 찾아봐야겠습니다. 여기는 위험해 보이네요.\""
 
 #: src-en/data/events_sector_unexplored.xml:257
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/text"
 msgstr ""
+"처음에는 '해적의 흔적'이 단순히 난파선 잔해 얘기인 줄 알았습니다. 하지만 "
+"가까이 다가가자 그 실체가 드러납니다. 그것은 사실 떠돌이 함선이었고, 교신을 "
+"보내왔습니다. \"무슨 목적으로 우리 영역에 침입했느냐?\""
 
 #: src-en/data/events_sector_unexplored.xml:260
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_unexplored.xml:262
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[1]/event/text"
-msgstr ""
+msgstr "일을 복잡하게 만들 필요 없습니다. 이 고스트들은 분명 정착민에게 위협이 될 "
+"것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:265
 msgid ""
@@ -327,307 +371,356 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "개척자들이 이 행성에 정착해도 될지 물어본다."
 
 #: src-en/data/events_sector_unexplored.xml:273
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"문명에서 멀리 떨어진 이 행성에 왜 오려고 하는 거지?\" 당신은 바로 그래서 "
+"그들이 이 행성을 원하는 것이라 설명합니다. \"그들의 행동은 필히 칭찬할 "
+"만하다. 우리는 아직 이곳에 정착할 준비를 하지 않았는데... 어쩌면 우리도 "
+"함께할 수 있을는지?\""
 
 #: src-en/data/events_sector_unexplored.xml:275
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:277
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"\"떠돌이가요? 협력까지 제안했다고요? 이게 웬걸, 저희의 바람이 마침내 "
+"이뤄지겠네요!\" 개척자들은 즉시 그들이 바라던 행성으로 출발했습니다."
 
 #: src-en/data/events_sector_unexplored.xml:284
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "개척자들이 이 행성에 정착해도 될지 물어본다."
 
 #: src-en/data/events_sector_unexplored.xml:286
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"\"이 땅은 우리가 이미 점령했다! ...하지만, 이곳에 공유를 방해하는 칙령 같은 "
+"건 없지. 아무 문제 없다! 이곳에 정착해도 된다고 전하라.\" 당신은 개척자들도 "
+"방해받고 싶지 않아서 이곳을 택한 거라 말했습니다. \"스스로의 힘으로 "
+"분투한다... 아주 지혜로워. 우리와 동류로군. 그들에게 안식처를 허하겠다.\""
 
 #: src-en/data/events_sector_unexplored.xml:288
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:290
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"\"떠돌이가요? 우리에게 옛날식 환대를 베푸는 건가요? 저희의 바람이 마침내 "
+"이뤄지겠네요!\" 개척자들은 즉시 그들이 바라던 행성으로 출발했습니다."
 
 #: src-en/data/events_sector_unexplored.xml:298
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_OTHER_SETTLE_LOCATION\"]/text"
 msgstr ""
+"당신은 성단을 탐사하는 대신, 이 구역에서 수집한 데이터를 이용해 개척자들이 "
+"정착하기 가장 적합한 장소를 찾았고, 적절한 기후 덕분에 보급품을 아낄 수 있는 "
+"녹지 행성을 발견했을 뿐만 아니라 그곳까지 가는 완벽한 항로도 설계했습니다. "
+"\"이게 웬걸! 여기보다 더 좋은 행성을 찾으셨다고요? 당신은 정말 최고예요! "
+"저희의 한계보다도 더 큰 감사를 드려야 할 것 같군요!\" 그 말대로, 개척자들은 "
+"줄 수 있는 모든 것을 제공했습니다."
 
 #: src-en/data/events_sector_unexplored.xml:302
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_NONE\"]/text"
 msgstr ""
+"이 주변 우주 공간에 해적은 없는 것 같습니다. 그뿐만 아니라 줄지어 있는 잔해 "
+"더미도 포착했는데, 컴퓨터 분석 결과 많은 양의 잔해가 발견됐습니다! 개척자를 "
+"돕는 일이 끝나면 수거하러 갑시다."
 
 #: src-en/data/events_sector_unexplored.xml:305
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_NONE\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:307
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_NONE\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"행성 또한 안전한 것 같습니다. 당신은 모든 데이터를 모아 개척자들에게 "
+"보냅니다. \"이렇게 자세히 봐주시다니 정말 친절하시군요! 이곳은 정착지로 "
+"이상적인 것 같습니다. 많지는 않지만 수고해 주신 보답으로 선물을 준비했습니다."
+"\""
 
 #: src-en/data/events_sector_unexplored.xml:312
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_NONE\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:314
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_NONE\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"공교롭게도 이 행성에는 이미 비슷한 생각을 가진 사람들이 자리 잡고 "
+"있었습니다. 정착지는 완전히 평화로워 보입니다. 당신은 개척자들에게 이 "
+"데이터를 전송합니다. \"이런, 상황이 이렇게 될 줄은 몰랐네요. 그래도 우리 "
+"모두 같이 살아도 될 만큼 행성이 커 보입니다. 도와줘서 고마워요.\""
 
 #: src-en/data/events_sector_unexplored.xml:320
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/text"
-msgstr ""
+msgstr "탐색 결과 이 위치에 밀수꾼이 있다고 합니다."
 
 #: src-en/data/events_sector_unexplored.xml:322
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:324
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "밀수꾼이 있기는 하지만 혼자인 것 같고, 단순히 지나가는 길로 보입니다."
 
 #: src-en/data/events_sector_unexplored.xml:326
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "밀수꾼과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:330
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:336
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:338
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "행성 표면에서 밀수업자들의 은신처가 확인됩니다. 눈앞에 보이는 저 함선을 "
+"파괴하더라도 문제는 해결되지 않을 것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:340
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "밀수꾼과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:344
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SMUGGLER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:351
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/text"
-msgstr ""
+msgstr "탐색 결과 이 위치에 노예상이 있다고 합니다."
 
 #: src-en/data/events_sector_unexplored.xml:353
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:355
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "노예상이 있기는 하지만 혼자인 것 같고, 단순히 지나가는 길로 보입니다."
 
 #: src-en/data/events_sector_unexplored.xml:357
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "노예상과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:361
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:367
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:369
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "행성 표면에서 노예상들의 은신처가 확인됩니다. 눈앞에 보이는 저 함선을 "
+"파괴하더라도 문제는 해결되지 않을 것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:371
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "노예상과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:375
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_SLAVER\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:382
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/text"
-msgstr ""
+msgstr "탐색 결과 이 위치에 떠돌이들에게 점거당한 난파선이 있다고 합니다."
 
 #: src-en/data/events_sector_unexplored.xml:384
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:386
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "행성에선 아무런 지성체도 감지되지 않습니다."
 
 #: src-en/data/events_sector_unexplored.xml:388
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "떠돌이들과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:392
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:398
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "행성 표면의 데이터를 수집한다."
 
 #: src-en/data/events_sector_unexplored.xml:400
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "떠돌이들이 행성 표면에 정착하고 있는 것 같습니다."
 
 #: src-en/data/events_sector_unexplored.xml:402
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "떠돌이들과 대치한다."
 
 #: src-en/data/events_sector_unexplored.xml:406
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_INVESTIGATE_VAGABOND\"]/choice[@req=\"loc_settlement_exists\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "시간을 들여 성도 데이터를 분석해 정착지로 더 적절한 곳을 찾는다."
 
 #: src-en/data/events_sector_unexplored.xml:413
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_VAGABOND_AFTERMATH\"]/text"
-msgstr ""
+msgstr "\"떠돌이들이라고요? 아무 문제 없습니다. 전 유령 같은 거 무서워하지 않거든요!"
+"\""
 
 #: src-en/data/events_sector_unexplored.xml:424
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_NONE\"]/text"
 msgstr ""
+"'해적의 흔적'은 그냥 오래전에 난파선에서 떨어져 나온 잔해였던 것으로 "
+"보입니다. 품질은 떨어지지만 여전히 스크랩으로 활용할 수 있습니다."
 
 #: src-en/data/events_sector_unexplored.xml:427
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_NONE\"]/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:429
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_FRONTIER_NONE\"]/choice/event/text"
 msgstr ""
+"\"해적이 없어요? 표류물만 있다고요? 휴! 바로 정착을 시작하겠네요. 여기 "
+"여러분의 노고에 대한 보상을 준비했습니다.\" 개척자들은 즉시 그들이 바라던 "
+"행성으로 출발했습니다."
 
 #: src-en/data/events_sector_unexplored.xml:441
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_NO_SETTLEMENT_AFTERMATH\"]/text"
-msgstr ""
+msgstr "다른 해적은 발견되지 않았습니다. 처치한 해적선의 갈무리까지 끝내니 이 지역은 "
+"깨끗해졌습니다. 개척자들도 만족할 것입니다."
 
 #: src-en/data/events_sector_unexplored.xml:443
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_NO_SETTLEMENT_AFTERMATH\"]/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:445
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_NO_SETTLEMENT_AFTERMATH\"]/choice/event/text"
-msgstr ""
+msgstr "\"정말로 해적이 있었군요. 우리를 위해 그놈을 처리해 줘서 고마워요. 설마 "
+"해적의 동료들이 찾아오진 않겠죠...\""
 
 #: src-en/data/events_sector_unexplored.xml:451
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_SETTLEMENT_AFTERMATH\"]/text"
 msgstr ""
+"해적을 처치하고 갈무리까지 마쳤지만, 해적들이 머물던 은신처가 발견됐습니다. "
+"이 지역은 정착하기에는 너무 위험할 것 같습니다. 싸움을 걸어버린 지금은 "
+"더욱더 말이죠."
 
 #: src-en/data/events_sector_unexplored.xml:453
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_SETTLEMENT_AFTERMATH\"]/choice/text"
-msgstr ""
+msgstr "개척자들에게 돌아간다."
 
 #: src-en/data/events_sector_unexplored.xml:455
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_PIRATE_SETTLEMENT_AFTERMATH\"]/choice/event/text"
-msgstr ""
+msgstr "\"해적의 은신처라고요...? 좋은 행성은 이미 다 싹쓸이했나 보네요. 그럼 저희는 "
+"다시 방황해야겠어요...\""
 
 #: src-en/data/events_sector_unexplored.xml:461
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/text"
 msgstr ""
+"이곳에 오키드 함선이 있습니다. \"배회자님! 우리 좀 도와주세요. 동료 한 명이 "
+"이 성운에서 실종됐어요. 우리 오키드 종족은 성운을 별로 좋아하지 않아서 "
+"여기서 쉬고 있었고요. 물론, 실종된 동료를 찾으려고 열심히 성운을 탐사한 "
+"이들도 있지만, 광합성을 해야 하는데 성운이 방해된단 말이죠. 어쨌든 당신은 "
+"우리보다 훨씬 빨리 수색할 수 있을 거예요. 도와주실 수 있나요?\""
 
 #: src-en/data/events_sector_unexplored.xml:464
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/choice[1]/text"
-msgstr ""
+msgstr "찾아보겠다고 말한다."
 
 #: src-en/data/events_sector_unexplored.xml:466
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"감사합니다! 이게 실종자에 대한 데이터에요. 목적지에 도착하면 거기서 "
+"뵙겠습니다!\""
 
 #: src-en/data/events_sector_unexplored.xml:472
 msgid ""
@@ -637,7 +730,7 @@ msgstr "오키드를 공격한다."
 #: src-en/data/events_sector_unexplored.xml:474
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/choice[2]/event/text"
-msgstr ""
+msgstr "오키드는 당신이 공격하자 정신없이 통신을 종료했습니다."
 
 #: src-en/data/events_sector_unexplored.xml:477
 msgid ""
@@ -647,12 +740,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:483
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/choice[3]/text"
-msgstr ""
+msgstr "도와주기 어렵다고 말한다."
 
 #: src-en/data/events_sector_unexplored.xml:485
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"그래도 괜찮아요.\""
 
 #: src-en/data/events_sector_unexplored.xml:487
 msgid ""
@@ -668,36 +761,49 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID_FOUND_AUTO_DESTROYED\"]/text"
 msgstr ""
+"\"저... 저는 돌아갈 수 없어요! 그들이... 진실을 알게 되면 결코 절 받아주지 "
+"않을 거예요!\" 오키드가 한숨을 쉽니다. \"저는... 저는 인간의 샐러드를 "
+"먹어봤어요. 맛이... 좋더라고요. 당근. 양상추. 토마토... 모두 맛있었어요... "
+"그래서 계속 먹었어요... 그러다 문득 궁금해졌어요... Rt'lak Et의 식물은 어떤 "
+"맛일가...\" 오키드가 몸을 떱니다. \"그들은 분명 제가 한 짓을 알아낼 거예요! "
+"전 돌아갈 수 없어요!\""
 
 #: src-en/data/events_sector_unexplored.xml:500
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID_FOUND_AUTO_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "오키드를 돌려보낸다."
 
 #: src-en/data/events_sector_unexplored.xml:502
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID_FOUND_AUTO_DESTROYED\"]/choice[1]/event/text"
 msgstr ""
+"당신은 의뢰한 오키드가 돌아올 때까지 실종됐던 오키드를 붙잡고 있었습니다. "
+"오키드 함선이 들어오면서 파괴된 무인기를 발견합니다. \"여기서 무슨 일이 "
+"있었던 거죠...? 좀 더 조사해 봐야겠군요. 실종자를 찾는 데 도움을 주셔서 "
+"감사합니다. 보상의 나머지 절반은 여기 있습니다!\""
 
 #: src-en/data/events_sector_unexplored.xml:507
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID_FOUND_AUTO_DESTROYED\"]/choice[2]/text"
-msgstr ""
+msgstr "안식처를 제공하고 다른 오키드가 도착하기 전에 떠난다."
 
 #: src-en/data/events_sector_unexplored.xml:509
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_ORCHID_FOUND_AUTO_DESTROYED\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"정말요? 그럼 빨리 여기서 나갑시다. 되도록 군락의 영역은 피해주세요!\""
 
 #: src-en/data/events_sector_unexplored.xml:518
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_UNEXPLORED_ORCHID_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "데이터에 따르면 실종된 오키드는 이 위치에 있는 것으로 추정됩니다."
 
 #: src-en/data/events_sector_unexplored.xml:520
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_UNEXPLORED_ORCHID_QUEST\"]/text"
 msgstr ""
+"함선 컴퓨터가 실종자의 위치를 감지했습니다. 외따로 떨어져 있는 오키드가 "
+"당신을 보고 외칩니다. \"젠장! 들켰다! 절 내버려두세요!\" 그가 비명을 지른 "
+"순간, 연방 무인기가 당신을 막아서려는 듯이 공격해 옵니다!"
 
 #: src-en/data/events_sector_unexplored.xml:523
 msgid ""
@@ -708,36 +814,51 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/text"
 msgstr ""
+"이 송신소가 공전하는 쌍성에는 자연 위성이 없습니다. 행성도, 소행성도, "
+"아무것도 없습니다. 그런데, 분리주의자 함선이 한 척 보입니다."
 
 #: src-en/data/events_sector_unexplored.xml:533
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/text"
-msgstr ""
+msgstr "교신한다."
 
 #: src-en/data/events_sector_unexplored.xml:535
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/text"
 msgstr ""
+"분리주의자에게 교신을 보냈습니다. 그들은 다소 거칠게 대답합니다. \"하모니는 "
+"이 지역을 -찾지- 않는다. 그냥 [혼자] 있고 싶다. 이 별들은... -무언가-를 "
+"떠올리게 한다. 더 나은 무언가.\" 분리주의자는 잠시 멈췄다가 다시 말합니다. "
+"\"더 -나은- 무언가...\" 분리주의자는 조금 더 뜸을 들이다 다시 말합니다. "
+"\"혹시 [고립]을 도와줄 파괴적인 [무언가]를 가지고 있는가?\""
 
 #: src-en/data/events_sector_unexplored.xml:537
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"unique_eater\"]/text"
-msgstr ""
+msgstr "(송신소 탐식자) 송신소를 먹어 고립을 지켜주겠다고 한다."
 
 #: src-en/data/events_sector_unexplored.xml:539
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"unique_eater\"]/event/text"
 msgstr ""
+"\"인상적이다. 생각지도 못했다. 지금 -바로- 보여달라.\" 송신소 탐식자가 "
+"조금이라도 더 피해를 주면 완전히 붕괴될 정도로 송신소를 뜯어먹었습니다. "
+"\"드디어 자유가... [보장]된 건가? 믿기지 않는다. 이 선물을 받아라. 당신까지 "
+"떠나고 나면... 언젠가 내 일을 -완료-할 것이다. 그 전에 마지막으로 이 구역을 "
+"한번 둘봐야겠다.\""
 
 #: src-en/data/events_sector_unexplored.xml:545
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/text"
-msgstr ""
+msgstr "(기뢰 사출기) 기뢰밭을 만들어 하모니로부터 지켜주기로 한다."
 
 #: src-en/data/events_sector_unexplored.xml:547
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/text"
 msgstr ""
+"\"동의한다. 어쩔 작정인지 보여줘라.\" 당신은 이 송신소를 드나들려는 함선이 "
+"피해를 입도록 송신소 주변을 온통 기뢰로 둘렀습니다. 물론 보상은 받아야 하니, "
+"당신이 빠져나올 틈만 남기고 말이죠."
 
 #: src-en/data/events_sector_unexplored.xml:552
 msgid ""
@@ -748,26 +869,31 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice/event/text"
 msgstr ""
+"\"이 정도면 효과적일 거다. 이 보상이 적절했으면 좋겠다.\" 물질적 보상을 받은 "
+"당신은 기뢰 설치 작업을 마쳤습니다. 이제 움직일 시간입니다."
 
 #: src-en/data/events_sector_unexplored.xml:562
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"COMBAT_EXPLOSIVE\"]/text"
-msgstr ""
+msgstr "(자성 페이로드) 자성 페이로드를 제공한다."
 
 #: src-en/data/events_sector_unexplored.xml:564
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[@req=\"COMBAT_EXPLOSIVE\"]/event/text"
 msgstr ""
+"\"고맙다. 드론을 프로그래밍해서 하모니 선박에 곧바로 자성 [페이로드]를 "
+"전송할 수 있다.\" 분리주의자는 보답으로 이온 무기를 건네주고 팁도 조금 "
+"줬습니다."
 
 #: src-en/data/events_sector_unexplored.xml:571
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "폭발물을 제공한다."
 
 #: src-en/data/events_sector_unexplored.xml:573
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "\"고맙다. 하지만 이건 따로 손질을 좀 해야 할 것 같다.\""
 
 #: src-en/data/events_sector_unexplored.xml:581
 msgid ""
@@ -777,7 +903,7 @@ msgstr "분리주의자들을 공격한다."
 #: src-en/data/events_sector_unexplored.xml:583
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "분리주의자가 회피 기동을 시작합니다. 싸울 준비가 된 것 같습니다!"
 
 #: src-en/data/events_sector_unexplored.xml:586
 msgid ""
@@ -792,7 +918,8 @@ msgstr "떠난다."
 #: src-en/data/events_sector_unexplored.xml:594
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[1]/event/choice[6]/event/text"
-msgstr ""
+msgstr "분리주의자 함선은 아무 움직임도 보이지 않습니다. 자유롭게 다른 일을 할 수 "
+"있을 것 같습니다."
 
 #: src-en/data/events_sector_unexplored.xml:596
 msgid ""
@@ -812,7 +939,7 @@ msgstr "분리주의자들을 공격한다."
 #: src-en/data/events_sector_unexplored.xml:610
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "분리주의자가 회피 기동을 시작합니다. 싸울 준비가 된 것 같습니다!"
 
 #: src-en/data/events_sector_unexplored.xml:613
 msgid ""
@@ -827,7 +954,8 @@ msgstr "떠난다."
 #: src-en/data/events_sector_unexplored.xml:621
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_SEPARATIST_ONLY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "분리주의자 함선은 아무 움직임도 보이지 않습니다. 자유롭게 다른 일을 할 수 "
+"있을 것 같습니다."
 
 #: src-en/data/events_sector_unexplored.xml:623
 msgid ""
@@ -842,77 +970,97 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_unexplored.xml:635
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/text"
-msgstr ""
+msgstr "근처의 미개척 행성에 추락 현장이 보입니다. 신정 수감선이 추락한 것 같습니다."
 
 #: src-en/data/events_sector_unexplored.xml:638
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/text"
-msgstr "추락 지점을 조사한다."
+msgstr "추락 현장을 조사한다."
 
 #: src-en/data/events_sector_unexplored.xml:640
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/text"
 msgstr ""
+"추락 현장으로 내려가다 망명자들이 모여있는 작은 야영지를 발견했습니다. "
+"그들은 당신이 신정과 연관되지 않았음을 확인한 후 당신을 식사에 초대했습니다. "
+"그들의 리더가 말합니다. \"몇 달 전에 저 함선을 이 행성에 불시착시켰는데, "
+"신정은 아무 반응이 없소. 우리를 찾고 있는지도 잘 모르겠소. 지금은 그저 "
+"자유의 몸이 되어 기쁠 따름이오.\" 그가 잠시 뜸을 들입니다. \"하지만 그대가 "
+"우리를 발견했으니, 언젠가 신정도 결국 우리를 발견할지 모르오. 함선에서 "
+"뜯어낸 은폐장이 왜 작동 안 하는지 알아내거나 아니면 군수품을 갖춰야 하오.\""
 
 #: src-en/data/events_sector_unexplored.xml:642
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "(은폐장) 당신의 멀쩡한 은폐장을 참고삼게 한다."
 
 #: src-en/data/events_sector_unexplored.xml:644
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"당신은 그들에게 은폐장을 보여줬고, 이를 참고하여 모두가 함께 고장난 은폐장을 "
+"수리했습니다. \"놀랍구려! 이제 신정이 다가와도 언제든지 몸을 숨길 수 있게 "
+"되었소. 도와준 것에 대한 보답으로 싸워야 할 때를 대비해 따로 보관해 뒀던 "
+"것을 드리겠소.\""
 
 #: src-en/data/events_sector_unexplored.xml:649
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "대량의 군수품을 제공한다. [-15}]"
 
 #: src-en/data/events_sector_unexplored.xml:651
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"망명자 리더가 기뻐합니다. \"고맙소. 잘 활용하겠소.\" 그들은 함선에 남아있던 "
+"스크랩과 더 이상 사용할 수 없는 낡은 무기를 보상으로 주었습니다."
 
 #: src-en/data/events_sector_unexplored.xml:660
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[@req=\"EXPLOSIVE_REPLICATOR\"]/text"
-msgstr ""
+msgstr "(폭발물 복제기) 대량의 군수품을 합성해서 준다. [-7}]"
 
 #: src-en/data/events_sector_unexplored.xml:662
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[@req=\"EXPLOSIVE_REPLICATOR\"]/event/text"
 msgstr ""
+"망명자 리더가 기뻐합니다. \"고맙소. 잘 활용하겠소.\" 그들은 함선에 남아있던 "
+"스크랩과 더 이상 사용할 수 없는 낡은 무기를 보상으로 주었습니다."
 
 #: src-en/data/events_sector_unexplored.xml:671
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "안전한 곳까지 태워다 주기로 한다."
 
 #: src-en/data/events_sector_unexplored.xml:673
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"망명자들은 자신들이 가꾼 이 땅에 애착이 있는 듯하지만, 결국 당신의 함선을 "
+"타고 가까운 중립 정거장에서 하선하기로 결정했습니다. 그들 중 한 명은 당신의 "
+"일행으로 합류하는 것이 가장 안전하다고 판단합니다."
 
 #: src-en/data/events_sector_unexplored.xml:678
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "행운을 빌어준다."
 
 #: src-en/data/events_sector_unexplored.xml:680
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"\"그럼 그대는 도와주지 못하는 것이오? 뭐, 그래도 우리에겐 시간이 있소. "
+"어떻게든 신정에 대응할 방법이 찾아지면 좋겠구려.\""
 
 #: src-en/data/events_sector_unexplored.xml:686
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_unexplored.xml:688
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"UNEXPLORED_MAROONED_OUTCASTS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 이 기회에 휴식을 취합니다."
 
 #: src-en/data/events_sector_unexplored.xml:690
 msgid ""
@@ -952,10 +1100,9 @@ msgid ""
 msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_unexplored.xml:749
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_FEDERATION_GIFT\"]/choice[2]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_unexplored.xml:751
 msgid ""
@@ -1130,13 +1277,14 @@ msgstr "당신은 탐사에 오랜 시간을 소모했지만, 결국 성운에�
 msgid ""
 "data/events_sector_unexplored.xml$//eventList[@name=\"NEBULA_SIGNAL_SEARCH\"]/event[2]/text"
 msgstr ""
-"당신은 비어있는 해적 함선에서 신호를 보내는 것을 발견합니다. 이제 신호의 발신지를 알았으니 더 쉽게 신호를 해독할 수 있겠죠. 근처 "
-"행성에 해적의 은신처가 있다는 것을 알아챕니다!"
+"당신은 비어있는 해적선에서 신호를 보내는 것을 발견합니다. 이제 신호의 "
+"발신지를 알았으니 더 쉽게 신호를 해독할 수 있겠죠. 근처 행성에 해적의 "
+"은신처가 있다는 것을 알아챕니다!"
 
 #: src-en/data/events_sector_unexplored.xml:879
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SIGNAL_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "해적 은신처의 위치입니다."
 
 #: src-en/data/events_sector_unexplored.xml:881
 msgid ""
@@ -1161,7 +1309,7 @@ msgstr "거래한다."
 #: src-en/data/events_sector_unexplored.xml:899
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_TRADER\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_unexplored.xml:901
 msgid ""
@@ -1212,7 +1360,7 @@ msgstr "드론 부품 상자를 산다."
 #: src-en/data/events_sector_unexplored.xml:951
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_unexplored.xml:957
 msgid ""
@@ -1230,7 +1378,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_unexplored.xml:968
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/choice[3]/text"
 msgstr "해적을 무시한다."
@@ -1470,10 +1617,10 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:1186
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/text"
-msgstr "해적 함선이 당신을 향해 신호를 보냅니다. \"이봐, 우리가 제안할게 있어, 만약 너가 스크랩에 관심이 있다면 말이지.\""
+msgstr "해적선이 당신을 향해 신호를 보냅니다. \"이봐, 우리가 제안할게 있어, 만약 "
+"너가 스크랩에 관심이 있다면 말이지.\""
 
 #: src-en/data/events_sector_unexplored.xml:1189
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/text"
 msgstr "듣는다."
@@ -1487,14 +1634,14 @@ msgstr ""
 #: src-en/data/events_sector_unexplored.xml:1193
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_unexplored.xml:1195
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"\"좋군! 따라오라고...\" 그들은 당신을 근처의 슬러그 함선으로 이끕니다. \"이들을 다 죽여, 그러면 끝내주는 보상이 널 기다리고 "
-"있다고!\""
+"\"좋아! 따라오라고...\" 그들은 당신을 근처의 슬러그 함선으로 이끕니다. "
+"\"이들을 다 죽여, 그러면 끝내주는 보상이 널 기다리고 있다고!\""
 
 #: src-en/data/events_sector_unexplored.xml:1198
 msgid ""
@@ -1509,12 +1656,16 @@ msgstr "거절한다."
 #: src-en/data/events_sector_unexplored.xml:1208
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_nights\"]/text"
-msgstr ""
+msgstr "(나이트) \"너무도 훌륭한 태도구려! 나와 같은 견해를 공유하니 기념으로 이걸 "
+"드리오, 달팽이 혐오 동무.\""
 
 #: src-en/data/events_sector_unexplored.xml:1210
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_nights\"]/event/text"
 msgstr ""
+"나이트의 락맨 흉내는 꽤 인상적이었고, 해적들도 깜빡 속았습니다. 얼마 지나지 "
+"않아 나이트가 보낸 선물 폭탄이 터지면서 해적들의 날카로운 비명이 들렸습니다. "
+"해적들이 당신을 공격하기 위해 혼비백산 전투태세를 갖춥니다."
 
 #: src-en/data/events_sector_unexplored.xml:1214
 msgid ""
@@ -1524,12 +1675,16 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:1220
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_slocknog\"]/text"
-msgstr ""
+msgstr "(슬럭노그) 관심 있는 척하면서 슬럭노그의 텔레파시로 슬러그들과 먼저 판을 "
+"깔아둔다."
 
 #: src-en/data/events_sector_unexplored.xml:1222
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_slocknog\"]/event/text"
 msgstr ""
+"\"좋아! 따라오라고...\" 그들은 당신을 근처의 슬러그 함선으로 이끕니다. "
+"당신이 도착했을 때 슬러그는 이미 전투 준비를 마친 상태였습니다. 어렵지 않게 "
+"이 해적을 격퇴할 수 있을 겁니다."
 
 #: src-en/data/events_sector_unexplored.xml:1225
 msgid ""
@@ -1540,31 +1695,43 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_slocknog\"]/event/choice/event/text"
 msgstr ""
+"\"찌켜쭈쎠써 감싸합니다, 쓸럭노그 님.\"\n"
+"\n"
+"슬럭노그가 미소를 짓습니다. \"우리는 민감한 임무를 쑤행 쭝이다. 도와쭐 싸람 "
+"있나?\"\n"
+"\n"
+"슬러그 한 명이 자원해서 당신과 동행하기로 합니다."
 
 #: src-en/data/events_sector_unexplored.xml:1234
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_slocknog\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "해적선에서 쓸만한 걸 모은다."
 
 #: src-en/data/events_sector_unexplored.xml:1244
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_CREW_SYLVAN\"]/text"
-msgstr ""
+msgstr "(실반) \"찐씸인가요?\""
 
 #: src-en/data/events_sector_unexplored.xml:1246
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/text"
 msgstr ""
+"실반은 차분하면서도 위협적으로 다시 생각해 보라고 말합니다. \"맙소사, 너 "
+"함선에 슬러그를 싣고 있...\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t한 선원이 그의 말을 끊었습니다. \"잠깐! 저놈... 실반 아니야? "
+"행상인?\" 해적들의 허세가 금세 사그라듭니다. \"이, 이봐! 절대 진심으로 한 "
+"말이 아니었어! 우리가 가진 걸 전부 다 줄게! 죽이지만 말아줘!\""
 
 #: src-en/data/events_sector_unexplored.xml:1251
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice[1]/text"
-msgstr "제안을 거절한다."
+msgstr "거절한다."
 
 #: src-en/data/events_sector_unexplored.xml:1253
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"안 돼, 안 돼!\" 해적들은 실반과 싸워야 한다는 생각에 공포에 빠졌습니다."
 
 #: src-en/data/events_sector_unexplored.xml:1256
 msgid ""
@@ -1574,27 +1741,38 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:1262
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice[2]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_unexplored.xml:1270
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_irwin\"]/text"
-msgstr ""
+msgstr "(어윈) \"결투로 결판 찟는 건 어떤가? 열 걸음 걸어가써, 뒤를 돌고 총을 뽑아. "
+"씅짜가 모든 걸 챙기는 거찌.\""
 
 #: src-en/data/events_sector_unexplored.xml:1272
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"unique_irwin\"]/event/text"
 msgstr ""
+"해적이 얼굴을 찡그립니다. \"슬러그와 눈을 마주치긴 싫지만, 나에게 죽고 싶은 "
+"거라면 바라는 대로 해주지.\" 어윈과 해적은 함선을 연결하는 에어락의 양 끝에 "
+"섰습니다. 그들은 열 걸음을 걸은 후... \"탕!\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t어윈은 해적이 총을 빼기도 전에 순식간에 돌아 해적을 쐈습니다. "
+"그러고 자신의 뒤에 있는 해적도 총을 뽑으려 한다는 것을 눈치채고 곧바로 그 "
+"해적도 쏴 맞췄습니다. 나머지 해적들은 패배를 인정하고 손을 들었습니다. "
+"당신은 그들의 배에서 가능한 모든 것을 가져옵니다."
 
 #: src-en/data/events_sector_unexplored.xml:1279
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_VARIANT_BILLY\"]/text"
-msgstr ""
+msgstr "(빌리) \"싸람을 고용해써 아쭈 혼꾸멍을 내쭤야게써! 아니찌, 내가 찍쩝 "
+"혼내쭈게써!\""
 
 #: src-en/data/events_sector_unexplored.xml:1281
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_SLUG_HUNTER\"]/choice[1]/event/choice[@req=\"LIST_VARIANT_BILLY\"]/event/text"
-msgstr ""
+msgstr "\"우웩, 유일하게 슬러그보다 나쁜 건 바로 부자 슬러그지. 역겨워서 못 봐주겠네."
+"\""
 
 #: src-en/data/events_sector_unexplored.xml:1284
 msgid ""
@@ -1725,8 +1903,9 @@ msgstr ""
 msgid ""
 "data/events_sector_unexplored.xml$//eventList[@name=\"NEBULA_WHALE_EXPLORE\"]/event[2]/text"
 msgstr ""
-"운좋게도 우주고래는 당신이 쉽게 안쪽을 탐사할 수 있을 만큼 거대합니다. 다른 함선이 우주고래 속을 탐사하는건지 아니면 고래의 엄청난 "
-"식욕에 희생된 것인지는 모르겠지만, 고약한 해적 함선이 당신을 조준하고 공격합니다!"
+"운좋게도 우주고래는 당신이 쉽게 안쪽을 탐사할 수 있을 만큼 거대합니다. 다른 "
+"함선이 우주고래 속을 탐사하는건지 아니면 고래의 엄청난 식욕에 희생된 "
+"것인지는 모르겠지만, 고약한 해적선이 당신을 조준하고 공격합니다!"
 
 #: src-en/data/events_sector_unexplored.xml:1380
 msgid ""
@@ -1746,7 +1925,7 @@ msgstr "기뢰함에서 쓸만한 것을 모은다."
 #: src-en/data/events_sector_unexplored.xml:1395
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_MINE_WRECK\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_unexplored.xml:1397
 msgid ""
@@ -1794,10 +1973,9 @@ msgstr ""
 "대기중입니다."
 
 #: src-en/data/events_sector_unexplored.xml:1434
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_REBEL_UNDETECTED_MV\"]/choice[1]/text"
-msgstr "공격하라!"
+msgstr "공격한다."
 
 #: src-en/data/events_sector_unexplored.xml:1436
 msgid ""
@@ -1965,12 +2143,12 @@ msgstr "최첨단 반군 무인기가 근처의 작은 반군 정거장에 주�
 #: src-en/data/events_sector_unexplored.xml:1560
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_AUTO_DEFENSE_ITEM_MV\"]/choice[1]/text"
-msgstr "정거장에 들어가기 위해 무인선을 공격한다."
+msgstr "정거장에 들어가기 위해 무인기를 공격한다."
 
 #: src-en/data/events_sector_unexplored.xml:1562
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_AUTO_DEFENSE_ITEM_MV\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신은 무인기와의 교전을 준비합니다."
 
 #: src-en/data/events_sector_unexplored.xml:1565
 msgid ""
@@ -1980,7 +2158,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:1571
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_AUTO_DEFENSE_ITEM_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "무인기를 자극하지 않는다."
 
 #: src-en/data/events_sector_unexplored.xml:1573
 msgid ""
@@ -2089,6 +2267,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_LOST_SHIP_MV\"]/text"
 msgstr ""
+"이 송신소에는 심하게 손상된 연방 함선 한 척이 성운 속에 숨서 있었습니다. "
+"당신이 교신을 시도할 틈도 없이, 그 함선은 성운 속으로 사라집니다."
 
 #: src-en/data/events_sector_unexplored.xml:1661
 msgid ""
@@ -2098,7 +2278,7 @@ msgstr "따라가서 돕는다."
 #: src-en/data/events_sector_unexplored.xml:1665
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_LOST_SHIP_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "위치를 사수한다. 저들이 알아서 하게 두자."
 
 #: src-en/data/events_sector_unexplored.xml:1667
 msgid ""
@@ -2118,7 +2298,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_unexplored.xml:1679
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_LOST_SHIP_MV\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "(텔레포터) 텔레포터로 상대의 생명 신호를 포착한다."
 
 #: src-en/data/events_sector_unexplored.xml:1681
 msgid ""
@@ -2187,7 +2367,7 @@ msgstr "혐오스럽다고?! 무기를 장전하라!"
 #: src-en/data/events_sector_unexplored.xml:1730
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_ROCK_RACIST_MV\"]/choice[2]/event/text"
-msgstr ""
+msgstr "전투를 준비합니다."
 
 #: src-en/data/events_sector_unexplored.xml:1733
 msgid ""
@@ -2221,7 +2401,7 @@ msgstr "다음은 없다. 공격하라!"
 #: src-en/data/events_sector_unexplored.xml:1754
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_MANTIS_CHOICE_MV\"]/choice[1]/event/text"
-msgstr ""
+msgstr "전투를 준비합니다."
 
 #: src-en/data/events_sector_unexplored.xml:1757
 msgid ""
@@ -2376,7 +2556,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_unexplored.xml:1908
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_WATER_PLANET\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "당장 떠난다."
 
 #: src-en/data/events_sector_unexplored.xml:1914
 msgid ""
@@ -2580,7 +2760,7 @@ msgstr ""
 #: src-en/data/events_sector_unexplored.xml:2038
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_DISTRESS_DEATH_BY_GAS\"]/choice[6]/text"
-msgstr ""
+msgstr "민간인을 무시한다."
 
 #: src-en/data/events_sector_unexplored.xml:2040
 msgid ""
@@ -2631,7 +2811,7 @@ msgstr "송신소에서 사람을 찾는 작은 함선이 도움을 요청하는
 #: src-en/data/events_sector_unexplored.xml:2074
 msgid ""
 "data/events_sector_unexplored.xml$//event[@name=\"NEBULA_DISTRESS_SEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "응답한다."
 
 #: src-en/data/events_sector_unexplored.xml:2078
 msgid ""
@@ -2916,8 +3096,9 @@ msgstr ""
 msgid ""
 "data/events_sector_unexplored.xml$//textList[@name=\"NEBULA_PIRATE\"]/text[2]"
 msgstr ""
-"해적 함선이 높은 곳에서 튀어나와 메시지를 보냅니다. “내가 이 은하에서 좋아하는게 뭔지 아나? 바로 탐험가들! 항상 좋은 물품들을 "
-"가지고 다니거든!” 그들은 무기를 장전합니다."
+"해적선이 높은 곳에서 튀어나와 메시지를 보냅니다. “내가 이 은하에서 "
+"좋아하는게 뭔지 아나? 바로 탐험가들! 항상 좋은 물품들을 가지고 다니거든!” "
+"그들은 무기를 장전합니다."
 
 #: src-en/data/events_sector_unexplored.xml:2303
 msgid ""
@@ -2956,4 +3137,3 @@ msgid ""
 msgstr ""
 "심각한 피해를 입은 함선 두 척이 근처에 떠다니고 있습니다. 전투의 흔적입니다. 당신이 쓸만해 보이는 잔해를 수집하고 있을 때, 누군가 "
 "침입하는 소리와 함께 강습 부대의 함성이 들려옵니다."
-

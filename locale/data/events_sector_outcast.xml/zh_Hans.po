@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-26 04:40+0000\n"
+"Last-Translator: axnone <roger.zh@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_outcastxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_outcast.xml:28
 msgid ""
@@ -188,7 +195,7 @@ msgstr "(废料收集臂)无视殖民地自己打捞一些小行星。"
 #: src-en/data/events_sector_outcast.xml:171
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[3]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_sector_outcast.xml:173
 msgid ""
@@ -688,7 +695,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_outcast.xml:561
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_PROPAGANDA\"]/choice[6]/text"
-msgstr ""
+msgstr "无视空间站。"
 
 #: src-en/data/events_sector_outcast.xml:563
 msgid ""
@@ -1053,7 +1060,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_outcast.xml:835
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_outcast.xml:837
 msgid ""
@@ -1210,7 +1217,6 @@ msgid ""
 msgstr "附近的一处旧采矿平台上建有一个流放者们标志性的破烂村庄，看起来在附近的小行星带资源密度降低后被半废弃。仍居住在内的流放者看来对你有个请求。"
 
 #: src-en/data/events_sector_outcast.xml:979
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"DISTRESS_OUTCAST_TENSIONS\"]/choice/text"
 msgstr "说来听听。"
@@ -1453,7 +1459,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_outcast.xml:1151
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/choice[@req=\"weapons\"]/text"
-msgstr "(先进武器)要求他们投降。"
+msgstr "(高级武器)要求他们投降。"
 
 #: src-en/data/events_sector_outcast.xml:1153
 msgid ""
@@ -1466,11 +1472,12 @@ msgid ""
 msgstr "无视他们，要求他们交出货物。"
 
 #: src-en/data/events_sector_outcast.xml:1157
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/choice[@req=\"weapons\"]/event/choice[1]/event/text"
 msgstr ""
-"在别无选择的情况下，水晶族交出货物并跃迁走。没过多久，神权国派的舰队就来到了这里，并检查了货物。他们很满意，并转交了一笔赏金，但在你离开时，敌对的登舰者突然出现在你的船上。看来姊族解放组织说你被人在背后捅刀子是对的。"
+"在别无选择的情况下，水晶族交出货物并跃迁走。没过多久，神权国派的舰队就来到了"
+"这里，并检查了货物。他们很满意，并转交了一笔赏金，但在你离开时，你的星舰突然"
+"剧震！看来姊族解放组织说你被人在背后捅刀子是对的。"
 
 #: src-en/data/events_sector_outcast.xml:1162
 msgid ""
@@ -1493,11 +1500,12 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_outcast.xml:1177
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/choice[@req=\"weapons\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
-"他们最后一次感谢你，并在跃迁走之前提供了一份礼物。几分钟后，神权国派的车队到达了，但是当你把货物交给他们的时候，它就爆炸了。它使圣战者的领导人受到致命的伤害，并使他们的系统瘫痪。在别无选择的情况下，神权国组织逃离了。"
+"他们最后一次感谢你，并在跃迁走之前提供了一份礼物。几分钟后，神权国派的车队到"
+"达了，但是当你把货物交给他们的时候，它就爆炸了。它使圣战者的领导人受到致命的"
+"伤害，并使他们的系统瘫痪。在别无选择的情况下，神权国组织逃离了。"
 
 #: src-en/data/events_sector_outcast.xml:1181
 msgid ""
@@ -2086,7 +2094,12 @@ msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"TURBAN\"]/choice[@req=\"WEAPON_PREIGNITE\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"你飞快地穿过这座城市，与你所见过的所有小得多的流放者村落相比，你真正地感受到了它的巨大。作为一名初来乍到的变元者，你受到了热烈的欢迎，并在城市里渡过了愉快的时光。你遇到了一名谦逊的水生族渔夫，他说服你试吃一些异国情调的章鱼料理。还遇到一名特别年长的兰花族长，他用自己的树枝制作捕梦网。甚至还遇到了一名醉醺醺的前叛军，他声称自己是万斯上将失散多年的兄弟，在喝昏迷前请你喝了三轮酒。你还发现了一些出售军事用品的商店，有令人难以置信的各种物品可供挑选。"
+"你飞快地穿过这座城市，与你所见过的所有小得多的流放者村落相比，你真正地感受到"
+"了它的巨大。作为一名初来乍到的变元者，你受到了热烈的欢迎，并在城市里渡过了愉"
+"快的时光。你遇到了一名谦逊的水生族渔夫，他说服你试吃一些异国情调的章鱼料理。"
+"还遇到一名特别年长的兰花看护者，他用自己的树枝制作捕梦网。甚至还遇到了一名醉"
+"醺醺的前叛军，他声称自己是万斯上将失散多年的兄弟，在喝昏迷前请你喝了三轮酒。"
+"你还发现了一些出售军事用品的商店，有令人难以置信的各种物品可供挑选。"
 
 #: src-en/data/events_sector_outcast.xml:1680
 msgid ""
@@ -2099,7 +2112,12 @@ msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"TURBAN\"]/choice[@req=\"WEAPON_PREIGNITE\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"你飞快地穿过这座城市，与你所见过的所有小得多的流放者村落相比，你真正地感受到了它的巨大。作为一名初来乍到的变元者，你受到了热烈的欢迎，并在城市里渡过了愉快的时光。你遇到了一名谦逊的水生族渔夫，他说服你试吃一些异国情调的章鱼料理。还遇到一名特别年长的兰花族长，他用自己的树枝制作捕梦网。甚至还遇到了一名醉醺醺的前叛军，他声称自己是万斯上将失散多年的兄弟，在喝昏迷前请你喝了三轮酒。你还发现了一些出售军事用品的商店，有令人难以置信的各种物品可供挑选。"
+"你飞快地穿过这座城市，与你所见过的所有小得多的流放者村落相比，你真正地感受到"
+"了它的巨大。作为一名初来乍到的变元者，你受到了热烈的欢迎，并在城市里渡过了愉"
+"快的时光。你遇到了一名谦逊的水生族渔夫，他说服你试吃一些异国情调的章鱼料理。"
+"还遇到一名特别年长的兰花看护者，他用自己的树枝制作捕梦网。甚至还遇到了一名醉"
+"醺醺的前叛军，他声称自己是万斯上将失散多年的兄弟，在喝昏迷前请你喝了三轮酒。"
+"你还发现了一些出售军事用品的商店，有令人难以置信的各种物品可供挑选。"
 
 #: src-en/data/events_sector_outcast.xml:1688
 msgid ""
@@ -2302,4 +2320,3 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"TURBAN_BOMBING_COALITION_WIN\"]/choice/event/choice/text"
 msgstr "继续。"
-

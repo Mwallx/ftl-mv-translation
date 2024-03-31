@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-26 04:40+0000\n"
+"Last-Translator: axnone <roger.zh@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_separatistxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_separatist.xml:28
 msgid ""
@@ -23,7 +30,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_separatist.xml:57
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_VIRUS_TRAP\"]/text"
-msgstr ""
+msgstr "你在卫星轨道周围发现了一艘废弃的离谐舰。船上没有检测到任何活动迹象。"
 
 #: src-en/data/events_sector_separatist.xml:60
 msgid ""
@@ -36,6 +43,9 @@ msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_VIRUS_TRAP\"]/choice[@req=\"engi\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"在你登舰搜刮时，你听见你的半械族船员发出了一些像是在求救的声响。它开始抽搐晃"
+"动，在你迷惑了一小会后，你的半械族似乎接受了它身上发生的事情——一个病毒将它转"
+"化为了半械分离者！"
 
 #: src-en/data/events_sector_separatist.xml:65
 msgid ""
@@ -118,7 +128,7 @@ msgstr ""
 #: src-en/data/events_sector_separatist.xml:172
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_TRAP_SCAN\"]/choice[2]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_separatist.xml:174
 msgid ""
@@ -212,7 +222,7 @@ msgstr "(精英人类)怂恿他扫描你的精英人类船员。"
 #: src-en/data/events_sector_separatist.xml:237
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_BODY_SCAN\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/text"
-msgstr "(精英母巢螳螂)怂恿他扫描你的精英螳螂族船员。"
+msgstr "(精英母巢船员)怂恿他扫描你的精英螳螂族船员。"
 
 #: src-en/data/events_sector_separatist.xml:241
 msgid ""
@@ -242,7 +252,7 @@ msgstr ""
 #: src-en/data/events_sector_separatist.xml:261
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_BODY_SCAN\"]/choice[@req=\"crystal_sentinel\"]/text"
-msgstr "(水晶哨卫)怂恿他扫描你的水晶哨卫船员。"
+msgstr "(戍卫者船员)怂恿他扫描你的戍卫者。"
 
 #: src-en/data/events_sector_separatist.xml:265
 msgid ""
@@ -455,7 +465,7 @@ msgstr "同是半械族的两艘战舰正在此信标战斗，一艘属于谐合
 #: src-en/data/events_sector_separatist.xml:553
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_ENGI_CHOICE\"]/choice[1]/text"
-msgstr "联系这艘舰船。"
+msgstr "联系这些船。"
 
 #: src-en/data/events_sector_separatist.xml:555
 msgid ""
@@ -886,7 +896,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_separatist.xml:882
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_FLEET_DELAY\"]/choice[2]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_separatist.xml:884
 msgid ""
@@ -937,7 +947,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_separatist.xml:924
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"SEPARATIST_DISGUISE\"]/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr "(半械族船员)联系他们继续商讨。"
+msgstr "(谐合船员)联系他们继续商讨。"
 
 #: src-en/data/events_sector_separatist.xml:926
 msgid ""
@@ -1224,7 +1234,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_separatist.xml:1157
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"DISTRESS_SEPARATIST_COMMUNITY_VIRUS\"]/choice[2]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_sector_separatist.xml:1159
 msgid ""
@@ -1534,7 +1544,7 @@ msgstr "\"是的，我们-看得见-你们，联邦人。如果你想帮忙的�
 #: src-en/data/events_sector_separatist.xml:1410
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"HARMONY_LINK_SEPARATIST\"]/choice[1]/event/choice[1]/text"
-msgstr "给他们15发弹药。"
+msgstr "给他们5发弹药。"
 
 #: src-en/data/events_sector_separatist.xml:1412
 msgid ""
@@ -1611,4 +1621,3 @@ msgstr "星舰管理。"
 msgid ""
 "data/events_sector_separatist.xml$//event[@name=\"HARMONY_LINK_SEPARATIST\"]/choice[3]/event/choice[2]/text"
 msgstr "跳过。"
-

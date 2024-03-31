@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 17:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_freemantisxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_freemantis.xml:26
 msgid ""
@@ -618,7 +625,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_freemantis.xml:507
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_WEIRD_TRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_freemantis.xml:509
 msgid ""
@@ -750,7 +757,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_freemantis.xml:608
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_PULSARRAID\"]/choice[1]/event/choice[@req=\"LIST_CREW_SHELL_SCIENTIST\"]/text"
-msgstr "(甲壳科学家船员)让你的科学家解释脉冲星是如何运行的。"
+msgstr "(甲壳科学家)让你的科学家解释脉冲星是如何运行的。"
 
 #: src-en/data/events_sector_freemantis.xml:610
 msgid ""
@@ -773,10 +780,9 @@ msgid ""
 msgstr "你飞离了自由螳螂，你知道他们的使命不会有什么好下场。"
 
 #: src-en/data/events_sector_freemantis.xml:626
-#, fuzzy
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_PULSARRAID\"]/choice[2]/text"
-msgstr "避开这艘船。"
+msgstr "避开这些船。"
 
 #: src-en/data/events_sector_freemantis.xml:628
 msgid ""
@@ -907,10 +913,9 @@ msgid ""
 msgstr "\"什么？！不不不，我们不能允许。这些是通往伟大彼岸之门的钥匙！除了道歉之外不能提供任何东西。\""
 
 #: src-en/data/events_sector_freemantis.xml:730
-#, fuzzy
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_BURIAL\"]/choice[2]/event/choice[1]/text"
-msgstr "攻击对方。"
+msgstr "攻击对方！"
 
 #: src-en/data/events_sector_freemantis.xml:732
 msgid ""
@@ -1554,7 +1559,10 @@ msgstr "提议将他们的船员运送到他们的部落。"
 #: src-en/data/events_sector_freemantis.xml:1218
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"QUEST_FREEMANTIS_MATE\"]/choice[3]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr "\"哦，非常感谢。我带上我的朋友，一秒钟。\"一大群十来只左右的自由螳螂带着各种财物上船。你告诉他们在货舱里安家，直到你找到他们的部落据点。"
+msgstr ""
+"\"哦，非常感谢。我带上我的朋友，一秒钟。"
+"\"十来只左右的一大群自由螳螂带着各种财物登上星舰"
+"。你把他们招呼到星舰货舱里随意，直到你找到他们的部落据点。"
 
 #: src-en/data/events_sector_freemantis.xml:1223
 msgid ""
@@ -1575,7 +1583,10 @@ msgstr "提议将他们的船员运送到他们的部落。"
 #: src-en/data/events_sector_freemantis.xml:1234
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"QUEST_FREEMANTIS_MATE\"]/choice[3]/event/choice/event/choice[2]/event/text"
-msgstr "\"哦，非常感谢。我带上我的朋友，一秒钟。\"一大群十来只左右的自由螳螂带着各种财物上船。你告诉他们在货舱里安家，直到你找到他们的部落据点。"
+msgstr ""
+"\"哦，非常感谢。我带上我的朋友，一秒钟。"
+"\"十来只左右的一大群自由螳螂带着各种财物登上星舰"
+"。你把他们招呼到星舰货舱里随意，直到你找到他们的部落据点。"
 
 #: src-en/data/events_sector_freemantis.xml:1239
 msgid ""
@@ -1669,7 +1680,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_freemantis.xml$/FTL/event[@name=\"ENCOUNTER_FREEMANTIS_CONFUSED_NORMAL\"]/text"
 msgstr ""
-"你与一艘自由螳螂战舰打招呼，舰长立即开始辱骂你。\"叛军败类！你会后悔你搞砸了我族的那一天！我要摘下你的头颅，把它作为礼物送给我的联邦好友！\"他咆哮着结束了传输。你不确定他们是如何把你的战舰当成一艘叛军的战舰，但看起来你没有办法摆脱这艘船。"
+"你与一艘自由螳螂战舰打招呼，舰长立即开始辱骂你。\"叛军败类！你会后悔你搞砸了"
+"我族的那一天！我要摘下你的头颅，把它作为礼物送给我的联邦好友！"
+"\"他咆哮着中断了通讯传输"
+"。你不确定他们是怎么把你的战舰当成叛军的，但看起来你没有办法用嘴摆脱这艘船。"
 
 #: src-en/data/events_sector_freemantis.xml:1347
 msgid ""
@@ -1680,7 +1694,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_freemantis.xml$/FTL/event[@name=\"ENCOUNTER_FREEMANTIS_CONFUSED_REBEL\"]/text"
 msgstr ""
-"你与一艘自由螳螂战舰打招呼，船长立即开始辱骂你。\"叛军败类！你会后悔你搞砸了我族的那一天！我要摘下头颅，把它作为礼物送给我的联邦朋友！\"他咆哮着结束了传输。这一次，除了你自己，没有人可以被责怪，因为你有一个绝妙的主意，那就是在自由螳螂的星域内驾驶一艘真正的叛军战舰。"
+"你与一艘自由螳螂战舰打招呼，船长立即开始辱骂你。\"叛军败类"
+"！你会后悔你搞砸了我族的那一天！我要摘下头颅，把它作为礼物送给我的联邦朋友！"
+"\"他咆哮着中断了通讯传输"
+"。这次你怪不了别人，因为你天才到在自由螳螂的星域内驾驶一艘真正的叛军战舰。"
 
 #: src-en/data/events_sector_freemantis.xml:1355
 msgid ""
@@ -1875,7 +1892,7 @@ msgstr "\"呵呵，明智的选择。还没有比我更好的，超能族删除�
 #: src-en/data/events_sector_freemantis.xml:1495
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_ZOLTAN_KILLER\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_freemantis.xml:1497
 msgid ""
@@ -2133,4 +2150,3 @@ msgstr ""
 msgid ""
 "data/events_sector_freemantis.xml$//event[@name=\"FREEMANTIS_FLEET_ZOLTAN_WIN\"]/choice/event/choice/text"
 msgstr "继续。"
-

@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-20 17:40+0000\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_special_lightspeedxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_lightspeed.xml:14
 msgid ""
@@ -19,7 +26,8 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml:16
 msgid ""
 "data/events_special_lightspeed.xml$//textList[@name=\"TEXT_LIGHTSPEED\"]/text[3]"
-msgstr "你已进入超光速航行，太令人惊奇了，不久之前想要数分钟至数小时内完成跨星系航行还是痴人说梦。"
+msgstr "你已进入超光速航行，想想不久之前数分钟至数小时内完成跨星系航行还是痴人说梦，"
+"真是令人惊奇。"
 
 #: src-en/data/events_special_lightspeed.xml:17
 msgid ""
@@ -96,7 +104,7 @@ msgstr "部署几枚？"
 #: src-en/data/events_special_lightspeed.xml:37
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_EQUIPMENT\"]/choice[@req=\"DISTRACTION_BUOY\"]/event/choice[1]/text"
-msgstr "1 [无消耗，拖延1次叛军追击]"
+msgstr "1枚 [无消耗，拖延1次叛军追击]"
 
 #: src-en/data/events_special_lightspeed.xml:39
 msgid ""
@@ -111,7 +119,7 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml:49
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_EQUIPMENT\"]/choice[@req=\"DISTRACTION_BUOY\"]/event/choice[2]/text"
-msgstr "2 [消耗 4|，拖延2次叛军追击]"
+msgstr "2枚 [消耗 4|，拖延2次叛军追击]"
 
 #: src-en/data/events_special_lightspeed.xml:51
 msgid ""
@@ -126,7 +134,7 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml:64
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_EQUIPMENT\"]/choice[@req=\"DISTRACTION_BUOY\"]/event/choice[3]/text"
-msgstr "3 [消耗 8|，拖延3次叛军追击]"
+msgstr "3枚 [消耗 8|，拖延3次叛军追击]"
 
 #: src-en/data/events_special_lightspeed.xml:66
 msgid ""
@@ -214,7 +222,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:156
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_EQUIPMENT\"]/choice[7]/text"
 msgstr "算了。"
@@ -246,12 +253,15 @@ msgstr "返回。"
 #: src-en/data/events_special_lightspeed.xml:195
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_LEARN\"]/choice[2]/text"
-msgstr ""
+msgstr "[!]表示什么？"
 
 #: src-en/data/events_special_lightspeed.xml:197
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_LEARN\"]/choice[2]/event/text"
 msgstr ""
+"[!]标志有两种。一种在星区名后，表示这是一个独特星区，一般是某物种的主星区。另"
+"一种在信标后，表示这里十分重要或与重要任务有关，而不会被叛军占据。因此哪怕叛"
+"军已经完全占据整个星区，你依然可以到访。"
 
 #: src-en/data/events_special_lightspeed.xml:199
 msgid ""
@@ -283,6 +293,16 @@ msgstr "关于叛军威胁度。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_LEARN\"]/choice[4]/event/text"
 msgstr ""
+"处于高叛军威胁度的星区时你将有更高几率遭遇叛军战舰，甚至在叛军控制信标中遭遇M"
+"FK精英战舰。\n"
+"\t\t\t非常低：不会遭遇MFK精英战舰\n"
+"\t\t\t低：有10%的几率遭遇MFK精英战舰\n"
+"\t\t\t中低：有20%的几率遭遇MFK精英战舰\n"
+"\t\t\t中：有30%的几率遭遇MFK精英战舰\n"
+"\t\t\t高：有50%的几率遭遇MFK精英战舰\n"
+"\t\t\t非常高：有75%的几率遭遇MFK精英战舰\n"
+"\t\t\t!极高!：必定在叛军控制信标遭遇MFK精英战舰\n"
+"\t\t\t高及以上威胁度星区的出口信标处必定有一艘MFK精英战舰。"
 
 #: src-en/data/events_special_lightspeed.xml:227
 msgid ""
@@ -319,7 +339,7 @@ msgstr "处于超光速航行时，有一些可选选项。你可以立即进入
 #: src-en/data/events_special_lightspeed.xml:261
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"CURA_TASK_AND_LIGHTSPEED\"]/text"
-msgstr ""
+msgstr "查看C.U.R.A.提供的委托并使用一件部件。"
 
 #: src-en/data/events_special_lightspeed.xml:265
 msgid ""
@@ -329,7 +349,7 @@ msgstr "查看C.U.R.A.提供的委托。"
 #: src-en/data/events_special_lightspeed.xml:269
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"LIST_JUMPSPACE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "使用一件部件。"
 
 #: src-en/data/events_special_lightspeed.xml:273
 msgid ""
@@ -412,13 +432,13 @@ msgstr "进入兰花族园庭。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"SEC"
 " SECTOR_CONFEDERATE\"]/text"
-msgstr ""
+msgstr "进入血兰邦星区。"
 
 #: src-en/data/events_special_lightspeed.xml:330
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"SEC"
 " SECTOR_CONFEDERATE_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入血兰邦核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:334
 msgid ""
@@ -628,13 +648,13 @@ msgstr "进入甲壳星区。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"SEC"
 " SECTOR_GENIOCRACY_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入怪才体核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:474
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"SEC"
 " SECTOR_MORPH_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入怪才体科学区。"
 
 #: src-en/data/events_special_lightspeed.xml:478
 msgid ""
@@ -664,7 +684,7 @@ msgstr "进入灵朝首府。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU\"]/choice[@req=\"SEC"
 " SECTOR_MONK_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入辉光避难所。"
 
 #: src-en/data/events_special_lightspeed.xml:498
 msgid ""
@@ -807,13 +827,13 @@ msgstr "进入兰花族园庭。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/choice[@req=\"SEC"
 " SECTOR_CONFEDERATE\"]/text"
-msgstr ""
+msgstr "进入血兰邦星区。"
 
 #: src-en/data/events_special_lightspeed.xml:593
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/choice[@req=\"SEC"
 " SECTOR_CONFEDERATE_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入血兰邦核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:597
 msgid ""
@@ -1023,13 +1043,13 @@ msgstr "进入甲壳星区。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/choice[@req=\"SEC"
 " SECTOR_GENIOCRACY_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入怪才体核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:737
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/choice[@req=\"SEC"
 " SECTOR_MORPH_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入怪才体科学区。"
 
 #: src-en/data/events_special_lightspeed.xml:741
 msgid ""
@@ -1059,7 +1079,7 @@ msgstr "进入灵朝首府。"
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/choice[@req=\"SEC"
 " SECTOR_MONK_UNIQUE\"]/text"
-msgstr ""
+msgstr "进入辉光避难所。"
 
 #: src-en/data/events_special_lightspeed.xml:761
 msgid ""
@@ -1350,6 +1370,14 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml:1152
 msgid "data/events_special_lightspeed.xml$//event[@name=\"VAMPWEED_WARP\"]/text"
 msgstr ""
+"名称：血兰邦控制星区\n"
+"类别：中立\n"
+"星区独特性：否\n"
+"主导派系：血草兰花血兰邦\n"
+"叛军威胁度：中低\n"
+"\n"
+"虽然血兰邦已经不再是你的敌人，但它是银河系里唯一在联邦还未设代表的民主政体。"
+"这导致了不小的争议与双方关系的紧张。"
 
 #: src-en/data/events_special_lightspeed.xml:1160
 msgid ""
@@ -2059,10 +2087,12 @@ msgstr ""
 "名称：吸虫控制星区\n"
 "类别：中立(险要)\n"
 "星区独特性：否\n"
-"主导派系：吸虫共和国\n"
+"主导派系：吸虫族共和国\n"
 "叛军威胁度：低\n"
 "\n"
-"不要以为你在这里的最大威胁会是吸虫们本身。他们种族对联邦更多持中立态度 - 危险更多来自与吸虫共和国结盟的圣判所与星联势力。在这里要谨慎选择信赖的对象，也别过多利用被欺压的普通平民。"
+"不要以为你在这里的最大威胁会是吸虫们本身。他们种族对联邦更多持中立态度 - 危险"
+"更多来自与共和国结盟的圣判所与星联势力。在这里要谨慎选择信赖的对象，也别过多"
+"利用被欺压的普通平民。"
 
 #: src-en/data/events_special_lightspeed.xml:2242
 msgid ""
@@ -2214,7 +2244,12 @@ msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"SALE_SLUG_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"当你还未完成减速退出超光速巡航时，收到了一条不寻常的广告；\"尊敬的赫克塔公司顾客！这里是是是比利·赫克塔，赫克塔公司的CEO。作作作为我们全新的忠诚用户计划，我很自豪地向您介绍我们全新的'实用坚定工资(U.W.U.)点数'！每当你惠顾一次次次赫克塔(tm)牌商商商店，我们友善的客户支持舰船船船将为你的账户上增加一点U.W.U.点数！收集足够的点数后将进入我们的奖励计划！购物愉愉愉快！\"广告播放完毕，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
+"当你还未进入低速航行时，就收到了一条不寻常的广告：\"尊敬的赫克塔公司顾客！我"
+"是比利·赫克塔，赫克塔公司的CEO。作为我们全新的回头客计划的一部分，我们十分荣"
+"幸地向您介绍全新推出的'物值稳赚无悔(U.W.U.)积分'！每当您惠顾一次赫克塔(tm)商"
+"店，我们热心友善的客户服务舰将为您入账1点U.W.U."
+"积分！积累足够的积分后您将进入我们的奖励计划！购物愉快！\"广告播放完毕"
+"，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
 
 #: src-en/data/events_special_lightspeed.xml:2437
 msgid ""
@@ -2274,7 +2309,12 @@ msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"SALE_PIRATE_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"当你还未完成减速退出超光速巡航时，收到了一条不寻常的广告；\"尊敬的赫克塔公司顾客！这里是是是比利·赫克塔，赫克塔公司的CEO。作作作为我们全新的忠诚用户计划，我很自豪地向您介绍我们全新的'实用坚定工资(U.W.U.)点数'！每当你惠顾一次次次赫克塔(tm)牌商商商店，我们友善的客户支持舰船船船将为你的账户上增加一点U.W.U.点数！收集足够的点数后将进入我们的奖励计划！购物愉愉愉快！\"广告播放完毕，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
+"当你还未进入低速航行时，就收到了一条不寻常的广告：\"尊敬的赫克塔公司顾客！我"
+"是比利·赫克塔，赫克塔公司的CEO。作为我们全新的回头客计划的一部分，我们十分荣"
+"幸地向您介绍全新推出的'物值稳赚无悔(U.W.U.)积分'！每当您惠顾一次赫克塔(tm)商"
+"店，我们热心友善的客户服务舰将为您入账1点U.W.U."
+"积分！积累足够的积分后您将进入我们的奖励计划！购物愉快！\"广告播放完毕"
+"，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
 
 #: src-en/data/events_special_lightspeed.xml:2481
 msgid ""
@@ -2334,7 +2374,12 @@ msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"SALE_ABANDONED_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"当你还未完成减速退出超光速巡航时，收到了一条不寻常的广告；\"尊敬的赫克塔公司顾客！这里是是是比利·赫克塔，赫克塔公司的CEO。作作作为我们全新的忠诚用户计划，我很自豪地向您介绍我们全新的'实用坚定工资(U.W.U.)点数'！每当你惠顾一次次次赫克塔(tm)牌商商商店，我们友善的客户支持舰船船船将为你的账户上增加一点U.W.U.点数！收集足够的点数后将进入我们的奖励计划！购物愉愉愉快！\"广告播放完毕，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
+"当你还未进入低速航行时，就收到了一条不寻常的广告：\"尊敬的赫克塔公司顾客！我"
+"是比利·赫克塔，赫克塔公司的CEO。作为我们全新的回头客计划的一部分，我们十分荣"
+"幸地向您介绍全新推出的'物值稳赚无悔(U.W.U.)积分'！每当您惠顾一次赫克塔(tm)商"
+"店，我们热心友善的客户服务舰将为您入账1点U.W.U."
+"积分！积累足够的积分后您将进入我们的奖励计划！购物愉快！\"广告播放完毕"
+"，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
 
 #: src-en/data/events_special_lightspeed.xml:2525
 msgid ""
@@ -2373,6 +2418,17 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml:2555
 msgid "data/events_special_lightspeed.xml$//event[@name=\"SALE_LEECH_WARP\"]/text"
 msgstr ""
+"名称：吸虫控制星区\n"
+"类别：中立(险要)\n"
+"星区独特性：否\n"
+"主导派系：共和国\n"
+"叛军威胁度：低\n"
+"\n"
+"别以为在这你最大的敌人会是吸虫族本身，该物种与联邦更多是持中立态度。危险更可"
+"能来自于与共和国结盟的圣判所与星联势力。在这里要谨慎选择信赖的对象，也别太占"
+"被欺压的普通平民的便宜。\n"
+"在星区数据集的最后，你注意到一个小小的\"H\"商标...赞助广告？"
+"上书\"欢迎前来光临赫克塔实业公司商场处！\"呵..."
 
 #: src-en/data/events_special_lightspeed.xml:2564
 msgid ""
@@ -2385,7 +2441,12 @@ msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"SALE_LEECH_WARP\"]/choice[@req=\"loc_beentomarket\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"当你还未完成减速退出超光速巡航时，收到了一条不寻常的广告；\"尊敬的赫克塔公司顾客！这里是是是比利·赫克塔，赫克塔公司的CEO。作作作为我们全新的忠诚用户计划，我很自豪地向您介绍我们全新的'实用坚定工资(U.W.U.)点数'！每当你惠顾一次次次赫克塔(tm)牌商商商店，我们友善的客户支持舰船船船将为你的账户上增加一点U.W.U.点数！收集足够的点数后将进入我们的奖励计划！购物愉愉愉快！\"广告播放完毕，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
+"当你还未进入低速航行时，就收到了一条不寻常的广告：\"尊敬的赫克塔公司顾客！我"
+"是比利·赫克塔，赫克塔公司的CEO。作为我们全新的回头客计划的一部分，我们十分荣"
+"幸地向您介绍全新推出的'物值稳赚无悔(U.W.U.)积分'！每当您惠顾一次赫克塔(tm)商"
+"店，我们热心友善的客户服务舰将为您入账1点U.W.U."
+"积分！积累足够的积分后您将进入我们的奖励计划！购物愉快！\"广告播放完毕"
+"，一声铃铛声从你的电脑内传出，后面跟着公司口号\"保证满意，因为概不退款！\""
 
 #: src-en/data/events_special_lightspeed.xml:2569
 msgid ""
@@ -2439,7 +2500,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2621
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"AUGMENTED_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2625
 msgid ""
@@ -2469,7 +2530,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2661
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ANCIENT_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2665
 msgid ""
@@ -2499,7 +2560,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2701
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ROYAL_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2705
 msgid ""
@@ -2529,7 +2590,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2741
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ORIGINS_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2745
 msgid ""
@@ -2560,7 +2621,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2770
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"ORIGINS_RUWEN_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2774
 msgid ""
@@ -2590,7 +2651,7 @@ msgstr "进入低速航行。"
 #: src-en/data/events_special_lightspeed.xml:2811
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"NEXUS_WARP\"]/choice[@req=\"loc_task_accepted\"]/text"
-msgstr ""
+msgstr "你当前与C.U.R.A的通讯连接中断。"
 
 #: src-en/data/events_special_lightspeed.xml:2815
 msgid ""
@@ -2604,7 +2665,6 @@ msgstr ""
 "[警告：选择此项会覆盖下一个星区的已有任务]"
 
 #: src-en/data/events_special_lightspeed.xml:2835
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU\"]/choice[1]/text"
 msgstr "算了。"
@@ -2659,7 +2719,6 @@ msgstr ""
 "[警告：选择调整意味着你会失去继续下一星区内刷新的所有任务的机会。]"
 
 #: src-en/data/events_special_lightspeed.xml:2879
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_LASTSTAND\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2715,7 +2774,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:2928
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_SPIDER\"]/choice[2]/text"
 msgstr "算了。"
@@ -2736,7 +2794,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:2949
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_SPIDER_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2757,7 +2814,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:2973
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_JERRY\"]/choice[2]/text"
 msgstr "算了。"
@@ -2778,7 +2834,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:2994
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_JERRY_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2799,7 +2854,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3018
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_NIGHTS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2820,7 +2874,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3039
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_NIGHTS_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2841,7 +2894,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3063
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_HEKTAR\"]/choice[2]/text"
 msgstr "算了。"
@@ -2862,7 +2914,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3084
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_HEKTAR_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2883,7 +2934,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3108
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ESTATE\"]/choice[2]/text"
 msgstr "算了。"
@@ -2904,7 +2954,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3129
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ESTATE_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -2915,12 +2964,12 @@ msgid ""
 msgstr ""
 "名称：？？？\n"
 "类别：？？？\n"
-"星区独特性：是\n"
 "主导派系：？？？\n"
 "叛军威胁度：？？？\n"
 "标记点：？？？\n"
 "\n"
-"尽管大多数数据缺失严重，坐标乱七八糟，你惊讶于星区数据集竟然仍能识别出这些坐标数据。你对是否造访此处有些迟疑，但神秘感也非常诱人..."
+"尽管大多数数据缺失严重，坐标乱七八糟，你惊讶于星区数据集竟然仍能识别出这些坐"
+"标数据。你对是否造访此处有些迟疑，但神秘感也非常诱人..."
 
 #: src-en/data/events_special_lightspeed.xml:3148
 msgid ""
@@ -2938,7 +2987,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3160
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_RHYME\"]/choice[2]/text"
 msgstr "算了。"
@@ -2949,7 +2997,6 @@ msgid ""
 msgstr "如果你想要的话，这顶魔法帽能使你前往任何你想去的星区。然而，魔法帽的魔力似乎只够带你到一个星区。这是魔法不完美的副作用。"
 
 #: src-en/data/events_special_lightspeed.xml:3184
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[1]/text"
 msgstr "算了。"
@@ -2987,7 +3034,7 @@ msgstr "调整至集议会园庭。"
 #: src-en/data/events_special_lightspeed.xml:3214
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[8]/text"
-msgstr ""
+msgstr "调整至血兰邦核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:3218
 msgid ""
@@ -3022,7 +3069,7 @@ msgstr "调整至暗域黑市。"
 #: src-en/data/events_special_lightspeed.xml:3242
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[15]/text"
-msgstr ""
+msgstr "调整至被骇同盟区。"
 
 #: src-en/data/events_special_lightspeed.xml:3246
 msgid ""
@@ -3062,22 +3109,22 @@ msgstr "调整至异猎会星域。"
 #: src-en/data/events_special_lightspeed.xml:3274
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[23]/text"
-msgstr ""
+msgstr "调整至怪才体核心区。"
 
 #: src-en/data/events_special_lightspeed.xml:3278
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[24]/text"
-msgstr ""
+msgstr "调整至怪才体科学区。"
 
 #: src-en/data/events_special_lightspeed.xml:3282
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[25]/text"
-msgstr ""
+msgstr "调整至共和国首都。"
 
 #: src-en/data/events_special_lightspeed.xml:3286
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"REROUTE_MENU_HAT\"]/choice[26]/text"
-msgstr ""
+msgstr "调整至辉光避难所。"
 
 #: src-en/data/events_special_lightspeed.xml:3290
 msgid ""
@@ -3110,7 +3157,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3319
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_UNION\"]/choice[2]/text"
 msgstr "算了。"
@@ -3131,7 +3177,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3341
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_MILITIA\"]/choice[2]/text"
 msgstr "算了。"
@@ -3152,7 +3197,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3363
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_FED\"]/choice[2]/text"
 msgstr "算了。"
@@ -3173,7 +3217,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3385
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENGI\"]/choice[2]/text"
 msgstr "算了。"
@@ -3194,7 +3237,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3407
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ZOLTAN\"]/choice[2]/text"
 msgstr "算了。"
@@ -3215,7 +3257,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3429
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ORCHID\"]/choice[2]/text"
 msgstr "算了。"
@@ -3236,7 +3277,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3451
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_VAMPWEED\"]/choice[2]/text"
 msgstr "算了。"
@@ -3257,7 +3297,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3473
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_FREEMANTIS\"]/choice[2]/text"
 msgstr "算了。"
@@ -3278,7 +3317,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3495
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_CRYSTAL\"]/choice[2]/text"
 msgstr "算了。"
@@ -3299,7 +3337,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3517
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_OUTCAST\"]/choice[2]/text"
 msgstr "算了。"
@@ -3320,7 +3357,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3539
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_LOSTSUN\"]/choice[2]/text"
 msgstr "算了。"
@@ -3341,7 +3377,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3561
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_LANIUS\"]/choice[2]/text"
 msgstr "算了。"
@@ -3362,7 +3397,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3583
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[2]/text"
 msgstr "算了。"
@@ -3383,7 +3417,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3605
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_HACKED\"]/choice[2]/text"
 msgstr "算了。"
@@ -3404,7 +3437,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3627
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_REBEL\"]/choice[2]/text"
 msgstr "算了。"
@@ -3425,7 +3457,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3649
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AUTO\"]/choice[2]/text"
 msgstr "算了。"
@@ -3446,7 +3477,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3672
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_HIVE\"]/choice[2]/text"
 msgstr "算了。"
@@ -3467,7 +3497,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3693
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_HIVE_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -3488,7 +3517,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3715
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ROCK\"]/choice[2]/text"
 msgstr "算了。"
@@ -3509,7 +3537,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3737
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DUSK\"]/choice[2]/text"
 msgstr "算了。"
@@ -3530,7 +3557,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3759
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_SLUG\"]/choice[2]/text"
 msgstr "算了。"
@@ -3551,7 +3577,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3781
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_CLAN\"]/choice[2]/text"
 msgstr "算了。"
@@ -3572,7 +3597,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3803
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_SHELL\"]/choice[2]/text"
 msgstr "算了。"
@@ -3593,7 +3617,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3825
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_MORPH\"]/choice[2]/text"
 msgstr "算了。"
@@ -3614,7 +3637,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3847
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_LEECH\"]/choice[2]/text"
 msgstr "算了。"
@@ -3635,7 +3657,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3869
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_MONK\"]/choice[2]/text"
 msgstr "算了。"
@@ -3656,7 +3677,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3891
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_GHOST\"]/choice[2]/text"
 msgstr "算了。"
@@ -3677,7 +3697,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3913
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DYNASTY\"]/choice[2]/text"
 msgstr "算了。"
@@ -3698,8 +3717,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml:3935
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml$//event[@name=\"LIGHTSPEED_SECTOR_WARP_COALITION\"]/choice[2]/text"
 msgstr "算了。"
-

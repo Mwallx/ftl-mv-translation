@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-23 09:21+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_empirexml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_empire.xml:28
 msgid ""
@@ -163,7 +170,7 @@ msgstr "가지고 있는 무기로 부숴본다."
 #: src-en/data/events_sector_empire.xml:160
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_CACHE_MV\"]/choice[@req=\"BLUELIST_WEAPONS_HEAVY\"]/text"
-msgstr ""
+msgstr "(중형 무기) 중형 무기를 사용한다."
 
 #: src-en/data/events_sector_empire.xml:162
 msgid ""
@@ -209,8 +216,8 @@ msgstr "(크리스탈 선원) 크리스탈에게 무기를 조정하여 공격�
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_CACHE_MV\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
-"크리스탈 선원은 수정막에 알맞는 공명을 일으킬 수 있도록 무기의 폭발 주파수를 조정한 후 공격하였습니다. 수정막은 금세 무너져 "
-"내렸습니다."
+"크리스탈 선원은 수정막에 알맞는 공명을 일으킬 수 있도록 무기의 폭발 주파수를 "
+"조정하고 공격했습니다. 수정막은 금세 무너져 내렸습니다."
 
 #: src-en/data/events_sector_empire.xml:188
 msgid ""
@@ -220,7 +227,7 @@ msgstr "분화구를 조사한다."
 #: src-en/data/events_sector_empire.xml:194
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_CACHE_MV\"]/choice[4]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:196
 msgid ""
@@ -322,7 +329,6 @@ msgstr ""
 "공만한 크기로 보이네요... 하지만 일단 당신은 무사합니다."
 
 #: src-en/data/events_sector_empire.xml:257
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_CACHE_MV_LIST\"]/event[3]/choice[1]/event/removeCrew/text"
 msgstr "운이 좋게도 클론 배양실로 선원을 살릴 수 있었습니다."
@@ -384,7 +390,7 @@ msgstr ""
 #: src-en/data/events_sector_empire.xml:299
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_SCRAP_EXCITED_MV\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_empire.xml:301
 msgid ""
@@ -442,7 +448,7 @@ msgstr "선원들에게 테스트를 받게 한다."
 #: src-en/data/events_sector_empire.xml:344
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_HUMAN_TESTS_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "이 과학자들은 다른 곳에서 실험 대상을 찾아봐야 할 것이다."
 
 #: src-en/data/events_sector_empire.xml:348
 msgid ""
@@ -876,7 +882,7 @@ msgstr "공격한다. 블랙박스를 회수하면 지도 데이터를 다운로
 #: src-en/data/events_sector_empire.xml:675
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_AUTO_SURVEYOR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신은 무인 측량선과의 교전을 준비합니다."
 
 #: src-en/data/events_sector_empire.xml:678
 msgid ""
@@ -896,7 +902,7 @@ msgstr "당신은 성공적으로 들키지 않고 데이터를 다운로드했�
 #: src-en/data/events_sector_empire.xml:691
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_AUTO_SURVEYOR\"]/choice[3]/text"
-msgstr ""
+msgstr "무인기를 무시한다."
 
 #: src-en/data/events_sector_empire.xml:693
 msgid ""
@@ -920,10 +926,9 @@ msgstr ""
 "때문에 서서히 질식하거나 찌그러지고 있습니다."
 
 #: src-en/data/events_sector_empire.xml:710
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_TORTURE\"]/choice[1]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_empire.xml:712
 msgid ""
@@ -990,7 +995,6 @@ msgid ""
 msgstr "이곳에 도착하자마자 크리스탈 파편이 눈앞을 스쳤습니다. 스캐너를 확인해보니 크리스탈과 반군이 교전하고 있습니다!"
 
 #: src-en/data/events_sector_empire.xml:762
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_REBEL_CRYSTAL_MV\"]/choice[1]/text"
 msgstr "반군을 공격한다."
@@ -1025,7 +1029,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:785
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_REBEL_CRYSTAL_MV\"]/choice[3]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:787
 msgid ""
@@ -1067,7 +1071,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:813
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_REBEL_CRYSTAL2_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_empire.xml:815
 msgid ""
@@ -1110,7 +1114,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:842
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_MANTIS_CRYSTAL_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:844
 msgid ""
@@ -1151,7 +1155,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:871
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_PIRATE_CRYSTAL_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:873
 msgid ""
@@ -1293,7 +1297,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:972
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_FED_DESERTER_MV\"]/choice[3]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_empire.xml:974
 msgid ""
@@ -1562,21 +1566,31 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/text"
 msgstr ""
+"이 송신소에는 크리스탈 진료소가 있지만, 연기가 뿜어져 나오고 있고 온통 봉쇄 "
+"크리스탈로 뒤덮여 있습니다. 의무병이 당신을 부릅니다. \"도와주십시오! 화재를 "
+"진압하려고 하는데 움직일 수가 없습니다! 우리 환자 하나가 라펠에 나쁜 반응을 "
+"보여서... 봉쇄가 통제되지 않아 통로가 막혔습니다!\" 화재는 별로 커 보이지 "
+"않습니다. 빨리 행동하면 더 큰 피해가 발생하기 전에 모두를 구할 수 있을 "
+"것입니다."
 
 #: src-en/data/events_sector_empire.xml:1182
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "(텔레포터) 불을 끈다."
 
 #: src-en/data/events_sector_empire.xml:1185
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"teleporter\"]/event/text"
 msgstr ""
+"당신의 선원이 진료소로 순간 이동해 불을 끄기 시작합니다. 불이 멀리 번지지 "
+"않았기 때문에 겁에 질린 환자들을 쉽게 구할 수 있습니다. \"휴. "
+"아슬아슬했네요. 진료소를 지켜주셔서 감사합니다. 안타깝게도 문제의 환자는 "
+"지금의 상태론 아직 치료가 어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1188
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"teleporter\"]/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(고급 의료실) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1192
 msgid ""
@@ -1586,17 +1600,21 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1198
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"BLUELIST_CREW_NODOORS\"]/text"
-msgstr ""
+msgstr "(문을 무시할 수 있는 선원) 불을 끈다."
 
 #: src-en/data/events_sector_empire.xml:1200
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"BLUELIST_CREW_NODOORS\"]/event/text"
 msgstr ""
+"당신의 선원은 봉쇄 크리스탈을 무시하고 진료소에 진입했습니다. 불이 멀리 "
+"번지지 않았기 때문에 겁에 질린 환자들을 쉽게 구할 수 있습니다. \"휴. "
+"아슬아슬했네요. 환자들을 구해주셔서 감사합니다. 안타깝게도 문제의 환자는 "
+"지금의 상태론 아직 치료가 어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1203
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"BLUELIST_CREW_NODOORS\"]/event/choice[@req=\"UPG_MEDBAY_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(고급 의료실 + 텔레포터) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1207
 msgid ""
@@ -1606,17 +1624,21 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1213
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_JERRY_GRIEF\"]/text"
-msgstr ""
+msgstr "(제리) 봉쇄 크리스탈을 뚫고 들어가 불을 끈다."
 
 #: src-en/data/events_sector_empire.xml:1215
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_JERRY_GRIEF\"]/event/text"
 msgstr ""
+"제리는 커다란 총으로 문을 박살 내며 액션 영화의 주인공처럼 진료소에 "
+"진입했습니다. 불이 멀리 번지지 않았기 때문에 겁에 질린 환자들을 쉽게 구할 수 "
+"있습니다. \"휴. 아슬아슬했네요. 진료소를 지켜주셔서 감사합니다. 안타깝게도 "
+"문제의 환자는 지금의 상태론 아직 치료가 어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1218
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_JERRY_GRIEF\"]/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(고급 의료실) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1222
 msgid ""
@@ -1626,17 +1648,21 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1228
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"rock_paladin\"]/text"
-msgstr ""
+msgstr "(성기사 선원) 봉쇄 크리스탈을 뚫고 들어가 불을 끈다."
 
 #: src-en/data/events_sector_empire.xml:1230
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"rock_paladin\"]/event/text"
 msgstr ""
+"당신의 성기사는 봉쇄 크리스탈을 부수며 진료소에 진입했습니다. 불이 멀리 "
+"번지지 않았기 때문에 겁에 질린 환자들을 쉽게 구할 수 있습니다. \"휴. "
+"아슬아슬했네요. 진료소를 지켜주셔서 감사합니다. 안타깝게도 문제의 환자는 "
+"지금의 상태론 아직 치료가 어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1233
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"rock_paladin\"]/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(고급 의료실) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1237
 msgid ""
@@ -1646,17 +1672,21 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1243
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_MORPH_RECON\"]/text"
-msgstr ""
+msgstr "(정찰 드론) 정찰 드론을 사용해 문을 부수고 사람들을 대피시킨다."
 
 #: src-en/data/events_sector_empire.xml:1245
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_MORPH_RECON\"]/event/text"
 msgstr ""
+"당신의 드론은 매우 효율적으로 문을 부수고 들어가 환자들을 구출했습니다. 불이 "
+"멀리 번지지 않았기 때문에 진료소 직원들은 대피하면서 쉽게 불을 껐습니다. \"휴"
+". 아슬아슬했네요. 진료소를 지켜주셔서 감사합니다. 안타깝게도 문제의 환자는 "
+"지금의 상태론 아직 치료가 어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1248
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"LIST_CREW_MORPH_RECON\"]/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(고급 의료실) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1252
 msgid ""
@@ -1666,22 +1696,23 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1258
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[@req=\"FIRE_EXTINGUISHERS\"]/text"
-msgstr ""
+msgstr "진료소가 봉쇄된 상태여서 자동 진압 시스템을 투입할 수 없습니다."
 
 #: src-en/data/events_sector_empire.xml:1262
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[7]/text"
-msgstr ""
+msgstr "봉쇄 크리스탈을 뚫고 들어가 불을 끈다."
 
 #: src-en/data/events_sector_empire.xml:1266
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[8]/text"
-msgstr ""
+msgstr "진료소를 무시한다."
 
 #: src-en/data/events_sector_empire.xml:1268
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_SICK_FIRE\"]/choice[8]/event/text"
-msgstr ""
+msgstr "불이 이곳저곳 번지기 시작하며 많은 환자가 죽어가고 있습니다. 당신은 이 "
+"암울한 상황을 무시하기 위해 최선을 다합니다."
 
 #: src-en/data/events_sector_empire.xml:1270
 msgid ""
@@ -1697,26 +1728,40 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_SICK_TREATMENT\"]/text"
 msgstr ""
+"당신은 크리스탈을 함선으로 데려와 치료할 수 있었습니다. 임상의가 말했듯이 "
+"환자는 약에 나쁜 반응을 보였습니다. 당신은 그 증상을 고치고 환자를 진료소로 "
+"돌려보냅니다. 그는 돌아가기 전에 당신에게 보답으로 크리스탈 장비를 "
+"제공했습니다."
 
 #: src-en/data/events_sector_empire.xml:1286
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_DISTRESS_SICK_FIRE_BREAK\"]/event[1]/text"
 msgstr ""
+"아무리 노력해도 불길을 잡을 수 없었습니다. 안타깝게도 불이 여기저기 번지기 "
+"시작합니다. 이미 너무 늦었습니다. 병든 크리스탈은 이 불지옥에서 벗어날 수 "
+"없습니다. 더 이상 할 수 있는 일이 없습니다."
 
 #: src-en/data/events_sector_empire.xml:1290
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_DISTRESS_SICK_FIRE_BREAK\"]/event[2]/text"
 msgstr ""
+"당신은 결국 봉쇄를 뚫었지만, 이미 대부분의 환자가 사망한 후였습니다. "
+"크리스탈들은 당신에게 고마워하면서도, 떠나버린 이들에 대해 슬퍼하고 있는 게 "
+"드러납니다."
 
 #: src-en/data/events_sector_empire.xml:1295
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_DISTRESS_SICK_FIRE_BREAK\"]/event[3]/text"
 msgstr ""
+"당신의 선원들은 봉쇄 크리스탈의 약점을 찾아 불이 번지기 전에 뚫고 들어가는 "
+"데 성공하고 모든 환자를 구출했습니다. \"휴. 아슬아슬했네요. 진료소를 "
+"지켜주셔서 감사합니다. 안타깝게도 문제의 환자는 지금의 상태론 아직 치료가 "
+"어려울 것 같네요...\""
 
 #: src-en/data/events_sector_empire.xml:1299
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_DISTRESS_SICK_FIRE_BREAK\"]/event[3]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(고급 의료실) 봉쇄가 통제되지 않는 환자를 치료해 주기로 한다."
 
 #: src-en/data/events_sector_empire.xml:1303
 msgid ""
@@ -1727,16 +1772,23 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/text"
 msgstr ""
+"한 크리스탈 함선이 다른 크리스탈 함선으로부터 도망치는 현장에 도착했습니다. "
+"추격자는 공개 채널에서 메시지를 보내고 있습니다. \"이게 마지막 경고라오, "
+"해충들! 제국은 버려진 함선의 재사용을 용납하지 않소!\" 쫓기는 함선은 "
+"필사적으로 당신에게 통신을 보냅니다. 떠돌이가 도움을 요청합니다. \"필히 "
+"간청하오니! 부디 도와주소서!\""
 
 #: src-en/data/events_sector_empire.xml:1313
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[1]/text"
-msgstr ""
+msgstr "쫓는 크리스탈을 공격한다."
 
 #: src-en/data/events_sector_empire.xml:1315
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[1]/event/text"
 msgstr ""
+"\"이방인! 감히 우리 국경 내에서 법률 집행을 방해하다니? 그 무례함으로 "
+"죽을지어다!\" 크리스탈이 목표물을 당신으로 바꿉니다!"
 
 #: src-en/data/events_sector_empire.xml:1318
 msgid ""
@@ -1746,12 +1798,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1324
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[2]/text"
-msgstr ""
+msgstr "떠돌이를 공격한다."
 
 #: src-en/data/events_sector_empire.xml:1326
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[2]/event/text"
 msgstr ""
+"\"아아! 나의 명운이 다했구나!\" 떠돌이는 당신과 크리스탈 사이에 "
+"포위당했습니다! 당신 쪽이 더 공격하기 좋은 위치에 있는 것 같습니다."
 
 #: src-en/data/events_sector_empire.xml:1329
 msgid ""
@@ -1761,12 +1815,25 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1335
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dianesh\"]/text"
-msgstr ""
+msgstr "(디아내시) 두 함선을 중재한다."
 
 #: src-en/data/events_sector_empire.xml:1337
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dianesh\"]/event/text"
 msgstr ""
+"\"호전광들은 들으시오! 나 크리스탈 황제는 몇 가지 조건을 걸고 평화적인 "
+"타협에 동의할 것이오. 그럼 첫 번째 조건. 떠돌이여, 죽은 크리스탈의 시체가 "
+"아직 함선에 있소?\n"
+"\n"
+"\"...그들의 유해는 구석으로 몰아놨습니다.\" 떠돌이 선장이 멋쩍게 인정합니다."
+"\n"
+"\n"
+"\"좋소. 빛나는 영묘에 안치할 것이니 그들의 유해를 돌려주시오. 두 번째 조건. "
+"그대는 그 선박에 대한 대가로 지불금과 선물을 제공해야 하오. 이것이 완료되면, "
+"우리의 순찰대가 그대를 우리 구역의 출구로 안내할 것이오. 돌아오면 죽을 "
+"것이니 한 번 떠나면 다시는 돌아오지 마시오.\"\n"
+"\n"
+"떠돌이들은 그 조건에 동의하기 전에 잠시 시간을 두고 서로 논의합니다."
 
 #: src-en/data/events_sector_empire.xml:1347
 msgid ""
@@ -1777,16 +1844,27 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dianesh\"]/event/choice/event/text"
 msgstr ""
+"\"오 여제님! 정말 너그럽고 현명하십니다. 이것이 앞으로의 새로운 정책이 되는 "
+"것입니까?\"\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t디아내시가 고개를 저으며 말합니다. \"은하계 여행을 마치고 나면 "
+"외교 정책을 조정하겠소. 당분간은 지금처럼 계속 운영하시오.\" 크리스탈은 "
+"디아내시에게 작은 공물을 바칩니다."
 
 #: src-en/data/events_sector_empire.xml:1358
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dessius\"]/text"
-msgstr ""
+msgstr "(데시우스) 떠돌이들을 설득해 함선을 돌려준다."
 
 #: src-en/data/events_sector_empire.xml:1360
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dessius\"]/event/text"
 msgstr ""
+"데시우스가 자기 백성에게 명령을 내립니다. \"그대들은 너무 교만하구나! 우리 "
+"경쟁자가 지배하던 물건을 돌려주거라. 그대들의 목숨은 여기서 사라지기에는 "
+"너무 아깝다!\" 떠돌이들은 이 의견을 듣고 함선을 크리스탈들에게 넘겼습니다. "
+"그들이 함선에서 내리고 있을 때, 떠돌이 하나가 당신에게 와 태워달라고 떼를 "
+"씁니다!"
 
 #: src-en/data/events_sector_empire.xml:1363
 msgid ""
@@ -1797,16 +1875,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[@req=\"unique_dessius\"]/event/choice/event/text"
 msgstr ""
+"\"연방, 당신들의 외교적 수완은 우리에게 깊은 인상을 남겼소. 당신들의 개입 "
+"덕분에 총격전을 벌일 필요가 없었소. 도움을 받은 것에 대한 보답으로 선물을 "
+"전하겠소.\""
 
 #: src-en/data/events_sector_empire.xml:1372
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[5]/text"
-msgstr ""
+msgstr "관여하지 않는다."
 
 #: src-en/data/events_sector_empire.xml:1374
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"DISTRESS_CRYSTAL_VAGABOND_CONFLICT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "당신은 제국의 사법권에 간섭하지 않기로 합니다."
 
 #: src-en/data/events_sector_empire.xml:1376
 msgid ""
@@ -1821,17 +1902,24 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_empire.xml:1388
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_VAGABOND_RESCUED_AFTERMATH\"]/event[1]/text"
-msgstr ""
+msgstr "떠돌이들은 당신이 크리스탈과 싸우는 틈을 타 탈출한 것 같습니다. 여기서 할 수 "
+"있는 일은 아무것도 없습니다."
 
 #: src-en/data/events_sector_empire.xml:1391
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_VAGABOND_RESCUED_AFTERMATH\"]/event[2]/text"
 msgstr ""
+"떠돌이들은 근처에서 당신을 기다렸던 것 같습니다. \"우리가 느끼는 고마움의 "
+"깊이를 차마 말로 다 표현할 수 없구려!\" 떠돌이 중 한 명이 당신의 임무에 "
+"동참하겠다고 맹세합니다."
 
 #: src-en/data/events_sector_empire.xml:1395
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_VAGABOND_RESCUED_AFTERMATH\"]/event[3]/text"
 msgstr ""
+"떠돌이들은 근처에서 당신을 기다렸던 것 같습니다. \"우리가 느끼는 고마움의 "
+"깊이를 차마 말로 다 표현할 수 없구려!\" 그들이 당신에게 무기를 건네줍니다... "
+"비록 전성기는 지난 물건으로 보이지만요."
 
 #: src-en/data/events_sector_empire.xml:1402
 msgid ""
@@ -1880,7 +1968,8 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1446
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"QUEST_CRYSTAL_REBEL_ATTACK_ORCHID\"]/text"
-msgstr ""
+msgstr "당신은 도약을 마치자마자 군락 선박을 쫓는 반군을 포착했습니다. 하지만 반군은 "
+"당신을 눈치채자, 목표를 당신으로 바꿨습니다!"
 
 #: src-en/data/events_sector_empire.xml:1449
 msgid ""
@@ -1890,16 +1979,19 @@ msgstr "계속..."
 #: src-en/data/events_sector_empire.xml:1454
 msgid "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_SAVED\"]/text"
 msgstr ""
+"\"도와주셔서 감사합니다! 하지만 안타깝게도 반군의 공격으로 우리를 호위하던 "
+"크리스탈 정찰기가 파괴됐어요. 아주 중요한 사회학 컨퍼런스에 참석해야 "
+"하는데... 혹시 그곳에 가는 걸 도와주실 수 있을까요?\""
 
 #: src-en/data/events_sector_empire.xml:1456
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_SAVED\"]/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_empire.xml:1458
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_SAVED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"다시 한번 감사합니다. 제시간에 도착할 수 있으면 좋겠네요.\""
 
 #: src-en/data/events_sector_empire.xml:1463
 msgid ""
@@ -1909,17 +2001,22 @@ msgstr "거절한다."
 #: src-en/data/events_sector_empire.xml:1465
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_SAVED\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"그럼 다른 방법을 찾아보겠습니다. 친절한 크리스탈이 도와주면 좋겠네요.\""
 
 #: src-en/data/events_sector_empire.xml:1472
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_ESCORT_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "크리스탈 사회학 컨퍼런스가 이곳에서 열립니다."
 
 #: src-en/data/events_sector_empire.xml:1474
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_ORCHID_ESCORT_QUEST\"]/text"
 msgstr ""
+"오키드 선박은 회의장에 도착한 걸 기뻐하며 당신을 따라 도약해 왔습니다. \"아, "
+"언제 도착하는지 기다리고 있었소. 제국은 Ctl'Yae의 사회학적 통찰에 큰 관심을 "
+"두고 있소. 그들을 이곳으로 데려와 주어서 고맙소. 원한다면 컨퍼런스에 "
+"참관해도 되오.\" 재미있어 보이지만, 지금은 해야 할 임무가 있습니다. 그들은 "
+"당신의 일행에게 무료 뷔페 입장을 허락했고, 오키드도 당신에게 선물도 줬습니다."
 
 #: src-en/data/events_sector_empire.xml:1483
 msgid ""
@@ -1931,7 +2028,7 @@ msgstr ""
 #: src-en/data/events_sector_empire.xml:1485
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTALHOME_ZOLTENVOY\"]/choice[1]/text"
-msgstr ""
+msgstr "도와준다."
 
 #: src-en/data/events_sector_empire.xml:1487
 msgid ""
@@ -1944,7 +2041,7 @@ msgstr ""
 #: src-en/data/events_sector_empire.xml:1492
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTALHOME_ZOLTENVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:1494
 msgid ""
@@ -1964,7 +2061,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_empire.xml:1509
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTALHOME_ZOLTENVOY_DELIVERY\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "죽어가는 평화 유지군이 알려준 감시병 전초기지의 위치입니다."
 
 #: src-en/data/events_sector_empire.xml:1511
 msgid ""
@@ -2229,46 +2326,65 @@ msgstr "이 성운 속에 당신 혼자만 있는 것이 아닙니다. 공격 �
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/text"
 msgstr ""
+"저 멀리 보이는 행성은 몇 개의 호수와 강 외에는 다소 밋밋해 보입니다. 하지만 "
+"흥미롭게도 크리스탈 우주선이 연못 옆에 정박해 있습니다."
 
 #: src-en/data/events_sector_empire.xml:1703
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/text"
-msgstr ""
+msgstr "정박하고 탐색한다."
 
 #: src-en/data/events_sector_empire.xml:1705
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/text"
 msgstr ""
+"무릎을 꿇고 연못을 깊이 응시하고 있는 크리스탈 함선의 선장을 발견했습니다. "
+"이 연못에 매료된 이유를 묻자, 그가 대답합니다. \"안녕하시오, 함장. 연못을 "
+"한번 들여다보고 말해주시오. 지금까지 본 것 중 가장 아름다운 생물 아니오?\" "
+"당신은 수생 생물이 있을 것으로 생각하며 허리를 굽혔지만, 크리스탈의 모습만 "
+"비춰질 뿐이었습니다."
 
 #: src-en/data/events_sector_empire.xml:1707
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "정말 아름답습니다."
 
 #: src-en/data/events_sector_empire.xml:1711
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "더 아름다운 것도 본 적 있습니다..."
 
 #: src-en/data/events_sector_empire.xml:1715
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[@req=\"unique_nights\"]/text"
-msgstr ""
+msgstr "(나이트) 나이트가 그 질문에 대답하고 싶어 합니다."
 
 #: src-en/data/events_sector_empire.xml:1717
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[@req=\"unique_nights\"]/event/text"
 msgstr ""
+"지금도 만취 상태인 나이트는 연못으로 비틀거리며 기어가 \"생물\"을 보고 미친 "
+"듯한 웃음을 터뜨립니다. \"푸하하하! 이게 아름답다고?? 그 뭐씨냐, 그 쩜액괴물 "
+"쓸럭노그도 이것보다 열 배는 나은데, 그 쩜액만 쳐다봐도 내 눈이 씨큰거린단 "
+"말이야! 네 미의씩은 너무 끔찍해써 내가...\"\n"
+"\t\t\t\t\t\t\n"
+"나이트는 말을 끝맺지 못하고 연못에 과음의 흔적을 토해냈습니다. 크리스탈 "
+"선장은 나이트의 발언과 흉측해진 \"생물\"의 모습에 소스라치게 놀라 그 "
+"자리에서 쓰러집니다."
 
 #: src-en/data/events_sector_empire.xml:1721
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[@req=\"unique_nights\"]/event/choice/text"
-msgstr ""
+msgstr "쓰러진 선장의 선원들을 호출하여 살펴보라고 한다."
 
 #: src-en/data/events_sector_empire.xml:1723
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[@req=\"unique_nights\"]/event/choice/event/text"
 msgstr ""
+"그의 선원들은 현장에 도착하자마자 그가 감정적인 충격으로 인해 실신한 직후 "
+"사망했다고 결론지었습니다. 모두가 선장의 죽음에 \"조의\"를 표하고 너무도 "
+"신이 나서 함선으로 돌아가는 동안, 그들의 부선장은 이 행성에서 떠날 수 있게 "
+"도와준 당신에게 예의를 갖춰 몇 가지 물건을 보냈습니다."
 
 #: src-en/data/events_sector_empire.xml:1726
 msgid ""
@@ -2279,6 +2395,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[1]/event/choice[@req=\"unique_nights\"]/event/choice/event/choice/event/text"
 msgstr ""
+"당신이 함선으로 돌아가기 직전에 한 오키드 집정관이 당신의 등을 쿡 찌릅니다. "
+"아무 기억도 없는 상태로 이곳에 갑자기 나타난 것 같은데, 이 행성에서 나갈 "
+"수만 있다면 기꺼이 당신의 함선에서 일하려는 것으로 보입니다."
 
 #: src-en/data/events_sector_empire.xml:1729
 msgid ""
@@ -2293,7 +2412,7 @@ msgstr "행성을 무시한다."
 #: src-en/data/events_sector_empire.xml:1741
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"NEBULA_CRYSTAL_MIRROR\"]/choice[2]/event/text"
-msgstr ""
+msgstr "지금 관광 같은 게 중요한가요? 당신에겐 다른 할 일이 있습니다."
 
 #: src-en/data/events_sector_empire.xml:1743
 msgid ""
@@ -2309,21 +2428,36 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_MIRROR_FLATTER\"]/event[1]/text"
 msgstr ""
+"\"정말 그렇지 않소! 그대도 진정한 아름다움을 보는 눈을 가졌구려. 나는 이 "
+"장엄한 생명체에게서 한 발짝도 떨어질 수 없지만, 그대에게 경의는 표하고 싶소. "
+"나의 선원들은 나의 미의식을 이해하지 못하고 함선에서 초조하게 기다리고 있소. "
+"아마도 그들은 당신의 임무를 더 잘 수행할 것 같소.\""
 
 #: src-en/data/events_sector_empire.xml:1760
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_MIRROR_FLATTER\"]/event[2]/text"
 msgstr ""
+"\"정말 그렇지 않소! 그대도 진정한 아름다움을 보는 눈을 가졌구려. 나는 이 "
+"장엄한 생명체에게서 한 발짝도 떨어질 수 없지만, 그대에게 경의는 표하고 싶소. "
+"이제는 더 아름다운 곳을 찾을 필요가 없으니, 내가 쓰던 항해 장비를 좀 "
+"가져가시오.\""
 
 #: src-en/data/events_sector_empire.xml:1767
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_MIRROR_DENIAL\"]/event[1]/text"
 msgstr ""
+"\"진정한 아름다움을 인정하지 않는 바보들이군! 하, 당신네 이방인들은 야만적인 "
+"만큼이나 교양도 없소. 나는 더 좋은 동반자가 있으니 더 이상 당신과 함께 있고 "
+"싶지 않소. 그렇지 않소, 내 사랑?\" 크리스탈은 다시 다정하게 연못을 "
+"바라봅니다. 당신은 이 괴짜를 내버려두고 떠나기로 합니다."
 
 #: src-en/data/events_sector_empire.xml:1770
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_MIRROR_DENIAL\"]/event[2]/text"
 msgstr ""
+"\"진정한 아름다움을 인정하지 않는 바보들이군! 하, 당신네 이방인들은 야만적인 "
+"만큼이나 교양도 없소. 이렇게 추잡해서야 은하계에서 필히 멸해야 하겠군. 금방 "
+"돌아올겠소, 내 사랑!\""
 
 #: src-en/data/events_sector_empire.xml:1773
 msgid ""
@@ -2334,6 +2468,11 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_empire.xml$//eventList[@name=\"CRYSTAL_MIRROR_DENIAL\"]/event[3]/text"
 msgstr ""
+"\"뭐라고?? 어찌 감히 그런 말을! 내 당신에게 이 생명체의 참모습을 보여주겠소!"
+"\" 당신은 크리스탈이 공격할 줄 알았지만, 그는 연못으로 뛰어들어 \"생명체를 "
+"끌어올리려\" 했습니다. 몇 분 후 갑자기 한 오키드가 당신의 등을 쿡 찌릅니다. "
+"아무 기억도 없는 상태로 이곳에 갑자기 나타난 것 같은데, 이 행성에서 나갈 "
+"수만 있다면 기꺼이 당신의 함선에서 일하려는 것으로 보입니다."
 
 #: src-en/data/events_sector_empire.xml:1779
 msgid ""
@@ -2453,10 +2592,9 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_empire.xml:1871
-#, fuzzy
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_SANCTUARY\"]/choice[2]/text"
-msgstr "행성을 무시한다."
+msgstr "무시한다."
 
 #: src-en/data/events_sector_empire.xml:1873
 msgid ""
@@ -2547,4 +2685,3 @@ msgstr ""
 msgid ""
 "data/events_sector_empire.xml$//event[@name=\"CRYSTAL_BOSS_MERCY\"]/choice/event/crewMember"
 msgstr "Dianesh"
-

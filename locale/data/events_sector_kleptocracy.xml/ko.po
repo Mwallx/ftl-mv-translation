@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-24 06:19+0000\n"
+"Last-Translator: Kestrel <flameblast12@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_kleptocracyxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_kleptocracy.xml:28
 msgid ""
@@ -182,7 +189,8 @@ msgstr "이 은하계의 모든 종족 중에서, 이 둘은 서로를 해칠 �
 #: src-en/data/events_sector_kleptocracy.xml:173
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"DISTRESS_SLUG_MANTIS_MV\"]/choice[3]/event/text"
-msgstr ""
+msgstr "같은 연합 소속이라고 해도 맨티스가 슬러그에게 화를 참지 못할 이유는 없었는 "
+"것 같습니다. 아무래도 화가 많이 난 것 같습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:175
 msgid ""
@@ -289,7 +297,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:282
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "더 협상한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:284
 msgid ""
@@ -316,7 +324,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:300
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "더 협상한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:302
 msgid ""
@@ -343,12 +351,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:318
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "더 협상한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:322
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:324
 msgid ""
@@ -368,7 +376,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:338
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:340
 msgid ""
@@ -388,7 +396,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:354
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:356
 msgid ""
@@ -408,7 +416,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:370
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:372
 msgid ""
@@ -428,7 +436,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:386
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HIGH_PRICE\"]/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:388
 msgid ""
@@ -468,7 +476,7 @@ msgstr "연료를 산다."
 #: src-en/data/events_sector_kleptocracy.xml:421
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_HIGH_PRICE_LASTTIME\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "더 협상한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:423
 msgid ""
@@ -478,7 +486,7 @@ msgstr "\"씷어.\""
 #: src-en/data/events_sector_kleptocracy.xml:427
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_HIGH_PRICE_LASTTIME\"]/event[2]/choice[3]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:429
 msgid ""
@@ -671,7 +679,7 @@ msgstr "그들의 장비를 15 스크랩에 산다."
 #: src-en/data/events_sector_kleptocracy.xml:567
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_MYSTERIOUS_TECH\"]/choice[2]/text"
-msgstr ""
+msgstr "사양한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:569
 msgid ""
@@ -825,7 +833,7 @@ msgstr "졸탄 선원을 평화 유지군으로 바꾼다."
 #: src-en/data/events_sector_kleptocracy.xml:746
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CREW_UPGRADE\"]/choice[1]/event/choice[@req=\"zoltan\"]/event/choice[4]/text"
-msgstr ""
+msgstr "졸탄 선원을 더스크브링어 순교자로 바꾼다."
 
 #: src-en/data/events_sector_kleptocracy.xml:756
 msgid ""
@@ -939,7 +947,7 @@ msgstr "레버를 당기고 결과를 기다린다."
 #: src-en/data/events_sector_kleptocracy.xml:848
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CASINO\"]/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "그만두고 떠난다."
 
 #: src-en/data/events_sector_kleptocracy.xml:854
 msgid ""
@@ -1026,7 +1034,7 @@ msgstr ""
 #: src-en/data/events_sector_kleptocracy.xml:929
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"SLUG_CASINO_FAIL\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "엮이기 전에 빠져나간다."
 
 #: src-en/data/events_sector_kleptocracy.xml:935
 msgid ""
@@ -1213,10 +1221,9 @@ msgid ""
 msgstr "여기 있는 슬러그들은 특별한 일을 해낸 것 같습니다. 이곳의 발전소는 이온 폭풍을 이용해 전기를 생산하고 있습니다!"
 
 #: src-en/data/events_sector_kleptocracy.xml:1161
-#, fuzzy
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_STORM_SLUG_POWER\"]/choice[1]/text"
-msgstr "공격한다."
+msgstr "공격한다!"
 
 #: src-en/data/events_sector_kleptocracy.xml:1163
 msgid ""
@@ -1243,10 +1250,9 @@ msgstr ""
 "없죠) 당신의 반응로를 개선해줍니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1182
-#, fuzzy
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_STORM_SLUG_POWER\"]/choice[3]/text"
-msgstr "행성을 무시한다."
+msgstr "발전소를 무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1184
 msgid ""
@@ -1465,7 +1471,7 @@ msgstr "수감선을 공격한다."
 #: src-en/data/events_sector_kleptocracy.xml:1345
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_JAILER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "당신은 무기에 전원을 넣고 슬러그 함선과 교전합니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1348
 msgid ""
@@ -1475,12 +1481,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:1354
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_JAILER\"]/choice[@req=\"FIREARMS_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(개선된 무기고 + 테레포터) 수감선을 습격한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1356
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_JAILER\"]/choice[@req=\"FIREARMS_AND_TELEPORT\"]/event/text"
 msgstr ""
+"단단히 무장한 선원들이 수감선으로 들이닥쳐 재빨리 슬러그 간수들을 "
+"제압합니다. 이제 간수들이 감옥에 갇혔으니, 당신은 위험하지 않다고 생각되는 "
+"수감자들을 전부 풀어주었습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1361
 msgid ""
@@ -1510,7 +1519,7 @@ msgstr "\"당씬의 무기는... 쌍당히 쪼아 보이는 데, 썬원들은 �
 #: src-en/data/events_sector_kleptocracy.xml:1379
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"SURRENDER_SLUG_JAILER\"]/choice[1]/text"
-msgstr ""
+msgstr "포로를 수용한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1386
 msgid ""
@@ -1525,7 +1534,8 @@ msgstr "수감선을 파괴했습니다. 스크랩은 많이 떨어져 나왔지
 #: src-en/data/events_sector_kleptocracy.xml:1395
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"SLUG_JAILER_KILL\"]/text"
-msgstr ""
+msgstr "수감선의 선원을 모두 처치했습니다. 당신은 함선 외부에서 쓸만한 것을 "
+"모았습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1398
 msgid ""
@@ -1552,12 +1562,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:1414
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_JAILER_KILL_SLAVES\"]/event[2]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "(고급 클론 배양실) 수감자들을 구한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1416
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_JAILER_KILL_SLAVES\"]/event[2]/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
+"당신은 부상당한 수감자들의 DNA 샘플을 채취해 클론 배양실에 넣었습니다. "
+"그들은 되살아난 후 당신에게 감사해하며 슬쩍한 물건들을 보상으로 주었습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1422
 msgid ""
@@ -1743,11 +1755,10 @@ msgstr ""
 "있도록 허락할게. 방어막, 싼쏘, 무기 쭝 어느 거쓸 가짱 씨러하나?\""
 
 #: src-en/data/events_sector_kleptocracy.xml:1568
-#, fuzzy
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/text"
-msgstr "방어막 제어실"
+msgstr "방어막 제어실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1570
 msgid ""
@@ -1765,7 +1776,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(안티 바이러스 모듈) 방어막 제어실을 재가동한다."
+msgstr "(안티 바이러스) 방어막 제어실을 재가동한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1580
 msgid ""
@@ -1780,17 +1791,16 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_kleptocracy.xml:1591
-#, fuzzy
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"shields\""
 " and @lvl=\"0\"]/text"
-msgstr "방어막 제어실"
+msgstr "방어막 제어실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1595
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "무기 제어실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1597
 msgid ""
@@ -1810,13 +1820,13 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(안티 바이러스) 무기를 복구한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1607
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
-msgstr ""
+msgstr "무기 제어실이 재가동됐습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1610
 msgid ""
@@ -1828,13 +1838,13 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "무기 제어실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1622
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "산소실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1624
 msgid ""
@@ -1852,7 +1862,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(안티 바이러스) 산소실을 복구한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1634
 msgid ""
@@ -1870,7 +1880,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"oxygen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "산소실."
 
 #: src-en/data/events_sector_kleptocracy.xml:1649
 msgid ""
@@ -1885,7 +1895,7 @@ msgstr "'오늘은 쩡말로 기분이 쫗아...' 그들은 스크랩을 들고 
 #: src-en/data/events_sector_kleptocracy.xml:1658
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_CHOOSE_DEATH_MV\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 해킹 시도를 무력화한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1660
 msgid ""
@@ -1907,7 +1917,7 @@ msgstr ""
 #: src-en/data/events_sector_kleptocracy.xml:1675
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HULLFIX_MV\"]/choice[1]/text"
-msgstr ""
+msgstr "거절한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1677
 msgid ""
@@ -1927,7 +1937,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:1689
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_HULLFIX_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1693
 msgid ""
@@ -2028,8 +2038,9 @@ msgstr "여기서 빠져나간다!"
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"NEBULA_SLUG_HULLFIX_MV_RESULT2\"]/event[2]/choice[2]/event/text"
 msgstr ""
-"당신은 추진기를 작동해서 강제로 정거장에서 벗어납니다. 함선 하나가 전투 태세를 갖춘 채 다가오고 있습니다. 여기서 최대한 빨리 벗어나야"
-" 합니다. 무기를 충분히 충전할 시간이 없을지도 모르겠습니다!"
+"당신은 추진기를 작동해서 강제로 정거장에서 벗어납니다. 함선 하나가 "
+"전투태세를 갖춘 채 다가오고 있습니다. 여기서 최대한 빨리 벗어나야 합니다. "
+"무기를 충분히 충전할 시간이 없을지도 모르겠습니다!"
 
 #: src-en/data/events_sector_kleptocracy.xml:1769
 msgid ""
@@ -2044,7 +2055,7 @@ msgstr "\"아하, 동업짜로군요. 10만큼 쑤리에 50쓰크랩 받아요.\
 #: src-en/data/events_sector_kleptocracy.xml:1780
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"NEBULA_SLUG_HULLFIX_MV_REQUEST\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1782
 msgid ""
@@ -2098,7 +2109,7 @@ msgstr "가까이 다가간다."
 #: src-en/data/events_sector_kleptocracy.xml:1822
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_ROCK_SLUG_ARGUMENT_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:1824
 msgid ""
@@ -2385,7 +2396,8 @@ msgstr "(정신 지배 장비) 정신 지배를 상쇄한다."
 #: src-en/data/events_sector_kleptocracy.xml:2034
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_MINDSLAVES_ESCAPE\"]/event[3]/choice[@req=\"mind\"]/event/text"
-msgstr ""
+msgstr "다행히도 함선 시스템이 선원을 원래대로 되돌렸습니다. 당신은 재빨리 "
+"탈출합니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2038
 msgid ""
@@ -2395,7 +2407,8 @@ msgstr "(해킹 장비) 정신 지배를 상쇄한다."
 #: src-en/data/events_sector_kleptocracy.xml:2040
 msgid ""
 "data/events_sector_kleptocracy.xml$//eventList[@name=\"SLUG_MINDSLAVES_ESCAPE\"]/event[3]/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "다행히도 함선 시스템이 선원을 원래대로 되돌렸습니다. 당신은 재빨리 "
+"탈출합니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2044
 msgid ""
@@ -2449,7 +2462,7 @@ msgstr "도와줄 선원이 없다."
 #: src-en/data/events_sector_kleptocracy.xml:2090
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_DISTRESS_TRICK\"]/choice[3]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2092
 msgid ""
@@ -2536,7 +2549,7 @@ msgstr "슬러그 함선을 공격한다."
 #: src-en/data/events_sector_kleptocracy.xml:2155
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_DISTRESS_ROCK\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2161
 msgid ""
@@ -2838,7 +2851,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:2385
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_ROCK_SALTY\"]/choice[2]/text"
-msgstr ""
+msgstr "함선과 전투한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2387
 msgid ""
@@ -2873,7 +2886,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:2413
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_ROCK_SALTY_HUNT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "락맨 크루세이더가 이 지역의 슬러그 함선을 뒤쫓아달라고 부탁했습니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2415
 msgid ""
@@ -2959,7 +2972,7 @@ msgstr ""
 #: src-en/data/events_sector_kleptocracy.xml:2475
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2477
 msgid ""
@@ -2979,7 +2992,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_kleptocracy.xml:2492
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "슬러그 함선이 노리고 있는, 갑부로 추정되는 해적의 위치입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2495
 msgid ""
@@ -3121,7 +3134,7 @@ msgstr ""
 #: src-en/data/events_sector_kleptocracy.xml:2597
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "공격한다!"
 
 #: src-en/data/events_sector_kleptocracy.xml:2599
 msgid ""
@@ -3215,12 +3228,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2692
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_DOORS\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 원격 해킹을 무력화한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2694
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_DOORS\"]/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "당신의 해킹 장비가 자동으로 디지털 공격을 상쇄했습니다. 당신은 함선과 싸우기 "
+"위해 움직입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2698
 msgid ""
@@ -3230,7 +3244,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2704
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_DOORS\"]/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(안티 바이러스 모듈) 원격 해킹을 상쇄한다."
+msgstr "(안티 바이러스) 원격 해킹을 상쇄한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2706
 msgid ""
@@ -3273,12 +3287,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2742
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_OXYGEN\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 원격 해킹을 무력화한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2744
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_OXYGEN\"]/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "당신의 해킹 장비가 자동으로 디지털 공격을 상쇄했습니다. 당신은 함선과 싸우기 "
+"위해 움직입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2748
 msgid ""
@@ -3288,7 +3303,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2754
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_OXYGEN\"]/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(안티 바이러스 모듈) 원격 해킹을 상쇄한다."
+msgstr "(안티 바이러스) 원격 해킹을 상쇄한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2756
 msgid ""
@@ -3359,7 +3374,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2805
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_MEDBAY\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 원격 해킹을 무력화한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2807
 msgid ""
@@ -3376,7 +3391,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:2816
 msgid ""
 "data/events_sector_kleptocracy.xml$/FTL/event[@name=\"NEBULA_SLUG_MEDBAY\"]/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(안티 바이러스 모듈) 원격 해킹을 상쇄한다."
+msgstr "(안티 바이러스) 원격 해킹을 상쇄한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2818
 msgid ""
@@ -3432,7 +3447,7 @@ msgstr "조사한다."
 #: src-en/data/events_sector_kleptocracy.xml:2877
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_DISTRESS_SLOCKNOG_START\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "잔해를 무시한다."
 
 #: src-en/data/events_sector_kleptocracy.xml:2879
 msgid ""
@@ -3639,7 +3654,7 @@ msgstr ""
 #: src-en/data/events_sector_kleptocracy.xml:3027
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"SLUG_UNLOCK_2_MV\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "슬러그 비밀 건설 기지의 위치입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:3029
 msgid ""
@@ -3719,7 +3734,7 @@ msgstr "바지선을 무시한다."
 #: src-en/data/events_sector_kleptocracy.xml:3080
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"NEBULA_SLUG_PLEASURE_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "함선은 슬러그 민간인들로 가득 차 있습니다. 공격할 가치는 없어 보입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:3082
 msgid ""
@@ -3801,7 +3816,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_kleptocracy.xml:3149
 msgid ""
 "data/events_sector_kleptocracy.xml$//event[@name=\"SLUG_PLEASURE_2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "쾌락의 바지선의 추정 위치입니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:3152
 msgid "data/events_sector_kleptocracy.xml$//event[@name=\"SLUG_PLEASURE_2\"]/text"
@@ -3851,10 +3866,9 @@ msgstr ""
 "엔진을 충전하기 시작합니다."
 
 #: src-en/data/events_sector_kleptocracy.xml:3187
-#, fuzzy
 msgid ""
 "data/events_sector_kleptocracy.xml$//ship[@name=\"SHIP_PLEASURE_BARGE\"]/escape/choice[1]/text"
-msgstr "계속 발포한다."
+msgstr "계속 발포해라!"
 
 #: src-en/data/events_sector_kleptocracy.xml:3191
 msgid ""
@@ -3981,4 +3995,3 @@ msgstr ""
 "바지선은 쥐 죽은 듯이 조용합니다. 당신이 능숙하게 나포한 이 함선이 쓸모없이 방치된다면 참으로 안타까운 일이겠죠. 당신은 바지선의 "
 "FTL 드라이브를 재프로그래밍해서 가장 가까운 연방 기지로 보냈습니다. 그곳에서 스캔과 재건 과정을 거친 후 미래의 멀티버스 여행자를 "
 "위해 쓰일 것입니다."
-

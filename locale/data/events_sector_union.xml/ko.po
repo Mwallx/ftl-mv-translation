@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 08:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_unionxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_union.xml:28
 msgid ""
@@ -23,6 +30,9 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_union.xml:56
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_TRAFFIC\"]/text"
 msgstr ""
+"이 송신소는 다양한 기원 출신의 수많은 민간 선박으로 북적입니다. 온갖 종류의 "
+"주파수 때문에 정보를 얻는 게 불가능하지만, 반군 또한 이 선박의 바다 속에서 "
+"당신을 추적하는 데 어려움을 겪을 것입니다."
 
 #: src-en/data/events_sector_union.xml:61
 msgid ""
@@ -53,12 +63,12 @@ msgstr "(락맨 선원) 승선시키되 보안요원으로 락맨 선원을 배�
 #: src-en/data/events_sector_union.xml:85
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_BREACH\"]/choice[@req=\"LIST_CREW_SOLDIER\"]/text"
-msgstr ""
+msgstr "(병사 선원) 승선시키되 보안요원으로 병사 선원을 배치한다."
 
 #: src-en/data/events_sector_union.xml:89
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_BREACH\"]/choice[@req=\"LIST_CREW_SUZERAIN\"]/text"
-msgstr ""
+msgstr "(하이브 엘리트) 승선시키되 보안요원으로 맨티스 선원을 배치한다."
 
 #: src-en/data/events_sector_union.xml:93
 msgid ""
@@ -73,7 +83,7 @@ msgstr "(최고급 센서) 승선시키되 그들을 지속적으로 스캔한�
 #: src-en/data/events_sector_union.xml:101
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_BREACH\"]/choice[7]/text"
-msgstr ""
+msgstr "도와줄 수 없다."
 
 #: src-en/data/events_sector_union.xml:103
 msgid ""
@@ -96,6 +106,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"UNION_BREACH_BOARD\"]/event[1]/text"
 msgstr ""
+"민간인들은 당신의 도움에 매우 감사해하고 있습니다. 자신들의 짐을 챙겨 전부 "
+"승선한 민간인들은 원래 타던 함선을 폐선 처리해 수거하도록 허락해 줬습니다."
 
 #: src-en/data/events_sector_union.xml:121
 msgid ""
@@ -156,6 +168,8 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"UNION_BREACH_SECURITY\"]/event[1]/text"
 msgstr ""
+"민간인들은 당신의 도움에 매우 감사해하고 있습니다. 자신들의 짐을 챙겨 전부 "
+"승선한 민간인들은 원래 타던 함선을 폐선 처리해 수거하도록 허락해 줬습니다."
 
 #: src-en/data/events_sector_union.xml:166
 msgid ""
@@ -241,7 +255,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:209
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "그들을 매수한다."
 
 #: src-en/data/events_sector_union.xml:211
 msgid ""
@@ -263,7 +277,7 @@ msgstr "\"정말 고맙다! 당신 우리 정말 많이 도우다. 함장님께 
 #: src-en/data/events_sector_union.xml:220
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "수리."
 
 #: src-en/data/events_sector_union.xml:222
 msgid ""
@@ -273,7 +287,7 @@ msgstr "독립 맨티스들은 수리는 잘 하지 못하지만 그들은 합�
 #: src-en/data/events_sector_union.xml:227
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "연료."
 
 #: src-en/data/events_sector_union.xml:229
 msgid ""
@@ -293,12 +307,12 @@ msgstr "독립 맨티스들은 기쁘게 당신에게 스크랩을 넘겨주었�
 #: src-en/data/events_sector_union.xml:245
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS\"]/choice[1]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "그만두자. 반군 동조자들은 너무 완고하다."
 
 #: src-en/data/events_sector_union.xml:251
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "함선을 파괴한다."
 
 #: src-en/data/events_sector_union.xml:253
 msgid ""
@@ -385,7 +399,7 @@ msgstr "\"정말 고맙다! 당신 우리 정말 많이 도우다. 함장님께 
 #: src-en/data/events_sector_union.xml:305
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS_SURRENDER\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "수리."
 
 #: src-en/data/events_sector_union.xml:307
 msgid ""
@@ -395,7 +409,7 @@ msgstr "독립 맨티스들은 수리는 잘 하지 못하지만 그들은 합�
 #: src-en/data/events_sector_union.xml:312
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FREEMANTIS_SURRENDER\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "연료."
 
 #: src-en/data/events_sector_union.xml:314
 msgid ""
@@ -420,31 +434,32 @@ msgstr "그래 진심이야."
 #: src-en/data/events_sector_union.xml:336
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/text"
-msgstr ""
+msgstr "근처의 협회 함선이 교신을 보내 특정 무기의 전력 효율을 개선할 수 있다고 "
+"자랑합니다. 비용이 많이 들 것 같습니다."
 
 #: src-en/data/events_sector_union.xml:339
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "개선할 무기를 고른다."
 
 #: src-en/data/events_sector_union.xml:341
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "기술자가 다음 무기를 개선할 수 있다고 합니다."
 
 #: src-en/data/events_sector_union.xml:343
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"LASER_FROST_2\"]/text"
-msgstr ""
+msgstr "서리 레이저 마크 II를 개선한다."
 
 #: src-en/data/events_sector_union.xml:345
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"LASER_FROST_2\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:351
 msgid ""
@@ -457,19 +472,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"LASER_FROST_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:360
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_PARTICLE\"]/text"
-msgstr ""
+msgstr "입자 미사일을 개선한다."
 
 #: src-en/data/events_sector_union.xml:362
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_PARTICLE\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:368
 msgid ""
@@ -482,19 +497,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"MISSILES_PARTICLE\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:377
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "충전식 충격기를 개선한다."
 
 #: src-en/data/events_sector_union.xml:379
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:385
 msgid ""
@@ -507,19 +522,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:394
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_BURST_2\"]/text"
-msgstr ""
+msgstr "'히드라' 점사형 미사일을 개선한다."
 
 #: src-en/data/events_sector_union.xml:396
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_BURST_2\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:402
 msgid ""
@@ -532,19 +547,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"MISSILES_BURST_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:411
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_CLOAK\"]/text"
-msgstr ""
+msgstr "'닉스' 미사일을 개선한다."
 
 #: src-en/data/events_sector_union.xml:413
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_CLOAK\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:419
 msgid ""
@@ -557,19 +572,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"MISSILES_CLOAK\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:428
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_FIRE\"]/text"
-msgstr ""
+msgstr "'하데스' 미사일을 개선한다."
 
 #: src-en/data/events_sector_union.xml:430
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"MISSILES_FIRE\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:436
 msgid ""
@@ -582,19 +597,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"MISSILES_FIRE\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:445
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_2\"]/text"
-msgstr ""
+msgstr "'할버드' 빔을 개선한다."
 
 #: src-en/data/events_sector_union.xml:447
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_2\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:453
 msgid ""
@@ -606,19 +621,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:462
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_LONG\"]/text"
-msgstr ""
+msgstr "'파이크' 빔을 개선한다."
 
 #: src-en/data/events_sector_union.xml:464
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_LONG\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:470
 msgid ""
@@ -630,19 +645,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_LONG\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:479
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_FIRE\"]/text"
-msgstr ""
+msgstr "'토치' 빔을 개선한다."
 
 #: src-en/data/events_sector_union.xml:481
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_FIRE\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:487
 msgid ""
@@ -654,19 +669,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_FIRE\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:496
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_GUILLOTINE\"]/text"
-msgstr ""
+msgstr "'포샤드' 빔을 개선한다."
 
 #: src-en/data/events_sector_union.xml:498
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"BEAM_GUILLOTINE\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:504
 msgid ""
@@ -679,19 +694,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"BEAM_GUILLOTINE\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:513
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_2\"]/text"
-msgstr ""
+msgstr "에너지 포 II를 개선한다."
 
 #: src-en/data/events_sector_union.xml:515
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_2\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:521
 msgid ""
@@ -703,19 +718,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:530
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_STUN\"]/text"
-msgstr ""
+msgstr "에너지 충격기를 개선한다."
 
 #: src-en/data/events_sector_union.xml:532
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_STUN\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:538
 msgid ""
@@ -727,19 +742,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_STUN\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:547
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "충전식 에너지 포를 개선한다."
 
 #: src-en/data/events_sector_union.xml:549
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"ENERGY_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:555
 msgid ""
@@ -752,19 +767,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"ENERGY_CHARGEGUN\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:564
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"SHOTGUN_2\"]/text"
-msgstr ""
+msgstr "대공포 마크 II를 개선한다."
 
 #: src-en/data/events_sector_union.xml:566
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"SHOTGUN_2\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:572
 msgid ""
@@ -776,19 +791,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"SHOTGUN_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:581
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"SHOTGUN_TOXIC\"]/text"
-msgstr ""
+msgstr "전화된 대공포를 개선한다."
 
 #: src-en/data/events_sector_union.xml:583
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"SHOTGUN_TOXIC\"]/event/text"
-msgstr ""
+msgstr "당신은 기술자에게 무기를 넘기고 작업이 끝나기를 기다립니다."
 
 #: src-en/data/events_sector_union.xml:589
 msgid ""
@@ -801,19 +816,19 @@ msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and "
 "@lvl=\"1\"]/event/choice[@req=\"SHOTGUN_TOXIC\"]/event/choice/event/text"
-msgstr ""
+msgstr "잠시 후, 무기는 최적화가 적용된 상태로 당신에게 돌아왔습니다."
 
 #: src-en/data/events_sector_union.xml:598
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "마음을 바꾼다."
 
 #: src-en/data/events_sector_union.xml:600
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"1\"]/event/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "당신은 제안을 거절하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_union.xml:602
 msgid ""
@@ -831,13 +846,15 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "개선할 무기를 고른다."
 
 #: src-en/data/events_sector_union.xml:616
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[@req=\"LIST_WEAPONS_PLAYER\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"안타깝게도 기술자는 당신이 가진 무기 중에는 개선할 수 있는 게 없다고 "
+"알렸습니다. 어쨌든 당신은 그에게 감사하고 더 이상 시간을 낭비하지 않았습니다."
 
 #: src-en/data/events_sector_union.xml:618
 msgid ""
@@ -852,15 +869,14 @@ msgid ""
 msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_union.xml:628
-#, fuzzy
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[3]/text"
-msgstr "공격한다."
+msgstr "공격하라!"
 
 #: src-en/data/events_sector_union.xml:630
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신은 무기를 가동하여 적대적인 의도를 드러냅니다."
 
 #: src-en/data/events_sector_union.xml:633
 msgid ""
@@ -875,7 +891,7 @@ msgstr "제안을 무시한다."
 #: src-en/data/events_sector_union.xml:641
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_EFFICIENCY_ENGINEER\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신은 제안을 거절하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_union.xml:643
 msgid ""
@@ -891,16 +907,40 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/text"
 msgstr ""
+"송신소에서 격렬한 논쟁이 벌어지고 있습니다. 비무장 수송선을 호위하는 망명자 "
+"함선이 민병대 함선과 대치하고 있습니다. 두 함선은 공개 통신 채널에서 "
+"대화하고 있습니다.\n"
+"\n"
+"\"...하지만 그들은 갈 곳이 없소!\"\n"
+"\n"
+"\"그건 우리 문제가 아니죠! 당신네가 우리 보금자리에 침입해 말도 안 되는 "
+"소리나 내뱉는 걸 그냥 두고 볼 수 있을 것 같습니까?\"\n"
+"\n"
+"\"좀 들어보시오! 우린 이미 탈교했소! 살 곳을 제공해 준다면 그대들의 관습을 "
+"배울 용의가 있소.\"\n"
+"\n"
+"\"예, 항상 시작은 좋죠. 결국에는 우리의 견해를 모욕하고 그쪽 관습으로 "
+"덮어버리면서 말입니다. 우리는 그렇게 순진하지 않습니다!\""
 
 #: src-en/data/events_sector_union.xml:679
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[@req=\"unique_tuco\"]/text"
-msgstr ""
+msgstr "(투코) 민병대를 위협한다."
 
 #: src-en/data/events_sector_union.xml:681
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[@req=\"unique_tuco\"]/event/text"
 msgstr ""
+"투코의 목소리가 벽을 때리는 소리와 함께 무전기에 울려 퍼집니다. \"내가 지금 "
+"뭘 보고 있는 거지?\"\n"
+"\n"
+"\"누구... 누구신가요?\" 순찰대가 묻습니다.\n"
+"\n"
+"그들의 질문에 다른 함선이 대답합니다. \"공포의 해적 투코! 우리를 도우러 "
+"오셨구려!\"\n"
+"\n"
+"\"젠장, 공포의 해적이라고요? 이건 내 능력 밖의 일이야... 좋아요! 여기 있어도 "
+"됩니다. 그냥... 문제만 일으키지 마십시오!\" 민병대 순찰대가 떠났습니다."
 
 #: src-en/data/events_sector_union.xml:689
 msgid ""
@@ -911,6 +951,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[@req=\"unique_tuco\"]/event/choice/event/text"
 msgstr ""
+"\"공포의 해적 투코가 우리를 구했소! 우리의 구세주 투코 만세!\" 망명자들은 "
+"당신의 함선을 향해 환호하며 최선을 다해 경의를 표했습니다. 투코가 술을 한 "
+"모금 마시며 웃습니다. \"실력이 정말 좋으면, 명성만으로 충분한 법이지.\""
 
 #: src-en/data/events_sector_union.xml:694
 msgid ""
@@ -920,12 +963,18 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:702
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[@req=\"rock_outcast\"]/text"
-msgstr ""
+msgstr "(망명자 선원) 망명자에게 민병대의 말을 따르라고 권유한다."
 
 #: src-en/data/events_sector_union.xml:704
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[@req=\"rock_outcast\"]/event/text"
 msgstr ""
+"당신의 망명자가 호위함에 연락해 다른 곳을 찾아보라고 제안합니다.\n"
+"\n"
+"\"여기까지 오면서 항상 그 말만 들었소.\"\n"
+"\n"
+"당신의 망명자는 그들에게 언젠가 원하는 것을 찾아낼 수 있을 테지만, 여기서는 "
+"아니라고 말했습니다. 그들은 마침내 수긍하고 도약해 떠났습니다."
 
 #: src-en/data/events_sector_union.xml:710
 msgid ""
@@ -935,22 +984,22 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:716
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[3]/text"
-msgstr ""
+msgstr "망명자에게 민병대의 말을 따르라고 권유한다."
 
 #: src-en/data/events_sector_union.xml:720
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[4]/text"
-msgstr ""
+msgstr "편견적인 처사라고 지적한다."
 
 #: src-en/data/events_sector_union.xml:724
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[5]/text"
-msgstr ""
+msgstr "망명자 호위함을 공격한다."
 
 #: src-en/data/events_sector_union.xml:726
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[5]/event/text"
-msgstr ""
+msgstr "망명자는 당신의 적대적인 행동에 무기를 가동하여 대응합니다."
 
 #: src-en/data/events_sector_union.xml:729
 msgid ""
@@ -960,12 +1009,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:735
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[6]/text"
-msgstr ""
+msgstr "민병대 함선을 공격한다."
 
 #: src-en/data/events_sector_union.xml:737
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[6]/event/text"
-msgstr ""
+msgstr "충분히 들었습니다. 민병대는 부당한 요구를 하고 있습니다. 그들은 당신의 "
+"갑작스러운 공격에 놀라며 똑같은 방식으로 대응합니다."
 
 #: src-en/data/events_sector_union.xml:740
 msgid ""
@@ -975,12 +1025,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:746
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[7]/text"
-msgstr ""
+msgstr "분쟁을 무시한다."
 
 #: src-en/data/events_sector_union.xml:748
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_OUTCAST_REFUGEES\"]/choice[7]/event/text"
-msgstr ""
+msgstr "그들의 아귀다툼은 당신이 신경 쓸 일이 아닙니다."
 
 #: src-en/data/events_sector_union.xml:750
 msgid ""
@@ -996,6 +1046,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_PERSUADE\"]/event[1]/text"
 msgstr ""
+"당신은 난민들에게 떠나라고 설득합니다. 망명자 호위함의 선장은 한숨을 "
+"내쉽니다. \"수적으로 열세인 것 같군. 알겠소. 다른 곳을 알아보겠소.\""
 
 #: src-en/data/events_sector_union.xml:764
 msgid ""
@@ -1006,6 +1058,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_PERSUADE\"]/event[2]/text"
 msgstr ""
+"당신은 난민들에게 떠나라고 설득합니다. 망명자가 당신을 노려봅니다. \"우리는 "
+"너무 멀리 왔고 너무 오래 여행했소. 더 이상 움직이지 않을 것이오. 우리를 "
+"공격하든지 아니면 내버려두든지. 마음대로 하시오.\""
 
 #: src-en/data/events_sector_union.xml:771
 msgid ""
@@ -1015,7 +1070,7 @@ msgstr "공격한다."
 #: src-en/data/events_sector_union.xml:773
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_PERSUADE\"]/event[2]/choice[1]/event/text"
-msgstr ""
+msgstr "망명자는 당신의 적대적인 행동에 무기를 가동하여 대응합니다."
 
 #: src-en/data/events_sector_union.xml:776
 msgid ""
@@ -1025,27 +1080,35 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:782
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_PERSUADE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "물러난다."
 
 #: src-en/data/events_sector_union.xml:784
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_PERSUADE\"]/event[2]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 현장을 떠납니다. 아직 갈등은 해결되지 않았지만, 현재로서는 비폭력적인 "
+"것으로 보입니다."
 
 #: src-en/data/events_sector_union.xml:791
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[1]/text"
 msgstr ""
+"민병대 순찰대 선장이 말을 더듬습니다. \"제가요? 편견적이라고요? 이봐요, "
+"저는... 저는 그냥... 협회의 이익을 대변하려고... 그... 좋아요! 어디 한번 "
+"지켜나 보죠. 보나 마나 제가 말한 대로 될 테니, 그때 가선 봐주지 않을 겁니다!"
+"\""
 
 #: src-en/data/events_sector_union.xml:793
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[1]/choice/text"
-msgstr ""
+msgstr "난민들에게 연락한다."
 
 #: src-en/data/events_sector_union.xml:798
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[2]/text"
 msgstr ""
+"민병대 순찰대 선장이 비웃습니다. \"정말 연방답네요. 당신들은 이해 못 합니다. "
+"손만 잡는다고 모든 일이 해결되는 게 아니라고요. 당신이랑 상관없는 일이니까 "
+"여기서 썩 사라지십시오.\""
 
 #: src-en/data/events_sector_union.xml:800
 msgid ""
@@ -1055,7 +1118,8 @@ msgstr "공격한다."
 #: src-en/data/events_sector_union.xml:802
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[2]/choice[1]/event/text"
-msgstr ""
+msgstr "충분히 들었습니다. 민병대는 부당한 요구를 하고 있습니다. 그들은 당신의 "
+"공격에 똑같은 방식으로 대응합니다."
 
 #: src-en/data/events_sector_union.xml:805
 msgid ""
@@ -1065,17 +1129,19 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:811
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "물러난다."
 
 #: src-en/data/events_sector_union.xml:813
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[2]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 현장을 떠납니다. 아직 갈등은 해결되지 않았지만, 현재로서는 비폭력적인 "
+"것으로 보입니다."
 
 #: src-en/data/events_sector_union.xml:818
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"MILITIA_OUTCAST_REFUGEES_ACCUSE\"]/event[3]/text"
-msgstr ""
+msgstr "민병대 순찰대 대장이 으르렁거립니다. \"항상 고상한 척하는 연방에 진절머리가 "
+"납니다. 한번 짓밟아주고 싶을 정도로!\""
 
 #: src-en/data/events_sector_union.xml:821
 msgid ""
@@ -1086,21 +1152,29 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"MILITIA_OUTCAST_REFUGEES_LEFT\"]/text"
 msgstr ""
+"\"감명받았습니다. 저 성가신 난민들은 절대 떠나지 않을 줄 알았어요. 수고하신 "
+"만큼 보수를 드릴 테니, 걱정하지 마세요.\" 선장이 소량의 자원을 보냈습니다."
 
 #: src-en/data/events_sector_union.xml:831
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"MILITIA_OUTCAST_REFUGEES_LEFT_DEAD_ESCORT\"]/text"
-msgstr ""
+msgstr "민병대가 메시지를 보냈습니다. \"개입해 주신 것에 감사하지 않은 것은 "
+"아니지만, 좀 지나치지 않았습니까?\""
 
 #: src-en/data/events_sector_union.xml:834
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"MILITIA_OUTCAST_REFUGEES_STAY_VIOLENCE\"]/text"
 msgstr ""
+"난민들의 리더가 교신을 보냅니다. \"우리가 가는 곳은 항상 폭력이 뒤따르는 것 "
+"같소. 이게 세상의 자연스러운 모습인가? 어쨌든 우리 편을 들어줘서 고맙소. "
+"괜스레 불똥튀지 않았으면 좋겠구려.\""
 
 #: src-en/data/events_sector_union.xml:838
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"MILITIA_OUTCAST_REFUGEES_STAY\"]/text"
 msgstr ""
+"난민들의 리더가 교신을 보냅니다. \"우리를 지지해 줘서 고맙소. 이제 정말 "
+"평화롭게 살 수 있을 것 같소. 보답으로 최대한 많은 자원을 제공하겠소.\""
 
 #: src-en/data/events_sector_union.xml:841
 msgid ""
@@ -1110,34 +1184,53 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:847
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/text"
 msgstr ""
+"협회 함선이 당신에게 고함을 지릅니다. \"야! 이... 나쁜 놈아!\" 협회 선장은 "
+"술에 취한 것 같습니다. \"이 빌어먹을 전쟁. 다 네 잘못이야! 너어어어... "
+"배회자. 연방이... 멍청하고 느려터지지 않았다면... 이런 반란은 일어나지 "
+"않았을 거야. 네들이랑 멀티버스 전쟁 때문에 내 사업이 망하고 있어!\""
 
 #: src-en/data/events_sector_union.xml:850
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[@req=\"unique_nights\"]/text"
-msgstr ""
+msgstr "(나이트) \"싸업이 망한 건 네가 허쩝해써 그렇게찌.\""
 
 #: src-en/data/events_sector_union.xml:852
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[@req=\"unique_nights\"]/event/text"
 msgstr ""
+"취객은 대답하려고 했지만, 나이트가 선수를 쳤습니다. \"아, 시기가 안 좋아서 "
+"실패한 거지 네 잘못은 아니다? 어디 보자, 반군이 등장하기 전에는 네 아내가 그 "
+"역할이었겠지? 아니면 경쟁자가 반칙을 썼으려나? 닥쳐. 너는 그냥 실패자야. "
+"인정해.\"\n"
+"\n"
+"\"그치만 나는... 당신은...\" 그는 나이트의 말에 필사적으로 반박하려 했지만 "
+"머뭇거리기만 합니다. 비틀거리는 발소리와 함께 다른 사람이 통신기에 모습을 "
+"드러냅니다 . \"참으로 위로되는 말씀이십니다. 이걸 드릴 테니 그냥 우리 둘 다 "
+"갈 길 가면 안 될까요?\""
 
 #: src-en/data/events_sector_union.xml:859
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[2]/text"
-msgstr ""
+msgstr "논리적인 토론으로 대응한다."
 
 #: src-en/data/events_sector_union.xml:861
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[2]/event/text"
 msgstr ""
+"당신은 그에게 임무의 중요성을 설명했지만, 그는 흔하디흔한 오류를 범하며 "
+"당신의 논리정연한 주장들을 완전히 무시했습니다. 당신은 정중하게 그의 추론 "
+"방식이 잘못됐음을 알려주려고 했지만, 화가 난 주정뱅이에게는 어떤 불가사의한 "
+"이유 때문에 통하지 않았습니다. 토론이 아무 소용 없다는 것을 깨달은 당신은 "
+"취객과 그의 폭언을 뒤로하고 떠납니다."
 
 #: src-en/data/events_sector_union.xml:866
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[3]/text"
-msgstr ""
+msgstr "그에게 모욕을 퍼붓는다."
 
 #: src-en/data/events_sector_union.xml:868
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신은 그 남자와 피 말리는 아귀다툼을 벌였습니다. 결국, 당신이 한 말이 그의 "
+"신경을 건드리게 됩니다. 그가 공격합니다!"
 
 #: src-en/data/events_sector_union.xml:871
 msgid ""
@@ -1146,16 +1239,17 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_union.xml:877
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[4]/text"
-msgstr ""
+msgstr "함선을 산산조각 내겠다고 위협한다."
 
 #: src-en/data/events_sector_union.xml:881
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[5]/text"
-msgstr ""
+msgstr "진짜로 산산조각 낸다."
 
 #: src-en/data/events_sector_union.xml:883
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[5]/event/text"
-msgstr ""
+msgstr "\"그럴 줄 알았다! 다들 여기 봐, 연방이 우리를 억압하고 있어!\" 협회 함선이 "
+"반격합니다!"
 
 #: src-en/data/events_sector_union.xml:886
 msgid ""
@@ -1164,12 +1258,12 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_union.xml:892
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[6]/text"
-msgstr ""
+msgstr "완전히 무시한다."
 
 #: src-en/data/events_sector_union.xml:894
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_DRUNK\"]/choice[6]/event/text"
-msgstr ""
+msgstr "주정뱅이는 계속해서 험담을 늘어놨지만, 당신은 신경 쓰지 않았습니다."
 
 #: src-en/data/events_sector_union.xml:896
 msgid ""
@@ -1185,11 +1279,14 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"UNION_DRUNK_THREATEN\"]/event[1]/text"
 msgstr ""
+"\"워워, 진정해! 특별한 뜻은 없었어, 여기선 우리 모두 친구야! 봐, 친구들!\" "
+"협회 함선이 화물칸 밖으로 무기를 던져놓고 당신과 거리를 둡니다."
 
 #: src-en/data/events_sector_union.xml:912
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"UNION_DRUNK_THREATEN\"]/event[2]/text"
-msgstr ""
+msgstr "\"뭐? 한판 붙고 싶다고? 좋아, 내가 발라주마!\" 협회 함선이 먼저 공격을 "
+"시작합니다!"
 
 #: src-en/data/events_sector_union.xml:915
 msgid ""
@@ -1199,7 +1296,8 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:920
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"UNION_DRUNK_THREATEN\"]/event[3]/text"
-msgstr ""
+msgstr "\"그... 저기... 네 버릇을 바로잡아주고 싶지만 할 일이 너무 많아. 그래서 "
+"저기...\" 주정뱅이는 빠르게 달아났습니다."
 
 #: src-en/data/events_sector_union.xml:923
 msgid ""
@@ -1214,6 +1312,8 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_union.xml:934
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_MINING\"]/text"
 msgstr ""
+"민간인들이 인근 소행성대에서 채굴을 하고있는 것 같습니다. 현장 주변에 놓인 "
+"표지판이 허가받지 않은 사람은 들어오지 말라고 경고하고 있습니다."
 
 #: src-en/data/events_sector_union.xml:936
 msgid ""
@@ -1294,12 +1394,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:992
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_MINING\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_union.xml:998
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_MINING\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_union.xml:1000
 msgid ""
@@ -1380,7 +1480,7 @@ msgstr "무기를 챙긴다."
 #: src-en/data/events_sector_union.xml:1066
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_FACTORY_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "탄약을 챙긴다."
 
 #: src-en/data/events_sector_union.xml:1076
 msgid "data/events_sector_union.xml$//event[@name=\"UNION_CARAVAN\"]/text"
@@ -1442,7 +1542,6 @@ msgstr ""
 "않은 민병대 경비 중 한 명이 당신 함선에 선원 자리를 요청했습니다."
 
 #: src-en/data/events_sector_union.xml:1113
-#, fuzzy
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_CARAVAN\"]/choice[5]/text"
 msgstr "함선을 무시한다."
@@ -1472,6 +1571,8 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/text"
 msgstr ""
+"협회의 진료소가 하모니 선박의 공격을 받고 있습니다. 당신이 다가오는 것을 "
+"알아차린 엔지가 메시지를 보냅니다. \"이것 = 하모니의 일. 간섭하지 말 것.\""
 
 #: src-en/data/events_sector_union.xml:1149
 msgid ""
@@ -1482,16 +1583,21 @@ msgstr "어찌 된 일인지 추궁한다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/text"
 msgstr ""
+"\"이 시설 = 분리주의자 및 반군 동조자들이 주로 이용하는 시설. 허용할 수 없는 "
+"수준의 일탈이 감지됨. 오류 수정 중. 반복: 간섭하지 말 것.\""
 
 #: src-en/data/events_sector_union.xml:1153
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/text"
-msgstr ""
+msgstr "(졸탄 선원) \"당신은 연방 규정 105.2, 105.5, 105.9를 위반하고 있습니다!\""
 
 #: src-en/data/events_sector_union.xml:1155
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/event/text"
 msgstr ""
+"졸탄은 의료진에 대한 공격을 금지하는 연방의 규정, 그리고 이념과 무관하게 "
+"부상자를 치료해야 한다고 명시된 조약을 인용하며 화를 냈습니다. 엔지는 설득력 "
+"있는 반론을 펼치기 위해 고군분투하지만 결국 포기합니다."
 
 #: src-en/data/events_sector_union.xml:1157
 msgid ""
@@ -1501,12 +1607,17 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1163
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/text"
-msgstr ""
+msgstr "(분리주의자 선원) 엔지를 타이른다."
 
 #: src-en/data/events_sector_union.xml:1165
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/text"
 msgstr ""
+"\"하모니는 평소처럼 -거슬리게- [행동]하고 있음. 비가맹 진료소 = 일반적 선행. "
+"하모니 선박 = 폭정. 단 한 가지 유용한 일: 즉시 떠나는 것.\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"우선 목표: 감지됨. 분리주의자 = 반드시 처리해야 함.\" 그 말대로 "
+"하모니 함선은 무기를 충전하며 목표물을 변경합니다."
 
 #: src-en/data/events_sector_union.xml:1170
 msgid ""
@@ -1516,12 +1627,18 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1176
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"unique_turzil\"]/text"
-msgstr ""
+msgstr "(투르질) 엔지를 꾸짖는다."
 
 #: src-en/data/events_sector_union.xml:1178
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"unique_turzil\"]/event/text"
 msgstr ""
+"\"하모니는 목적 달성에 -불필요한- 수단을 동원 중. -모든- 사람을 통제할 수는 "
+"없고, 시도해서도 안 됨. 공격을 중단하고 인간 -동맹-을 대신하여 배상을 해야 "
+"함.\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"TRZ-1L 감지. 하모니가 요구하는 것: 무조건적인 항복. 하모니의 "
+"지시를 무시하는 것 = 용납 불가.\" 하모니 함선이 즉시 당신과 교전합니다!"
 
 #: src-en/data/events_sector_union.xml:1183
 msgid ""
@@ -1531,12 +1648,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1189
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"engi_defender\"]/text"
-msgstr ""
+msgstr "(엔지 수비대) 하모니를 제지해 달라고 수비대를 설득한다."
 
 #: src-en/data/events_sector_union.xml:1191
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
+"수비대는 망설이는 듯했지만 결국 당신의 말을 따랐습니다. 수비대는 엔지에게 이 "
+"행동이 하모니와 연방 사이의 좋은 관계를 악화시키며, 하모니의 뜻을 실현할 "
+"방법은 이것뿐만이 아니라고 설득합니다."
 
 #: src-en/data/events_sector_union.xml:1193
 msgid ""
@@ -1546,12 +1666,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1199
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "말로 해결해 본다."
 
 #: src-en/data/events_sector_union.xml:1201
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "\"연방 함선 = 경고. 징벌적 조치 이행.\" 엔지 함선이 진료소에 대한 공격을 "
+"중단하고 당신과 대치합니다."
 
 #: src-en/data/events_sector_union.xml:1204
 msgid ""
@@ -1561,12 +1682,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1210
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "납득하고 떠난다."
 
 #: src-en/data/events_sector_union.xml:1212
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[1]/event/choice[6]/event/text"
-msgstr ""
+msgstr "하모니는 연방의 동맹입니다. 당신은 그들이 좋은 뜻에서 진료소를 공격하고 "
+"있다고 믿기로 합니다."
 
 #: src-en/data/events_sector_union.xml:1214
 msgid ""
@@ -1581,12 +1703,13 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_union.xml:1226
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[2]/text"
-msgstr ""
+msgstr "진료소를 지킨다."
 
 #: src-en/data/events_sector_union.xml:1228
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"오류. 반항적 연방 함선 감지됨.\" 엔지 함선이 진료소에 대한 공격을 중단하고 "
+"당신과 대치합니다."
 
 #: src-en/data/events_sector_union.xml:1231
 msgid ""
@@ -1596,12 +1719,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1237
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[3]/text"
-msgstr ""
+msgstr "납득하고 떠난다."
 
 #: src-en/data/events_sector_union.xml:1239
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_CLINIC_HARMONY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "하모니는 연방의 동맹입니다. 당신은 그들이 좋은 뜻에서 진료소를 공격하고 "
+"있다고 믿기로 합니다."
 
 #: src-en/data/events_sector_union.xml:1241
 msgid ""
@@ -1617,16 +1741,22 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//textList[@name=\"UNION_CLINIC_SAVED\"]/text[1]"
 msgstr ""
+"\"저희를 지켜 주셔서 감사합니다. 저희는 도움을 구하는 사람을 거절하지 "
+"않습니다. 그게 바로 의학이 해야 할 일입니다.\" 의료진 중 한 명이 당신의 "
+"일행에 합류하겠다고 합니다."
 
 #: src-en/data/events_sector_union.xml:1253
 msgid ""
 "data/events_sector_union.xml$//textList[@name=\"UNION_CLINIC_SAVED\"]/text[2]"
 msgstr ""
+"\"저만 그런지는 모르겠는데, 요즘 들어 하모니가 더... 무섭지 않나요? "
+"괜찮으시다면 당신과 함께 일하면서 감사의 마음을 전하고 싶습니다.\""
 
 #: src-en/data/events_sector_union.xml:1254
 msgid ""
 "data/events_sector_union.xml$//textList[@name=\"UNION_CLINIC_SAVED\"]/text[3]"
-msgstr ""
+msgstr "\"우리 진료소의 모든 직원과 모든 고객을 대신하여 진심으로 감사드립니다. 저를 "
+"데려가 주시면 최선을 다해 돕겠습니다.\""
 
 #: src-en/data/events_sector_union.xml:1260
 msgid ""
@@ -1637,16 +1767,22 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/text"
 msgstr ""
+"이상한 라니우스 함선이 협회 정거장과 연결돼 있습니다. 함선과 정거장 모두 "
+"조난 신호를 송출하고 있습니다. 정거장의 신호는 다음과 같습니다. \"메이데이! "
+"라니우스에게 잡아먹히고 있습니다! 살려주세요!\" 하지만 라니우스는 의미를 알 "
+"수 없는 쇳소리만 내고 있습니다."
 
 #: src-en/data/events_sector_union.xml:1269
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"BLUELIST_BEAMS_DAMAGE\"]/text"
-msgstr ""
+msgstr "(선체 피해가 있는 빔 무기) 함선을 정거장으로부터 잘라낸다."
 
 #: src-en/data/events_sector_union.xml:1271
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"BLUELIST_BEAMS_DAMAGE\"]/event/text"
 msgstr ""
+"당신은 빔을 그어 신속하게 함선을 분리했습니다. 자유가 된 라니우스는 정거장과 "
+"거리를 두고 있지만, 도약하려는 것 같지는 않습니다."
 
 #: src-en/data/events_sector_union.xml:1273
 msgid ""
@@ -1656,12 +1792,14 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1279
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/text"
-msgstr ""
+msgstr "(빔 드론) 함선을 정거장으로부터 잘라낸다."
 
 #: src-en/data/events_sector_union.xml:1281
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"DRONE_CONTROL_BEAM_DRONE\"]/event/text"
 msgstr ""
+"빔 드론은 정교하게 정거장으로부터 함선을 분리했습니다. 자유가 된 라니우스는 "
+"정거장과 거리를 두고 있지만, 도약하려는 것 같지는 않습니다."
 
 #: src-en/data/events_sector_union.xml:1286
 msgid ""
@@ -1671,12 +1809,17 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1292
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "(라니우스 선원) \"라니우스 함선 꼈다. 다치게 하려는 거 아니다. 스크랩으로 "
+"거래하고 싶어 한다. 번역기 고장.\""
 
 #: src-en/data/events_sector_union.xml:1294
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"정거장의 통신 담당자는 안심한 표정입니다. \"그럼 공격받은 게 아니라는 "
+"거군요? 그렇다면 직접 나가서 해결하겠습니다.\" 잠시 후 정거장과 라니우스 "
+"함선은 분리되었고, 당신의 라니우스를 중개자로 거래가 시작됐습니다. 정거장은 "
+"당신의 도움에 기꺼이 보상을 제공합니다."
 
 #: src-en/data/events_sector_union.xml:1297
 msgid ""
@@ -1686,17 +1829,18 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1299
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
-msgstr ""
+msgstr "\"감사. 보물 가져라. 아주 고마운.\""
 
 #: src-en/data/events_sector_union.xml:1306
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[4]/text"
-msgstr ""
+msgstr "문제를 일으킨 라니우스 함선을 공격한다."
 
 #: src-en/data/events_sector_union.xml:1308
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "라니우스는 계속 쇳소리를 내면서 방어 태세를 취했습니다. 그러나 어째선지 "
+"정거장과 분리되지 않아 기동성이 없습니다."
 
 #: src-en/data/events_sector_union.xml:1312
 msgid ""
@@ -1706,17 +1850,17 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1318
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[5]/text"
-msgstr ""
+msgstr "라니우스와 소통을 시도한다."
 
 #: src-en/data/events_sector_union.xml:1322
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[6]/text"
-msgstr ""
+msgstr "현장을 조용히 떠난다."
 
 #: src-en/data/events_sector_union.xml:1324
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"DISTRESS_UNION_LANIUS_MISTAKE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "함선과 정거장으로부터 계속해서 교신이 왔지만, 당신은 신경 쓰지 않았습니다."
 
 #: src-en/data/events_sector_union.xml:1326
 msgid ""
@@ -1732,16 +1876,21 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/text"
 msgstr ""
+"정거장 사령관이 고마운 마음에 교신을 보내옵니다. \"당신의 도움이 없었다면 "
+"우리는 분명 망했을 겁니다. 이 감사의 표시를 받아주세요. 그런데... 라니우스는 "
+"공격하지도 떠나지도 않고 있습니다. 그냥 반복적으로 메시지를 보내고 있을 "
+"뿐이죠. 무슨 말을 하려는 걸까요?\""
 
 #: src-en/data/events_sector_union.xml:1340
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[1]/text"
-msgstr ""
+msgstr "내버려두는 게 좋겠다."
 
 #: src-en/data/events_sector_union.xml:1342
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "라니우스는 응답을 받기 위해 헛되이 노력하다 결국 도약해 사라졌습니다. \"뭐, "
+"이제 더 이상 걱정할 필요 없겠네요.\""
 
 #: src-en/data/events_sector_union.xml:1346
 msgid ""
@@ -1752,56 +1901,72 @@ msgstr "스크랩을 좀 준다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[2]/event/text"
 msgstr ""
+"라니우스가 풍경 같은 소리를 냅니다. 그들은 선물을 남기고 당신이 준 스크랩을 "
+"퍼갔습니다. \"거래하고 싶은 거였군요... 애초에 공격받은 게 아니었나 보네요. "
+"잘 해결돼서 다행입니다.\""
 
 #: src-en/data/events_sector_union.xml:1353
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "라니우스가 남긴 선물을 들여온다."
 
 #: src-en/data/events_sector_union.xml:1361
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[3]/text"
-msgstr "약간의 미사일을 준다."
+msgstr "미사일을 좀 준다."
 
 #: src-en/data/events_sector_union.xml:1363
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[3]/event/text"
 msgstr ""
+"라니우스가 풍경 같은 소리를 냅니다. 그들은 선물을 남기고 당신이 준 미사일을 "
+"퍼갔습니다. \"거래하고 싶은 거였군요... 애초에 공격받은 게 아니었나 보네요. "
+"잘 해결돼서 다행입니다.\""
 
 #: src-en/data/events_sector_union.xml:1368
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "라니우스가 남긴 선물을 들여온다."
 
 #: src-en/data/events_sector_union.xml:1376
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[4]/text"
-msgstr ""
+msgstr "드론을 좀 준다."
 
 #: src-en/data/events_sector_union.xml:1378
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[4]/event/text"
 msgstr ""
+"라니우스가 풍경 같은 소리를 냅니다. 그들은 선물을 남기고 당신이 준 드론을 "
+"퍼갔습니다. \"거래하고 싶은 거였군요... 애초에 공격받은 게 아니었나 보네요. "
+"잘 해결돼서 다행입니다.\""
 
 #: src-en/data/events_sector_union.xml:1383
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_LANIUS_SOLVED_NO_TRANSLATOR\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "라니우스가 남긴 선물을 들여온다."
 
 #: src-en/data/events_sector_union.xml:1393
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[1]/text"
 msgstr ""
+"당신은 라니우스의 의도를 파악하기 위해 아주 명확한 메시지를 보냈고, 순전히 "
+"운으로 그들의 쇳소리에서 패턴을 찾아냈습니다. 이미지를 보내면 금속을 치는 "
+"소리나 긁는 소리가 돌아오는 기초적인 의사소통이 오갑니다. 아무래도 이들은 "
+"배가 고파서 거래하려다가 정거장에 끼인 것으로 보입니다."
 
 #: src-en/data/events_sector_union.xml:1395
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[1]/choice/text"
-msgstr ""
+msgstr "정거장에 알린다."
 
 #: src-en/data/events_sector_union.xml:1397
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[1]/choice/event/text"
 msgstr ""
+"정거장과 교신합니다. 통신 담당자는 안도한 표정입니다. \"그런가요? 그렇다면 "
+"직접 나가서 해결하겠습니다.\" 잠시 후 정거장과 라니우스 함선이 "
+"분리되었습니다."
 
 #: src-en/data/events_sector_union.xml:1399
 msgid ""
@@ -1812,21 +1977,28 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[2]/text"
 msgstr ""
+"당신은 하나라도 의미 있는 응답을 받기 위해 라니우스에게 계속 메시지를 "
+"보냈습니다. 돌아오는 응답은 끼익하는 소리부터 댕하는 소리까지 다양합니다. "
+"공격적인 의사는 없는 것 같지만, 아무리 노력해도 소통은 되지 않았습니다."
 
 #: src-en/data/events_sector_union.xml:1408
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[2]/choice/text"
-msgstr ""
+msgstr "정거장에 문제를 파악할 수 없다고 말한다."
 
 #: src-en/data/events_sector_union.xml:1410
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "\"그게 단가요? 우린 그냥 이렇게 끼어 있어야 하는 건가요...? 아무래도 알아서 "
+"해결해야겠네요...\""
 
 #: src-en/data/events_sector_union.xml:1415
 msgid ""
 "data/events_sector_union.xml$//eventList[@name=\"DISTRESS_UNION_LANIUS_CONTACT\"]/event[3]/text"
 msgstr ""
+"당신은 라니우스와 교신해 무슨 상황인지 물어보려고 했습니다. 하지만 몇 번의 "
+"무의미한 메시지를 주고받은 후 당신이 내뱉은 어떤 한마디에 라니우스가 갑자기 "
+"공격적으로 변했습니다!"
 
 #: src-en/data/events_sector_union.xml:1418
 msgid ""
@@ -1837,16 +2009,22 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV\"]/text"
 msgstr ""
+"인근 민간인 거주지에서 교신이 왔습니다. \"배회자님, 들어오세요! 바쁘실 건 "
+"알지만, 제 친구가 위험에 처했는데 어떻게 해야 할지 모르겠어요. 슬러그 해커 "
+"한 명이 사기를 쳐서 계정을 장악당했는데, 왕복선을 빌려서 항의하러 갔어요. 그 "
+"불쌍한 친구는 순진해서 쉽게 넘어가고 엄청 다혈질이에요. 그를 구할 시간이 "
+"있을까요?\""
 
 #: src-en/data/events_sector_union.xml:1439
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV\"]/choice[1]/text"
-msgstr ""
+msgstr "돕기로 한다."
 
 #: src-en/data/events_sector_union.xml:1441
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"정말 고맙습니다. 친구가 탄 함선의 신호를 알려드릴게요. 더 크게 사례하고 "
+"싶지만, 이것밖에 가진 게 없네요.\""
 
 #: src-en/data/events_sector_union.xml:1447
 msgid ""
@@ -1856,7 +2034,7 @@ msgstr "이런 데에 허비할 시간은 없다."
 #: src-en/data/events_sector_union.xml:1449
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"그러실 거라 생각했어요...\" 민간인은 실망한 표정으로 교신을 끊었습니다."
 
 #: src-en/data/events_sector_union.xml:1451
 msgid ""
@@ -1871,22 +2049,25 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_union.xml:1464
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV_SPOT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "해커를 쫓는 무모한 민간인을 구해달라는 요청을 받았습니다."
 
 #: src-en/data/events_sector_union.xml:1466
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV_SPOT\"]/text"
-msgstr ""
+msgstr "민간인이 준 신호를 쫓아 민간 왕복선을 노리는 은밀한 슬러그 함선을 "
+"발견했습니다."
 
 #: src-en/data/events_sector_union.xml:1468
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV_SPOT\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(고급 해킹 장비) 발각당하기 전에 그들의 메인프레임을 해킹한다."
 
 #: src-en/data/events_sector_union.xml:1470
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV_SPOT\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"당신은 해커들의 컴퓨터를 해킹하여 그들의 먹잇감이 된 계정의 모든 권한 변경 "
+"사항을 원복했습니다. \"뭐야... 우리 쑤익이! 후회하게 해쭈마!\""
 
 #: src-en/data/events_sector_union.xml:1473
 msgid ""
@@ -1901,7 +2082,7 @@ msgstr "슬러그 함선을 공격한다."
 #: src-en/data/events_sector_union.xml:1481
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_UNION_HOTHEADED_CIV_SPOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"이런... 쩬짱! 연방이 우릴 짜짜써!\" 그들이 목표를 당신으로 바꿉니다."
 
 #: src-en/data/events_sector_union.xml:1484
 msgid ""
@@ -1912,11 +2093,15 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"UNION_HOTHEAD_GRATITUDE\"]/text"
 msgstr ""
+"\"확인해 보겠습니다... 됐다! 다시 계정에 접속할 수 있어요. 배회자님은 제 "
+"생명의 은인입니다. 어디 보자... 드릴만한 게...\" 민간인이 보답으로 스크랩을 "
+"건네줍니다."
 
 #: src-en/data/events_sector_union.xml:1514
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"ENCOUNTER_PIRATE_STATION_UNION\"]/text"
-msgstr "이 민간 정거장은 우호적이지 않았습니다. 해적에게 점령당하여 당신에게 온갖 무기를 조준하고 있습니다!."
+msgstr "이 협회 정거장은 우호적이지 않았습니다. 해적에게 점령당하여 당신에게 온갖 "
+"무기를 조준하고 있습니다!"
 
 #: src-en/data/events_sector_union.xml:1517
 msgid ""
@@ -1938,45 +2123,62 @@ msgstr "계속..."
 #: src-en/data/events_sector_union.xml:1543
 msgid "data/events_sector_union.xml$//event[@name=\"RST_START\"]/text"
 msgstr ""
+"근처 송신소를 조사하던 작은 주황색 선박이 당신을 발견하곤 멈춰 서서 구조 "
+"신호를 보내옵니다. 당신은 호기심에 교신을 시작합니다. \"안녕하세요, 여기는 "
+"R.S.T.사의 측량선 192호기입니다. 회사를 대표하여 렌필드 박사의 행방에 관한 "
+"정보를 공식적으로 요청합니다.\""
 
 #: src-en/data/events_sector_union.xml:1546
 msgid "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/text"
-msgstr ""
+msgstr "아무것도 모릅니다."
 
 #: src-en/data/events_sector_union.xml:1548
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/text"
 msgstr ""
+"\"정말 안타깝군요... 그런데 그건 군함인가요? 최소한 무장을 정말 잘 갖춘 민간 "
+"선박이겠군요. 우리에게 렌필드 박사가 있을 것으로 추정되는 곳의 대략적인 "
+"좌표가 있습니다. 정확한 위치를 파악하고 싶지만, 그는 현재 위험에 처해있는 것 "
+"같습니다. 우리 함선은 장비가 너무 열악해서 현장을 확인하기 어렵습니다. 한번 "
+"살펴봐 주실 수 있으십니까? 성공하면 R.S.T.에서 큰 보상을 드리겠습니다.\""
 
 #: src-en/data/events_sector_union.xml:1550
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[1]/text"
-msgstr "물론입니다."
+msgstr "물론입니다!"
 
 #: src-en/data/events_sector_union.xml:1552
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"좋아요! 지금 좌표를 전송 중입니다. 행운을 빕니다 함장님! 도와주셔서 "
+"고맙습니다.\""
 
 #: src-en/data/events_sector_union.xml:1558
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "렌필드 박사가 누구죠?"
 
 #: src-en/data/events_sector_union.xml:1560
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"아, 죄송합니다! 여기 사람들은 전부 알고 있을 줄 알았네요... 렌필드 박사는 "
+"천재 물리학자예요. 아마도 우리 시대 최고일 겁니다! 그의 가장 빛나는 업적 중 "
+"하나는 바로 그의 이름을 딴 렌필드 폭탄의 발명입니다! 기존의 그 어떤 "
+"핵무기보다도 더 폭발력이 강하죠! 이 폭탄은 지구에서 벡을 박멸하는 데 "
+"사용됐었는데, 폭발로 인해 엄청난 홍수가 발생했습니다. 결국 R.S.T.에... "
+"긍정적인 영향을 주지는 못했지만, 그런 건 지금 중요하지 않아요.\""
 
 #: src-en/data/events_sector_union.xml:1562
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "의뢰를 받아들인다."
 
 #: src-en/data/events_sector_union.xml:1564
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"좋아요! 지금 좌표를 전송 중입니다. 행운을 빕니다 함장님! 도와주셔서 "
+"고맙습니다.\""
 
 #: src-en/data/events_sector_union.xml:1570
 msgid ""
@@ -1986,7 +2188,7 @@ msgstr "거절한다."
 #: src-en/data/events_sector_union.xml:1572
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "\"알겠습니다. 더 이상 시간 뺏지 않겠습니다! R.S.T. 통신 종료.\""
 
 #: src-en/data/events_sector_union.xml:1578
 msgid ""
@@ -1996,16 +2198,18 @@ msgstr "거절한다."
 #: src-en/data/events_sector_union.xml:1580
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "\"알겠습니다. 더 이상 시간 뺏지 않겠습니다! R.S.T. 통신 종료.\""
 
 #: src-en/data/events_sector_union.xml:1586
 msgid "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[2]/text"
-msgstr ""
+msgstr "아 렌필드 잘 알죠. 제 형제 말인가요?"
 
 #: src-en/data/events_sector_union.xml:1588
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"RST_START\"]/choice[2]/event/text"
 msgstr ""
+"\"형제? 뭐라고요? 박사님은 형제가 없습니다! 으으, 더 이상 아무도 진지하게 "
+"받아들이지 않는 것 같아.\" 교신이 끊겼습니다."
 
 #: src-en/data/events_sector_union.xml:1590
 msgid ""
@@ -2079,7 +2283,7 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"SPIDER_QUEST_START\"]/choice[@req=\"loc_beentobrood\""
 " and @lvl=\"0\"]/event/choice[@req=\"unique_haynes\"]/event/choice[1]/text"
-msgstr ""
+msgstr "돕기로 한다."
 
 #: src-en/data/events_sector_union.xml:1630
 msgid ""
@@ -2255,9 +2459,11 @@ msgstr "\"젠장, 정거장을 파괴하지 말라고 했지 않습니까!\" 당
 #: src-en/data/events_sector_union.xml:1745
 msgid "data/events_sector_union.xml$//event[@name=\"KESTREL_UNLOCK\"]/text"
 msgstr ""
-"여느 연맹 구역이 그렇듯, 인근 행성의 기업 광고 여럿이 함내 라디오를 통해 흘러나오고 있습니다. 당신은 하염없이 광고를 들으며 근처 "
-"조선소에 있는 다양한 구형 함선을 눈으로 훑었습니다. 그중 함선 하나가 당신의 시선을 사로잡습니다. 바로 완벽히 작동하는 케스트렐 "
-"함입니다! 하지만 광고 하나가 당신의 귀에 꽂혀, 그것을 그리 오래 쳐다보진 않았습니다. 아카이브 주식회사의 CEO인 \"듀이 "
+"여느 협회 구역이 그렇듯, 인근 행성의 기업 광고 여럿이 함내 라디오를 통해 "
+"흘러나오고 있습니다. 당신은 하염없이 광고를 들으며 근처 조선소에 있는 다양한 "
+"구형 함선을 눈으로 훑었습니다. 그중 함선 하나가 당신의 시선을 사로잡습니다. "
+"바로 완벽히 작동하는 케스트렐 함입니다! 하지만 광고 하나가 당신의 귀에 꽂혀, "
+"그것을 그리 오래 쳐다보진 않았습니다. 아카이브 주식회사의 CEO인 \"듀이 "
 "앨름스\"가 유능한 용병 선박을 구한다는 외부 광고인듯 합니다."
 
 #: src-en/data/events_sector_union.xml:1748
@@ -2302,12 +2508,16 @@ msgstr "알고 있습니다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"KESTREL_UNLOCK_OFFER\"]/choice[1]/event/text"
 msgstr ""
-"\"좋습니다. 좋아요. 하하, 걱정하지 마십시오. 우리는 연맹의 법을 어기는게 우회하는게 아니니까요. 단지 개인적인 일로 인한 반발을 "
-"원치 않을 뿐입니다. 아실지 모르겠지만, 아카이브사는... \"옛 지구\"의 이명인 안티쿰 지구의 기술 및 문화 기록 작업을 전문으로 "
-"하는 회사입니다. 이번 사안은 제가 유별히 아끼는 골동품과 관련된 것입니다. 바로 23세기에 제작된 인류 최초의 초광속 항해선 "
-"\"카스파로프\"선에 관한 것이지요. 그 선박은 타우 세티에서 승객들을 실어 나르기 위한 목적으로 건조됐습니다. 정말 놀라운 인류의 "
-"업적인데... 해적들한테 도난당하고 말았습니다! 도무지 이해할수가 없단 말이죠... 물론 우주 탐험에 있어서 새로운 시대를 개척한 "
-"함선이긴 하지만, 대체 왜 해적이 그런 구식 함선을 원하는 걸까요?\""
+"\"좋습니다. 좋아요. 하하, 걱정하지 마십시오. 우리는 협회의 법을 어기는게 "
+"우회하는게 아니니까요. 단지 개인적인 일로 인한 반발을 원치 않을 뿐입니다. "
+"아실지 모르겠지만, 아카이브사는... \"옛 지구\"의 이명인 안티쿰 지구의 기술 "
+"및 문화 기록 작업을 전문으로 하는 회사입니다. 이번 사안은 제가 유별히 아끼는 "
+"골동품과 관련된 것입니다. 바로 23세기에 제작된 인류 최초의 초광속 항해선 "
+"\"카스파로프\"선에 관한 것이지요. 그 선박은 타우 세티에서 승객들을 실어 "
+"나르기 위한 목적으로 건조됐습니다. 정말 놀라운 인류의 업적인데... 해적들한테 "
+"도난당하고 말았습니다! 도무지 이해할수가 없단 말이죠... 물론 우주 탐험에 "
+"있어서 새로운 시대를 개척한 함선이긴 하지만, 대체 왜 해적이 그런 구식 함선을 "
+"원하는 걸까요?\""
 
 #: src-en/data/events_sector_union.xml:1774
 msgid ""
@@ -2418,7 +2628,7 @@ msgstr "누구?"
 #: src-en/data/events_sector_union.xml:1845
 msgid ""
 "data/events_sector_union.xml$//ship[@name=\"SHIP_BROOD_KESTREL\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "계속 싸운다."
 
 #: src-en/data/events_sector_union.xml:1850
 msgid ""
@@ -2478,7 +2688,8 @@ msgstr "브루드와 싸울 생각 없다."
 #: src-en/data/events_sector_union.xml:1893
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"KESTREL_UNLOCK_PIRATE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "이곳에서 무언가 중요한 것이 일어났다는 것은 확실하지만, 뭘 하기에는 너무 "
+"늦었습니다."
 
 #: src-en/data/events_sector_union.xml:1895
 msgid ""
@@ -2622,7 +2833,7 @@ msgstr "포기한다."
 #: src-en/data/events_sector_union.xml:2008
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"KESTREL_UNLOCK_RINGSHIP\"]/choice[2]/text"
-msgstr ""
+msgstr "창고를 무시한다."
 
 #: src-en/data/events_sector_union.xml:2010
 msgid ""
@@ -2668,9 +2879,11 @@ msgstr "히데오 타나카라는 자가 그의 수집품으로 삼기 위해 �
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"KESTREL_UNLOCK_QUEST_3\"]/choice/event/choice/event/text"
 msgstr ""
-"\"빌어먹을 늙은이! 미리 알아 챘어야 했는데. 히데오는 자기가 원하는건 뭐든간에 훔치고 보는 그런 놈입니다. 심지어는 같은 연맹 소속의"
-" 대기업 상대로도 그러죠. 제 할아버지의 증언에 따르면 그렇습니다... 뭐, 사실 별말 안하시긴 했습니다. 그냥 인공위성에 대해서 "
-"주저리주저리 하셨죠. 어쨌든 수고해주셔서 감사합니다. 남은 임무에 행운을 빕니다.\""
+"\"빌어먹을 늙은이! 미리 알아 챘어야 했는데. 히데오는 자기가 원하는건 "
+"뭐든간에 훔치고 보는 그런 놈입니다. 심지어는 같은 협회 소속의 대기업 "
+"상대로도 그러죠. 제 할아버지의 증언에 따르면 그렇습니다... 뭐, 사실 별말 "
+"안하시긴 했습니다. 그냥 인공위성에 대해서 주저리주저리 하셨죠. 어쨌든 "
+"수고해주셔서 감사합니다. 남은 임무에 행운을 빕니다.\""
 
 #: src-en/data/events_sector_union.xml:2045
 msgid ""
@@ -2846,6 +3059,9 @@ msgstr "그럼 강제로 가져가야겠군!"
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_GATLING_BARREL\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"맨티스는 고함을 내지르며 교신을 끊었고, 영주 함선이 움직이기 시작해 당신과 "
+"대치하려 합니다. 추측해 보면, '빙글빙글 막대기'는 저 함선에 보관 중일 것이고 "
+"그걸 손을 넣으려면 선원을 몰살해야 할 것입니다."
 
 #: src-en/data/events_sector_union.xml:2159
 msgid ""
@@ -2867,12 +3083,15 @@ msgstr ""
 #: src-en/data/events_sector_union.xml:2171
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_GATLING_BARREL\"]/choice[1]/event/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_union.xml:2173
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_GATLING_BARREL\"]/choice[1]/event/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
 msgstr ""
+"맨티스는 고함을 내지르며 교신을 끊었고, 영주 함선이 움직이기 시작해 당신과 "
+"대치하려 합니다. 추측해 보면, '빙글빙글 막대기'는 저 함선에 보관 중일 것이고 "
+"그걸 손을 넣으려면 선원을 몰살해야 할 것입니다."
 
 #: src-en/data/events_sector_union.xml:2176
 msgid ""
@@ -3060,7 +3279,7 @@ msgstr "최초의 조기 점화기를 포함한 '점보 딜'을 구매한다."
 #: src-en/data/events_sector_union.xml:2330
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_GATLING_AUGMENT\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "무력으로 빼앗는다!"
 
 #: src-en/data/events_sector_union.xml:2332
 msgid ""
@@ -3093,4 +3312,3 @@ msgstr "함선에서 무언가를 한다."
 msgid ""
 "data/events_sector_union.xml$//event[@name=\"QUEST_GATLING_AUGMENT\"]/choice/event/choice[4]/event/choice[2]/text"
 msgstr "아무것도 하지 않는다."
-

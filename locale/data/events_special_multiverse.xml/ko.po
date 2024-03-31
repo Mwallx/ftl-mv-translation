@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-16 14:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_special_multiversexml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_multiverse.xml:10
 msgid ""
@@ -15,7 +22,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:12
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"DOOR_OPEN_SONG_NEW\"]/choice/text"
-msgstr ""
+msgstr "뭐하는 거죠?"
 
 #: src-en/data/events_special_multiverse.xml:14
 msgid ""
@@ -120,7 +127,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:86
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"DOOR_OPEN_SONG_GUNTPUT_NEW\"]/choice/text"
-msgstr ""
+msgstr "뭐하는 거죠?"
 
 #: src-en/data/events_special_multiverse.xml:88
 msgid ""
@@ -200,7 +207,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:130
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"DOOR_OPEN_SONG_METYUNT\"]/choice/text"
-msgstr ""
+msgstr "뭐한 거죠?"
 
 #: src-en/data/events_special_multiverse.xml:132
 msgid ""
@@ -548,10 +555,19 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_BEACON\"]/text"
 msgstr ""
-"낯선 함선이 다가오면서, 스크린에 세 명의 외계인이 나타났습니다. 그들은 모두 긴 예복 차림을 했고 화려한 가면으로 얼굴을 가리고 있습니다. \n"
+"낯선 함선이 다가오면서, 스크린에 세 명의 외계인이 나타났습니다. 그들은 모두 "
+"긴 예복 차림을 했고 화려한 가면으로 얼굴을 가리고 있습니다.\n"
+"\n"
 "\"또다른 도전자... 그런데 이번에 나타난 자는... 특별합니다.\" \n"
-"\"맞음, 맞음! 귀하는 공물을 [선정]하기 전에 ㅁ-ㅁ-ㅁ-먼저 상을 받을 것! 전쟁의 심판관 웨이크슨의 선물! 전쟁!\" \n"
-"\"이 우주군에서 이례적인 양의 살육이 발생했소. 그것도 배회자들 사이에서만 말이오! 나는 그 무엇보다도 이 내분이 궁금하고, 그 원인을 더 연구하고 싶소. 그래서 다른 이들이 내게 특권을 주었소. 이 신비한 신호기를 그대에게 줄 수 있는 특권을 말이오. 요 물건은 이 우주군 전역에 신호를 보낼 것이오! 만약 그대가 더 다양한 방문자를 만나고 싶다면 언제든지 활성화하시오.\""
+"\"맞음, 맞음! 귀하는 공물을 [선정]하기 전에 ㅁ-ㅁ-ㅁ-먼저 상을 받을 것! "
+"전쟁의 심판관 웨이크슨의 선물! 전쟁!\" \n"
+"\"이 우주군에서 이례적인 양의 살육이 발생했소. 그것도 배회자들 사이에서만 "
+"말이오! 나는 그 무엇보다도 이 내분이 궁금하고, 그 원인을 더 연구하고 싶소.\n"
+"\n"
+"\n"
+"그래서 다른 이들이 내게 특권을 주었소. 이 신비한 신호기를 그대에게 줄 수 "
+"있는 특권을 말이오. 요 물건은 이 우주군 전역에 신호를 보낼 것이오! 만약 "
+"그대가 더 다양한 방문자를 만나고 싶다면 언제든지 활성화하시오.\""
 
 #: src-en/data/events_special_multiverse.xml:421
 msgid ""
@@ -615,9 +631,11 @@ msgstr "누구에게도 자신을 제시하지 않는다."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_BEACON\"]/choice[8]/event/text"
 msgstr ""
-"\"정말입니까? 그대는... 우리를 찾아냈음에도... 아무것도 가져오지 않은 것입니까? 우리는 무엇을... 관찰해야 하지요?\" "
-"\"이것: 괜찮음! 괜찮음! ㄷ-ㄷ-다른 -기회-가 있을 거다!\" \"부끄러운 줄 알고 떠나시오! 다음번엔 공물을 가져오시오! 실망감은"
-" 정보가 될 수 없소!\""
+"\"정말입니까? 그대는... 우리를 찾아냈음에도... 아무것도 가져오지 않은 "
+"것입니까? 우리는 무엇을... 관찰해야 하지요?\"\n"
+"\"이것: 괜찮음! 괜찮음! ㄷ-ㄷ-다른 -기회-가 있을 거다!\"\n"
+"\"부끄러운 줄 알고 떠나시오! 다음번엔 공물을 가져오시오! 실망감은 정보가 될 "
+"수 없소!\""
 
 #: src-en/data/events_special_multiverse.xml:464
 msgid ""
@@ -706,9 +724,14 @@ msgstr "오스미안을 제시한다."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"THE_JUDGES_ZOLTAN\"]/choice[@req=\"zoltan_osmian\"]/event/text"
 msgstr ""
-"\"...\" 잠시 침묵이 흐릅니다. \"그래요... 내... 동족들... 흐으음... 이건... 제가 사용할 단어에... 감명을 준 것"
-" 같군요? 아마도요. 보상이... 있어야겠군요... 이건... 분명 데이터니. 제가... 공물을 거절하게 되다니... 안타깝네요. 다음 "
-"여정을 시작할 때... 보상을 기대하십시오.\""
+"\"...\" \n"
+"\t\t\t\t\n"
+"\t\t\t잠시 침묵이 흐릅니다.\n"
+"\t\t\t\n"
+"\t\t\t\"그래요... 내... 동족들... 흐으음... 이건... 제가 사용할 단어에... "
+"감명을 준 것 같군요? 아마도요. 보상이... 있어야겠군요... 이건... 분명 "
+"데이터니. 제가... 공물을 거절하게 되다니... 안타깝네요. 다음 여정을 시작할 "
+"때... 보상을 기대하십시오.\""
 
 #: src-en/data/events_special_multiverse.xml:536
 msgid ""
@@ -879,7 +902,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:651
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"THE_JUDGES_ZOLTAN\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr ""
+msgstr "오키드 집정관을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml:653
 msgid ""
@@ -896,12 +919,16 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:663
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"THE_JUDGES_ZOLTAN\"]/choice[@req=\"orchid_cultivator\"]/text"
-msgstr ""
+msgstr "오키드 경작자를 제시한다."
 
 #: src-en/data/events_special_multiverse.xml:665
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"THE_JUDGES_ZOLTAN\"]/choice[@req=\"orchid_cultivator\"]/event/text"
 msgstr ""
+"알칼리의... 돌연변이 발명품. 그들은... 이상이나 대의에는 관심이 없는 것으로 "
+"알려져 있습니다. 하지만 이 개체는... 당신을 돕기로 했습니다. 이건 정말... "
+"인상적입니다. 잘하셨습니다, 여행자여. 다음 여정을 시작할 때... 보상을 "
+"기대하십시오.\""
 
 #: src-en/data/events_special_multiverse.xml:669
 msgid ""
@@ -1411,7 +1438,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:1003
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ENGI_A55\"]/choice/text"
-msgstr ""
+msgstr "예?"
 
 #: src-en/data/events_special_multiverse.xml:1005
 msgid ""
@@ -1839,7 +1866,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:1262
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ROCKMAN_ARIADNE\"]/choice/text"
-msgstr ""
+msgstr "괜찮으십니까?"
 
 #: src-en/data/events_special_multiverse.xml:1264
 msgid ""
@@ -1901,9 +1928,10 @@ msgstr "엘리트 낱알 무기를 제시한다."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/choice[@req=\"GIFTLIST_KERNEL_ELITE\"]/event/text"
 msgstr ""
-"\"흐음. 낱알 무기? 엘리트 낱알 무기? 물론, 이건 아마도 좋은 공물이요. 오키드들이 들고 다니며, 금속과 유기물을 모두 사용해 "
-"만들어졌소. 좋소. 이것을 받아들이겠소. 내 당신을 '낱알의 축복'으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 아니라 나중을 위한"
-" 것이오!\""
+"\"흐음. 낱알 무기? 엘리트 낱알 무기? 물론, 이건 아마도 좋은 공물이요. "
+"오키드들이 들고 다니며, 금속과 유기물을 모두 사용해 만들어졌소. 좋소. 이것을 "
+"받아들이겠소. 내 당신을 '성장의 축복'으로 축복하겠소. 하지만 인내심을 "
+"가지시오. 지금이 아니라 나중을 위한 것이오!\""
 
 #: src-en/data/events_special_multiverse.xml:1299
 msgid ""
@@ -1913,12 +1941,17 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:1305
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/choice[@req=\"GIFTLIST_SPORE_ELITE\"]/text"
-msgstr ""
+msgstr "엘리트 포자 무기를 제시한다."
 
 #: src-en/data/events_special_multiverse.xml:1307
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/choice[@req=\"GIFTLIST_SPORE_ELITE\"]/event/text"
 msgstr ""
+"\"흐음. 포자 무기? 엘리트 버전? 물론, 이건 아마도 좋은 공물이요. 셸과 "
+"흡혈초의 합작품. 위험한 포자로 상대를 혼란에 빠뜨리는 건 정직한 전투보다는 "
+"교란에 가깝지. 적어도 여느 적절한 무기처럼 폭발에 대한 예는 갖추고 있군. 내 "
+"당신을 '성장의 축복'으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 아니라 "
+"나중을 위한 것이오!\""
 
 #: src-en/data/events_special_multiverse.xml:1311
 msgid ""
@@ -2200,9 +2233,10 @@ msgstr "개틀링 기관총을 제시한다."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/choice[@req=\"BLUELIST_GATLINGS\"]/event/text"
 msgstr ""
-"\"세상에나... 이거 연방-맨티스 전쟁 중에 연맹이 사용했던 초강력 병기 아니오? 어떻게 이걸 손에 넣은 거요? 이런 게 바로 "
-"공물이지! 정말 인상적이야! 내 당신을 '초강력 병기의 축복'으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 아니라 나중을 위한 "
-"것이오!\""
+"\"세상에나... 이거 연방-맨티스 전쟁 중에 협회가 사용했던 초강력 병기 아니오? "
+"어떻게 이걸 손에 넣은 거요? 이런 게 바로 공물이지! 정말 인상적이야! 내 "
+"당신을 '초강력 병기의 축복'으로 축복하겠소. 하지만 인내심을 가지시오. 지금이 "
+"아니라 나중을 위한 것이오!\""
 
 #: src-en/data/events_special_multiverse.xml:1498
 msgid ""
@@ -2676,7 +2710,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1797
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1803
 msgid ""
@@ -2756,7 +2790,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1853
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_ION\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1863
 msgid ""
@@ -2774,7 +2808,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1870
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_MISSILES\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1880
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_LANIUS\"]/text"
@@ -2791,7 +2825,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1887
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_LANIUS\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1897
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_HACK\"]/text"
@@ -2808,7 +2842,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1905
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_HACK\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1915
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_REPAIR\"]/text"
@@ -2824,7 +2858,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1922
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_REPAIR\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1928
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_ASB\"]/text"
@@ -2862,7 +2896,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1944
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_ASB\"]/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1958
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SLUG\"]/text"
@@ -2905,7 +2939,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1973
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SLUG\"]/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:1987
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SPIDER\"]/text"
@@ -2932,7 +2966,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:1999
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SPIDER\"]/choice/event/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:2007
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_ESTATE\"]/text"
@@ -2961,7 +2995,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:2018
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_ESTATE\"]/choice/event/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:2032
 msgid ""
@@ -3012,7 +3046,7 @@ msgstr "또 시작이군요."
 #: src-en/data/events_special_multiverse.xml:2055
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"NEMESIS_JERRY_NOCREW\"]/choice/event/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "(강력한 빔) 레아에게 빔을 보여준다."
 
 #: src-en/data/events_special_multiverse.xml:2067
 msgid "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SPEECH\"]/text"
@@ -3021,7 +3055,7 @@ msgstr "\"다시 만났구나, 내 숙적! 으하하핫! 나는 파괴자이며,
 #: src-en/data/events_special_multiverse.xml:2070
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"NEMESIS_SPEECH\"]/choice/text"
-msgstr ""
+msgstr "예..."
 
 #: src-en/data/events_special_multiverse.xml:2072
 msgid ""
@@ -3158,7 +3192,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:2204
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_DESTRUCTION_3\"]/choice/event/text"
-msgstr ""
+msgstr "또 다른 상자를 열어 더 많은 스크랩을 찾았습니다."
 
 #: src-en/data/events_special_multiverse.xml:2207
 msgid ""
@@ -3258,7 +3292,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:2254
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_DESTRUCTION_3\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "또 다른 상자를 열어 더 많은 스크랩을 찾았습니다."
 
 #: src-en/data/events_special_multiverse.xml:2257
 msgid ""
@@ -3405,7 +3439,7 @@ msgstr "그가 무엇을 제공하는지 본다."
 #: src-en/data/events_special_multiverse.xml:2397
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ATTACK\"]/choice[5]/event/choice[4]/text"
-msgstr ""
+msgstr "우선 자원을 판다."
 
 #: src-en/data/events_special_multiverse.xml:2401
 msgid ""
@@ -3415,7 +3449,8 @@ msgstr "그의 제안을 거절한다."
 #: src-en/data/events_special_multiverse.xml:2403
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ATTACK\"]/choice[5]/event/choice[5]/event/text"
-msgstr ""
+msgstr "\"그럼 다음에 거래하쬬, 낯썬이! 쩌는 이 현씰이나 다른 현씰에써 우리가 다씨 "
+"만날 거씨라고 확씬해요.\""
 
 #: src-en/data/events_special_multiverse.xml:2405
 msgid ""
@@ -3582,12 +3617,12 @@ msgstr "그가 무엇을 제공하는지 본다."
 #: src-en/data/events_special_multiverse.xml:2721
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_DROPPOINT_GIFT\"]/choice[3]/text"
-msgstr ""
+msgstr "우선 자원을 판다."
 
 #: src-en/data/events_special_multiverse.xml:2725
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_DROPPOINT_GIFT\"]/choice[4]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_special_multiverse.xml:2729
 msgid ""
@@ -3597,7 +3632,8 @@ msgstr "그의 제안을 거절한다."
 #: src-en/data/events_special_multiverse.xml:2731
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_DROPPOINT_GIFT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "\"그럼 다음에 거래하쬬, 낯썬이! 쩌는 이 현씰이나 다른 현씰에써 우리가 다씨 "
+"만날 거씨라고 확씬해요.\""
 
 #: src-en/data/events_special_multiverse.xml:2733
 msgid ""
@@ -3641,12 +3677,12 @@ msgstr "그가 무엇을 제공하는지 본다."
 #: src-en/data/events_special_multiverse.xml:2766
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_DROPPOINT_NOGIFT\"]/choice[3]/text"
-msgstr ""
+msgstr "우선 자원을 판다."
 
 #: src-en/data/events_special_multiverse.xml:2770
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_DROPPOINT_NOGIFT\"]/choice[4]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_special_multiverse.xml:2774
 msgid ""
@@ -3656,7 +3692,8 @@ msgstr "그의 제안을 거절한다."
 #: src-en/data/events_special_multiverse.xml:2776
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_DROPPOINT_NOGIFT\"]/choice[5]/event/text"
-msgstr ""
+msgstr "\"그럼 다음에 거래하쬬, 낯썬이! 쩌는 이 현씰이나 다른 현씰에써 우리가 다씨 "
+"만날 거씨라고 확씬해요.\""
 
 #: src-en/data/events_special_multiverse.xml:2778
 msgid ""
@@ -3738,7 +3775,7 @@ msgstr "그가 무엇을 제공하는지 본다."
 #: src-en/data/events_special_multiverse.xml:2842
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_STANDARD\"]/choice[5]/text"
-msgstr ""
+msgstr "우선 자원을 판다."
 
 #: src-en/data/events_special_multiverse.xml:2847
 msgid ""
@@ -3758,7 +3795,7 @@ msgstr "실반이 해줄 이야기가 있다고 합니다."
 #: src-en/data/events_special_multiverse.xml:2860
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_STANDARD\"]/choice[9]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_special_multiverse.xml:2864
 msgid ""
@@ -3768,7 +3805,8 @@ msgstr "그의 제안을 거절한다."
 #: src-en/data/events_special_multiverse.xml:2866
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_STANDARD\"]/choice[10]/event/text"
-msgstr ""
+msgstr "\"그럼 다음에 거래하쬬, 낯썬이! 쩌는 이 현씰이나 다른 현씰에써 우리가 다씨 "
+"만날 거씨라고 확씬해요.\""
 
 #: src-en/data/events_special_multiverse.xml:2868
 msgid ""
@@ -3916,14 +3954,12 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:2964
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_PREIGNITER_STORY\"]/choice[1]/text"
-msgstr ""
+msgstr "물론입니다."
 
 #: src-en/data/events_special_multiverse.xml:2966
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_PREIGNITER_STORY\"]/choice[1]/event/text"
-msgstr ""
-"\"하찌만 멀티버쓰 쩐쟁이 씨작되고 얼마 지나지 않아써 이 기쑬은 너무 강려카고, 너무 부란쩡하고, 너무 찌명쩍이라느은 이유로 금찌를 "
-"당해써요. 더 이쌍 그걸 찾는건 불가능에 가까워요 쩌도 짲아 봤다는걸 믿어쭈세요\""
+msgstr "\"행운을 빌어요, 낯썬이! 풍썽한 쑤확이 있기를.\""
 
 #: src-en/data/events_special_multiverse.xml:2971
 msgid ""
@@ -3938,7 +3974,7 @@ msgstr "거절한다."
 #: src-en/data/events_special_multiverse.xml:2981
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_PREIGNITER_STORY\"]/choice[2]/event/text"
-msgstr "\"그럼 왜 나한테 다씨 그 이야기를 들려 달라고 했나요? 유감쓰럽게도 쩐 나 짜신을 되풀이할 씨간이 업써요...\""
+msgstr "\"괜찮아요, 낯썬이. 쩍어도 당씬은 짜기 함썬에 짜씬 이써 보이네요!\""
 
 #: src-en/data/events_special_multiverse.xml:2983
 msgid ""
@@ -3961,7 +3997,6 @@ msgid ""
 msgstr "당신은 실반이 준 좌표에 도착했습니다. 저 멀리 거대한 외계 선박이 보입니다..."
 
 #: src-en/data/events_special_multiverse.xml:3007
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_PREIGNITER\"]/choice[1]/text"
 msgstr "접근한다."
@@ -3976,7 +4011,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3012
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_PREIGNITER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "딱히 두렵지 않다."
 
 #: src-en/data/events_special_multiverse.xml:3014
 msgid ""
@@ -4110,12 +4145,26 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3105
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARD_STORY\"]/choice[@req=\"unique_anurak\"]/text"
-msgstr ""
+msgstr "아누락을 찾았습니다!"
 
 #: src-en/data/events_special_multiverse.xml:3107
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARD_STORY\"]/choice[@req=\"unique_anurak\"]/event/text"
 msgstr ""
+"\"그럼 배에 타고 있나요? 그와 얘기하고 씨퍼요.\"\n"
+"\n"
+"\t\t\t아누락이 통신 콘솔에 섭니다. \"걱정시켜서 미안해, 실반! 내 과거에 잠시 "
+"휘말려서 도망쳐야 했어. 암살자라든가 그런 거로부터 말이야. 어쨌든 난 이제 "
+"평화주의자야, 말해줬었나?\"\n"
+"\n"
+"\t\t\t\"네가 무싸하다니 쩡말 다행이야, 하지만 우리 찐구들은 어쩌고?\"\n"
+"\n"
+"\t\t\t\"그래, 뭐, 어느 정도는. 내가 가만히 있었다면, 그야 그들이 날 터뜨려 "
+"버렸을 거야. 알다시피 우리 종족은 꽝 하고 주위에 피해를 주니까. 에너지 "
+"몸체의 선천적인, 뭐 그런 거 말이야.\" 아누락이 목을 가다듬습니다. 약속한 "
+"대로 그들을 찾아서 내가 할 수 있는 걸 할게 . 걱정하지 마.\"\n"
+"\n"
+"\t\t\t\"쩡말 고마워, 옛 찐구.\""
 
 #: src-en/data/events_special_multiverse.xml:3120
 msgid ""
@@ -4125,7 +4174,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:3128
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARD_STORY\"]/choice[2]/text"
-msgstr ""
+msgstr "물론입니다."
 
 #: src-en/data/events_special_multiverse.xml:3130
 msgid ""
@@ -4173,12 +4222,23 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3177
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/text"
-msgstr ""
+msgstr "아누락을 찾았습니다!"
 
 #: src-en/data/events_special_multiverse.xml:3179
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/event/text"
 msgstr ""
+"도마뱀들이 서로 중얼거리고 있지만, 당신의 번역기로는 그들의 언어를 거의 "
+"알아들을 수 없습니다. 다행히도 자신을 부족의 주술사 건트풋이라고 소개하는 "
+"도마뱀 한 마리가 앞으로 나왔는데, 그는 졸탄 전통 방언을 어눌하게나마 구사할 "
+"수 있었습니다. \"아누락? 괜찮습니까? 당신은 우리를 무방비 상태로 뒀습니다. "
+"지금 큰 문제가 발생하고 있습니다.\"\n"
+"\n"
+"\t\t\t\"그래, 그래. 미안하네. 설명할 시간을 주게. 사건의 시작은 그날에...\"\n"
+"\n"
+"\t\t\t\"길고 두서없는 설명은 나중에 해도 됩니다. 지금 당장은 당신이 약속한 "
+"대로 헥타르로부터 우리를 지켜줘야 합니다. 우리는 도움이 절실하며 스스로를 "
+"지킬 수단이 없습니다.\""
 
 #: src-en/data/events_special_multiverse.xml:3185
 msgid ""
@@ -4215,11 +4275,17 @@ msgstr "거절하고 떠난다."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"주술사는 투덜거리며 자기네 언어로 나쁜 말을 하고는 군중으로 돌아갑니다. "
+"도마뱀들은 모두 원래 자리로 총총 사라집니다.\n"
+"\n"
+"\t\t\t\"셸스켄브리, 미안하지만 나는 내가 한 약속을 지켜야 해. 네가 저들을 "
+"보호해 주지 않는다면 내가 그 뒤에 남겠어.\" 아누락이 말했습니다. 당신의 "
+"항의는 모두 튕겨져 나왔고 그는 아무 말 없이 떠납니다."
 
 #: src-en/data/events_special_multiverse.xml:3204
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/event/choice[2]/event/choice[2]/event/removeCrew/text"
-msgstr ""
+msgstr "아누락은 자발적으로 떠났으므로 복제할 수 없습니다."
 
 #: src-en/data/events_special_multiverse.xml:3207
 msgid ""
@@ -4240,11 +4306,17 @@ msgstr "거절하고 떠난다."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/event/choice[3]/event/text"
 msgstr ""
+"주술사는 투덜거리며 자기네 언어로 나쁜 말을 하고는 군중으로 돌아갑니다. "
+"도마뱀들은 모두 원래 자리로 총총 사라집니다.\n"
+"\n"
+"\t\t\t\t\t\"셸스켄브리, 미안하지만 나는 내가 한 약속을 지켜야 해. 네가 "
+"저들을 보호해 주지 않는다면 내가 그 뒤에 남겠어.\" 아누락이 말했습니다. "
+"당신의 항의는 모두 튕겨져 나왔고 그는 아무 말 없이 떠납니다."
 
 #: src-en/data/events_special_multiverse.xml:3226
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS\"]/choice[@req=\"unique_anurak\"]/event/choice[3]/event/removeCrew/text"
-msgstr ""
+msgstr "아누락은 자발적으로 떠났으므로 복제할 수 없습니다."
 
 #: src-en/data/events_special_multiverse.xml:3229
 msgid ""
@@ -4416,17 +4488,23 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3326
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS_WIN\"]/choice[1]/event/choice[@req=\"unique_anurak\"]/text"
-msgstr ""
+msgstr "(아누락) 수프를 준다."
 
 #: src-en/data/events_special_multiverse.xml:3328
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS_WIN\"]/choice[1]/event/choice[@req=\"unique_anurak\"]/event/text"
 msgstr ""
+"\"기술이고 나발이고. 수프가 있어. 너희를 지켜주겠다고 약속했으니 꼭 "
+"지켜줄게. 다들 내 수프 좋아하지?\" 그 맛을 기억한 도마뱀 두 마리가 당신과 "
+"동참하기로 결심합니다. 나머지 도마뱀들도 토론을 위해 재빨리 모여들었지만, 또 "
+"다른 헥타르 함선이 그들 바로 뒤로 달려들어 이웃 전체를 나무에 곤두박질치게 "
+"만들었을 때 그들은 재빨리 종종걸음으로 당신의 함선에 탔습니다. 당신은 "
+"다가오는 헥타르 함대에 발각되지 않은 채 멀리 날아갑니다."
 
 #: src-en/data/events_special_multiverse.xml:3329
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS_WIN\"]/choice[1]/event/choice[@req=\"unique_anurak\"]/event/crewMember"
-msgstr ""
+msgstr "Soup Lover"
 
 #: src-en/data/events_special_multiverse.xml:3331
 msgid ""
@@ -4437,6 +4515,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_LIZARDS_WIN\"]/choice[1]/event/choice[@req=\"unique_anurak\"]/event/choice/event/text"
 msgstr ""
+"난민을 기꺼이 받아들이는 졸탄 교역소를 만나기까지는 그리 오랜 시간이 걸리지 "
+"않았습니다. 여기 있는건 그들 시민의 작은 일부에 불과하지만 현재로서 종족을 "
+"유지하기에는 충분합니다. 건트풋과 수프를 좋아하는 두 도마뱀은 당신의 함선에 "
+"남았습니다."
 
 #: src-en/data/events_special_multiverse.xml:3335
 msgid ""
@@ -4517,7 +4599,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3394
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPH_STORY\"]/choice[1]/text"
-msgstr ""
+msgstr "물론입니다."
 
 #: src-en/data/events_special_multiverse.xml:3396
 msgid ""
@@ -4534,7 +4616,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:3409
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPH_STORY\"]/choice[2]/text"
-msgstr ""
+msgstr "그다지요."
 
 #: src-en/data/events_special_multiverse.xml:3411
 msgid ""
@@ -4567,7 +4649,6 @@ msgid ""
 msgstr "실반이 준 좌표에 도착했습니다. 근처에서 거대한 모프 함선이 발견된 걸 보면 언제나처럼 실반의 정보가 정확했던 것 같습니다."
 
 #: src-en/data/events_special_multiverse.xml:3440
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/text"
 msgstr "접근한다."
@@ -4576,13 +4657,14 @@ msgstr "접근한다."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/text"
 msgstr ""
-"가까이 다가가자 순양함이 본능적으로 무기를 치켜듭니다.  \"마쿠! 주카 잎 잎 룰!\" 추정해보면, 그들은 당신이 그들을 쫓고 있는 "
-"이유에 대한 설명을 바라는 것 같습니다."
+"가까이 다가가자 순양함이 본능적으로 무기를 치켜듭니다. \"마쿠! 주카 잎 잎 룰!"
+"\" 추정해보면, 그들은 당신이 그들을 쫓고 있는 이유에 대한 설명을 바라는 것 "
+"같습니다."
 
 #: src-en/data/events_special_multiverse.xml:3444
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "소통을 시도한다."
 
 #: src-en/data/events_special_multiverse.xml:3446
 msgid ""
@@ -4611,12 +4693,13 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:3454
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr "\"커르 커르 티그.\" 모프들은 도는걸 멈추더니 다시 함선을 관리하러 갑니다. 이 모든 것이 시간 낭비였던 것 같습니다."
+msgstr "\"커르 커르 티그.\" 모프들은 도는 걸 멈추고 다시 함선을 관리하러 갑니다. 이 "
+"모든 것이 시간 낭비였던 것 같습니다."
 
 #: src-en/data/events_special_multiverse.xml:3456
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_special_multiverse.xml:3458
 msgid ""
@@ -4631,7 +4714,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:3467
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_special_multiverse.xml:3477
 msgid ""
@@ -4641,7 +4724,7 @@ msgstr "(우즈 마주) \"픽 픽 열라 스푸 투!\""
 #: src-en/data/events_special_multiverse.xml:3481
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_MORPHUNLOCK\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_special_multiverse.xml:3483
 msgid ""
@@ -4781,6 +4864,9 @@ msgstr "아 맞다, 당신은 레오였죠!"
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_NORMAL\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"뭐라고?! 그건 남자 이름이잖아! 난 레아라고! 난... 난 네가 농담하는 줄 "
+"알았어. 난 너랑 계속해서 싸워왔단 말이야. 멀티버스의 끝자락까지 널 쫓으면서 "
+"다시 싸우고 또 싸웠다고. 그런데도, 넌 내 이름조차 기억하지 못하는 거야?\""
 
 #: src-en/data/events_special_multiverse.xml:3583
 msgid ""
@@ -4830,6 +4916,9 @@ msgstr "아, 기억났다. 당신은 분명 리암이었어요!"
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_NORMAL\"]/choice[1]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"\"뭐라고?! 그건 남자 이름이잖아! 난 레아라고! 난... 난 네가 농담하는 줄 "
+"알았어. 난 너랑 계속해서 싸워왔단 말이야. 멀티버스의 끝자락까지 널 쫓으면서 "
+"다시 싸우고 또 싸웠다고. 그런데도, 넌 내 이름조차 기억하지 못하는 거야?\""
 
 #: src-en/data/events_special_multiverse.xml:3613
 msgid ""
@@ -4916,6 +5005,9 @@ msgstr "아 맞다, 당신은 레오였죠!"
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_ROYAL_DEAD\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"뭐라고?! 그건 남자 이름이잖아! 난 레아라고! 난... 난 네가 농담하는 줄 "
+"알았어. 난 너랑 계속해서 싸워왔단 말이야. 멀티버스의 끝자락까지 널 쫓으면서 "
+"다시 싸우고 또 싸웠다고. 그런데도, 넌 내 이름조차 기억하지 못하는 거야?\""
 
 #: src-en/data/events_special_multiverse.xml:3673
 msgid ""
@@ -4965,6 +5057,9 @@ msgstr "아, 기억났다. 당신은 분명 리암이었어요!"
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_ROYAL_DEAD\"]/choice/event/choice[4]/event/text"
 msgstr ""
+"\"뭐라고?! 그건 남자 이름이잖아! 난 레아라고! 난... 난 네가 농담하는 줄 "
+"알았어. 난 너랑 계속해서 싸워왔단 말이야. 멀티버스의 끝자락까지 널 쫓으면서 "
+"다시 싸우고 또 싸웠다고. 그런데도, 넌 내 이름조차 기억하지 못하는 거야?\""
 
 #: src-en/data/events_special_multiverse.xml:3703
 msgid ""
@@ -5031,7 +5126,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3745
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_WIN\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "우리가 할 수 있는 건 없다."
 
 #: src-en/data/events_special_multiverse.xml:3747
 msgid ""
@@ -5118,7 +5213,7 @@ msgstr "화물칸을 확인하러 간다."
 #: src-en/data/events_special_multiverse.xml:3787
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_WIN\"]/choice/event/choice[@req=\"unique_obyn\"]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(재구성 텔레포트) 그를 되살린다."
 
 #: src-en/data/events_special_multiverse.xml:3789
 msgid ""
@@ -5190,7 +5285,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml:3819
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_WIN\"]/choice/event/choice[@req=\"LIST_VARIANT_BILLY\"]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "우리가 할 수 있는 건 없다."
 
 #: src-en/data/events_special_multiverse.xml:3821
 msgid ""
@@ -5238,7 +5333,7 @@ msgstr "Sylvan"
 #: src-en/data/events_special_multiverse.xml:3842
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_WIN\"]/choice/event/choice[@req=\"LIST_VARIANT_BILLY\"]/event/choice/event/choice/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(재구성 텔레포트) 그를 되살린다."
 
 #: src-en/data/events_special_multiverse.xml:3844
 msgid ""
@@ -5290,7 +5385,7 @@ msgstr "Sylvan"
 #: src-en/data/events_special_multiverse.xml:3874
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_ROYAL_WIN\"]/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(재구성 텔레포트) 그를 되살린다."
 
 #: src-en/data/events_special_multiverse.xml:3876
 msgid ""
@@ -5343,13 +5438,13 @@ msgstr "드론 부품을 판다."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_MENU\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:3924
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_MENU\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:3932
 msgid ""
@@ -5359,7 +5454,7 @@ msgstr "\"연료! 헤헤헤, 아무리 많아도 모짜란 거씨찌요. 하찌�
 #: src-en/data/events_special_multiverse.xml:3935
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_FUEL\"]/choice[1]/text"
-msgstr ""
+msgstr "연료 5개를 판다."
 
 #: src-en/data/events_special_multiverse.xml:3937
 msgid ""
@@ -5387,7 +5482,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:3964
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_FUEL\"]/choice[2]/text"
-msgstr ""
+msgstr "연료 5개를 판다."
 
 #: src-en/data/events_special_multiverse.xml:3966
 msgid ""
@@ -5528,13 +5623,13 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_FUEL\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4118
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_FUEL\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4125
 msgid ""
@@ -5715,13 +5810,13 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_AMMO\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4311
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_AMMO\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4318
 msgid ""
@@ -5900,13 +5995,13 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_DRONES\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4504
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"SYLVAN_CONVERT_DRONES\"]/choice[@req=\"loc_sector_count\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_multiverse.xml:4517
 msgid ""
@@ -5959,6 +6054,8 @@ msgstr "\"아아아아. 낯썬이 낯썬이, 요쩐에 쏘행쌩 구역 몇 개�
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"SYLVAN_MINELAUNCHERS\"]/text"
 msgstr ""
+"\"낯썬이, 쩨가 여행 쭝에 꽤 많은 기뢰 싸출기를 모아써요. 기뢰는 추쩍을 "
+"늦추는 데도 싸용할 쑤 이쬬. 행동에 쩨약이 쌩기게찌만요. 한번 둘러보쎄요!\""
 
 #: src-en/data/events_special_multiverse.xml:4618
 msgid ""
@@ -6322,7 +6419,7 @@ msgstr "음..."
 #: src-en/data/events_special_multiverse.xml:4938
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"ENCOUNTER_CALLIE_ERROR\"]/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "어..."
 
 #: src-en/data/events_special_multiverse.xml:4942
 msgid ""
@@ -7421,9 +7518,10 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml$//textList[@name=\"TEXT_FIGHT_MULTIVERSE_TRAVELER\"]/text[14]"
 msgstr ""
-"\"네가 나를 도와줘야 해. 어디를 가든 사람들이 나를 배회자라고 불러. 대체 어떻게 안 걸까?! 내 이름은 댄이고, 부동산 일을 하고 "
-"있어. 이 배는 그냥 시험 삼아 샀는데, 모두가 나를 죽이려 드는 거 있지. 그리고... 그리고 나는 모두를 죽이고 싶어! 뭔가 끔찍하게"
-" 잘못... 으아아! 나한테 돈을 내놓거나 아니면 죽어!\""
+"\"나 좀 도와줘야 해. 어디를 가든 사람들이 나를 배회자라고 불러. 대체 어떻게 "
+"안 걸까?! 내 이름은 댄이고, 부동산 일을 하고 있어. 이 배는 그냥 시험 삼아 "
+"샀는데, 모두가 나를 죽이려 드는 거 있지. 그리고... 그리고 나는 모두를 죽이고 "
+"싶어! 뭔가 끔찍하게 잘못... 으아아! 나한테 돈을 내놓거나 아니면 죽어!\""
 
 #: src-en/data/events_special_multiverse.xml:5727
 msgid ""
@@ -7751,10 +7849,9 @@ msgstr ""
 " 위해 직접 나선 함선이 분명합니다!"
 
 #: src-en/data/events_special_multiverse.xml:6145
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CLANSMAN_B_NORMAL\"]/choice[1]/text"
-msgstr "전투를 준비한다."
+msgstr "전투를 준비한다!"
 
 #: src-en/data/events_special_multiverse.xml:6147
 msgid ""
@@ -7776,7 +7873,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6172
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CLANSMAN_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [길드 B]"
 
 #: src-en/data/events_special_multiverse.xml:6173
 msgid ""
@@ -7791,10 +7888,9 @@ msgstr ""
 " 위해 직접 나선 함선이 분명합니다!"
 
 #: src-en/data/events_special_multiverse.xml:6178
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CLANSMAN_B_CHALLENGE\"]/choice[1]/text"
-msgstr "전투를 준비한다."
+msgstr "전투를 준비한다!"
 
 #: src-en/data/events_special_multiverse.xml:6180
 msgid ""
@@ -7821,10 +7917,9 @@ msgstr ""
 " 위해 직접 나선 함선이 분명합니다!"
 
 #: src-en/data/events_special_multiverse.xml:6206
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CLANSMAN_B_EXTREME\"]/choice[1]/text"
-msgstr "전투를 준비한다."
+msgstr "전투를 준비한다!"
 
 #: src-en/data/events_special_multiverse.xml:6208
 msgid ""
@@ -7886,7 +7981,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6312
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_DUSKBRINGER_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [더스크브링어 B]"
 
 #: src-en/data/events_special_multiverse.xml:6313
 msgid ""
@@ -7995,7 +8090,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6452
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_ENGI_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [하모니 C]"
 
 #: src-en/data/events_special_multiverse.xml:6453
 msgid ""
@@ -8086,6 +8181,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FREEMANTIS_B_NORMAL\"]/choice[1]/event/text"
 msgstr ""
+"\"연방은 우리의 우정을 부정한다! 더는 안 돼! 우리가 너희를 대신해 세상을 "
+"구하고 연방을 위대함으로 이끌겠다!\" 망상에 빠진 독립 맨티스는 설득해 볼 "
+"기회도 주지 않고 교신을 끊었습니다. 살아남으려면 그의 '위대함'을 막아야 "
+"합니다."
 
 #: src-en/data/events_special_multiverse.xml:6570
 msgid ""
@@ -8100,7 +8199,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6592
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FREEMANTIS_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [독립 맨티스 B]"
 
 #: src-en/data/events_special_multiverse.xml:6593
 msgid ""
@@ -8123,6 +8222,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FREEMANTIS_B_CHALLENGE\"]/choice[1]/event/text"
 msgstr ""
+"\"연방은 우리의 우정을 부정한다! 더는 안 돼! 우리가 너희를 대신해 세상을 "
+"구하고 연방을 위대함으로 이끌겠다!\" 망상에 빠진 독립 맨티스는 설득해 볼 "
+"기회도 주지 않고 교신을 끊었습니다. 살아남으려면 그의 '위대함'을 막아야 "
+"합니다."
 
 #: src-en/data/events_special_multiverse.xml:6603
 msgid ""
@@ -8150,6 +8253,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FREEMANTIS_B_EXTREME\"]/choice[1]/event/text"
 msgstr ""
+"\"연방은 우리의 우정을 부정한다! 더는 안 돼! 우리가 너희를 대신해 세상을 "
+"구하고 연방을 위대함으로 이끌겠다!\" 망상에 빠진 독립 맨티스는 설득해 볼 "
+"기회도 주지 않고 교신을 끊었습니다. 살아남으려면 그의 '위대함'을 막아야 "
+"합니다."
 
 #: src-en/data/events_special_multiverse.xml:6631
 msgid ""
@@ -8204,7 +8311,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6732
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_LOSTSUN_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [로스트선 B]"
 
 #: src-en/data/events_special_multiverse.xml:6733
 msgid ""
@@ -8313,7 +8420,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:6872
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_MANTIS_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [하이브 B]"
 
 #: src-en/data/events_special_multiverse.xml:6873
 msgid ""
@@ -8420,7 +8527,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7012
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_MONK_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [일레스크트리안 B]"
 
 #: src-en/data/events_special_multiverse.xml:7013
 msgid ""
@@ -8527,7 +8634,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7152
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_ROCK_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [신정 C]"
 
 #: src-en/data/events_special_multiverse.xml:7153
 msgid ""
@@ -8635,7 +8742,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7292
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SEPARATIST_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [분리주의자 B]"
 
 #: src-en/data/events_special_multiverse.xml:7293
 msgid ""
@@ -8745,7 +8852,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7432
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SLUG_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [도둑정 C]"
 
 #: src-en/data/events_special_multiverse.xml:7433
 msgid ""
@@ -8854,7 +8961,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7572
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_STEALTH_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [스텔스 B]"
 
 #: src-en/data/events_special_multiverse.xml:7573
 msgid ""
@@ -8962,7 +9069,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7712
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_ZOLTAN_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [내각 C]"
 
 #: src-en/data/events_special_multiverse.xml:7713
 msgid ""
@@ -9072,7 +9179,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7852
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SHELL_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [천재정 C]"
 
 #: src-en/data/events_special_multiverse.xml:7853
 msgid ""
@@ -9181,7 +9288,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:7992
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_ENGINEER_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [공병 B]"
 
 #: src-en/data/events_special_multiverse.xml:7993
 msgid ""
@@ -9288,7 +9395,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8132
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_LANIUS_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [라니우스 B]"
 
 #: src-en/data/events_special_multiverse.xml:8133
 msgid ""
@@ -9397,7 +9504,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8272
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_KESTREL_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [케스트렐 B]"
 
 #: src-en/data/events_special_multiverse.xml:8273
 msgid ""
@@ -9510,7 +9617,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8412
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FED_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [연방 B]"
 
 #: src-en/data/events_special_multiverse.xml:8413
 msgid ""
@@ -9622,7 +9729,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8552
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_ORCHID_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [군락 B]"
 
 #: src-en/data/events_special_multiverse.xml:8553
 msgid ""
@@ -9734,7 +9841,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8692
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CRYSTAL_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [제국 C]"
 
 #: src-en/data/events_special_multiverse.xml:8693
 msgid ""
@@ -9850,7 +9957,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8832
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_TUCO_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [투코 B]"
 
 #: src-en/data/events_special_multiverse.xml:8833
 msgid ""
@@ -9966,7 +10073,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:8972
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_LEECH_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [공화국 C]"
 
 #: src-en/data/events_special_multiverse.xml:8973
 msgid ""
@@ -10079,7 +10186,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:9113
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_MFK_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [MFK 에이스 C]"
 
 #: src-en/data/events_special_multiverse.xml:9114
 msgid ""
@@ -10182,7 +10289,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:9252
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SALT_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [소듐 C]"
 
 #: src-en/data/events_special_multiverse.xml:9253
 msgid ""
@@ -10292,7 +10399,7 @@ msgstr "축복을 사용해 전투를 피한다."
 #: src-en/data/events_special_multiverse.xml:9395
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SYLVAN_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [실반 C]"
 
 #: src-en/data/events_special_multiverse.xml:9396
 msgid ""
@@ -10397,7 +10504,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:9534
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_OSMIAN_B_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [오스미안 B]"
 
 #: src-en/data/events_special_multiverse.xml:9535
 msgid ""
@@ -10501,7 +10608,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:9679
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_HORSE_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [에퀴노이드 C]"
 
 #: src-en/data/events_special_multiverse.xml:9680
 msgid ""
@@ -10621,7 +10728,7 @@ msgstr "계속..."
 #: src-en/data/events_special_multiverse.xml:9819
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_SPIDER_C_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비정상적 에너지 신호의 위치입니다. [거미 C]"
 
 #: src-en/data/events_special_multiverse.xml:9820
 msgid ""
@@ -10723,10 +10830,9 @@ msgstr ""
 " 위해 직접 나선 함선이 분명합니다!"
 
 #: src-en/data/events_special_multiverse.xml:9976
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_CLANSMAN_B_CHAOS\"]/choice[1]/text"
-msgstr "전투를 준비한다."
+msgstr "전투를 준비한다!"
 
 #: src-en/data/events_special_multiverse.xml:9978
 msgid ""
@@ -10838,6 +10944,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_multiverse.xml$/FTL/event[@name=\"MV_TRAVELER_BOSS_FREEMANTIS_B_CHAOS\"]/choice[1]/event/text"
 msgstr ""
+"\"연방은 우리의 우정을 부정한다! 더는 안 돼! 우리가 너희를 대신해 세상을 "
+"구하고 연방을 위대함으로 이끌겠다!\" 망상에 빠진 독립 맨티스는 설득해 볼 "
+"기회도 주지 않고 교신을 끊었습니다. 살아남으려면 그의 '위대함'을 막아야 "
+"합니다."
 
 #: src-en/data/events_special_multiverse.xml:10122
 msgid ""
@@ -11706,4 +11816,3 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml$//event[@name=\"MTBOSS_SPIDERC_DROP_CHAOS\"]/crewMember"
 msgstr "Charlotte"
-

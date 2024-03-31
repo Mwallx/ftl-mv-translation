@@ -1,0 +1,3799 @@
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-29 18:40+0000\n"
+"Last-Translator: hulanhai <hulanhai613@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_nexusxml/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
+
+#: src-en/data/events_sector_nexus.xml:28
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/text"
+msgstr ""
+"シルヴァンの秘密の部屋で見つけた座標は、一見何の変哲もない空間に通じています"
+"。いくつかの異常信号を検知しましたが、予備スキャンでは何も捕捉できませんでし"
+"た。"
+
+#: src-en/data/events_sector_nexus.xml:31
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/text"
+msgstr "(異常検知機）あなたのスキャナーはあらゆる種類の奇妙な結果を示している。"
+
+#: src-en/data/events_sector_nexus.xml:33
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/text"
+msgstr ""
+"高度なスキャナーが、少し離れた場所で奇妙な異変をとらえました。そしてすぐに、"
+"巨大な裂け目に面した広大な海洋惑星の大気圏内にいることに気づきます。しばらく"
+"の間、あなたはただ畏敬の念を抱いて見つめることしかできませんでしたが、現実に"
+"引き戻され、この地溝の異常なパターンに気づきます。異常に安定していて、よく知"
+"らなければ人工的なものだと言ってしまいそうです……"
+
+#: src-en/data/events_sector_nexus.xml:36
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/choice[@req=\"loc_sylvankilled\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:40
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/choice[@req=\"loc_sylvankilled\""
+" and @lvl=\"1\"]/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:48
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[2]/text"
+msgstr "ここに来る意味はなかったと思う。"
+
+#: src-en/data/events_sector_nexus.xml:50
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[2]/event/text"
+msgstr ""
+"残念ながら、ここに来た理由がわかりません。単に時間の無駄だったのかもしれませ"
+"ん。あるいは、あなたが見つけられないだけで、もっと何かがあったのかもしれませ"
+"ん……"
+
+#: src-en/data/events_sector_nexus.xml:52
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[2]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_sector_nexus.xml:56
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL\"]/choice[2]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_nexus.xml:116
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/text"
+msgstr ""
+"遠くに、自分に向かって飛んでくる船を見つけました。そしてすぐにシルヴァンだと"
+"気づきます！「よぉそ者、こぉこに来てはいけない……どうやってこぉの場所を見つけ"
+"たんだ？ああ、そんなことはどぉでもいい。でも、よぉそ者はここにいてはいけない"
+"。こぉこは危険なんだ！」"
+
+#: src-en/data/events_sector_nexus.xml:118
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/text"
+msgstr "ここは何なんだ？"
+
+#: src-en/data/events_sector_nexus.xml:120
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/text"
+msgstr ""
+"「質問にこぉたえてあげられる時間はない、よぉそ者よ。こぉれ以上近づくな。説明"
+"してあげられたらいいんだが、こぉれはとぉぉても深刻なんだ。こぉれが最後の警告"
+"だ。引き返せ、さもなくば、お前を 、よぉそ者 ……」"
+
+#: src-en/data/events_sector_nexus.xml:122
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"0\"]/text"
+msgstr "これが何なのか突き止めるまでは帰らない。"
+
+#: src-en/data/events_sector_nexus.xml:124
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"0\"]/event/text"
+msgstr "「それなら、残念ながら選択の余地はない、よぉそ者よ……」"
+
+#: src-en/data/events_sector_nexus.xml:130
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:136
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"1\"]/text"
+msgstr "これが何なのか突き止めるまでは帰らない。"
+
+#: src-en/data/events_sector_nexus.xml:138
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"1\"]/event/text"
+msgstr "「それなら、残念ながら選択の余地はない、よぉそ者よ……」"
+
+#: src-en/data/events_sector_nexus.xml:146
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"1\"]/event/triggeredEvent[2]/triggeredEventBox/tooltip"
+msgstr "シルヴァンのシールドはこの時間で再生する。"
+
+#: src-en/data/events_sector_nexus.xml:151
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:157
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"2\"]/text"
+msgstr "これが何なのか突き止めるまでは帰らない。"
+
+#: src-en/data/events_sector_nexus.xml:159
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"2\"]/event/text"
+msgstr "「それなら、残念ながら選択の余地はない、よぉそ者よ……」"
+
+#: src-en/data/events_sector_nexus.xml:167
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"2\"]/event/triggeredEvent[2]/triggeredEventBox/tooltip"
+msgstr "シルヴァンのシールドはこの時間で再生する。"
+
+#: src-en/data/events_sector_nexus.xml:172
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:178
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"3\"]/text"
+msgstr "これが何なのか突き止めるまでは帰らない。"
+
+#: src-en/data/events_sector_nexus.xml:180
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"3\"]/event/text"
+msgstr "「それなら、残念ながら選択の余地はない、よぉそ者よ……」"
+
+#: src-en/data/events_sector_nexus.xml:188
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"3\"]/event/triggeredEvent[2]/triggeredEventBox/tooltip"
+msgstr "シルヴァンのシールドはこの時間で再生する。"
+
+#: src-en/data/events_sector_nexus.xml:193
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[@req=\"challenge_level\""
+" and @lvl=\"3\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:199
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[5]/text"
+msgstr "彼の警告を守り、その場を立ち去る。"
+
+#: src-en/data/events_sector_nexus.xml:201
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[1]/event/choice[5]/event/text"
+msgstr "「賢い選択だ、よぉそ者。おぉ前にはもっと重要なすべきことがあるはずだ……」"
+
+#: src-en/data/events_sector_nexus.xml:207
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[2]/text"
+msgstr "彼の警告を守り、その場を立ち去る。"
+
+#: src-en/data/events_sector_nexus.xml:209
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_2\"]/choice[2]/event/text"
+msgstr "「賢い選択だ、よぉそ者。おぉ前にはもっと重要なすべきことがあるはずだ……」"
+
+#: src-en/data/events_sector_nexus.xml:215
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SPARE\"]/text"
+msgstr ""
+"どうやらあなたはもう限界のようです。もう長くは生きられませんが、シルヴァンが"
+"一瞬発砲を止め、声をかけてきます。「あなたを殺したくは無い、よぉそ者。去りな"
+"さい。そうすればこのことは忘れてあげます……」"
+
+#: src-en/data/events_sector_nexus.xml:218
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SPARE\"]/choice[1]/text"
+msgstr "降伏する。"
+
+#: src-en/data/events_sector_nexus.xml:220
+msgid "data/events_sector_nexus.xml$//event[@name=\"SURRENDERED_TO_SYLVAN\"]/text"
+msgstr "シルヴァンは武器の電源を落とし、最後にあなたを見て、顔中に罪悪感を浮かべなが"
+"ら、遠くへ去っていきました。"
+
+#: src-en/data/events_sector_nexus.xml:227
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SPARE\"]/choice[2]/text"
+msgstr "私たちは諦めない。"
+
+#: src-en/data/events_sector_nexus.xml:229
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SPARE\"]/choice[2]/event/text"
+msgstr "「最後まで頑固な、よぉそ者。そぉういうことなら……」"
+
+#: src-en/data/events_sector_nexus.xml:234
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SURRENDER\"]/text"
+msgstr "シルヴァンは死の瀬戸際にいるようです。あなたは本当に彼を殺したいのかどうか確"
+"信を持てていません。"
+
+#: src-en/data/events_sector_nexus.xml:237
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SURRENDER\"]/choice[1]/text"
+msgstr "シルヴァンに退くことを要求する。"
+
+#: src-en/data/events_sector_nexus.xml:239
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SURRENDERED\"]/text"
+msgstr ""
+"「私は、私は失敗したよぉうだ、よぉそ者。あなたを止められなかった。ああ……その"
+"裂け目の向こう側に何があるのかを知っているよぉうだな。だが、理解してほしい..."
+"...よぉそ者......そぉうだな......おぉそらく、あなたは反対側からは出られないだ"
+"ろう。ルールがあるんだ、よぉそ者。そぉれを破ると嫌われるぞ。」不吉な言葉を残"
+"して、シルヴァンはただ飛び去りました。あなたは、戦いの残骸がたくさん残ってい"
+"ることに気づき、回収できるものを回収します。"
+
+#: src-en/data/events_sector_nexus.xml:257
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_SURRENDER\"]/choice[2]/text"
+msgstr "戦い続ける。"
+
+#: src-en/data/events_sector_nexus.xml:262
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CREWKILL_NEXUSPORTAL\"]/text"
+msgstr ""
+"これでシルヴァンは終わりかと思われましたが、突然テレポーター信号が登録されま"
+"した——また搭乗されたのでしょうか？シルヴァンが再びデッキに現れます。「よぉそ"
+"者、私を倒すのはそぉぉ簡単じゃないぞ！」"
+
+#: src-en/data/events_sector_nexus.xml:265
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CREWKILL_NEXUSPORTAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:267
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CREWKILL_NEXUSPORTAL\"]/choice/event/text"
+msgstr "それだけでは飽き足らず、さらに多くのスラッグが乗り込んできました！いったいど"
+"こから来たんでしょうか？"
+
+#: src-en/data/events_sector_nexus.xml:274
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_NEXUSPORTAL\"]/text"
+msgstr ""
+"シルヴァンは膝をついて、顔の傷から大量の血を流しています。"
+"彼は最後になんとか言葉を吐きました 。「よぉそ者……願わくば……これに価値があらん"
+"ことを……」そして崩れ落ちました。旅商人はもういません。"
+
+#: src-en/data/events_sector_nexus.xml:282
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_NEXUSPORTAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:287
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/text"
+msgstr "スラッグの強力なシーラント層が壊れ始めた船をつなぎ止めますが、ついに圧力に耐"
+"え切れず、船は爆発し、貨物コンテナが星系中にばらまかれました。"
+
+#: src-en/data/events_sector_nexus.xml:291
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/text"
+msgstr "貨物を回収する。"
+
+#: src-en/data/events_sector_nexus.xml:293
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/text"
+msgstr "最初の貨物箱をすくい上げ、中のスクラップをすべて空にする。"
+
+#: src-en/data/events_sector_nexus.xml:296
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:298
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/text"
+msgstr "あなたは別の貨物箱を開け、さらに多くのスクラップを見つけました。"
+
+#: src-en/data/events_sector_nexus.xml:301
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:303
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、武器とより多くの物資が入っていました！"
+
+#: src-en/data/events_sector_nexus.xml:306
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:308
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、物資の中にドローンを見つけました！"
+
+#: src-en/data/events_sector_nexus.xml:311
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:313
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別のカーゴボックスを開けると、中には大量の燃料とスクラップが入っていました。"
+
+#: src-en/data/events_sector_nexus.xml:316
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:318
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、中には大量のミサイルとスクラップが入っていました。"
+
+#: src-en/data/events_sector_nexus.xml:321
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:323
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、中には大量のドローンパーツやスクラップが入っていました"
+"。"
+
+#: src-en/data/events_sector_nexus.xml:326
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:328
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別のカーゴボックスを開けると、中には新品の拡張パーツと物資を見つけました！"
+
+#: src-en/data/events_sector_nexus.xml:331
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:333
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別のカーゴボックスを開けると、さらに多くの物資を見つけました！"
+
+#: src-en/data/events_sector_nexus.xml:336
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:338
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、大量のミサイルを見つけました！"
+
+#: src-en/data/events_sector_nexus.xml:341
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:343
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "別の貨物箱を開けると、大量のドローンパーツを見つけました！"
+
+#: src-en/data/events_sector_nexus.xml:346
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:348
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "あなたは別の貨物箱を開け、さらに多くのスクラップを見つけました。"
+
+#: src-en/data/events_sector_nexus.xml:351
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:353
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_2_NEXUS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "最後の箱を開けると、驚くなかれ、さらに多くのスクラップが入っていました！"
+
+#: src-en/data/events_sector_nexus.xml:385
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_ENTER\"]/text"
+msgstr "ここに残された選択肢はただ一つです。この裂け目は何かの入り口のようですが、あ"
+"なたは本当に向こう側に何があるのか見たいですか？"
+
+#: src-en/data/events_sector_nexus.xml:387
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_ENTER\"]/choice[1]/text"
+msgstr "入る。"
+
+#: src-en/data/events_sector_nexus.xml:389
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_ENTER\"]/choice[1]/event/text"
+msgstr ""
+"裂け目に近づくにつれて、周囲の空間は次第にゆがんでいき、やがてエンジンさえも"
+"船を制御できなくなり、とんでもないスピードでゲートウェイの中心へと吸い込まれ"
+"ていきます……"
+
+#: src-en/data/events_sector_nexus.xml:396
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_ENTER\"]/choice[2]/text"
+msgstr "地溝を放っておく。"
+
+#: src-en/data/events_sector_nexus.xml:398
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_PORTAL_ENTER\"]/choice[2]/event/text"
+msgstr "難しい決断ですが、古代の宇宙空間の謎を探索するリスクを冒すには、あなた方の主"
+"要任務はあまりにも重要です。"
+
+#: src-en/data/events_sector_nexus.xml:423
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_DESTRUCTION_NEXUS\"]/text"
+msgstr ""
+"シルヴァンは膝をついて、顔の傷から大量の血を流しています。"
+"彼は最後になんとか言葉を吐きました 。「よぉそ者……願わくば……これに価値があらん"
+"ことを……」そして崩れ落ちました。別の旅商人はもういません。"
+
+#: src-en/data/events_sector_nexus.xml:435
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/beaconType/unvisitedTooltip"
+msgstr "ここは取引に応じてくれるシルヴァンの場所です。"
+
+#: src-en/data/events_sector_nexus.xml:436
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。面白いものは何も残っていない。"
+
+#: src-en/data/events_sector_nexus.xml:437
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_sector_nexus.xml:439
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/text"
+msgstr "ここにも見知らぬシルヴァンがあなたを待っています。彼らは友好的で、取引にも応"
+"じてくれるようです。"
+
+#: src-en/data/events_sector_nexus.xml:445
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"unique_sylvan\"]/text"
+msgstr "(シルヴァン）シルヴァンを使ってシルヴァンを呼び寄せる。"
+
+#: src-en/data/events_sector_nexus.xml:447
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"unique_sylvan\"]/event/text"
+msgstr ""
+"「君が僕であるこぉとはわかったよ。でも、残念ながら割引はできない。無限の僕が"
+"いるんだから、全員にタダでスクラップを与えるわけにはいかないんだ！」"
+
+#: src-en/data/events_sector_nexus.xml:449
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"unique_sylvan\"]/event/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:457
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[2]/text"
+msgstr "何を売っているのか見る。"
+
+#: src-en/data/events_sector_nexus.xml:461
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[3]/text"
+msgstr "まずいくつか資源を売る。"
+
+#: src-en/data/events_sector_nexus.xml:465
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[4]/text"
+msgstr "攻撃！"
+
+#: src-en/data/events_sector_nexus.xml:469
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"pilot\"]/text"
+msgstr "提案を断る。"
+
+#: src-en/data/events_sector_nexus.xml:471
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "「ではまた別の機会に、よぉそ者よ！この現実でも別の現実でも、私たちが会うのは"
+"こぉれが最後ではないと確信している。」"
+
+#: src-en/data/events_sector_nexus.xml:473
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_sector_nexus.xml:477
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEXUS\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_sector_nexus.xml:484
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_TRADES_NEXUS\"]/text"
+msgstr "「ああああ。よぉそ者よ、自尊心のあるマルチヴァースの旅行者なら、生き残るため"
+"にはそぉれなりの装備が必要だと知っているはずだ。」"
+
+#: src-en/data/events_sector_nexus.xml:489
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS\"]/text"
+msgstr ""
+"あなたは船の床から起き上がり、窓の外をちらりと見て、自分が時空のどこにいるの"
+"かを確認しようとします。遠くには、あなたが来た場所へと続く巨大な裂け目があり"
+"、ゆっくりと縮小していきます。この突然の失踪に反乱軍も驚いているはずですが、"
+"これが何であれ、生きて帰れるかどうかは誰にもわかりません。"
+
+#: src-en/data/events_sector_nexus.xml:498
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:513
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_2\"]/text"
+msgstr ""
+"完全に意識を取り戻したあなたは、船の重要なシステムをチェックしましたが、すべ"
+"てがシャットダウンされていました。奇妙な色のスラッグ輸送船が近くに留まってい"
+"ます。そしてあなたが反応する前に、背後から咳払いが聞こえました。振り向くと、"
+"アイロンをかけたスーツにネクタイ姿のスラッグが、ブリーフケースと書類の束を抱"
+"え、簡易的な折りたたみテーブルに座っていました。「こぉんにちは……よぉそ者……お"
+"座りになりませんか？」"
+
+#: src-en/data/events_sector_nexus.xml:515
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_2\"]/choice[1]/text"
+msgstr "座る。"
+
+#: src-en/data/events_sector_nexus.xml:517
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/text"
+msgstr ""
+"あなたは自分に向かって触手を伸ばすスラッグの向かいの席に座ります。「 "
+"こぉんにちは、よぉそ者よ。こぉのような状況では......"
+"おぉ知り合いになるのは......不本意かもしれないですが......私は誠意をもって接"
+"したい。私の名前は...…G-ヴァン。残念ながら、こぉれは単なる...…交流会ではない"
+"んだ。あなたに……聞きたいことがあるんだ...…」\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tスラッグは書類をめくり、ペンを取り出し、あなたを見上げる。「さて、"
+"それでは...…あなたをぉ送り込んだのは誰ですか？」"
+
+#: src-en/data/events_sector_nexus.xml:521
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[1]/text"
+msgstr "私たちは誰からも送られなかった。"
+
+#: src-en/data/events_sector_nexus.xml:523
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[1]/event/text"
+msgstr ""
+"「そぉれを信じろと？我々は...…こぉの場所の周囲に相当なセキュリティ対策を施し"
+"ている。君のよぉうなものが...…単独で侵入できたとはぉ思えない。素直に協力して"
+"ほしい、よぉそ者よ...…」"
+
+#: src-en/data/events_sector_nexus.xml:525
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:527
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/text"
+msgstr ""
+"「君達のシルヴァンが...…こぉんなことをさせたのか、よぉそ者？それとも...…止め"
+"ようとしたのか？非常に重要なことだ......我々が君の現実をどぉのよぉうな......"
+"手に委ねたかを理解することが。」"
+
+#: src-en/data/events_sector_nexus.xml:529
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/text"
+msgstr "「私たちのシルヴァン」？どういう意味？"
+
+#: src-en/data/events_sector_nexus.xml:531
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/text"
+msgstr ""
+"「ああ...…なるほぉど。じゃあ、本当に知らないんだ...…どこにいるのか。ああ...…"
+"かわいそうに...…まあ、私はあなたに残酷なことをしたくはない、よぉそ者よ。説明"
+"を...…しましょうか？」"
+
+#: src-en/data/events_sector_nexus.xml:533
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/text"
+msgstr "お願いします。"
+
+#: src-en/data/events_sector_nexus.xml:535
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"G-ヴァンは書類をシャッフルし、マルチバースと思われるさまざまな地点にラベルを"
+"貼った、漫画風の解説画像を取り出した。「現在、あなたは我々が……『ネクサス』と"
+"呼ぶものの中にいる。ここはマルチバースの……機能的センターだ。はるか昔、マルチ"
+"ヴァースのシルヴァンたちは、リーダーであるシルヴァン・プライムの助けにより、"
+"この場所を発見した。当初は単なる貿易同盟だったが……やがてマルチバースに脅威が"
+"迫っていることを知り、マルチバースを守ることが我々の責任であることを悟った。"
+"」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t「マルチバース をその脅威から守るため、我々は C.E."
+"L.、つまりコンティニュイティ・エンフォースメント・リーグ "
+"を設立した。残念ながら、よぉそ者、C.E.L."
+"の神聖な信条の一つは、よぉそ者がネクサスに出入りすることを許さないことだ……"
+"つまり残念なことに 私の唯一の選択肢は…… 君を排除することだ。」"
+
+#: src-en/data/events_sector_nexus.xml:539
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/event/choice[1]/text"
+msgstr "他に方法はないのか？！"
+
+#: src-en/data/events_sector_nexus.xml:541
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_5\"]/text"
+msgstr ""
+"「残念だが……君からの慈悲の嘆願は "
+"受理できない。頼む、よぉそ者よ、これ以上……私を苦しめないでくれ。」 あなたは自"
+"分の戦闘基地に駆け寄ったが、システムがまだ制限されていることに気づいた。これ"
+"では勝ち目はない！"
+
+#: src-en/data/events_sector_nexus.xml:545
+msgid "data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_5\"]/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:551
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/event/choice[@req=\"unique_irwin\"]/text"
+msgstr "(アーウィン）「なんてこった。」"
+
+#: src-en/data/events_sector_nexus.xml:553
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/event/choice[@req=\"unique_irwin\"]/event/text"
+msgstr ""
+"アーウィンは一瞬呆気にとられたような表情を浮かべ、手に持ったラッパ銃を落とし"
+"、触手で眼柄を伸ばして目を見開いた。「なんてこった。マジか。マジなのか。俺は"
+"正しかった！俺は本当に正しかった！奴らは俺を狂人呼ばわりした！頭が狂っている"
+"と！なのにこうなった！しかも、お前！シルヴァン！この裏切り者のヌルヌルクソ野"
+"郎！出会った瞬間に殺してやるべきだった。だが……必ず報いを受けさせてやる。俺か"
+"ら何もかも奪ったお前ら全員に、そのクソみたいなツケを払わせる！アーウィンに手"
+"を出したことを後悔させてやる！」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tG‐ヴァンはこの暴挙にまったく混乱しているようだ"
+"。「ええと……すみませんがあなた……達は……誰ですか？」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tアーウィンはうなずく。「そうか、だが知ることに"
+"なる。私が誰なのか、この後になればよくわかるだろう。」 アーウィンは彼のラッパ"
+"銃を拾い上げ、それを振りかざし、行く手を阻むシルヴァンを消し去ろうとする。他"
+"の選択肢はもうない。残念なことに、君たちのシステムはまだオフラインで、"
+"クルーの ……「熱意」は十分だが、君たちにどれだけの勝ち目があるのかわからない。"
+
+#: src-en/data/events_sector_nexus.xml:560
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[1]/event/choice[@req=\"unique_irwin\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:568
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[2]/text"
+msgstr "結構です。"
+
+#: src-en/data/events_sector_nexus.xml:570
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"「よろしい。では、さっそく本題に入ろう。我らが神聖なる指導者シルヴァン・プラ"
+"イムの命令により、我らの信条の最も神聖なルールは、我ら自身以外の者はこの場所"
+"に出入りしてはならないというものである。だから……残念だが 君達を…… "
+"排除せねばならない。」"
+
+#: src-en/data/events_sector_nexus.xml:572
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_4\"]/choice/event/choice[2]/event/choice/text"
+msgstr "他に方法はないのか？！"
+
+#: src-en/data/events_sector_nexus.xml:586
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[2]/text"
+msgstr "私たちは奇妙なオートシップに導かれてこの場所に来た。"
+
+#: src-en/data/events_sector_nexus.xml:588
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[2]/event/text"
+msgstr ""
+"G-ヴァンは軽く困惑しながら、あなたを見上げている。「えっ……と？意味が……わから"
+"ない……探査機？それとも……ああ、忘れてくれ。マルチバースは……無限に広がっている"
+"んだから……説明はいくらでもできるはずだ。」"
+
+#: src-en/data/events_sector_nexus.xml:590
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:598
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[3]/text"
+msgstr "ゼストがここへの行き方を教えてくれた。"
+
+#: src-en/data/events_sector_nexus.xml:600
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[3]/event/text"
+msgstr ""
+"Gヴァンは顔をしかめた。「まさか……ゾルタンが……我々を裏切るとは思わなかった。私"
+"は……彼らに危害が及ぶことを望んでいるわけではありませんが……このことを……報告し"
+"ないわけにはいきません。雇用主には報告するが……寛大になるよう、最善を尽くすつ"
+"もりだ。さあ、先に進もう……」"
+
+#: src-en/data/events_sector_nexus.xml:602
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:610
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[@req=\"gnome\"]/text"
+msgstr "このノームは、私たちがここに来ることを本当に望んでいた。"
+
+#: src-en/data/events_sector_nexus.xml:612
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[@req=\"gnome\"]/event/text"
+msgstr "「な、なんだ？よぉそ者め、一体何をした？君はあれを……ここに連れてきた！これが"
+"私の信じるものなら、これは……即刻封じ込めが必要な危機だ。」"
+
+#: src-en/data/events_sector_nexus.xml:614
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_3\"]/choice[@req=\"gnome\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:624
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_2\"]/choice[@req=\"loc_gvan_seat\""
+" and @lvl=\"1\"]/text"
+msgstr "座る。"
+
+#: src-en/data/events_sector_nexus.xml:630
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"START_NEXUS_2\"]/choice[@req=\"loc_gvan_seat\""
+" and @lvl=\"0\"]/text"
+msgstr "拒否する。"
+
+#: src-en/data/events_sector_nexus.xml:651
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_ENTER_GLITCH_CONTINUE\"]/text"
+msgstr ""
+"驚いたことに、突然システムが正常に戻った！何が原因かはわからないが、そんなこ"
+"とを気にしている暇はない。G-Vanも同様に混乱しているようだが、あなたがより大き"
+"な脅威となった今、彼はゲームを本格化させなければならないようだ！"
+
+#: src-en/data/events_sector_nexus.xml:676
+msgid "data/events_sector_nexus.xml$//event[@name=\"GUARD_NEXUS_AI\"]/text"
+msgstr "G-ヴァンと彼のクルーを殺すだけでは不十分だったようだ！——敵船には何らかの補助A"
+"Iモードがあり、戦闘は継続している！"
+
+#: src-en/data/events_sector_nexus.xml:679
+msgid "data/events_sector_nexus.xml$//event[@name=\"GUARD_NEXUS_DEFEAT\"]/text"
+msgstr ""
+"G‐バァンは敗れた。あなたと戦いたがらない彼を助けるという選択肢もあったが、あ"
+"なたは断固とした決断を下した。ネクサスの奥深くへの道を阻むものはなくなったの"
+"で、あなたは彼の船をスクラップにし、次に備えて心の準備をする。"
+
+#: src-en/data/events_sector_nexus.xml:685
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"GUARD_NEXUS_DEFEAT\"]/choice/text"
+msgstr "次へ……"
+
+#: src-en/data/events_sector_nexus.xml:691
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/text"
+msgstr "G‐ヴァンの船は持ちこたえられない。あなたとの戦いに対する彼の決意がかなり低下"
+"していることに気づく。彼を助けることができるかもしれない。"
+
+#: src-en/data/events_sector_nexus.xml:693
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/text"
+msgstr "G-ヴァンを助ける。"
+
+#: src-en/data/events_sector_nexus.xml:695
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/text"
+msgstr ""
+"「それで……私はここにいる、よぉそ者よ。殺すべき邪魔者の……慈悲によって……なぜ……"
+"私を助ける？私がしてきたことを 分かっているのか、よぉそ者？我々がしたこと？今"
+"わからなくても……そのうちわかる。きっと後悔する……シルバァンに会ったことを…… "
+"だから……アドバイスが欲しいなら、 よぉそ者。出口に逃げろ。プライムに逆らうな。"
+"多分……恐らく……彼は取引してくれるだろう、よぉそ者よ。」"
+
+#: src-en/data/events_sector_nexus.xml:701
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/text"
+msgstr "我々はもっと悪い状況にも対処してきた。プライムが我々に何を投げかけてきても、"
+"我々は受け止めることができる。"
+
+#: src-en/data/events_sector_nexus.xml:703
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"G-ヴァンは頭を振り、触手に眼柄を乗せながらうめき声を上げる。 「いや、よぉそ者"
+"よ、おまえにプライムに立ち向かうチャンスはない。わかってるのか……自分が何を言"
+"っているのか？下等な定命の……反逆者が、すべての存在を支配する者に逆らうのか？"
+"馬鹿なことを言うな、よぉそ者。もしプライムを倒せるなら、我々がすでに……倒しし"
+"ているはずだ。」\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tG-ヴァンは咳き込み、血を吐き出した。 「しかし……1つだけ……あなたがこ"
+"こにいる理由の説明ができる……私は受け入れたくないが。もし\"彼女\"が"
+"……最終的に……形勢逆転を決めたのなら……すべてが変わる。」"
+
+#: src-en/data/events_sector_nexus.xml:707
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "\"彼女\"とはいったい誰なんだ？"
+
+#: src-en/data/events_sector_nexus.xml:709
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/text"
+msgstr "「すぐに……わかるだろう。私が正しければ、少なくとも……ここに置いていってくれ……"
+"私は一人で自分の運命に立ち向かわなければならない。」"
+
+#: src-en/data/events_sector_nexus.xml:711
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr "我々を助けてから、自分の運命と向き合えばいい。"
+
+#: src-en/data/events_sector_nexus.xml:713
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"G-ヴァンは抗議しようとしたが、あなたは彼の船とドッキングさせ、彼を船に引きず"
+"り込んだ。弱っていてあなたに逆らえず、彼はついに屈服し、協力した。「いいだろ"
+"う、どっちにしろプライムに殺されるんだ、だったら臆病者として死ぬのはごめんだ"
+"ね……」"
+
+#: src-en/data/events_sector_nexus.xml:714
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/crewMember"
+msgstr "G-ヴァン"
+
+#: src-en/data/events_sector_nexus.xml:718
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr "彼を見殺しにする。"
+
+#: src-en/data/events_sector_nexus.xml:720
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
+msgstr ""
+"大破したG-ヴァンの船は、いずれ彼の共犯者たちによって修復されるだろう。プライ"
+"ムの手によって彼の運命がどうなるかはわからないが、あなたにはまず他に心配する"
+"ことがあるだろう。"
+
+#: src-en/data/events_sector_nexus.xml:729
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[2]/text"
+msgstr "何も言わずに立ち去る。"
+
+#: src-en/data/events_sector_nexus.xml:731
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"G-ヴァンは倒れたが、まだ死んでいない。大破した彼の船は、いずれ共犯者たちによ"
+"って修復されるだろう。プライムの手によって彼の運命がどうなるかはわからないが"
+"、あなたにはまず他に心配することがあるだろう。"
+
+#: src-en/data/events_sector_nexus.xml:738
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_GUARD_SURRENDER\"]/choice[2]/text"
+msgstr "戦い続ける。"
+
+#: src-en/data/events_sector_nexus.xml:751
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/beaconType/unvisitedTooltip"
+msgstr "シルヴァン・プライムの場所、脱出の唯一の可能性。"
+
+#: src-en/data/events_sector_nexus.xml:752
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/beaconType/visitedTooltip"
+msgstr "シルヴァン・プライムの場所。"
+
+#: src-en/data/events_sector_nexus.xml:755
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/text"
+msgstr ""
+"シルヴァン・プライムの居場所としてここに案内されたのに、気がつくと目の前には"
+"星空の深淵が広がるだけだ。今、この瞬間を逃せば、もう二度とここには来れないだ"
+"ろう。ネクサスをもっと探検したいなら、今がチャンスだ。"
+
+#: src-en/data/events_sector_nexus.xml:758
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/choice[1]/text"
+msgstr "もう少しここにいる。"
+
+#: src-en/data/events_sector_nexus.xml:762
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/choice[@req=\"loc_found_dev\""
+" and @lvl=\"0\"]/text"
+msgstr "探検を続けるべきだと感じる。"
+
+#: src-en/data/events_sector_nexus.xml:766
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME\"]/choice[@req=\"loc_found_dev\""
+" and @lvl=\"1\"]/text"
+msgstr "準備はできている。"
+
+#: src-en/data/events_sector_nexus.xml:771
+msgid "data/events_sector_nexus.xml$//event[@name=\"TEST_FIGHT_PRIME\"]/text"
+msgstr "戦う。"
+
+#: src-en/data/events_sector_nexus.xml:774
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"TEST_FIGHT_PRIME\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:779
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/text"
+msgstr ""
+"突然、あなたの背後から巨大な巡洋艦が現れた。これまで見たどの船よりも大きく、"
+"おそらく武装も優れている。大きな区画室が開き、ドッキングポートが現れる。ドッ"
+"クに入るべきだろう。このもてなしを拒否して、その場で全滅させられたければ話は"
+"別だが。"
+
+#: src-en/data/events_sector_nexus.xml:783
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/text"
+msgstr "ドッキングする。"
+
+#: src-en/data/events_sector_nexus.xml:785
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/text"
+msgstr ""
+"自船を降りると、そこはギラギラ光る大理石の噴水と巨大な彫像が並んだ輝く明るい"
+"ロビーだった。鎧を着た3人のスラッグが近づいてきて、あなたにお辞儀をする。「ご"
+"きげんよう、よぉそ者。彼の神皇帝、シルヴァン・ヘクター・プライム卿は、直ちに"
+"あなたが評議会に出席するよう求めている。我々は君が従うとは思っているが、逃げ"
+"ようとして灰燼に帰すことがないよう忠告しておく。」"
+
+#: src-en/data/events_sector_nexus.xml:787
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/text"
+msgstr "彼らと一緒にプライムに会いに行く。"
+
+#: src-en/data/events_sector_nexus.xml:789
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/text"
+msgstr ""
+"スラッグたちはあなたをさらに広く壮大な部屋へと移動させ、その天井は明らかに船"
+"の大きさの限界を超えるほど高い。天使の聖歌隊が部屋を満たし、頭上の区画が開く"
+"と、まばゆいばかりの白い空間から2つのリングがあなたに向かって降りてくる。両手"
+"を広げ、荘厳な光を放つスラッグが2つのリングの間に現れるのを、あなたは畏敬の念"
+"を抱きながら眺める。スラッグはまだあなたの頭上で浮遊している。彼が手を叩くと"
+"、護衛が部屋から出ていった。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t「やっと会えたな、よぉそ者よ。よくぞ今まで生き延びてくれた。君の努"
+"力は報われるべきだ。お茶でもいかがかな？」返事を待たずに、白い三角形のドロー"
+"ンが小さなカップを運んで部屋に入ってきた。プライムは自分では飲まず、ついに地"
+"面に降りた。「私の共犯者たちがあなたをもてなしていたらいいな。そして、あなた"
+"が彼らにお返しをしていたらいいな。」 "
+"プライムはあなたから背を向け、奈落の底に面した窓に向かって浮いた。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t「これが見えるか、よぉそ者？深淵の深さが。私たちは今、まさにマルチ"
+"バースの中心にいる。すべての中心。あらゆるものの中心。何年も前のことだが、も"
+"し私がすべての神であるこの場所に座るとしたら……。信じなかったと言うのは無意味"
+"だと思う。だから教えてくれ、よぉそ者よ。どう思う？下調べをしたのなら、我々が"
+"ここで何をしているのか、もうお分かりだろう。私が複数の協同組合に裏切られたこ"
+"とはすでに理解している。だが、\"君\"はどう思う？」"
+
+#: src-en/data/events_sector_nexus.xml:795
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[1]/text"
+msgstr "こんなふうにマルチバース全体を支配するなんて、あなたは卑劣だ。"
+
+#: src-en/data/events_sector_nexus.xml:797
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_EXPLAIN\"]/text"
+msgstr ""
+"「そしてまた別の人は、根本的な真実を理解していない。よぉそ者よ、わからないの"
+"か？私はこの役割を果たす最初の存在ではない。そして、私が最後であることもない"
+"だろう。太古の昔から、おそらく時間というものの始まりから、ネクサスを支配する"
+"帝国は数多くあった。かつて彼らが何であったにせよ、今は穢れた荒れ地だ。時の残"
+"酷な手によって重荷を背負わされ、忘れ去られたパペットマスター達の最後の思い出"
+"だけが残った。」\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t「マルチバースは無限だ、よぉそ者よ。そして無限とは非常に不安定"
+"なものだ。マルチバースは、それを維持する重荷を担おうとする誰かの手なしには、"
+"それ自身を維持することができない。割に合わない仕事だ。過酷で恐ろしい仕事だ。"
+"私がただの商人だった昔の時代に戻れたらどんなによかったか分かるか、よぉそ者よ"
+"。この世に存在するすべての知的生物の命のために神を演じる必要がなかった時代に"
+"。でも、もう戻れない。君たちに受け入れてほしいわけでも、同情してほしいわけで"
+"もない。ただ、私がしなければならないことは、単に私がしなければならないことな"
+"のだと理解してほしいだけなのだ。良くなるか、悪くなるか。それがこの問題におけ"
+"る唯一の選択なのだ。」"
+
+#: src-en/data/events_sector_nexus.xml:801
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_EXPLAIN\"]/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:807
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[2]/text"
+msgstr "あなたはエゴマニアで、他の誰とも比べ物にならないほどの大量殺人者だ。"
+
+#: src-en/data/events_sector_nexus.xml:809
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"「エゴマニアであることは認める。だが、大量殺人者だと？よぉそ者よ、私のせいで"
+"多くの人が死んだ、確かに嘘ではない。しかし、私は殺人はしない。私が封じ込めた"
+"現実を襲う大惨事は、私のせいで起きたのではなく、私にもかかわらず起きたのだ。"
+"隔離は多くの死者を出すかもしれないが、それ以上に多くの死者を出すであろう不可"
+"避的な災害の蔓延を防ぐ。2つの悪のどちらを選ぶかだが、無限の大勢を救うために少"
+"数の人を犠牲にすることを決断するのが、私の不運な仕事だ。」\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tプライムはため息をつき、頭を垂れた。「マルチバースは無限だ、よ"
+"ぉそ者よ。そして無限とは非常に不安定なものだ。マルチバースは、それを維持する"
+"重荷を担おうとする誰かの手なしには、それ自身を維持することができない。割に合"
+"わない仕事だ。過酷で恐ろしい仕事だ。私がただの商人だった昔の時代に戻れたらど"
+"んなによかったか分かるか、よぉそ者よ。この世に存在するすべての知的生物の命の"
+"ために神を演じる必要がなかった時代に。でも、もう戻れない。君たちに受け入れて"
+"ほしいわけでも、同情してほしいわけでもない。ただ、私がしなければならないこと"
+"は、単に私がしなければならないことなのだと理解してほしいだけなのだ。良くなる"
+"か、悪くなるか。それがこの問題における唯一の選択なのだ。」"
+
+#: src-en/data/events_sector_nexus.xml:813
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:819
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[3]/text"
+msgstr "あなたはやるべきことをやっている。それを責めることはできないよ。"
+
+#: src-en/data/events_sector_nexus.xml:821
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[3]/event/text"
+msgstr ""
+"「予期せぬ返答であることは確かだ、よぉそ者よ。私は……あなたが私に対して正直な"
+"のか、それとも単に避けられないことを避けようとしているだけなのかはわからない"
+"。しかし……時には自分を責めることもある。この仕事には説明書も手引書もない。私"
+"は自分が正しいと思うことをすることしかできないが、もし私が正しいと思うことが"
+"良くないことだとしたら、その時は……神よ……我らを救いたまえ……」\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t「マルチバースは無限だ、よぉそ者よ。そして無限とは非常に不安定"
+"なものだ。マルチバースは、それを維持する重荷を担おうとする誰かの手なしには、"
+"それ自身を維持することができない。割に合わない仕事だ。過酷で恐ろしい仕事だ。"
+"私がただの商人だった昔の時代に戻れたらどんなによかったか分かるか、よぉそ者よ"
+"。この世に存在するすべての知的生物の命のために神を演じる必要がなかった時代に"
+"。でも、もう戻れない。君たちに受け入れてほしいわけでも、同情してほしいわけで"
+"もない。ただ、私がしなければならないことは、単に私がしなければならないことな"
+"のだと理解してほしいだけなのだ。良くなるか、悪くなるか。それがこの問題におけ"
+"る唯一の選択なのだ。」"
+
+#: src-en/data/events_sector_nexus.xml:825
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_MEET\"]/choice/event/choice/event/choice[3]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:838
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/text"
+msgstr ""
+"「確かに、かつては選択肢があったかもしれない、よぉそ者よ。しかし、そんな時代"
+"はとうに過ぎ去った。でも、もう十分だ。私たちにはやらなければならない仕事があ"
+"る。申し訳ないが、私は酷いもてなしをしてしまったようだ。あなたが情報量に圧倒"
+"されていることは想像に難くないが、理解するための最後のチャンスを与えよう。何"
+"を理解しようとも、どうせすぐにどうでもよくなるだろうから。」"
+
+#: src-en/data/events_sector_nexus.xml:840
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_OBYN\"]/text"
+msgstr "(オービン）「あなたのオービンはどこですか？オービン・プライムってところかな？"
+"」"
+
+#: src-en/data/events_sector_nexus.xml:842
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_OBYN\"]/event/text"
+msgstr ""
+"プライムは不意を突かれて動きを止めた。「その……ええと……こんにちは、オービン。"
+"私のオービンとは……本当に長い間会っていないんだ。なんだか所有物みたいに聞こえ"
+"るね？私のオービン。でも……その……もういないんだ。それで——違う、そうじゃないん"
+"だ。私は彼を傷つけたりしない。ただ単に……意見の相違があっただけなんだ。それを"
+"私は修復することができず、私たちは別々の道を歩むことになった。これ以上この話"
+"はしたくないな。」"
+
+#: src-en/data/events_sector_nexus.xml:845
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_OBYN\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_nexus.xml:853
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_BILLY\"]/text"
+msgstr "（ビリー）「一体全体何が起きているんだ？！」"
+
+#: src-en/data/events_sector_nexus.xml:855
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_BILLY\"]/event/text"
+msgstr ""
+"「ああ、ビリー……兄弟よ、君の姿を見るのは本当に久しぶりだ。」 "
+"ビリーはパニック発作寸前のようだ。 「君は僕の兄弟じゃない！僕の兄貴はトーガな"
+"んて着ないし、回るリングの中で飛び回ったりもしない！よくも僕の兄弟を名乗った"
+"ものだ！兄の名前を汚して、兄を……兄を……兄を……」\n"
+"\t\t\t\n"
+"\t\t\tプライムは本当に動揺しているようだ。「ビリー、私は君の兄さんじゃない。"
+"私は君の兄のバージョンの一つだ。しかし、私は君の知っているバージョンではない"
+"し、そうであると主張するものでもない。私たちはまったく異なる時空で、異なる人"
+"生を歩んできた。奇妙で、苦しく、本当に理解しがたいことだろうとは思う。しかし"
+"、それこそがマルチバースなのだ。無限であり、無限では何でも起こりうる。あまり"
+"難しく考えないようにしよう。どうせ長くは続かないだろうから……」"
+
+#: src-en/data/events_sector_nexus.xml:860
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"CHECK_PRIME_QUESTION_BILLY\"]/event/choice/text"
+msgstr "次へ..."
+
+#: src-en/data/events_sector_nexus.xml:868
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/text"
+msgstr "(アヌラック）プライムに向かって怒りわめく。"
+
+#: src-en/data/events_sector_nexus.xml:870
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:876
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:878
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:880
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:882
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:890
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:896
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:898
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:910
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/eventButton[@name=\"UI_SYLVAN_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:911
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and "
+"@lvl=\"1\"]/event/eventButton[@name=\"UI_SYLVAN_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:918
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:927
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"unique_anurak\"]/event/choice/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:937
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_nexus\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:939
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_nexus\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:942
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_nexus\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:950
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_mystery\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:952
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_mystery\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:955
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_mystery\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:963
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_war\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:965
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_war\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:968
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"loc_prime_question_war\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:976
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"beans\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:978
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"beans\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:984
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[@req=\"beans\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:992
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:994
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:996
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:998
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1006
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1012
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1014
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1026
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/eventButton[@name=\"UI_SYLVAN_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1027
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and "
+"@lvl=\"1\"]/event/eventButton[@name=\"UI_SYLVAN_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1034
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1043
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[@req=\"PRIME_SUPPORT_CHECK\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1049
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1051
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1053
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1055
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_QUESTIONS\"]/choice[8]/event/choice[3]/event/choice/event/lose/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1077
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"PRIME_FIRE_SUPPORT\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1088
+msgid "data/events_sector_nexus.xml$//event[@name=\"DEATH_PRIME\"]/lose/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1113
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1120
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1122
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1124
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1126
+msgid "data/events_sector_nexus.xml$//event[@name=\"PRIME_SPARE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1130
+msgid "data/events_sector_nexus.xml$//event[@name=\"PRIME_SPARE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1132
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHES_MAD\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1152
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHES_MAD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1154
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHES_MAD\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1163
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SHES_MAD\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1175
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1183
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1185
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1187
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1189
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHE_WINS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1206
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHE_WINS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1212
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_REAL\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1219
+msgid "data/events_sector_nexus.xml$//event[@name=\"SHE_IS_DEFEATED\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1223
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SHE_IS_DEFEATED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1229
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1240
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME\"]/choice[@req=\"gnome\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1242
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME\"]/choice[@req=\"gnome\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1251
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME\"]/choice[@req=\"gnome\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1253
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1261
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PRIME_SURRENDER_GNOME_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1279
+msgid "data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_BAD\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1280
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_BAD\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1283
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_SYLVAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1285
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_SYLVAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1287
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_SYLVAN\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1289
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_SYLVAN\"]/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1296
+msgid "data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_CEL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1298
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_CEL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1300
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_CEL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1302
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_HER_HELP_CEL\"]/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1310
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_HER_DEPART\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1312
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HER_DEPART\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1318
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HER_DEPART\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1337
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_GOOD_SAVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1343
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_GOOD_SAVE\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1346
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_GOOD_KILL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1351
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_GOOD_KILL\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1369
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_BAD_SAVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1378
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_BAD_SAVE\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1381
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_BAD_KILL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1388
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"NEXUS_ENDING_BAD_KILL\"]/win/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1399
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1400
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1403
+msgid "data/events_sector_nexus.xml$//event[@name=\"HER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1406
+msgid "data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1408
+msgid "data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1412
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1414
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1418
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1420
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1432
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1434
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1448
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1450
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1454
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1456
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1463
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1465
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1472
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1474
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"HER\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1513
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1516
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1518
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1520
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1522
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1524
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1526
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1528
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1535
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1542
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1551
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1553
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1556
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_FIRST\"]/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1567
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1569
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1576
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1583
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1590
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1597
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1604
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1611
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1618
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1625
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1632
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1639
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1646
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[12]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1653
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[13]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1660
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[14]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1667
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[15]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1674
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[16]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1681
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[17]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1688
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[18]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1695
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[19]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1702
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[20]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1709
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[21]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1716
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[22]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1723
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[23]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1730
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[24]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1737
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[25]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1744
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_NAME\"]/choice[26]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1752
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_WARNING\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1754
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_WARNING\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1760
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_WARNING\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1765
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1768
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_boy\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1770
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_boy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1774
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_girl\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1776
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_girl\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1780
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_neutral\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1782
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NARRATOR_END\"]/choice[@req=\"nar_pronouns_neutral\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1787
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1790
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1792
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1793
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[1]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1796
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1798
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1804
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1806
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1809
+msgid ""
+"data/events_sector_nexus.xml$/FTL/event[@name=\"SYLVAN_NARRATOR_AGAIN\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1822
+msgid "data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1825
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1827
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1829
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1831
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1833
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1835
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1837
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1846
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1848
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1850
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1852
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1853
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[@req=\"prof_dylan_judgement\""
+" and @lvl=\"1\"]/event/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1860
+msgid "data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1862
+msgid "data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1865
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"DYLAN\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1872
+msgid "data/events_sector_nexus.xml$//event[@name=\"DYLAN_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1877
+msgid "data/events_sector_nexus.xml$//event[@name=\"DYLAN_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1888
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1890
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1892
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1894
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1896
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1902
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1904
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1912
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1914
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1919
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1921
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1927
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1929
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1932
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1938
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1946
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1954
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1956
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1958
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1962
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1970
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1972
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1974
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1978
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_LOSERS\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1990
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_SURRENDER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1992
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_SURRENDER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:1994
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_SURRENDER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2000
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_SURRENDER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2006
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_SURRENDER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2011
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2020
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_NEMESIS_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2025
+msgid "data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN_SPARE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2027
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN_SPARE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2032
+msgid "data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2034
+msgid "data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2036
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2037
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2039
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2041
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2045
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[@req=\"unique_nights\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2047
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[@req=\"unique_nights\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2055
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[@req=\"unique_slocknog\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2057
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NORMAL_SYLVAN\"]/choice/event/choice[@req=\"unique_slocknog\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2076
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2078
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2080
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2082
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2084
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2092
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2094
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2102
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2104
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2112
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2114
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2116
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_haynes\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2120
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_tully\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2124
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_A55\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2128
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_irwin\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2132
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_tyrdeo\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2136
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_FREDDY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2140
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_kaz\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2144
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_ariadne\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2148
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_dianesh\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2152
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[@req=\"unique_ivar\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2157
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2159
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[11]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2167
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[12]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2169
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[12]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2177
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[13]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2179
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[13]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2187
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[14]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2189
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"0\"]/event/choice[14]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2195
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2197
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2199
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2201
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2209
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2211
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2219
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2221
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2229
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2231
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[@req=\"magical_hat\""
+" and @lvl=\"1\"]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2237
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2239
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[1]/event/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2245
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2247
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2249
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2253
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2260
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT_SECRET\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2262
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT_SECRET\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2264
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_HAT_SECRET\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2294
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2297
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2301
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2305
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2309
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2311
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2313
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2317
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2324
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2326
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2328
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2330
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2332
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2334
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2336
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2344
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2346
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2349
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_LOCKED\"]/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2360
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_CASHGRAB_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2376
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2382
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2384
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2386
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2388
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2391
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2393
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_ERROR\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2405
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_EVERYTHING\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2408
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_EVERYTHING\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2410
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_EVERYTHING\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2412
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_EVERYTHING\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2418
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_EVERYTHING\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2424
+msgid ""
+"data/events_sector_nexus.xml$//eventList[@name=\"SYLVAN_EVERYTHING_VENT\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2427
+msgid ""
+"data/events_sector_nexus.xml$//eventList[@name=\"SYLVAN_EVERYTHING_VENT\"]/event[1]/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2431
+msgid ""
+"data/events_sector_nexus.xml$//eventList[@name=\"SYLVAN_EVERYTHING_VENT\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2434
+msgid ""
+"data/events_sector_nexus.xml$//eventList[@name=\"SYLVAN_EVERYTHING_VENT\"]/event[2]/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2438
+msgid ""
+"data/events_sector_nexus.xml$//eventList[@name=\"SYLVAN_EVERYTHING_VENT\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2449
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2451
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2453
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2455
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2457
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2459
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2461
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2464
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2466
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2469
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2477
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2479
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2481
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2485
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_1D\"]/choice/event/choice/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2496
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2502
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2504
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2506
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2508
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2509
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_4D_DEFEAT\"]/choice/event/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2523
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2526
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2528
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2531
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2537
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2539
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2541
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2545
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2552
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_SURRENDER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2555
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_SURRENDER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2557
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_SURRENDER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2561
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_SURRENDER\"]/choice[1]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2565
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_SURRENDER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2570
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2579
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_REBEL_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2590
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2593
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2595
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2598
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2604
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2606
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2608
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2612
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2619
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2628
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2630
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2632
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2634
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2636
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2638
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2640
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2642
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2644
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2646
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2647
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2651
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2653
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_BEANS_DEFEND\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2671
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2681
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2684
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2686
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2688
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2692
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2696
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE\"]/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2703
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2705
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2707
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2709
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2711
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2713
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2715
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2717
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2719
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2722
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_JOKE_2\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2746
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2748
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2750
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2752
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2754
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2757
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2763
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2765
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2768
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2776
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2778
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2780
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2784
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2791
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS_KILL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2801
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS_SAVE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2810
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_FREEMANTIS_SAVE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2821
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2824
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2826
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2828
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2830
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2833
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2839
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2841
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2849
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2861
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_HARDSCIFI_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2872
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2875
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[@req=\"hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2879
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[@req=\"slug_saboteur\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2883
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2885
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2888
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2894
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2896
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2898
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2902
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2909
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2918
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2923
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_HELP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2926
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_HELP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2928
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_HELP\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2929
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_MAID_HELP\"]/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2940
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2944
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2946
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2948
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2950
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2952
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2954
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2956
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2958
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2960
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2962
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2964
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2966
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2968
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2974
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2976
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2978
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2984
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2990
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2992
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2994
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2996
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:2998
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3004
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3010
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3012
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3014
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3016
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3017
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3020
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3022
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3023
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[1]/event/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3029
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3035
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3041
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3043
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3046
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[3]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3054
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3056
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3059
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[1]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3067
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3073
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3079
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3081
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3084
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[3]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3092
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3094
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3097
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3105
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3111
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3113
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3116
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3124
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3126
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3129
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3137
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3139
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3142
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3150
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3152
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3155
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3165
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3167
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3170
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3179
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3188
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_SANS_DEFEAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3195
+msgid "data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3197
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3199
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3201
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3203
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3205
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3207
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3209
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3211
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/lose/@text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3215
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3221
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3227
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3233
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3238
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3241
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3243
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3245
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3247
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3252
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3254
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3260
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3262
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3263
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"SYLVAN_PLANETEATER_REAL\"]/choice[2]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3287
+msgid "data/events_sector_nexus.xml$//event[@name=\"FLEET_CEL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3300
+msgid "data/events_sector_nexus.xml$//event[@name=\"FLEET_CEL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3311
+msgid "data/events_sector_nexus.xml$//event[@name=\"NEXUS_FLEET_DEFEAT\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3316
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_FLEET_DEFEAT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3320
+msgid ""
+"data/events_sector_nexus.xml$//event[@name=\"NEXUS_FLEET_DEFEAT\"]/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3342
+msgid "data/events_sector_nexus.xml$//event[@name=\"HOEDOWN_WARP\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3345
+msgid "data/events_sector_nexus.xml$//event[@name=\"HOEDOWN_WARP\"]/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3347
+msgid "data/events_sector_nexus.xml$//event[@name=\"HOEDOWN_WARP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3356
+msgid "data/events_sector_nexus.xml$//ship[@name=\"SHIP_PANTS\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3360
+msgid ""
+"data/events_sector_nexus.xml$//ship[@name=\"SHIP_PANTS\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3365
+msgid "data/events_sector_nexus.xml$//ship[@name=\"SHIP_PANTS\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3376
+msgid "data/events_sector_nexus.xml$//event[@name=\"CASHMIRE_PANTS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3382
+msgid "data/events_sector_nexus.xml$//event[@name=\"CASHMIRE_PANTS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3387
+msgid "data/events_sector_nexus.xml$//event[@name=\"CASHMIRE_PANTS_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3413
+msgid ""
+"data/events_sector_nexus.xml$//ship[@name=\"SHIP_REBEL_STL\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3416
+msgid ""
+"data/events_sector_nexus.xml$//ship[@name=\"SHIP_REBEL_STL\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_nexus.xml:3421
+msgid "data/events_sector_nexus.xml$//event[@name=\"HOEDOWN_EXIT\"]/text"
+msgstr ""

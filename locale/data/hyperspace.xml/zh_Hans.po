@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-28 15:36+0000\n"
-"Last-Translator: tony Stark <1815775438@qq.com>\n"
+"PO-Revision-Date: 2024-03-18 08:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "ftl-multiverse/hyperspace-xml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -157,7 +157,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_engineboost\"]/tooltip"
 msgstr ""
-"引擎增压器：\n"
+"超光速助推器：\n"
 "该敌舰的超光速推进器的充能速度提高30%。"
 
 #: src-en/data/hyperspace.xml:732
@@ -225,7 +225,6 @@ msgstr ""
 "受到窒息伤害(若发生的话)。"
 
 #: src-en/data/hyperspace.xml:777
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_reality\"]/tooltip"
 msgstr ""
@@ -237,6 +236,9 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_safetybelt\"]/tooltip"
 msgstr ""
+"救生衣：\n"
+"敌方船员生命值降至50%以下时，其获得100%生命恢复速度、移动速度、破门伤害加成，"
+"以及50%环境伤害抗性。"
 
 #: src-en/data/hyperspace.xml:789
 msgid ""
@@ -251,8 +253,8 @@ msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_droneboost\"]/tooltip"
 msgstr ""
 "无人机增压器：\n"
-"该敌舰的舰内无人机移动速度提高至2倍，战斗与破坏伤害、维修与灭火速度均提高至1."
-"5倍，对船员的治疗速度加成提高至1.2倍。"
+"该敌舰的舰内无人机获得100%的移动速度，50%的战斗与破坏伤害、50%的维修与灭火速"
+"度，以及20%对船员的治疗速度加成。"
 
 #: src-en/data/hyperspace.xml:799
 msgid ""
@@ -270,7 +272,6 @@ msgstr ""
 "该敌舰的系统舱室有15%的系统伤害免疫率与60%破坏抗性。"
 
 #: src-en/data/hyperspace.xml:810
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_grid\"]/tooltip"
 msgstr ""
@@ -280,7 +281,6 @@ msgstr ""
 "伤害，舱门系统每高1级，伤害额外+1点。"
 
 #: src-en/data/hyperspace.xml:817
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_pheromones\"]/tooltip"
 msgstr ""
@@ -289,7 +289,6 @@ msgstr ""
 ".25%最大生命值增益。"
 
 #: src-en/data/hyperspace.xml:822
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_freepheromones\"]/tooltip"
 msgstr ""
@@ -298,7 +297,6 @@ msgstr ""
 "斗伤害，但维修速度降低25%。"
 
 #: src-en/data/hyperspace.xml:827
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_suzpheromones\"]/tooltip"
 msgstr ""
@@ -345,41 +343,39 @@ msgstr ""
 "该敌舰拥有一个舰载温室，使其在武器发射时有65%的几率不消耗弹药。"
 
 #: src-en/data/hyperspace.xml:859
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_spores\"]/tooltip"
 msgstr ""
-"孢子药房：\n"
-"该敌舰通过气循系统喷射毒性孢子，你的登舰船员从所有来源受到的伤害增加20%。"
+"孢子散布器：\n"
+"该敌舰通过气循系统喷射活性孢子，使其舰内船员提高10%最大生命值与20%移动速度。"
+"若其还配有医疗舱，进一步以1点/秒的速度治疗其舰内船员。"
 
 #: src-en/data/hyperspace.xml:865
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas\"]/tooltip"
 msgstr ""
 "毒性气体：\n"
-"该敌舰内充满了致命的神经毒素，随着时间推移会持续地伤害你的船员。无人机、甲壳"
-"族、魂灵族、食铁族与血草兰花免疫此毒素伤害。"
+"该敌舰内充满了致命的神经毒素，随着时间推移会持续地以6点/秒的速度伤害你的登舰"
+"船员。\n"
+"无人机、甲壳族、魂灵族、食铁族，与血草兰花免疫此毒素伤害。"
 
 #: src-en/data/hyperspace.xml:871
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas_heal\"]/tooltip"
 msgstr ""
 "迅捷气体：\n"
-"该敌舰内充满了致命的神经毒素，随着时间推移会持续地伤害你的船员。甲壳族、魂灵"
-"族、食铁族与血草兰花免疫此毒素伤害。敌方医疗舱供能中时，其船员可在医疗舱外以1"
-"级医疗舱90%的治疗速度恢复生命。"
+"该敌舰内充满了致命的神经毒素，会持续地以3点/秒的速度伤害你的船员。若其医疗舱"
+"处于供能中，其船员可在医疗舱外以1级医疗舱90%的治疗速度恢复生命。\n"
+"无人机、甲壳族、魂灵族、食铁族，与血草兰花免疫此毒素伤害。"
 
 #: src-en/data/hyperspace.xml:877
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_shell_gas_repair\"]/tooltip"
 msgstr ""
 "纳米机气：\n"
-"该敌舰内充满了致命的神经毒素，随着时间推移会持续地伤害你的船员。甲壳族、魂灵"
-"族、食铁族、血草兰花以及所有无人机免疫此毒素伤害。机气能自动扑灭火焰并修复破"
-"舱。"
+"该敌舰内充满了由纳米机器人构成的致命神经毒素，会持续地以3点/秒的速度伤害你的"
+"船员，并自动扑灭火焰以及修复破舱。\n"
+"无人机、甲壳族、魂灵族、食铁族，与血草兰花免疫此毒素伤害。"
 
 #: src-en/data/hyperspace.xml:884
 msgid ""
@@ -389,7 +385,6 @@ msgstr ""
 "该敌舰对你进行黑客脉冲攻击期间，被攻击舱室内所有船员将被击晕。"
 
 #: src-en/data/hyperspace.xml:889
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_sluggel\"]/tooltip"
 msgstr ""
@@ -435,7 +430,6 @@ msgstr ""
 "该敌舰上独特的装甲层使其免疫离子伤害。此外，它还有非常小的系统伤害免疫率。"
 
 #: src-en/data/hyperspace.xml:921
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$/FTL/ships/shipIcons/shipIcon[name=\"icon_paladin_armor\"]/tooltip"
 msgstr ""
@@ -741,7 +735,7 @@ msgstr "阿尔科莱"
 #: src-en/data/hyperspace.xml:4941
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_ivar/@name"
-msgstr ""
+msgstr "苡瓦"
 
 #: src-en/data/hyperspace.xml:4942
 msgid ""
@@ -791,12 +785,12 @@ msgstr "托尼·西尼尔"
 #: src-en/data/hyperspace.xml:4952
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_mayeb/@name"
-msgstr "麻椰布"
+msgstr "麻椰"
 
 #: src-en/data/hyperspace.xml:4953
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_WITHER\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "笛艾尔"
 
 #: src-en/data/hyperspace.xml:4975
 msgid ""
@@ -826,17 +820,17 @@ msgstr "托尼·西尼尔"
 #: src-en/data/hyperspace.xml:4992
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_ORCHID\"]/crew/unique_mayeb/@name"
-msgstr "麻椰布"
+msgstr "麻椰"
 
 #: src-en/data/hyperspace.xml:5002
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_ORCHID_2\"]/crew/unique_ivar/@name"
-msgstr ""
+msgstr "苡瓦"
 
 #: src-en/data/hyperspace.xml:5013
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"CREW_SHIP_ORCHID_3\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "笛艾尔"
 
 #: src-en/data/hyperspace.xml:5142
 msgid ""
@@ -899,13 +893,11 @@ msgid ""
 msgstr "希尔凡本尊"
 
 #: src-en/data/hyperspace.xml:5340
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_CEL_3\"]/crew/beans[1]/@name"
 msgstr "希尔瑞克"
 
 #: src-en/data/hyperspace.xml:5341
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_CEL_3\"]/crew/beans[2]/@name"
 msgstr "希尔瑞克"
@@ -978,7 +970,7 @@ msgstr "奥宾"
 #: src-en/data/hyperspace.xml:6265
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_AMBASSADOR\"]/crew/unique_tyerel/@name"
-msgstr ""
+msgstr "笛艾尔"
 
 #: src-en/data/hyperspace.xml:7399
 msgid ""
@@ -1033,7 +1025,7 @@ msgstr "信标吞噬者"
 #: src-en/data/hyperspace.xml:7636
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"PLAYER_SHIP_GOLD_2\"]/crew/leech_ampere/@name"
-msgstr "皇族·螂者"
+msgstr "罗伊·螂者"
 
 #: src-en/data/hyperspace.xml:8168
 msgid ""
@@ -1058,7 +1050,7 @@ msgstr "金牛座"
 #: src-en/data/hyperspace.xml:8455
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_ORCHID_CRUISER\"]/crew/orchid_praetor/@name"
-msgstr ""
+msgstr "布拉梅布"
 
 #: src-en/data/hyperspace.xml:10540
 msgid ""
@@ -1093,7 +1085,7 @@ msgstr "威拉泽连"
 #: src-en/data/hyperspace.xml:10736
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_GB_ZUUL_GATE\"]/crew/gbzuul/@name"
-msgstr ""
+msgstr "祖尔"
 
 #: src-en/data/hyperspace.xml:11173
 msgid ""
@@ -1153,17 +1145,17 @@ msgstr "件物"
 #: src-en/data/hyperspace.xml:11776
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_DEBT_COLLECTOR_EASY\"]/crew/leech_ampere[1]/@name"
-msgstr "皇族·螂者"
+msgstr "罗伊·螂者"
 
 #: src-en/data/hyperspace.xml:11794
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_DEBT_COLLECTOR_NORMAL\"]/crew/leech_ampere[1]/@name"
-msgstr "皇族·螂者"
+msgstr "罗伊·螂者"
 
 #: src-en/data/hyperspace.xml:11812
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_DEBT_COLLECTOR_HARD\"]/crew/leech_ampere[1]/@name"
-msgstr "皇族·螂者"
+msgstr "罗伊·螂者"
 
 #: src-en/data/hyperspace.xml:12012
 msgid ""
@@ -1237,7 +1229,7 @@ msgstr "胡椒"
 #: src-en/data/hyperspace.xml:12418
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MU_OUTCAST_BATTLESHIP_FAT\"]/crew/rock_outcast/@name"
-msgstr ""
+msgstr "冲邦格郎"
 
 #: src-en/data/hyperspace.xml:12459
 msgid ""
@@ -1546,7 +1538,7 @@ msgstr "奥宾"
 #: src-en/data/hyperspace.xml:16608
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_NORMAL\"]/crew/sylvansans/@name"
-msgstr ""
+msgstr "希尔凡斯"
 
 #: src-en/data/hyperspace.xml:16609
 msgid ""
@@ -1576,7 +1568,7 @@ msgstr "小花"
 #: src-en/data/hyperspace.xml:16624
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_CHALLENGE\"]/crew/sylvansans/@name"
-msgstr ""
+msgstr "希尔凡斯"
 
 #: src-en/data/hyperspace.xml:16625
 msgid ""
@@ -1606,7 +1598,7 @@ msgstr "小花"
 #: src-en/data/hyperspace.xml:16640
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_EXTREME\"]/crew/sylvansans/@name"
-msgstr ""
+msgstr "希尔凡斯"
 
 #: src-en/data/hyperspace.xml:16641
 msgid ""
@@ -1636,7 +1628,7 @@ msgstr "小花"
 #: src-en/data/hyperspace.xml:16656
 msgid ""
 "data/hyperspace.xml$//customShip[@name=\"MTS_BOSS_SYLVAN_CHAOS\"]/crew/sylvansans/@name"
-msgstr ""
+msgstr "希尔凡斯"
 
 #: src-en/data/hyperspace.xml:16657
 msgid ""
@@ -1759,8 +1751,7 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_vance\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：30秒  持续时间：3秒]\n"
 "\t\t\t\t部署一枚炸弹，造成15点船员伤害，1点系统伤害，3秒眩晕时长，并有可能引"
-"发火灾或破舱效果。会暂时减速，移动速度降低至0."
-"2倍，同时从所有来源受到的伤害增加至1.2倍。"
+"发火灾或破舱效果。会暂时减速，移动速度降低至20%，同时受到的所有伤害增加20%。"
 
 #: src-en/data/hyperspace.xml:18357
 msgid ""
@@ -1792,7 +1783,6 @@ msgid ""
 msgstr "暴走"
 
 #: src-en/data/hyperspace.xml:18670
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl4\"]/powerEffect/tooltip"
 msgstr ""
@@ -1805,7 +1795,6 @@ msgid ""
 msgstr "暴走"
 
 #: src-en/data/hyperspace.xml:18711
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl5\"]/powerEffect/tooltip"
 msgstr ""
@@ -1818,12 +1807,11 @@ msgid ""
 msgstr "暴走"
 
 #: src-en/data/hyperspace.xml:18751
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_ellie_lvl6\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t战斗伤害提高200%，但不受操控并且受到的环境伤害增加100%。"
+"\t\t\t\t战斗伤害提高至300%，但不受操控并且受到的环境伤害增加100%。"
 
 #: src-en/data/hyperspace.xml:18803
 msgid ""
@@ -1867,19 +1855,17 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_turzil\"]/powerEffect/buttonTex
 msgstr "防护模式"
 
 #: src-en/data/hyperspace.xml:18913
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_turzil\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
 "\t\t\t\t舱室内所有友方船员受到的所有伤害降低至25"
-"%，同时他们的维修速度提高300%。"
+"%，同时他们的维修速度提高至400%。"
 
 #: src-en/data/hyperspace.xml:19000
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_monk\"]/powerEffect/buttonText"
 msgstr "念震"
 
 #: src-en/data/hyperspace.xml:19001
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_monk\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：27秒]\n"
@@ -1903,14 +1889,12 @@ msgid "data/hyperspace.xml$//race[@name=\"zoltan_martyr\"]/powerEffect/buttonTex
 msgstr "倒计时"
 
 #: src-en/data/hyperspace.xml:19123
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_martyr\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：7秒]\n"
-"\t\t\t\t开始自爆倒计时，倒计时结束后自爆，对同舱室内船员造成45点伤害(对友方船"
-"员造成30点)。若倒计时被死亡打断，则技能效果取消。眩晕及传送时无法启动技能。\n"
-"\t\t\t\t爆炸对殉义者只会造成50点自伤"
-"，但会降低50点最大生命值并使其失去短距传送能力。"
+"\t\t\t\t开始自爆倒计时，结束后自爆，对同舱室内船员造成45点伤害(友方仅30点)并"
+"将其击晕4秒，且有50%的几率起火。\n"
+"\t\t\t\t若倒计时被死亡打断，则技能效果取消。传送中途或眩晕时无法使用该技能。"
 
 #: src-en/data/hyperspace.xml:19173
 msgid ""
@@ -1934,9 +1918,9 @@ msgstr "献身"
 msgid "data/hyperspace.xml$//race[@name=\"unique_anurak\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：17秒]\n"
-"\t\t\t\t开始自杀倒计时"
-"，倒计时结束后自爆，完全治愈所有地点的友方船员并使他们在15秒内获得1."
-"5倍的维修速度，移动速度与生命值增益。若倒计时被死亡打断，则技能效果取消。"
+"\t\t\t\t开始自杀倒计时，倒计时结束后自爆，完全治愈所有地点的友方船员并使他们"
+"在15秒内获得50%的维修速度，移动速度与生命值加成。若倒计时被死亡打断，则技能效"
+"果取消。"
 
 #: src-en/data/hyperspace.xml:19294
 msgid "data/hyperspace.xml$//race[@name=\"zoltan_osmian\"]/powerEffect/buttonText"
@@ -1975,11 +1959,14 @@ msgstr ""
 #: src-en/data/hyperspace.xml:19522
 msgid ""
 "data/hyperspace.xml$//race[@name=\"orchid_praetor\"]/powerEffect/buttonText"
-msgstr "孢子武器"
+msgstr "孢子释放"
 
 #: src-en/data/hyperspace.xml:19523
 msgid "data/hyperspace.xml$//race[@name=\"orchid_praetor\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：10秒]\n"
+"\t\t\t\t在当前舱室提供持久效果，效果在一个跃迁周期后才会消逝。所有舱室内的友"
+"方船员获得100%最大生命值、维修速度、能量供给，与能量锁定加成。"
 
 #: src-en/data/hyperspace.xml:19655
 msgid ""
@@ -1987,29 +1974,33 @@ msgid ""
 msgstr "孢子释放"
 
 #: src-en/data/hyperspace.xml:19656
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"orchid_cultivator\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：30秒  持续时间：15秒]\n"
-"\t\t\t\t释放有毒孢子。附近的敌人受到的所有来源的伤害与眩晕时长增加至1.5倍。\n"
-"\t\t\t\t种植者在技能持续期间将无法移动且战斗伤害降低至0.5倍。"
+"\t\t\t\t释放毒性孢子"
+"，使同舱室敌人受到的所有伤害提高60%，并延长其眩晕时长50%。\n"
+"\t\t\t\t期间种植者自身无法移动且只能以0.75倍战斗伤害战斗。"
 
 #: src-en/data/hyperspace.xml:19773
 msgid "data/hyperspace.xml$//race[@name=\"unique_tyerel\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "通盈尽嗜"
 
 #: src-en/data/hyperspace.xml:19774
 msgid "data/hyperspace.xml$//race[@name=\"unique_tyerel\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：20秒  持续时间：20秒]\n"
+"\t\t\t\t悦兰与血兰的同舱室被动效果扩散至所处整舰。"
 
 #: src-en/data/hyperspace.xml:19881
 msgid "data/hyperspace.xml$//race[@name=\"unique_mayeb\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "生命复苏"
 
 #: src-en/data/hyperspace.xml:19882
 msgid "data/hyperspace.xml$//race[@name=\"unique_mayeb\"]/powerEffect/tooltip"
 msgstr ""
+"[持续时间：45秒]\n"
+"\t\t\t\t完全恢复生命"
 
 #: src-en/data/hyperspace.xml:19999
 msgid ""
@@ -2084,7 +2075,7 @@ msgstr "信息素"
 msgid "data/hyperspace.xml$//race[@name=\"unique_freddy\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t附近的友方螳螂族获得信息素技能效果"
+"\t\t\t\t同舱室的友方螳螂族获得信息素技能效果"
 "。普通母巢螳螂将获得自由螳螂合成信息素效果。"
 
 #: src-en/data/hyperspace.xml:20473
@@ -2097,7 +2088,7 @@ msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_freddy_fedora\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t附近的友方螳螂族获得信息素技能效果"
+"\t\t\t\t同舱室的友方螳螂族获得信息素技能效果"
 "。普通母巢螳螂将获得自由螳螂合成信息素效果。"
 
 #: src-en/data/hyperspace.xml:20661
@@ -2110,7 +2101,7 @@ msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_freddy_jester\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t附近的友方螳螂族获得信息素技能效果"
+"\t\t\t\t同舱室的友方螳螂族获得信息素技能效果"
 "。普通母巢螳螂将获得自由螳螂合成信息素效果。"
 
 #: src-en/data/hyperspace.xml:20849
@@ -2123,7 +2114,7 @@ msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_freddy_sombrero\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t附近的友方螳螂族获得信息素技能效果"
+"\t\t\t\t同舱室的友方螳螂族获得信息素技能效果"
 "。普通母巢螳螂将获得自由螳螂合成信息素效果。"
 
 #: src-en/data/hyperspace.xml:21037
@@ -2136,7 +2127,7 @@ msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_freddy_twohats\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：10秒]\n"
-"\t\t\t\t附近的友方螳螂族获得信息素技能效果"
+"\t\t\t\t同舱室的友方螳螂族获得信息素技能效果"
 "。普通母巢螳螂将获得自由螳螂合成信息素效果。"
 
 #: src-en/data/hyperspace.xml:21340
@@ -2150,12 +2141,10 @@ msgstr ""
 "\t\t\t\t在当前舱室内起火。"
 
 #: src-en/data/hyperspace.xml:21413
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"rock_paladin\"]/powerEffect/buttonText"
-msgstr "加速"
+msgstr "横冲直撞"
 
 #: src-en/data/hyperspace.xml:21414
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"rock_paladin\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:7秒 持续:3秒 -40点生命值]\n"
@@ -2260,14 +2249,13 @@ msgstr "封锁"
 msgid "data/hyperspace.xml$//race[@name=\"unique_dianesh\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：30秒  持续时间：12秒]\n"
-"\t\t\t\t封锁舱室，使舱室内友方船员的主动技能冷却时间降低至0.8倍。"
+"\t\t\t\t封锁舱室，使舱室内友方船员的主动技能冷却时间降低80%。"
 
 #: src-en/data/hyperspace.xml:22195
 msgid "data/hyperspace.xml$//race[@name=\"unique_obyn\"]/powerEffect/buttonText"
 msgstr "撒盐"
 
 #: src-en/data/hyperspace.xml:22196
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_obyn\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
@@ -2280,7 +2268,6 @@ msgid ""
 msgstr "撒盐"
 
 #: src-en/data/hyperspace.xml:22284
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_obyn_temp\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
@@ -2293,7 +2280,6 @@ msgid ""
 msgstr "撒盐"
 
 #: src-en/data/hyperspace.xml:22374
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"nexus_obyn_cel\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
@@ -2341,29 +2327,27 @@ msgid "data/hyperspace.xml$//race[@name=\"slug_saboteur\"]/powerEffect/buttonTex
 msgstr "隐形"
 
 #: src-en/data/hyperspace.xml:22566
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_saboteur\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：40秒  持续时间：20秒]\n"
 "\t\t\t\t获得以下效果：\n"
 "\t\t\t\t-不会被敌方船员当做目标，失去交战能力\n"
-"\t\t\t\t-可穿透舱门\n"
+"\t\t\t\t-可穿透舱门、移动速度降低至0.4倍\n"
 "\t\t\t\t-破坏伤害提高至3倍(舱室内每多一名敌方船员即-0.5倍)\n"
-"\t\t\t\t-移动速度降低至0.4倍"
+"\t\t\t\t-同舱室敌方船员额外受到50%战斗伤害"
 
 #: src-en/data/hyperspace.xml:22635
 msgid "data/hyperspace.xml$//race[@name=\"slug_knight\"]/powerEffect/buttonText"
 msgstr "隐形"
 
 #: src-en/data/hyperspace.xml:22636
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_knight\"]/powerEffect/tooltip"
 msgstr ""
 "[持续时间：10秒]\n"
 "\t\t\t\t在当前舱室部署一枚眩晕炸弹"
-"(12秒眩晕时长，1点离子伤害)，不会眩晕友方船员但会伤害系统。\n"
+"(5秒眩晕时长，1点离子伤害)，不会眩晕友方船员但会伤害系统。\n"
 "\t\t\t\t额外获得以下效果：\n"
-"\t\t\t\t-不会被船员作为目标\n"
+"\t\t\t\t-不会被敌方船员作为攻击目标，但仍可以攻击敌方船员\n"
 "\t\t\t\t-以5点生命/秒的速度恢复生命值\n"
 "\t\t\t\t-移动速度降低至0.6倍"
 
@@ -2409,25 +2393,24 @@ msgid "data/hyperspace.xml$//race[@name=\"slug_ranger\"]/powerEffect/buttonText"
 msgstr "部署炸弹"
 
 #: src-en/data/hyperspace.xml:22819
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"slug_ranger\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：30秒  持续时间：12秒]\n"
 "\t\t\t\t在当前舱室部署一枚眩晕炸弹"
-"(12秒眩晕时长，1点离子伤害)，不会眩晕友方船员但会伤害系统。\n"
-"\t\t\t\t将暂时隐形并停止移动，持续12秒。在技能期间仍能以1倍伤害进行攻击。"
+"(5秒眩晕时长，1点离子伤害)，不会眩晕友方船员但会伤害系统。\n"
+"\t\t\t\t将暂时隐形并停止移动，持续12秒。在技能期间仍能以正常伤害进行攻击。"
 
 #: src-en/data/hyperspace.xml:22861
+#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_irwin\"]/powerEffect/buttonText"
 msgstr "镇定剂"
 
 #: src-en/data/hyperspace.xml:22862
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_irwin\"]/powerEffect/tooltip"
 msgstr ""
-"[冷却时间：30秒  持续时间：20秒]\n"
-"\t\t\t\t使舱室内除自己之外的所有船员镇定"
-"，将他们属性变回默认值。不影响主动技能，死亡效果与特殊能力。"
+"[冷却时间：30秒 ]\n"
+"\t\t\t\t使选取的目标舱室内除其自身之外的所有船员镇定"
+"，将其属性变回默认值。不影响主动技能，死亡效果与特殊能力。"
 
 #: src-en/data/hyperspace.xml:23129
 msgid ""
@@ -2435,13 +2418,14 @@ msgid ""
 msgstr "镇定剂"
 
 #: src-en/data/hyperspace.xml:23130
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"unique_irwin_demon\"]/powerEffect/tooltip"
 msgstr ""
-"[冷却时间：30秒  持续时间：20秒]\n"
-"\t\t\t\t使舱室内除自己之外的所有船员镇定"
-"，将他们属性变回默认值。不影响主动技能，死亡效果与特殊能力。"
+"[冷却时间：30秒]\n"
+"\t\t\t\t使选取的目标舱室内除其自身之外的所有船员镇定"
+"，将其属性变回默认值。不影响主动技能，死亡效果与特殊能力。Bonus: "
+"Tranquilizer also strips the innate properties of lesser eldritch beings, "
+"preventing Things from duplicating and allowing Spawns to be damaged"
 
 #: src-en/data/hyperspace.xml:23473
 msgid "data/hyperspace.xml$//race[@name=\"unique_sylvan\"]/powerEffect/buttonText"
@@ -2505,12 +2489,11 @@ msgid "data/hyperspace.xml$//race[@name=\"saltpapy\"]/powerEffect/buttonText"
 msgstr "撒盐"
 
 #: src-en/data/hyperspace.xml:23843
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"saltpapy\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
-"\t\t\t\t持续伤害附近船员，并将其速度降低25%。敌方损失4点生命/秒，友方损失2点"
-"生命/秒，双方的蛞蝓族额外损失4点生命/秒。"
+"\t\t\t\t持续伤害同舱室的船员，并将其移动速度降低50%。敌方损失4点生命/秒，友方"
+"损失2点生命/秒，双方的蛞蝓族额外损失4点生命/秒。"
 
 #: src-en/data/hyperspace.xml:23946
 msgid "data/hyperspace.xml$//race[@name=\"sylvanmaid\"]/powerEffect/buttonText"
@@ -2564,8 +2547,7 @@ msgid "data/hyperspace.xml$//race[@name=\"nexus_pants\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：30秒  持续时间：3秒]\n"
 "\t\t\t\t部署一枚炸弹，造成15点船员伤害，1点系统伤害，3秒眩晕时长，并有可能引"
-"发火灾或破舱效果。会暂时减速，移动速度降低至0."
-"2倍，同时从所有来源受到的伤害增加至1.2倍。"
+"发火灾或破舱效果。会暂时减速，移动速度降低至20%，同时受到的所有伤害增加20%。"
 
 #: src-en/data/hyperspace.xml:24189
 msgid "data/hyperspace.xml$//race[@name=\"prime\"]/powerEffect/buttonText"
@@ -2608,8 +2590,8 @@ msgstr "能量虹吸"
 msgid "data/hyperspace.xml$//race[@name=\"leech_ampere\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：30秒]\n"
-"\t\t\t\t能量锁定提高至2格能量。技能期间移动速度降低至0."
-"75倍，并对敌我双方系统都进行锁定。"
+"\t\t\t\t能量锁定提高至2格能量"
+"。技能期间移动速度降低25%，并对敌我双方系统都进行锁定。"
 
 #: src-en/data/hyperspace.xml:24448
 msgid "data/hyperspace.xml$//race[@name=\"unique_tyrdeo\"]/powerEffect/buttonText"
@@ -2620,18 +2602,18 @@ msgid "data/hyperspace.xml$//race[@name=\"unique_tyrdeo\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
 "\t\t\t\t暂时禁用所在舱室系统15秒"
-"，期间该系统无法被破坏。技能期间无法移动，且战斗伤害降低至0.5倍。"
+"，期间该系统无法被破坏。技能期间无法移动，且战斗伤害降低50%。"
 
 #: src-en/data/hyperspace.xml:24655
 msgid "data/hyperspace.xml$//race[@name=\"shell\"]/powerEffect/buttonText"
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:24656
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:5秒 持续:26秒 -50点生命值]\n"
-"\t\t\t\t对敌方造成15点船员伤害与1点系统伤害，之后缓慢恢复生命值。"
+"\t\t\t\t对同舱室敌方船员造成15点伤害"
+"，并对系统造成1点伤害，之后缓慢恢复52点生命值。"
 
 #: src-en/data/hyperspace.xml:24691
 msgid ""
@@ -2639,11 +2621,10 @@ msgid ""
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:24692
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_scientist\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:18秒 持续:13秒 -50点生命值]\n"
-"\t\t\t\t完全治愈舱室内所有友方船员，之后缓慢恢复生命值。"
+"\t\t\t\t完全治愈舱室内所有友方船员，之后缓慢恢复74点生命值。"
 
 #: src-en/data/hyperspace.xml:24732
 msgid ""
@@ -2651,11 +2632,10 @@ msgid ""
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:24733
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_mechanic\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:2秒 持续:26秒 -50点生命值]\n"
-"\t\t\t\t完全修复舱室受到的损伤，之后缓慢恢复生命值。"
+"\t\t\t\t完全修复所处舱室的系统，之后缓慢恢复52点生命值。"
 
 #: src-en/data/hyperspace.xml:24765
 msgid ""
@@ -2674,24 +2654,22 @@ msgid "data/hyperspace.xml$//race[@name=\"shell_radiant\"]/powerEffect/buttonTex
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:24801
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"shell_radiant\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:1秒 持续:3秒 -15点生命值]\n"
-"\t\t\t\t对敌方造成15点船员伤害与1点系统伤害。可以快速施放，但生命值恢复很低。"
+"\t\t\t\t对同舱室敌方船员造成15点伤害，并对系统造成1点伤害。可以快速连续施放，"
+"每次施放仅恢复6点生命值，且不受生命恢复速度影响。"
 
 #: src-en/data/hyperspace.xml:24842
 msgid "data/hyperspace.xml$//race[@name=\"unique_alkali\"]/powerEffect/buttonText"
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:24843
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"unique_alkali\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却:18秒 持续:15秒 -75点生命值]\n"
-"\t\t\t\t完全治愈舱室内所有友方船员"
-"。之后缓慢恢复生命值，并为船上的所有友方提供5."
-"5生命/秒的治愈及暂时的窒息免疫能力。"
+"\t\t\t\t完全治愈舱室内所有友方船员。之后为所处舰内的所有友方船员提供5."
+"5生命/秒的生命恢复及临时的窒息免疫能力。"
 
 #: src-en/data/hyperspace.xml:24984
 msgid "data/hyperspace.xml$//race[@name=\"blobzoltan\"]/powerEffect/buttonText"
@@ -2740,12 +2718,11 @@ msgid "data/hyperspace.xml$//race[@name=\"blobsalt\"]/powerEffect/buttonText"
 msgstr "撒盐"
 
 #: src-en/data/hyperspace.xml:25452
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"blobsalt\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：15秒]\n"
-"\t\t\t\t持续伤害附近船员"
-"。敌方损失4点生命/秒，友方损失2点生命/秒，双方的蛞蝓族额外损失4点生命/秒。"
+"\t\t\t\t持续伤害同舱室船员"
+"，敌方损失4点生命/秒，友方损失2点生命/秒，双方的蛞蝓族额外损失4点生命/秒。"
 
 #: src-en/data/hyperspace.xml:25593
 msgid "data/hyperspace.xml$//race[@name=\"golddefend\"]/powerEffect/buttonText"
@@ -2792,15 +2769,14 @@ msgid "data/hyperspace.xml$//race[@name=\"goldsabo\"]/powerEffect/buttonText"
 msgstr "隐形"
 
 #: src-en/data/hyperspace.xml:25812
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"goldsabo\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：40秒  持续时间：20秒]\n"
 "\t\t\t\t获得以下效果：\n"
 "\t\t\t\t-不会被敌方船员当做目标，失去交战能力\n"
-"\t\t\t\t-可穿透舱门\n"
+"\t\t\t\t-可穿透舱门、移动速度降低至0.4倍\n"
 "\t\t\t\t-破坏伤害提高至3倍(舱室内每多一名敌方船员即-0.5倍)\n"
-"\t\t\t\t-移动速度降低至0.4倍"
+"\t\t\t\t-同舱室敌方船员额外受到50%战斗伤害"
 
 #: src-en/data/hyperspace.xml:25901
 msgid "data/hyperspace.xml$//race[@name=\"goldwelder\"]/powerEffect/buttonText"
@@ -2814,11 +2790,14 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml:25967
 msgid "data/hyperspace.xml$//race[@name=\"goldpraetor\"]/powerEffect/buttonText"
-msgstr "孢子武器"
+msgstr "孢子释放"
 
 #: src-en/data/hyperspace.xml:25968
 msgid "data/hyperspace.xml$//race[@name=\"goldpraetor\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：10秒]\n"
+"\t\t\t\t在当前舱室提供持久效果，效果在一个跃迁周期后才会消逝。所有舱室内的友"
+"方船员获得100%最大生命值、维修速度、能量供给，与能量锁定加成。"
 
 #: src-en/data/hyperspace.xml:26066
 msgid ""
@@ -2828,6 +2807,10 @@ msgstr "孢子释放"
 #: src-en/data/hyperspace.xml:26067
 msgid "data/hyperspace.xml$//race[@name=\"goldcultivator\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒  持续时间：15秒]\n"
+"\t\t\t\t释放毒性孢子"
+"，使同舱室敌人受到的所有伤害提高60%，并延长其眩晕时长50%。\n"
+"\t\t\t\t期间种植者自身无法移动且只能以0.75倍战斗伤害战斗。"
 
 #: src-en/data/hyperspace.xml:26135
 msgid "data/hyperspace.xml$//race[@name=\"goldtoxic\"]/powerEffect/buttonText"
@@ -2847,19 +2830,18 @@ msgstr "能量虹吸"
 msgid "data/hyperspace.xml$//race[@name=\"goldampere\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：30秒]\n"
-"\t\t\t\t能量锁定提高至2格能量。技能期间移动速度降低至0."
-"75倍，并对敌我双方系统都进行锁定。"
+"\t\t\t\t能量锁定提高至2格能量"
+"。技能期间移动速度降低25%，并对敌我双方系统都进行锁定。"
 
 #: src-en/data/hyperspace.xml:26238
 msgid "data/hyperspace.xml$//race[@name=\"goldqueen\"]/powerEffect/buttonText"
 msgstr "战吼"
 
 #: src-en/data/hyperspace.xml:26239
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"goldqueen\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：9秒]\n"
-"\t\t\t\t为附近的其他友方蜘蛛提供2点生命/秒的再生与1.5倍移动速度加成。"
+"\t\t\t\t为同舱室的其他友方模物蜘蛛提供2点生命/秒的生命恢复与50%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:26423
 msgid ""
@@ -2884,12 +2866,11 @@ msgid ""
 msgstr "吸收"
 
 #: src-en/data/hyperspace.xml:26844
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"lanius_augmented\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒  持续时间：8秒]\n"
-"\t\t\t\t完全恢复生命值并停止生命流失"
-"，对当前舱室造成1点舰体与系统伤害，并获得100%基础属性提升。"
+"\t\t\t\t完全恢复生命值并停止生命流失，对当前舱室造成1点舰体与系统伤害，获得10"
+"0%基础属性提升，并将耗氧速度提高至400%。"
 
 #: src-en/data/hyperspace.xml:26901
 msgid ""
@@ -2959,9 +2940,8 @@ msgid ""
 msgstr "震荡"
 
 #: src-en/data/hyperspace.xml:27184
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"phantom_wraith\"]/powerEffect/tooltip"
-msgstr "对当前系统造成2点离子伤害，并对船员造成7秒眩晕。"
+msgstr "对同舱室系统造成2点离子伤害，并击晕船员7秒。"
 
 #: src-en/data/hyperspace.xml:27217
 msgid ""
@@ -2969,10 +2949,9 @@ msgid ""
 msgstr "震荡"
 
 #: src-en/data/hyperspace.xml:27218
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"phantom_wraith_alpha\"]/powerEffect/tooltip"
-msgstr "对当前舱室的系统造成2点离子伤害，并对船员造成7秒眩晕。"
+msgstr "对同舱室系统造成2点离子伤害，并击晕船员7秒。"
 
 #: src-en/data/hyperspace.xml:27250
 msgid ""
@@ -2988,7 +2967,6 @@ msgid "data/hyperspace.xml$//race[@name=\"gbeleanor\"]/powerEffect/buttonText"
 msgstr "狂暴"
 
 #: src-en/data/hyperspace.xml:27274
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbeleanor\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒]\n"
@@ -2999,7 +2977,6 @@ msgid "data/hyperspace.xml$//race[@name=\"gbscoleri\"]/powerEffect/buttonText"
 msgstr "电击"
 
 #: src-en/data/hyperspace.xml:27307
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbscoleri\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒]\n"
@@ -3010,7 +2987,6 @@ msgid "data/hyperspace.xml$//race[@name=\"gbslimer\"]/powerEffect/buttonText"
 msgstr "暴食"
 
 #: src-en/data/hyperspace.xml:27331
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbslimer\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：15秒]\n"
@@ -3021,19 +2997,17 @@ msgid "data/hyperspace.xml$//race[@name=\"gbpsych\"]/powerEffect/buttonText"
 msgstr "燃爆"
 
 #: src-en/data/hyperspace.xml:27356
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbpsych\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：10秒  持续时间：3秒]\n"
 "\t\t\t\t猛烈燃烧。造成2点系统伤害，15点船员伤害，50%几率发生火灾，破舱，眩晕"
-"。技能效果期间无法控制。"
+"。技能效果期间无法被控制。"
 
 #: src-en/data/hyperspace.xml:27393
 msgid "data/hyperspace.xml$//race[@name=\"gbvinz\"]/powerEffect/buttonText"
 msgstr "地狱火"
 
 #: src-en/data/hyperspace.xml:27394
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbvinz\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：15秒]\n"
@@ -3044,11 +3018,10 @@ msgid "data/hyperspace.xml$//race[@name=\"gbzuul\"]/powerEffect/buttonText"
 msgstr "吞噬"
 
 #: src-en/data/hyperspace.xml:27418
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"gbzuul\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：15秒]\n"
-"\t\t\t\t在当前舱室造成1点系统伤害并造成一处破舱."
+"\t\t\t\t在当前舱室造成1点系统伤害与一处破舱."
 
 #: src-en/data/hyperspace.xml:27470
 msgid "data/hyperspace.xml$//race[@name=\"spider\"]/powerEffect/buttonText"
@@ -3088,7 +3061,7 @@ msgstr "战吼"
 msgid "data/hyperspace.xml$//race[@name=\"unique_queen\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：9秒]\n"
-"\t\t\t\t为附近的其他友方蜘蛛提供2点生命/秒的再生与1.5倍移动速度加成。"
+"\t\t\t\t以2点/秒的速度持续治疗同舱室的友方蜘蛛族，并为其提供50%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:27717
 msgid "data/hyperspace.xml$//race[@name=\"easter_angel\"]/powerEffect/buttonText"
@@ -3098,18 +3071,17 @@ msgstr "战吼"
 msgid "data/hyperspace.xml$//race[@name=\"easter_angel\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：9秒]\n"
-"\t\t\t\t为附近的其他友方蜘蛛提供2点生命/秒的再生与1.5倍移动速度加成。"
+"\t\t\t\t以2点/秒的速度持续治疗同舱室的友方蜘蛛族，并为其提供50%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:27832
 msgid "data/hyperspace.xml$//race[@name=\"spider_venom\"]/powerEffect/buttonText"
 msgstr "毒液攻击"
 
 #: src-en/data/hyperspace.xml:27833
-#, fuzzy
 msgid "data/hyperspace.xml$//race[@name=\"spider_venom\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：15秒]\n"
-"\t\t\t\t对同舱室内所有敌方船员进行致命毒素攻击，使其2分钟内损失2点生命/秒。"
+"\t\t\t\t对同舱室内所有敌方船员进行致命毒素攻击，使其40秒内损失3点生命/秒。"
 
 #: src-en/data/hyperspace.xml:27920
 msgid ""
@@ -3117,12 +3089,11 @@ msgid ""
 msgstr "毒液攻击"
 
 #: src-en/data/hyperspace.xml:27921
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//race[@name=\"spider_venom_chaos\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：15秒]\n"
-"\t\t\t\t对同舱室内所有敌方船员进行致命毒素攻击，使其2分钟内损失2点生命/秒。"
+"\t\t\t\t对同舱室内所有敌方船员进行致命毒素攻击，使其40秒内损失3点生命/秒。"
 
 #: src-en/data/hyperspace.xml:27996
 msgid ""
@@ -3142,8 +3113,7 @@ msgstr "管理"
 msgid "data/hyperspace.xml$//race[@name=\"unique_metyunt\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：20秒  持续时间：25秒]\n"
-"\t\t\t\t同舱室内所有友方船员移动速度和破坏伤害提高至2倍"
-"，但损失25%最大生命值。"
+"\t\t\t\t同舱室内所有友方船员移动速度和破坏伤害提高100%，但失去25%最大生命值。"
 
 #: src-en/data/hyperspace.xml:28138
 msgid "data/hyperspace.xml$//race[@name=\"pony\"]/powerEffect/buttonText"
@@ -3231,7 +3201,7 @@ msgstr ""
 "\t\t\t\t1.25倍战斗伤害提高至1.5倍\n"
 "\t\t\t\t10秒未受伤害后自动恢复生命值缩短至5秒\n"
 "\t\t\t\t维修速度提高至1.75倍\n"
-"\t\t\t\t生命值恢复速度提高至2倍"
+"\t\t\t\t生命恢复速度提高至2倍"
 
 #: src-en/data/hyperspace.xml:28499
 msgid ""
@@ -3261,7 +3231,7 @@ msgstr ""
 "\t\t\t\t1.5倍战斗伤害提高至2倍\n"
 "\t\t\t\t8秒未受伤害后自动恢复生命值缩短至4秒\n"
 "\t\t\t\t维修速度提高至2.2倍\n"
-"\t\t\t\t生命值恢复速度提高至2倍"
+"\t\t\t\t生命恢复速度提高至2倍"
 
 #: src-en/data/hyperspace.xml:28598
 msgid ""
@@ -3494,19 +3464,19 @@ msgstr "士兵无人机II"
 
 #: src-en/data/hyperspace.xml:30464
 msgid "data/hyperspace.xml$//drone[@name=\"CONSTRUCTOR\"]/tooltipName"
-msgstr ""
+msgstr "建构无人机"
 
 #: src-en/data/hyperspace.xml:30468
 msgid "data/hyperspace.xml$//drone[@name=\"PRODUCER\"]/tooltipName"
-msgstr ""
+msgstr "生产无人机"
 
 #: src-en/data/hyperspace.xml:30472
 msgid "data/hyperspace.xml$//drone[@name=\"GRAZIER_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "牧畜无人机"
 
 #: src-en/data/hyperspace.xml:30476
 msgid "data/hyperspace.xml$//drone[@name=\"GRAZIER_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "牧畜无人机"
 
 #: src-en/data/hyperspace.xml:30481
 msgid "data/hyperspace.xml$//drone[@name=\"BUTLER_DEFENSE\"]/tooltipName"
@@ -3571,12 +3541,14 @@ msgstr "扫荡无人机"
 #: src-en/data/hyperspace.xml:31831
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LOCKED_GLOBAL_TELEPORT\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "死亡"
 
 #: src-en/data/hyperspace.xml:31832
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LOCKED_GLOBAL_TELEPORT\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：15秒]\n"
+"\t\t\t\t\t\t杀死船员并不触发死亡效果。作为无法返回时的保险措施。"
 
 #: src-en/data/hyperspace.xml:35068
 msgid ""
@@ -3612,7 +3584,6 @@ msgid ""
 msgstr "信息素"
 
 #: src-en/data/hyperspace.xml:35164
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"EX_LAB_MANTIS_FIRE\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
@@ -3627,7 +3598,6 @@ msgid ""
 msgstr "信息素"
 
 #: src-en/data/hyperspace.xml:35200
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"EX_LAB_MANTIS_FIRE\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
@@ -3654,7 +3624,6 @@ msgid ""
 msgstr "纵火"
 
 #: src-en/data/hyperspace.xml:36160
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LAB_VAGABOND_STABLE\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
@@ -3667,7 +3636,6 @@ msgid ""
 msgstr "纵火"
 
 #: src-en/data/hyperspace.xml:36178
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//aug[@name=\"LAB_VAGABOND_STABLE\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
@@ -3822,12 +3790,12 @@ msgstr "已探索的信标。游灵的位置。"
 #: src-en/data/hyperspace.xml:39346
 msgid ""
 "data/hyperspace.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT\"]/beaconType/unvisitedTooltip"
-msgstr "此处有一座联邦补给站。"
+msgstr "此处有一座联邦供给站。"
 
 #: src-en/data/hyperspace.xml:39347
 msgid ""
 "data/hyperspace.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT\"]/beaconType/visitedTooltip"
-msgstr "此处有一座联邦补给站。"
+msgstr "此处有一座联邦供给站。"
 
 #: src-en/data/hyperspace.xml:41423
 msgid ""
@@ -4917,12 +4885,12 @@ msgstr "垃圾武器"
 #: src-en/data/hyperspace.xml:46618
 msgid ""
 "data/hyperspace.xml$/FTL/store[1]/customStore[@id=\"STORE_SYLVAN_STATUS\"]/category[1]/customTitle"
-msgstr "效果武器"
+msgstr "特效武器"
 
 #: src-en/data/hyperspace.xml:46636
 msgid ""
 "data/hyperspace.xml$/FTL/store[1]/customStore[@id=\"STORE_SYLVAN_STATUS\"]/category[2]/customTitle"
-msgstr "效果武器"
+msgstr "特效武器"
 
 #: src-en/data/hyperspace.xml:46657
 msgid ""
@@ -5257,7 +5225,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_SIGNAL\"]/name"
 msgstr "接收传输"
 
 #: src-en/data/hyperspace.xml:50866
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_SIGNAL\"]/description"
 msgstr "激活神秘的信标。"
 
@@ -5314,7 +5281,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_ITB\"]/name"
 msgstr "再次陷阵"
 
 #: src-en/data/hyperspace.xml:50918
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_ITB\"]/description"
 msgstr "在一局游戏中同时取得机器人加娜，引爆雷恩菲尔德炸弹，并造访地球。"
 
@@ -5332,7 +5298,7 @@ msgstr "？？？"
 
 #: src-en/data/hyperspace.xml:50926
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_ACC_DETERGENT\"]/description"
-msgstr "完成洗涤模式的试炼和磨难。"
+msgstr "通过洗涤模式的试炼和磨难。"
 
 #: src-en/data/hyperspace.xml:50927
 msgid ""
@@ -5511,7 +5477,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_CRYSTAL\"]/name"
 msgstr "弗瑞狂"
 
 #: src-en/data/hyperspace.xml:51028
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_CRYSTAL\"]/description"
 msgstr "击败帝国C型变元星舰，获得琥珀发射器。"
 
@@ -5560,7 +5525,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_FED\"]/name"
 msgstr "游击队兵工厂"
 
 #: src-en/data/hyperspace.xml:51052
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_FED\"]/description"
 msgstr "击败联邦B型变元星舰，获得'法老'空雷发射器。"
 
@@ -5610,7 +5574,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_LEECH\"]/name"
 msgstr "排毒"
 
 #: src-en/data/hyperspace.xml:51076
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_LEECH\"]/description"
 msgstr "击败共和国C型变元星舰，获得大吸炸弹。"
 
@@ -5635,7 +5598,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MANTIS\"]/name"
 msgstr "炸弹螳螂-人"
 
 #: src-en/data/hyperspace.xml:51088
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MANTIS\"]/description"
 msgstr "击败母巢B型变元星舰，获得自给炸弹。"
 
@@ -5648,7 +5610,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MONK\"]/name"
 msgstr "触电般的信念"
 
 #: src-en/data/hyperspace.xml:51094
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_MONK\"]/description"
 msgstr "击败辉光B型变元星舰，获得链式充能离子炮。"
 
@@ -5661,7 +5622,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ORCHID\"]/name"
 msgstr "新鲜产品"
 
 #: src-en/data/hyperspace.xml:51100
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ORCHID\"]/description"
 msgstr "击败集议会B型变元星舰，获得草莓炮。"
 
@@ -5674,7 +5634,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SHELL\"]/name"
 msgstr "衍射死亡"
 
 #: src-en/data/hyperspace.xml:51106
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SHELL\"]/description"
 msgstr "击败怪才体C型变元星舰，获得毒囊发射器。"
 
@@ -5687,7 +5646,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ROCK\"]/name"
 msgstr "钻石尖头"
 
 #: src-en/data/hyperspace.xml:51112
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ROCK\"]/description"
 msgstr "击败神权国C型变元星舰，获得黑曜石导弹。"
 
@@ -5713,7 +5671,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SLUG\"]/name"
 msgstr "午时已到"
 
 #: src-en/data/hyperspace.xml:51124
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_SLUG\"]/description"
 msgstr "击败星盗会C型变元星舰，获得大离子。"
 
@@ -5750,7 +5707,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ZOLTAN\"]/name"
 msgstr "无限能量"
 
 #: src-en/data/hyperspace.xml:51142
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_ZOLTAN\"]/description"
 msgstr "击败牧师团C型变元星舰，获得电池光束。"
 
@@ -5796,7 +5752,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_HORSE\"]/name"
 msgstr "还有很多故事要讲"
 
 #: src-en/data/hyperspace.xml:51165
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_REN_HORSE\"]/description"
 msgstr "击败六脚马B型变元星舰，获得机械小马。"
 
@@ -5874,12 +5829,10 @@ msgid ""
 msgstr "成功获得同盟战利品。"
 
 #: src-en/data/hyperspace.xml:51203
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_UNION\"]/description"
-msgstr "成功获得同盟战利品。"
+msgstr "成功获得同盟战利品：爆裂激光I。"
 
 #: src-en/data/hyperspace.xml:51205
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_UNION\"]/header"
 msgstr "已获取战利品"
 
@@ -5893,12 +5846,10 @@ msgid ""
 msgstr "成功获得盟卫战利品。"
 
 #: src-en/data/hyperspace.xml:51210
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MILITIA\"]/description"
-msgstr "成功获得盟卫战利品。"
+msgstr "成功获得盟卫战利品：爆裂激光II。"
 
 #: src-en/data/hyperspace.xml:51212
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MILITIA\"]/header"
 msgstr "已获取战利品"
 
@@ -5912,13 +5863,11 @@ msgid ""
 msgstr "成功获得联邦战利品。"
 
 #: src-en/data/hyperspace.xml:51217
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FEDERATION\"]/description"
-msgstr "成功获得联邦战利品。"
+msgstr "成功获得联邦战利品：重型激光II。"
 
 #: src-en/data/hyperspace.xml:51219
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FEDERATION\"]/header"
 msgstr "已获取战利品"
 
@@ -5932,12 +5881,10 @@ msgid ""
 msgstr "成功获得谐合战利品。"
 
 #: src-en/data/hyperspace.xml:51224
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HARMONY\"]/description"
-msgstr "成功获得谐合战利品。"
+msgstr "成功获得谐合战利品：战斗或防御无人机。"
 
 #: src-en/data/hyperspace.xml:51226
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HARMONY\"]/header"
 msgstr "已获取战利品"
 
@@ -5951,13 +5898,11 @@ msgid ""
 msgstr "成功获得分离者战利品。"
 
 #: src-en/data/hyperspace.xml:51231
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SEPARATIST\"]/description"
-msgstr "成功获得分离者战利品。"
+msgstr "成功获得分离者战利品：士兵无人机。"
 
 #: src-en/data/hyperspace.xml:51233
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SEPARATIST\"]/header"
 msgstr "已获取战利品"
 
@@ -5971,12 +5916,10 @@ msgid ""
 msgstr "成功获得牧师团战利品。"
 
 #: src-en/data/hyperspace.xml:51238
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ZOLTAN\"]/description"
-msgstr "成功获得牧师团战利品。"
+msgstr "成功获得牧师团战利品：长枪光束I或II。"
 
 #: src-en/data/hyperspace.xml:51240
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ZOLTAN\"]/header"
 msgstr "已获取战利品"
 
@@ -5990,13 +5933,11 @@ msgid ""
 msgstr "成功获得暮临战利品。"
 
 #: src-en/data/hyperspace.xml:51245
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DUSKBRINGER\"]/description"
-msgstr "成功获得暮临战利品。"
+msgstr "成功获得暮临战利品：重型能量炮。"
 
 #: src-en/data/hyperspace.xml:51247
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DUSKBRINGER\"]/header"
 msgstr "已获取战利品"
 
@@ -6010,33 +5951,30 @@ msgid ""
 msgstr "成功获得集议会战利品。"
 
 #: src-en/data/hyperspace.xml:51252
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ORCHID\"]/description"
-msgstr "成功获得集议会战利品。"
+msgstr "成功获得集议会战利品：精英果核发射器。"
 
 #: src-en/data/hyperspace.xml:51254
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ORCHID\"]/header"
 msgstr "已获取战利品"
 
 #: src-en/data/hyperspace.xml:51257
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/name"
-msgstr ""
+msgstr "血兰运输舰"
 
 #: src-en/data/hyperspace.xml:51258
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/secretDescription"
-msgstr "成功获得联邦战利品。"
+msgstr "成功获得血兰邦战利品。"
 
 #: src-en/data/hyperspace.xml:51259
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/description"
-msgstr ""
+msgstr "成功获得血兰邦战利品：精英孢子发射器。"
 
 #: src-en/data/hyperspace.xml:51261
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_VAMPWEED\"]/header"
-msgstr ""
+msgstr "已获取战利品"
 
 #: src-en/data/hyperspace.xml:51264
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/name"
@@ -6048,12 +5986,10 @@ msgid ""
 msgstr "成功获得水晶战利品。"
 
 #: src-en/data/hyperspace.xml:51266
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/description"
-msgstr "成功获得水晶战利品。"
+msgstr "成功获得帝国战利品：精英水晶武器。"
 
 #: src-en/data/hyperspace.xml:51268
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CRYSTAL\"]/header"
 msgstr "已获取战利品"
 
@@ -6067,12 +6003,10 @@ msgid ""
 msgstr "成功获得母巢战利品。"
 
 #: src-en/data/hyperspace.xml:51273
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MANTIS\"]/description"
-msgstr "成功获得母巢战利品。"
+msgstr "成功获得母巢战利品：炸弹或轻型激光II。"
 
 #: src-en/data/hyperspace.xml:51275
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_MANTIS\"]/header"
 msgstr "已获取战利品"
 
@@ -6086,13 +6020,11 @@ msgid ""
 msgstr "成功获得自由螳螂战利品。"
 
 #: src-en/data/hyperspace.xml:51280
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FREEMANTIS\"]/description"
-msgstr "成功获得自由螳螂战利品。"
+msgstr "成功获得自由螳螂战利品：眩晕炸弹。"
 
 #: src-en/data/hyperspace.xml:51282
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_FREEMANTIS\"]/header"
 msgstr "已获取战利品"
 
@@ -6106,12 +6038,10 @@ msgid ""
 msgstr "成功获得神权国战利品。"
 
 #: src-en/data/hyperspace.xml:51287
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROCK\"]/description"
-msgstr "成功获得神权国战利品。"
+msgstr "成功获得神权国战利品：'信使'导弹。"
 
 #: src-en/data/hyperspace.xml:51289
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROCK\"]/header"
 msgstr "已获取战利品"
 
@@ -6125,12 +6055,10 @@ msgid ""
 msgstr "成功获得迷失烈阳战利品。"
 
 #: src-en/data/hyperspace.xml:51294
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LOSTSUN\"]/description"
-msgstr "成功获得迷失烈阳战利品。"
+msgstr "成功获得迷失烈阳战利品：'冥神'导弹或'斗神'空雷。"
 
 #: src-en/data/hyperspace.xml:51296
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LOSTSUN\"]/header"
 msgstr "已获取战利品"
 
@@ -6144,12 +6072,10 @@ msgid ""
 msgstr "成功获得星盗会战利品。"
 
 #: src-en/data/hyperspace.xml:51301
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SLUG\"]/description"
-msgstr "成功获得星盗会战利品。"
+msgstr "成功获得星盗会战利品：'鹰钩'辐射光束。"
 
 #: src-en/data/hyperspace.xml:51303
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SLUG\"]/header"
 msgstr "已获取战利品"
 
@@ -6163,12 +6089,10 @@ msgid ""
 msgstr "成功获得异猎会战利品。"
 
 #: src-en/data/hyperspace.xml:51308
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CLAN\"]/description"
-msgstr "成功获得异猎会战利品。"
+msgstr "成功获得异猎会战利品：辐射激光。"
 
 #: src-en/data/hyperspace.xml:51310
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_CLAN\"]/header"
 msgstr "已获取战利品"
 
@@ -6182,33 +6106,27 @@ msgid ""
 msgstr "成功获得怪才战利品。"
 
 #: src-en/data/hyperspace.xml:51315
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SHELL\"]/description"
-msgstr "成功获得怪才战利品。"
+msgstr "成功获得怪才战利品：破舰激光I。"
 
 #: src-en/data/hyperspace.xml:51317
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_SHELL\"]/header"
 msgstr "已获取战利品"
 
 #: src-en/data/hyperspace.xml:51320
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/name"
 msgstr "共和国运输舰"
 
 #: src-en/data/hyperspace.xml:51321
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/secretDescription"
-msgstr "成功获得叛军战利品。"
+msgstr "成功获得共和国战利品。"
 
 #: src-en/data/hyperspace.xml:51322
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/description"
-msgstr "成功获得吸虫战利品。"
+msgstr "成功获得共和国战利品：破片炮II。"
 
 #: src-en/data/hyperspace.xml:51324
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LEECH\"]/header"
 msgstr "已获取战利品"
 
@@ -6222,13 +6140,11 @@ msgid ""
 msgstr "成功获得星联战利品。"
 
 #: src-en/data/hyperspace.xml:51329
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_COALITION\"]/description"
-msgstr "成功获得星联战利品。"
+msgstr "成功获得星联战利品：'阋神'导弹。"
 
 #: src-en/data/hyperspace.xml:51331
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_COALITION\"]/header"
 msgstr "已获取战利品"
 
@@ -6242,12 +6158,10 @@ msgid ""
 msgstr "成功获得叛军战利品。"
 
 #: src-en/data/hyperspace.xml:51336
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_REBEL\"]/description"
-msgstr "成功获得叛军战利品。"
+msgstr "成功获得叛军战利品：充能激光II。"
 
 #: src-en/data/hyperspace.xml:51338
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_REBEL\"]/header"
 msgstr "已获取战利品"
 
@@ -6261,12 +6175,10 @@ msgid ""
 msgstr "成功获得自动舰战利品。"
 
 #: src-en/data/hyperspace.xml:51343
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUTO\"]/description"
-msgstr "成功获得自动舰战利品。"
+msgstr "成功获得自动舰战利品：集能无人机。"
 
 #: src-en/data/hyperspace.xml:51345
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUTO\"]/header"
 msgstr "已获取战利品"
 
@@ -6280,12 +6192,10 @@ msgid ""
 msgstr "成功获得食铁战利品。"
 
 #: src-en/data/hyperspace.xml:51350
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LANIUS\"]/description"
-msgstr "成功获得食铁战利品。"
+msgstr "成功获得食铁战利品：链式破片炮。"
 
 #: src-en/data/hyperspace.xml:51352
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_LANIUS\"]/header"
 msgstr "已获取战利品"
 
@@ -6299,12 +6209,10 @@ msgid ""
 msgstr "成功获得灵朝战利品。"
 
 #: src-en/data/hyperspace.xml:51357
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DYNASTY\"]/description"
-msgstr "成功获得灵朝战利品。"
+msgstr "成功获得灵朝战利品：'刺矛'光束。"
 
 #: src-en/data/hyperspace.xml:51359
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_DYNASTY\"]/header"
 msgstr "已获取战利品"
 
@@ -6317,9 +6225,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/secretName"
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51364
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/description"
-msgstr "成功获得革新社战利品。"
+msgstr "成功获得革新社战利品：两用无人机。"
 
 #: src-en/data/hyperspace.xml:51365
 msgid ""
@@ -6327,7 +6234,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51368
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ESTATE\"]/header"
 msgstr "已获取战利品"
 
@@ -6340,9 +6246,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/secretName"
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51373
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/description"
-msgstr "成功获得赫克塔战利品。"
+msgstr "成功获得赫克塔战利品：冷却模块。"
 
 #: src-en/data/hyperspace.xml:51374
 msgid ""
@@ -6350,13 +6255,12 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51377
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_HEKTAR\"]/header"
 msgstr "已获取战利品"
 
 #: src-en/data/hyperspace.xml:51380
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/name"
-msgstr ""
+msgstr "夜爵运输舰"
 
 #: src-en/data/hyperspace.xml:51381
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/secretName"
@@ -6364,7 +6268,7 @@ msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51382
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/description"
-msgstr ""
+msgstr "成功获得夜爵战利品：'鸦喙锤'辐射光束。"
 
 #: src-en/data/hyperspace.xml:51383
 msgid ""
@@ -6373,7 +6277,7 @@ msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51386
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_KNIGHT\"]/header"
-msgstr ""
+msgstr "已获取战利品"
 
 #: src-en/data/hyperspace.xml:51389
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/name"
@@ -6384,9 +6288,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/secretName"
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51391
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/description"
-msgstr "成功获得不熄余烬战利品。"
+msgstr "成功获得不熄余烬战利品：穿刺'火炬'光束。"
 
 #: src-en/data/hyperspace.xml:51392
 msgid ""
@@ -6394,7 +6297,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51395
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_EMBER\"]/header"
 msgstr "已获取战利品"
 
@@ -6408,10 +6310,9 @@ msgid ""
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51400
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUGMENTED\"]/description"
-msgstr "成功获得强铁战利品。"
+msgstr "成功获得强铁战利品：多级破片无人机。"
 
 #: src-en/data/hyperspace.xml:51401
 msgid ""
@@ -6419,7 +6320,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51404
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_AUGMENTED\"]/header"
 msgstr "已获取战利品"
 
@@ -6432,9 +6332,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/secretName
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51409
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/description"
-msgstr "成功获得方碑战利品。"
+msgstr "成功获得方碑战利品：远古武器。"
 
 #: src-en/data/hyperspace.xml:51410
 msgid ""
@@ -6442,7 +6341,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51413
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_OBELISK\"]/header"
 msgstr "已获取战利品"
 
@@ -6455,9 +6353,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/secretName"
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51418
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/description"
-msgstr "成功获得方碑皇族战利品。"
+msgstr "成功获得方碑皇族战利品：皇族远古武器。"
 
 #: src-en/data/hyperspace.xml:51419
 msgid ""
@@ -6465,7 +6362,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51422
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_ROYAL\"]/header"
 msgstr "已获取战利品"
 
@@ -6478,9 +6374,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/secretName"
 msgstr "神秘运输舰"
 
 #: src-en/data/hyperspace.xml:51427
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/description"
-msgstr "成功获得杰罗姆受保护地内的叛军战利品。"
+msgstr "成功获得杰罗姆受保护地内的叛军\"战利品\"。"
 
 #: src-en/data/hyperspace.xml:51428
 msgid ""
@@ -6488,7 +6383,6 @@ msgid ""
 msgstr "成功获得？？？战利品。"
 
 #: src-en/data/hyperspace.xml:51431
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRANS_JERRY\"]/header"
 msgstr "已获取战利品"
 
@@ -6544,9 +6438,8 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_JERRY\"]/name"
 msgstr "证明清白"
 
 #: src-en/data/hyperspace.xml:51461
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_JERRY\"]/description"
-msgstr "进入杰罗姆受保护地并带他绕过赛拉。"
+msgstr "进入杰罗姆受保护地带摆脱赛拉的阻拦。"
 
 #: src-en/data/hyperspace.xml:51462
 msgid ""
@@ -6644,16 +6537,16 @@ msgstr "已招募过该特殊船员"
 
 #: src-en/data/hyperspace.xml:51509
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/name"
-msgstr ""
+msgstr "权力归花儿"
 
 #: src-en/data/hyperspace.xml:51510
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/description"
-msgstr ""
+msgstr "帮助麻椰说服军政官们。"
 
 #: src-en/data/hyperspace.xml:51511
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/secretDescription"
-msgstr ""
+msgstr "行至柇柆柯枙并解决一场纠纷。"
 
 #: src-en/data/hyperspace.xml:51512
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_MAYEB\"]/header"
@@ -6661,16 +6554,16 @@ msgstr "已招募过该特殊船员"
 
 #: src-en/data/hyperspace.xml:51517
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/name"
-msgstr ""
+msgstr "地板油"
 
 #: src-en/data/hyperspace.xml:51518
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/description"
-msgstr ""
+msgstr "从埃尔的政变中救下苡瓦。"
 
 #: src-en/data/hyperspace.xml:51519
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/secretDescription"
-msgstr ""
+msgstr "从一场正在展开的阴谋中救下一位领导者。"
 
 #: src-en/data/hyperspace.xml:51520
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_IVAR\"]/header"
@@ -6678,11 +6571,11 @@ msgstr "已招募过该特殊船员"
 
 #: src-en/data/hyperspace.xml:51525
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TYEREL\"]/name"
-msgstr ""
+msgstr "留下好印橡"
 
 #: src-en/data/hyperspace.xml:51526
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_CREW_TYEREL\"]/description"
-msgstr ""
+msgstr "从星联手中救下笛艾尔。"
 
 #: src-en/data/hyperspace.xml:51527
 msgid ""
@@ -7127,7 +7020,7 @@ msgstr "从赛斯特处获得人类的恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_HUMAN\"]/description"
 msgstr ""
 "向赛斯特展示精英人类船员。\n"
-"\t\t\t\t生效时；人类船员受到的环境伤害降低至0.8倍。"
+"\t\t\t\t生效时；人类船员获得20%的环境伤害抗性。"
 
 #: src-en/data/hyperspace.xml:51745
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_HUMAN\"]/header"
@@ -7146,8 +7039,8 @@ msgstr "接受来自赛斯特的人类恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_HUMAN_2\"]/description"
 msgstr ""
 "向赛斯特展示超级精英人类船员。\n"
-"\t\t\t\t生效时；人类船员受到的环境伤害降低至0.8倍，且获得1."
-"1倍战斗伤害、维修速度、最大生命值和移动速度增益。"
+"\t\t\t\t生效时；人类船员获得20%的环境伤害抗性与10%的战斗伤害、维修速度、最大"
+"生命值和移动速度加成。"
 
 #: src-en/data/hyperspace.xml:51754
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_HUMAN_2\"]/header"
@@ -7166,7 +7059,7 @@ msgstr "接受来自赛斯特的纳米恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ENGI\"]/description"
 msgstr ""
 "向赛斯特展示精英半械族船员。\n"
-"\t\t\t\t生效时；半械族船员获得1.2倍维修速度增益。"
+"\t\t\t\t生效时；半械族船员获得20%维修速度加成。"
 
 #: src-en/data/hyperspace.xml:51763
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ENGI\"]/header"
@@ -7223,7 +7116,7 @@ msgstr "接受来自赛斯特的昆虫恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MANTIS\"]/description"
 msgstr ""
 "向赛斯特展示精英螳螂族船员。\n"
-"\t\t\t\t生效时；螳螂族船员获得1.2倍远程战斗伤害增益。"
+"\t\t\t\t生效时；螳螂族船员获得20%远程战斗伤害加成。"
 
 #: src-en/data/hyperspace.xml:51790
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MANTIS\"]/header"
@@ -7242,7 +7135,7 @@ msgstr "接受来自赛斯特的超级昆虫恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MANTIS_2\"]/description"
 msgstr ""
 "向赛斯特展示超级精英螳螂族船员。\n"
-"\t\t\t\t生效时；螳螂族船员获得1.25倍战斗伤害增益。"
+"\t\t\t\t生效时；螳螂族船员获得25%战斗伤害加成。"
 
 #: src-en/data/hyperspace.xml:51799
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MANTIS_2\"]/header"
@@ -7261,7 +7154,7 @@ msgstr "接受来自赛斯特的硅恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ROCK\"]/description"
 msgstr ""
 "向赛斯特展示精英岩石族船员。\n"
-"\t\t\t\t生效时；岩石族船员获得1.3倍灭火速度增益。"
+"\t\t\t\t生效时；岩石族船员获得30%灭火速度加成。"
 
 #: src-en/data/hyperspace.xml:51808
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ROCK\"]/header"
@@ -7280,7 +7173,7 @@ msgstr "接受来自赛斯特的超级硅恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ROCK_2\"]/description"
 msgstr ""
 "向赛斯特展示超级精英岩石族船员。\n"
-"\t\t\t\t生效时；岩石族船员获得1.3倍灭火速度与1.25倍移动速度增益。"
+"\t\t\t\t生效时；岩石族船员获得30%灭火速度与25%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:51817
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ROCK_2\"]/header"
@@ -7299,7 +7192,7 @@ msgstr "接受来自赛斯特的大地恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_CRYSTAL\"]/description"
 msgstr ""
 "向赛斯特展示精英水晶族船员。\n"
-"\t\t\t\t生效时；水晶族船员获得1.2倍战斗伤害增益。"
+"\t\t\t\t生效时；水晶族船员获得20%战斗伤害加成。"
 
 #: src-en/data/hyperspace.xml:51826
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_CRYSTAL\"]/header"
@@ -7318,7 +7211,7 @@ msgstr "接受来自赛斯特的黏液恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SLUG\"]/description"
 msgstr ""
 "向赛斯特展示精英蛞蝓族船员。\n"
-"\t\t\t\t生效时；蛞蝓族船员受到的环境伤害降低至0.8倍。"
+"\t\t\t\t生效时；蛞蝓族船员获得20%环境伤害抗性。"
 
 #: src-en/data/hyperspace.xml:51835
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SLUG\"]/header"
@@ -7337,7 +7230,7 @@ msgstr "接受来自赛斯特的黏液超级恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SLUG_2\"]/description"
 msgstr ""
 "向赛斯特展示超级精英蛞蝓族船员。\n"
-"\t\t\t\t生效时；蛞蝓族船员受到的环境伤害降低至0.8倍，且获得2倍移动速度增益。"
+"\t\t\t\t生效时；蛞蝓族船员受到的环境伤害降低20%，且获得100%移动速度增益。"
 
 #: src-en/data/hyperspace.xml:51844
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SLUG_2\"]/header"
@@ -7356,7 +7249,7 @@ msgstr "接受来自赛斯特的躯壳恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SHELL\"]/description"
 msgstr ""
 "向赛斯特展示精英甲壳族船员。\n"
-"\t\t\t\t生效时；甲壳族船员受到的战斗伤害降低至0.85倍。"
+"\t\t\t\t生效时；甲壳族船员获得15%的战斗伤害抗性。"
 
 #: src-en/data/hyperspace.xml:51853
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SHELL\"]/header"
@@ -7394,7 +7287,7 @@ msgstr "接受来自赛斯特的幽灵恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_GHOST\"]/description"
 msgstr ""
 "向赛斯特展示巨型魂灵船员。\n"
-"\t\t\t\t生效时；魂灵族船员获得额外0.3倍移动速度。"
+"\t\t\t\t生效时；魂灵族船员获得30%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:51871
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_GHOST\"]/header"
@@ -7413,7 +7306,7 @@ msgstr "接受来自赛斯特的金属恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_LANIUS\"]/description"
 msgstr ""
 "向赛斯特展示精英或稀有食铁族船员。\n"
-"\t\t\t\t生效时；食铁族船员获得双倍恢复速度增益，且受到的战斗伤害降低至0.9倍。"
+"\t\t\t\t生效时；食铁族船员获得100%生命恢复速度加成与10%战斗伤害抗性。"
 
 #: src-en/data/hyperspace.xml:51880
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_LANIUS\"]/header"
@@ -7455,7 +7348,7 @@ msgstr "接受来自赛斯特的？？？恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MORPH\"]/description"
 msgstr ""
 "向赛斯特展示模物族船员。\n"
-"\t\t\t\t生效时；模物族船员获得1.1倍最大生命值与1.3倍移动速度增益。"
+"\t\t\t\t生效时；模物族船员获得10%最大生命值与30%移动速度加成。"
 
 #: src-en/data/hyperspace.xml:51899
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MORPH\"]/header[1]"
@@ -7482,7 +7375,7 @@ msgstr "接受来自赛斯特的？？？恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_LIZARD\"]/description"
 msgstr ""
 "向赛斯特展示蜥蜴族船员。\n"
-"\t\t\t\t生效时；蜥蜴族船员获得1.15倍所有基础属性增益。"
+"\t\t\t\t生效时；蜥蜴族船员获得15%基础属性加成。"
 
 #: src-en/data/hyperspace.xml:51911
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_LIZARD\"]/header"
@@ -7552,8 +7445,8 @@ msgstr "接受来自赛斯特的？？？恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_OBELISK\"]/description"
 msgstr ""
 "向赛斯特展示方碑族或认知体船员。\n"
-"\t\t\t\t生效时；方碑族与认知体船员获得20点最大生命值与1."
-"15倍战斗伤害和维修速度增益。"
+"\t\t\t\t生效时"
+"；方碑族与认知体船员获得20点最大生命值与15%战斗伤害和维修速度加成。"
 
 #: src-en/data/hyperspace.xml:51944
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_OBELISK\"]/header"
@@ -7576,8 +7469,8 @@ msgstr "接受来自赛斯特的？？？恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_UNIQUE\"]/description"
 msgstr ""
 "向赛斯特展示特殊船员。\n"
-"\t\t\t\t生效时；特殊船员获得1.5倍恢复速度与1."
-"15倍战斗伤害、维修速度和移动速度增益，且被克隆时不失去技能经验。"
+"\t\t\t\t生效时；特殊船员获得50%生命恢复速度、15%战斗伤害、维修速度和移动速度"
+"加成，且被克隆时不失去技能经验。"
 
 #: src-en/data/hyperspace.xml:51955
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_UNIQUE\"]/header"
@@ -7623,7 +7516,7 @@ msgstr "接受来自赛斯特的？？？恩惠。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KIDS\"]/description"
 msgstr ""
 "向赛斯特展示幼体兰花。\n"
-"\t\t\t\t生效时；你的所有船员获得1.01倍最大生命值增益，同时你感到无比羞愧。"
+"\t\t\t\t生效时；你的所有船员获得1%的最大生命值，同时你感到无比羞愧。"
 
 #: src-en/data/hyperspace.xml:51977
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KIDS\"]/header"
@@ -7666,7 +7559,6 @@ msgid ""
 msgstr "接受来自阔碧的驾驶予礼。"
 
 #: src-en/data/hyperspace.xml:51999
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_PILOT\"]/description"
 msgstr ""
 "向阔碧展示满级驾驶子系统。\n"
@@ -7686,11 +7578,10 @@ msgid ""
 msgstr "接受来自阔碧的武器予礼。"
 
 #: src-en/data/hyperspace.xml:52008
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_WEAPONS\"]/description"
 msgstr ""
 "向阔碧展示满级武器系统。\n"
-"\t\t\t\t生效时；你的船员获得1.5倍武器舱室维修速度增益。"
+"\t\t\t\t生效时；你的船员获得50%武器舱室维修速度增益。"
 
 #: src-en/data/hyperspace.xml:52010
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_WEAPONS\"]/header"
@@ -7706,11 +7597,10 @@ msgid ""
 msgstr "接受来自阔碧的护盾予礼。"
 
 #: src-en/data/hyperspace.xml:52017
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SHIELDS\"]/description"
 msgstr ""
 "向阔碧展示满级护盾系统。\n"
-"\t\t\t\t生效时；你的船员获得1.5倍护盾舱室维修速度增益。"
+"\t\t\t\t生效时；你的船员获得50%护盾舱室维修速度增益。"
 
 #: src-en/data/hyperspace.xml:52019
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SHIELDS\"]/header"
@@ -7726,11 +7616,10 @@ msgid ""
 msgstr "接受来自阔碧的引擎予礼。"
 
 #: src-en/data/hyperspace.xml:52026
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ENGINES\"]/description"
 msgstr ""
 "向阔碧展示满级引擎系统。\n"
-"\t\t\t\t生效时；你的船员获得1.75倍引擎舱室维修速度增益。"
+"\t\t\t\t生效时；你的船员获得75%引擎舱室维修速度增益。"
 
 #: src-en/data/hyperspace.xml:52028
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_ENGINES\"]/header"
@@ -7749,7 +7638,7 @@ msgstr "接受来自阔碧的治疗予礼。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MEDBAY\"]/description"
 msgstr ""
 "向阔碧展示满级医疗舱系统。\n"
-"\t\t\t\t生效时；你的船员在所有地方获得1.75倍恢复速度增益。"
+"\t\t\t\t生效时；你的船员在所有地方获得75%的生命恢复速度加成。"
 
 #: src-en/data/hyperspace.xml:52037
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MEDBAY\"]/header"
@@ -7765,7 +7654,6 @@ msgid ""
 msgstr "接受来自阔碧的克隆予礼。"
 
 #: src-en/data/hyperspace.xml:52044
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_CLONEBAY\"]/description"
 msgstr ""
 "向阔碧展示满级克隆系统。\n"
@@ -7788,7 +7676,7 @@ msgstr "接受来自阔碧的生命支持予礼。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_OXYGEN\"]/description"
 msgstr ""
 "向阔碧展示满级氧气系统。\n"
-"\t\t\t\t生效时；你的船员受到的窒息伤害降低至0.66倍。"
+"\t\t\t\t生效时；你的船员获得33%的窒息伤害抗性。"
 
 #: src-en/data/hyperspace.xml:52055
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_OXYGEN\"]/header"
@@ -7804,7 +7692,6 @@ msgid ""
 msgstr "接受来自阔碧的传送予礼。"
 
 #: src-en/data/hyperspace.xml:52062
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_TELEPORTER\"]/description"
 msgstr ""
@@ -7828,7 +7715,7 @@ msgstr "接受来自阔碧的心控予礼。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MIND\"]/description"
 msgstr ""
 "向阔碧展示满级心灵控制系统。\n"
-"\t\t\t\t生效时；你的船员在自己星舰内眩晕时长降低至0.4倍。"
+"\t\t\t\t生效时；你的船员在星舰内获得60%的眩晕时长减免。"
 
 #: src-en/data/hyperspace.xml:52073
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_MIND\"]/header"
@@ -7882,11 +7769,10 @@ msgid ""
 msgstr "接受来自阔碧的无人机予礼。"
 
 #: src-en/data/hyperspace.xml:52098
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_DRONES\"]/description"
 msgstr ""
 "向阔碧展示满级无人机系统。\n"
-"\t\t\t\t生效时；你的船员获得1.75倍无人机舱室维修速度增益。"
+"\t\t\t\t生效时；你的船员获得75%无人机舱室维修速度增益。"
 
 #: src-en/data/hyperspace.xml:52100
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_DRONES\"]/header"
@@ -7902,12 +7788,11 @@ msgid ""
 msgstr "接受来自阔碧的传感器予礼。"
 
 #: src-en/data/hyperspace.xml:52107
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENSORS\"]/description"
 msgstr ""
 "向阔碧展示满级传感器子系统。\n"
-"\t\t\t\t生效时；传感器系统立即升级至3级。若星舰开局时不配备传感器子系统，则同"
-"时免费安装传感器系统。"
+"\t\t\t\t生效时；传感器子系统立即提高2级。若星舰初始不具备传感器子系统，则直接"
+"获得2级传感器子系统。"
 
 #: src-en/data/hyperspace.xml:52109
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENSORS\"]/header"
@@ -7927,7 +7812,7 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_DOORS\"]/description"
 msgstr ""
 "向阔碧展示满级舱门子系统。\n"
 "\t\t\t\t生效时；舱门系统获得50%破坏伤害抗性，且你的船员在舱门系统舱室内受到的"
-"战斗伤害降低至0.7倍。"
+"战斗伤害减少30%。"
 
 #: src-en/data/hyperspace.xml:52118
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_DOORS\"]/header"
@@ -7946,8 +7831,8 @@ msgstr "接受来自阔碧的电池予礼。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_BATTERY\"]/description"
 msgstr ""
 "向阔碧展示满级备用电池子系统。\n"
-"\t\t\t\t生效时；当备用电池系统被摧毁时，你的船员获得1."
-"33倍维修速度和移动速度增益。"
+"\t\t\t\t生效时"
+"；当备用电池系统被摧毁时，你的船员获得33%维修速度和移动速度加成。"
 
 #: src-en/data/hyperspace.xml:52127
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_BATTERY\"]/header"
@@ -8019,21 +7904,18 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_START\"]/header"
 msgstr "已受到过该祝福"
 
 #: src-en/data/hyperspace.xml:52164
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/name"
-msgstr "果核的祝福"
+msgstr "生长的祝福"
 
 #: src-en/data/hyperspace.xml:52165
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/secretDescription"
-msgstr "接受来自威克森的果核祝福。"
+msgstr "接受来自威克森的生长祝福。"
 
 #: src-en/data/hyperspace.xml:52166
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_KERNELS\"]/description"
 msgstr ""
-"向威克森展示一件精英果核发射器。\n"
+"向威克森展示一件精英果核发射器或精英孢子发射器。\n"
 "\t\t\t\t生效时；立即获得6发弹药。"
 
 #: src-en/data/hyperspace.xml:52168
@@ -8172,7 +8054,7 @@ msgstr "接受来自威克森的哨卫祝福。"
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENTRY\"]/description"
 msgstr ""
 "向威克森展示任意一件哨卫部署器。\n"
-"\t\t\t\t生效时；友方船员与舰内无人机在敌舰内获得1.3倍战斗伤害和移动速度增益。"
+"\t\t\t\t生效时；友方船员与舰内无人机在敌舰内获得30%战斗伤害和移动速度加成。"
 
 #: src-en/data/hyperspace.xml:52231
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_SENTRY\"]/header"
@@ -8324,11 +8206,10 @@ msgid ""
 msgstr "接受来自威克森的？？？祝福。"
 
 #: src-en/data/hyperspace.xml:52301
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_AETHER\"]/description"
 msgstr ""
 "向威克森展示任意一件以太武器或无人机。\n"
-"\t\t\t\t生效时；先驱者遗迹若存在将一直显示在星图上。"
+"\t\t\t\t生效时；现存的先驱者遗迹将显示在每个星区的星图上。"
 
 #: src-en/data/hyperspace.xml:52303
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_BOON_AETHER\"]/header"
@@ -8618,7 +8499,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_OBEL_GHOSTMACHINE\"]/name"
 msgstr "机器里的幽灵"
 
 #: src-en/data/hyperspace.xml:52456
-#, fuzzy
 msgid ""
 "data/hyperspace.xml$//achievement[@name=\"ACH_OBEL_GHOSTMACHINE\"]/description"
 msgstr "用量子物质复制器复制一个魂灵族。"
@@ -8679,9 +8559,8 @@ msgid ""
 msgstr "发现第二个食铁族群的家园。"
 
 #: src-en/data/hyperspace.xml:52489
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_TRUEEND_DREADONE\"]/name"
-msgstr "上升中"
+msgstr "崛起中"
 
 #: src-en/data/hyperspace.xml:52490
 msgid ""
@@ -8868,7 +8747,6 @@ msgid "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_BEANS\"]/name"
 msgstr "一罐豆子"
 
 #: src-en/data/hyperspace.xml:52590
-#, fuzzy
 msgid "data/hyperspace.xml$//achievement[@name=\"ACH_SYLVAN_BEANS\"]/description"
 msgstr "说服希尔凡本尊将希尔瑞克恢复到他的蛞蝓形态。"
 
@@ -9033,7 +8911,7 @@ msgstr "？？？"
 
 #: src-en/data/hyperspace.xml:52671
 msgid "data/hyperspace.xml$/FTL/achievements/page[9]/section/@text"
-msgstr ""
+msgstr "音乐"
 
 #: src-en/data/hyperspace.xml:52673
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_GALACTIC\"]/name"
@@ -9053,7 +8931,7 @@ msgstr "悦兰主题曲"
 
 #: src-en/data/hyperspace.xml:52709
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_VAMPWEED\"]/name"
-msgstr ""
+msgstr "血兰邦主题曲"
 
 #: src-en/data/hyperspace.xml:52718
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_SEPARATIST\"]/name"
@@ -9077,7 +8955,7 @@ msgstr "魂灵主题曲"
 
 #: src-en/data/hyperspace.xml:52763
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_DYNASTY\"]/name"
-msgstr ""
+msgstr "灵朝主题曲"
 
 #: src-en/data/hyperspace.xml:52772
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_SHELL\"]/name"
@@ -9173,7 +9051,7 @@ msgstr "？？？"
 
 #: src-en/data/hyperspace.xml:52907
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_HER\"]/name"
-msgstr ""
+msgstr "冒号，右括号 + 微笑深渊"
 
 #: src-en/data/hyperspace.xml:52908
 msgid "data/hyperspace.xml$//achievement[@name=\"MUSIC_HER\"]/secretName"
@@ -9222,4 +9100,3 @@ msgstr "已解锁第二难度！"
 #: src-en/data/hyperspace.xml:53004
 msgid "data/hyperspace.xml$//achievement[@name=\"CHALLENGE_MODES\"]/header"
 msgstr "已解锁第二难度"
-

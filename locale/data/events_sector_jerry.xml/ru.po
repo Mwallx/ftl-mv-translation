@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 11:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_jerryxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_jerry.xml:33
 msgid ""
@@ -99,12 +107,11 @@ msgstr ""
 msgid ""
 "data/events_sector_jerry.xml$/FTL/event[@name=\"CYRA_JERRY_SPARE_CREW\"]/text"
 msgstr ""
-"Корабль Сайры находится в плохом состоянии, но прежде чем вы сможете "
-"продолжить бой, Джерри отводит вас в сторону. \"Пожалуйста, что бы вы ни "
-"делали, не убивайте Сайру. Она не может так долго сражаться, мы сможем "
-"справиться с ней не убивая ее, если только вы не убьете ее раньше! "
-"Пожалуйста, я знаю, что вы наемник, да еще и из Федерации, но не нужно "
-"сегодня больше проливать кровь!\""
+"Корабль Сайры находится в плохом состоянии, но прежде чем вы продолжите бой, "
+"Джерри отводит вас в сторону. \"Пожалуйста, что бы вы ни делали, не убивайте "
+"Сайру. Она не может так долго сражаться, мы сможем справиться с ней не "
+"убивая ее, если только вы не убьете ее раньше! Пожалуйста, я знаю, что вы "
+"наемник, да еще и из Федерации, но не нужно сегодня больше проливать кровь!\""
 
 #: src-en/data/events_sector_jerry.xml:99
 msgid "data/events_sector_jerry.xml$//event[@name=\"CYRA_JERRY_SUCCESS\"]/text"
@@ -258,7 +265,7 @@ msgstr "Точно?"
 
 #: src-en/data/events_sector_jerry.xml:176
 msgid "data/events_sector_jerry.xml$//event[@name=\"CYRA\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Хорошо. Тогда убирайся из моего сектора\"."
 
 #: src-en/data/events_sector_jerry.xml:180
 msgid "data/events_sector_jerry.xml$//event[@name=\"CYRA\"]/choice[2]/text"
@@ -294,7 +301,7 @@ msgstr "Точно?"
 #: src-en/data/events_sector_jerry.xml:197
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"CYRA_JERRYMET\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Хорошо. Тогда убирайся из моего сектора\"."
 
 #: src-en/data/events_sector_jerry.xml:201
 msgid ""
@@ -439,22 +446,56 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:294
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_SURRENDER\"]/choice/event/choice[@req=\"unique_tully\"]/text"
-msgstr ""
+msgstr "(Талли) Попросить Талли дать им объясниться."
 
 #: src-en/data/events_sector_jerry.xml:296
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_SURRENDER\"]/choice/event/choice[@req=\"unique_tully\"]/event/text"
 msgstr ""
+"Талли вздыхает. \"Эта операция не была санкционирована адмиралтейством... но "
+"известно, что подобные несанкционированные бойни случаются, когда Федерация "
+"оказывается прижатой спиной к стене. То же самое произошло во время войны "
+"между Федерацией и богомолами\". Талли грустно улыбается. \"К слову, пока мы "
+"преследовали военных преступников... повстанцам понадобились "
+"высококвалифицированные человеческие военные командиры, затаившие злобу на "
+"Федерацию. Попробуйте угадать, где они их взяли\".\n"
+"\t\t\t\t\n"
+"\"Мы не отвечаем за то, что делают военные. Мы гражданские! Мы просто хотим "
+"жить в мире\". Гражданский складывает руки. \"Если ваша Федерация вернется, "
+"вы действительно думаете, что нас пощадят?\"\n"
+"\n"
+"\"Это моя работа - быть уверенным в этом. Я не могу сказать, что корабли "
+"Федерации всегда будут вести себя хорошо, но я обещаю, что мы очень серьезно "
+"относимся к военным преступникам. Пока я могу, я буду следить за тем, чтобы "
+"справедливость восторжествовала\".\n"
+"\n"
+"Люди на планете, кажется, удивлены таким бесстрастным обещанием Талли. Они "
+"настроены скептически, но жест оценили."
 
 #: src-en/data/events_sector_jerry.xml:307
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_SURRENDER\"]/choice/event/choice[@req=\"unique_jerry\"]/text"
-msgstr ""
+msgstr "(Джерри) Пообещать, что все наладится."
 
 #: src-en/data/events_sector_jerry.xml:309
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_SURRENDER\"]/choice/event/choice[@req=\"unique_jerry\"]/event/text"
 msgstr ""
+"Джерри складывает руки вместе в знак протеста. \"Сейчас все очень плохо. Я "
+"понимаю. И именно поэтому я хочу помочь. Я знаю, что мы все осознаем, как "
+"плохо поступила Федерация, но я думаю, что смогу заставить их прислушаться "
+"ко мне. Давайте все исправим\".\n"
+"\n"
+"Один из гражданских паникует. \"Джерри, не надо! Ты не можешь их изменить! "
+"Это небезопасно!\"\n"
+"\n"
+"\"Я знаю, что это трудно, но я бы не стал этого делать, если бы у меня не "
+"было веских причин верить, что это сработает. Если мир возможен... не "
+"думаете ли вы, что я должен попытаться?\"\n"
+"\n"
+"Одна из гражданских закрывает лицо, явно борясь со слезами. \"Ты слишком "
+"хорош для нас, Джерри...\" Гражданские настаивают на своем первоначальном "
+"предложении сдаться."
 
 #: src-en/data/events_sector_jerry.xml:320
 msgid ""
@@ -711,7 +752,7 @@ msgstr "Ничего не делать."
 msgid "data/events_sector_jerry.xml$//event[@name=\"JERRY_TAXES\"]/text"
 msgstr ""
 "Вы заметили, что неподалеку была построена небольшая колония повстанцев. По "
-"шифрованным каналам они передают вам простое предложение: \"Мы знаем, кто "
+"зашифрованным каналам они передают вам простое предложение: \"Мы знаем, кто "
 "вы, но времена настали тяжелые. Здешние Асы больше не следуют правилам "
 "Сайры, они получают приказы из Вселенной 1. Налоги большие, и мы готовы "
 "торговать с кем угодно\"."
@@ -790,8 +831,8 @@ msgid ""
 msgstr ""
 "Вы поднимаетесь на борт станции, и тут из нее выходят повстанцы с оружием "
 "наготове! \"Гнида Федерации, мы знали, что ты на это купишься! Ты прорвался "
-"в наш сектор, а мы прорвемся к твоей морде! Хахах... эх... в моей голове это"
-" звучало лучше. Как бы то ни было, ты арестован\"."
+"в наш сектор, а мы прорвемся к твоей морде! Ха-ха... эх... в моей голове это "
+"звучало лучше. Как бы то ни было, ты арестован\"."
 
 #: src-en/data/events_sector_jerry.xml:520
 msgid ""
@@ -855,7 +896,7 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:557
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COLONISTS\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на колонию."
 
 #: src-en/data/events_sector_jerry.xml:559
 msgid ""
@@ -900,80 +941,148 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:602
 msgid "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/text"
 msgstr ""
+"Движение на этом маяке спокойное. Вы ловите далекий сигнал - и, настроив "
+"его, слышите милую частушку: \"Ду-да-ду, ду-ду-ду да-до-ду-ду! Ба-ду-ду-ду, "
+"ду-ду-да-ду-да! Элллиииии, Эквииииноииид!\" Похоже, это телешоу под "
+"названием... Элли Эквиноид?"
 
 #: src-en/data/events_sector_jerry.xml:604
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/text"
-msgstr ""
+msgstr "Следовать за сигналом."
 
 #: src-en/data/events_sector_jerry.xml:606
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/text"
 msgstr ""
+"Без особого труда вам удается установить источник сигнала на луне, "
+"вращающейся вокруг газового гиганта. Там хорошо спрятан небольшой защитный "
+"купол, в котором пристыкован корабль Инженеров-повстанцев. Передача "
+"прекращается, как только вы приближаетесь, но уже слишком поздно - вы уже "
+"знаете их местоположение. Они сигнализируют о своем местонахождении."
 
 #: src-en/data/events_sector_jerry.xml:609
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Открыть канал к секретному куполу."
 
 #: src-en/data/events_sector_jerry.xml:611
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Хмурый мужчина в костюме загибает пальцы, сидя на своем стуле. За его спиной "
+"стоят мужчины и женщины и так же пристально смотрят на вас. \"Молодец, "
+"Ренегат. Ты нашел нас. Прими мои поздравления\". Он медленно хлопает в "
+"ладоши, словно насмехаясь над вами."
 
 #: src-en/data/events_sector_jerry.xml:613
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Кто ты вообще такой?"
 
 #: src-en/data/events_sector_jerry.xml:615
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Похоже, ты еще МЕНЕЕ проинформирован, чем я думал\". Мужчина надменно "
+"смеется. \"Мы - Мета-повстанцы. Мы... создали идеальную идеологию. В то "
+"время как остальной сброд спорит за границы и ресурсы, переступая через "
+"жизни, чтобы получить власть, только МЫ по-настоящему понимаем, что такое "
+"борьба с системой\"."
 
 #: src-en/data/events_sector_jerry.xml:617
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Какое отношение это имеет к телепередаче, которую вы вели?"
 
 #: src-en/data/events_sector_jerry.xml:619
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Мужчина перестает выглядеть надменным и выглядит раздраженным. \"Да, ну, мы "
+"распространяем средства массовой информации, о которых ИСТЕБЛИШМЕНТ не "
+"хочет, чтобы ты знал. Мы знаем маршруты патрулирования и время, когда обычно "
+"безопасно\"."
 
 #: src-en/data/events_sector_jerry.xml:621
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_ELLIE_COSTUME\"]/text"
-msgstr ""
+msgstr "(Элли) \"Не волнуйтесь, Элли здесь!\""
 
 #: src-en/data/events_sector_jerry.xml:623
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_ELLIE_COSTUME\"]/event/text"
 msgstr ""
+"\"Вау! У Элли свой фан-клуб! И они выступают против людей, которые обидели "
+"Элли!\" Элли радостно смеется. \"Все идет как надо для Элли!\"\n"
+"\n"
+"\"Не может быть! Элли?\" Повстанцы столпились вокруг экрана. Один из них "
+"сзади кричит: \"Я твой самый большой фанат, Элли!\".\n"
+"\n"
+"\"Ха-ха-ха! Хорошо, хорошие мальчики и девочки! Присоединяйтесь к праведному "
+"крестовому походу Элли! Ииии-го-го! Ради счастья всех детей мы расправимся с "
+"любым, кто подвергнет Элли цензуре!\" Бунтари практически падают на колени. "
+"Что ж, по крайней мере, у Элли нашлись такие же безумные фанаты, как и она "
+"сама. Есть несколько добровольцев, которые борются за возможность попасть на "
+"борт, а многие другие предлагают столько лома, сколько физически могут "
+"унести."
 
 #: src-en/data/events_sector_jerry.xml:628
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_ELLIE_COSTUME\"]/event/crewMember"
-msgstr ""
+msgstr "Фанат Элли"
 
 #: src-en/data/events_sector_jerry.xml:633
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"unique_ellie_stephan\"]/text"
-msgstr ""
+msgstr "(Стефан) Пусть Стефан поговорит с ними."
 
 #: src-en/data/events_sector_jerry.xml:635
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"unique_ellie_stephan\"]/event/text"
 msgstr ""
+"Стефан на мгновение собирается с мыслями, чтобы подготовиться, а затем "
+"переходит к встрече и приветствию. \"Приветствую вас! Не уверен, что кто-то "
+"из вас меня узнает, но я играл роль в том шоу, которое вы транслировали\".\n"
+"\n"
+"Повстанцы на мгновение растерялись, пока не поняли, кто такой Стефан. "
+"\"Стефан? Пришел к нам в гости? Знаете... Я всегда мечтал встретиться с "
+"вами. Вы могли бы принести много пользы нашему делу, знаете, распространить "
+"информа-\"\n"
+"\n"
+"\"Погодите, я вас прерву. Сейчас я должен отдать долг людям на этом корабле. "
+"Я думаю, это здорово, что вы исповедуете свою идеологию, но... я не думаю, "
+"что одно мое шоу принесет много пользы. Есть много более значимых изменений, "
+"которые вы могли бы сделать в пространстве повстанцев - вещей, которые "
+"действительно могут изменить ситуацию к лучшему\".\n"
+"\n"
+"Толпа повстанцев стоит, ошеломленная, в минутном молчании. Затем все "
+"начинают кивать. \"Д-да, конечно. Вы правы. Возможно, мы были легкомысленны. "
+"Я... хм... подумаю о радикальных переменах\".\n"
+"\n"
+"\"Звучит так, будто вы напуганы. Я понимаю. Но это плата за то, что вы "
+"хотите показать себя\".\n"
+"\n"
+"Стефан продолжает вразумлять Мета-повстанцев. Когда он закончил, вы "
+"обнаружили, что один из членов команды решил присоединиться к вам в вашей "
+"миссии."
 
 #: src-en/data/events_sector_jerry.xml:651
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Разве тот, кто восстает против вас, не самый большой повстанец из всех?"
 
 #: src-en/data/events_sector_jerry.xml:653
 msgid "data/events_sector_jerry.xml$//event[@name=\"META_REBELLION_TRICK\"]/text"
 msgstr ""
+"Вы объясняете, что если Мета-повстанцы лучше повстанцев, потому что они "
+"восстают против повстанцев, то тот, кто предал их (скажем, присоединился к "
+"Ренегатам), будет САМЫМ большим повстанцем из всех. Сначала главный говорит: "
+"\"Ха, не заставляйте меня-\", но его прерывают - инженеры позади него уже "
+"нацелили оружие друг на друга. \"...Что вы делаете? Вы не можете просто-\" "
+"Начинается драка. Победитель садится в шаттл и прилетает на ваш корабль, "
+"чтобы предложить свои услуги. Однако их корабль, похоже, понял вашу "
+"нечестную игру и атакует вас!"
 
 #: src-en/data/events_sector_jerry.xml:657
 msgid ""
@@ -983,12 +1092,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:663
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Это пустая трата времени. Уходим."
 
 #: src-en/data/events_sector_jerry.xml:665
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"\"Как бы не так! Ты слишком много знаешь. Мы вынуждены от тебя избавиться. "
+"Оревуар!\" Звук отключается, и корабль Инженеров оживает!"
 
 #: src-en/data/events_sector_jerry.xml:668
 msgid ""
@@ -998,27 +1109,31 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:676
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Значит... это делает вас потенциальным союзником Федерации?"
 
 #: src-en/data/events_sector_jerry.xml:678
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Ха! Не смеши меня. Федерация - еще больший истеблишмент, чем Восстание. Вы "
+"настолько ничтожны для нас, что даже не заслуживаете внимания\"."
 
 #: src-en/data/events_sector_jerry.xml:680
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Разве тот, кто восстает против вас, не самый большой повстанец из всех?"
 
 #: src-en/data/events_sector_jerry.xml:684
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Это пустая трата времени. Уходим."
 
 #: src-en/data/events_sector_jerry.xml:686
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Как бы не так! Ты слишком много знаешь. Мы вынуждены от тебя избавиться. "
+"Оревуар!\" Звук отключается, и корабль Инженеров оживает!"
 
 #: src-en/data/events_sector_jerry.xml:689
 msgid ""
@@ -1028,17 +1143,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:697
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Разве тот, кто восстает против вас, не самый большой повстанец из всех?"
 
 #: src-en/data/events_sector_jerry.xml:701
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Это пустая трата времени. Уходим."
 
 #: src-en/data/events_sector_jerry.xml:703
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"\"Как бы не так! Ты слишком много знаешь. Мы вынуждены от тебя избавиться. "
+"Оревуар!\" Звук отключается, и корабль Инженеров оживает!"
 
 #: src-en/data/events_sector_jerry.xml:706
 msgid ""
@@ -1048,12 +1165,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:716
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Атаковать их купол."
 
 #: src-en/data/events_sector_jerry.xml:718
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Корабль Инженеров быстро реагирует на ваше агрессивное поведение. Похоже, у "
+"вас намечается бой!"
 
 #: src-en/data/events_sector_jerry.xml:721
 msgid ""
@@ -1063,12 +1182,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:729
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимание на сигнал."
 
 #: src-en/data/events_sector_jerry.xml:731
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_META_REBELLION\"]/choice[2]/event/text"
 msgstr ""
+"У вас нет времени гоняться за телевизионными сигналами детских телепередач."
 
 #: src-en/data/events_sector_jerry.xml:733
 msgid ""
@@ -1083,56 +1203,78 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:745
 msgid "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/text"
 msgstr ""
+"У этого маяка находится корабль повстанцев. Он держится на расстоянии от "
+"вашего корабля."
 
 #: src-en/data/events_sector_jerry.xml:748
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/text"
-msgstr ""
+msgstr "связаться с ними и спросить, почему они ведут себя подозрительно."
 
 #: src-en/data/events_sector_jerry.xml:750
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/text"
 msgstr ""
+"Голос, который раздается, звучит немного странно, как будто его изменили с "
+"помощью цифровых технологий. \"Мы оставим тебя в живых, Ренегат. Уходи\"."
 
 #: src-en/data/events_sector_jerry.xml:752
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Пригрозить написать на них заявление, если они не ответят."
 
 #: src-en/data/events_sector_jerry.xml:754
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Возникает пауза, а затем приходит ответ, на этот раз отчетливо похожий на "
+"голос слизня. \"Коалиция здесссь не ради тебя, Ренегат. Мы здесссь, чтобы "
+"шпионить за повссстанцами и мешшшать им. Так глубоко на территорию "
+"повссстанцев мы ещщще никогда не заходили. В нашшших интересссах будет "
+"просссто игнорировать друг друга и сссоздавать проблемы для нашшшего "
+"общщщего врага\"."
 
 #: src-en/data/events_sector_jerry.xml:756
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_MANTIS\"]/text"
 msgstr ""
+"(Член экипажа-богомол) Соблазнить богомола обещанием устроить лучший бой в "
+"его жизни."
 
 #: src-en/data/events_sector_jerry.xml:758
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_MANTIS\"]/event/text"
 msgstr ""
+"Богомол ухватился за эту возможность. \"Пока, придурки! Лучше сражаться "
+"сейчас! Шпионаж - пустая трата времени\".\n"
+"\n"
+"\t\t\t\t\t\t\t\"У тебя есссть выдержка... Эх, да ну его. Забирай этого "
+"идиота сссебе\"."
 
 #: src-en/data/events_sector_jerry.xml:765
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr ""
+"Подкупить их, чтобы они задержали флот и помогли вам помешать повстанцам."
 
 #: src-en/data/events_sector_jerry.xml:767
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Конечно, это можно уссстроить. Убивай ссстолько повссстанцев, сссколько "
+"сссможешшшь найти\"."
 
 #: src-en/data/events_sector_jerry.xml:775
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Коалиция ничем не лучше повстанцев! Атакуем!"
 
 #: src-en/data/events_sector_jerry.xml:777
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Это бессссмысссленный бой, Ренегат! Повссстанцы только выиграют от "
+"нашшшего конфликта!\" Корабль без промедления защищается."
 
 #: src-en/data/events_sector_jerry.xml:780
 msgid ""
@@ -1147,12 +1289,13 @@ msgstr "Оставить их в покое."
 #: src-en/data/events_sector_jerry.xml:792
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Делать, как они говорят."
 
 #: src-en/data/events_sector_jerry.xml:794
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Корабль остается верен своему обещанию, не вмешиваясь в вашу деятельность."
 
 #: src-en/data/events_sector_jerry.xml:796
 msgid ""
@@ -1165,15 +1308,16 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_jerry.xml:808
-#, fuzzy
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[2]/text"
-msgstr "Атаковать корабль!"
+msgstr "Атаковать корабль."
 
 #: src-en/data/events_sector_jerry.xml:810
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[2]/event/text"
 msgstr ""
+"Удивительно, но на этом корабле есть экипаж Коалиции! Они без промедления "
+"защищаются."
 
 #: src-en/data/events_sector_jerry.xml:813
 msgid ""
@@ -1189,6 +1333,8 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_COALITION_SPIES\"]/choice[3]/event/text"
 msgstr ""
+"Корабль продолжает оставаться у этого маяка, не реагируя ни на какие "
+"действия вашего корабля."
 
 #: src-en/data/events_sector_jerry.xml:823
 msgid ""
@@ -1226,7 +1372,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_sector_jerry.xml:849
 msgid "data/events_sector_jerry.xml$//event[@name=\"JERRY_DEPOT\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на депо."
 
 #: src-en/data/events_sector_jerry.xml:851
 msgid ""
@@ -1327,12 +1473,25 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:911
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) Джерри на борту, не хотите ли показать ему подарок?"
 
 #: src-en/data/events_sector_jerry.xml:913
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/text"
 msgstr ""
+"Инженер поражен. \"Что, это он? Ну...\" Инженер нервно почесывает плечо. \"Он"
+" еще не закончен, но... давайте я вам его покажу\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tИнженер возится с управлением, и автоматический корабль оживает. "
+"\"Доброе утро, Смит. Хотите, я снова почитаю вашим детям сказки на ночь?\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"Нет-нет-нет, я...\" Он поворачивается к Джерри. \"Возможно, я "
+"испытал его личность на своей семье\". Он прочищает горло. \"Смотрите, это "
+"человек Джерри!\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tДжерри машет рукой синему автоматическому кораблю. \"Привет\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"О, ты тот парень, с которого я брал пример. Привет\"."
 
 #: src-en/data/events_sector_jerry.xml:923
 msgid ""
@@ -1343,6 +1502,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice/event/text"
 msgstr ""
+"\"Ну, это, конечно, здорово, но мне просто интересно... зачем дарить кому-то "
+"копию его собственной личности?\"\n"
+"\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\tСмит потирает подбородок. \"Ну, я вижу это так: что есть "
+"такого, чего нет у вас, и что есть у всех остальных?\" Джерри уставился в "
+"пустоту. \"Это вы! Каждый человек в Протекторате становится счастливее в "
+"вашем присутствии. Великая трагедия заключается в том, что единственный "
+"человек, у которого нет Джерри, - это сам Джерри!\""
 
 #: src-en/data/events_sector_jerry.xml:929
 msgid ""
@@ -1353,6 +1520,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Джерри некоторое время смотрит на вас, а затем вздыхает. \"Что ж, это "
+"хороший подарок и прекрасное чувство. Я отправляюсь в путешествие, так "
+"что... Почему бы тебе не использовать его, чтобы поднять всем настроение в "
+"мое отсутствие? Думаю, если я действительно сделаю вас счастливыми, то самый "
+"большой подарок, который вы можете мне сделать, - это то, что я буду "
+"радовать людей сразу в двух местах\".\n"
+"\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\tВсе инженеры начинают плакать. \"О, Джерри... ты самый "
+"лучший парень всех времен!\" Инженеры настаивают на том, чтобы вы взяли все, "
+"что у них есть, поскольку Джерри решил оставить свой подарок."
 
 #: src-en/data/events_sector_jerry.xml:942
 msgid ""
@@ -1369,10 +1546,9 @@ msgstr ""
 "возвращается к работе над кораблем."
 
 #: src-en/data/events_sector_jerry.xml:946
-#, fuzzy
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr "Атаковать их."
+msgstr "Атаковать их!"
 
 #: src-en/data/events_sector_jerry.xml:948
 msgid ""
@@ -1406,10 +1582,9 @@ msgstr ""
 "возвращается к работе над кораблем."
 
 #: src-en/data/events_sector_jerry.xml:967
-#, fuzzy
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr "Атаковать их."
+msgstr "Атаковать их!"
 
 #: src-en/data/events_sector_jerry.xml:969
 msgid ""
@@ -1443,10 +1618,9 @@ msgstr ""
 "и забираете бесплатные припасы."
 
 #: src-en/data/events_sector_jerry.xml:993
-#, fuzzy
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_AUTO_REPLICA\"]/choice[2]/text"
-msgstr "Атаковать повстанцев."
+msgstr "Атаковать повстанцев!"
 
 #: src-en/data/events_sector_jerry.xml:995
 msgid ""
@@ -1637,7 +1811,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:1092
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_MOCKBATTLE\"]/choice[3]/text"
-msgstr ""
+msgstr "Уйти немедленно."
 
 #: src-en/data/events_sector_jerry.xml:1094
 msgid ""
@@ -1657,16 +1831,20 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:1108
 msgid "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/text"
 msgstr ""
+"\"Это Ренегат? Да что проку... Мы никогда не преуспеем\". Повстанцы не "
+"атакуют."
 
 #: src-en/data/events_sector_jerry.xml:1111
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[1]/text"
-msgstr ""
+msgstr "Давайте докажем, что они правы. Атакуем!"
 
 #: src-en/data/events_sector_jerry.xml:1113
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[1]/event/text"
 msgstr ""
+"Если они жалуются на свое неизбежное поражение, то кто вы такой, чтобы "
+"отказывать им в этом?"
 
 #: src-en/data/events_sector_jerry.xml:1116
 msgid ""
@@ -1676,37 +1854,50 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1122
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/text"
-msgstr ""
+msgstr "Спросить их, не случилось ли чего."
 
 #: src-en/data/events_sector_jerry.xml:1124
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/text"
 msgstr ""
+"\"Просто...\" Повстанец вздыхает. \"У этого корабля один из худших послужных "
+"списков среди всех действующих кораблей повстанцев. Каждое задание, в "
+"котором мы участвовали, заканчивалось провалом. Мы даже не удостоились чести "
+"пасть во имя дела. Мы - посмешище флота повстанцев. Мы никак не можем "
+"победить Ренегатов. Вот почему нас оставили здесь, где мы вряд ли что-нибудь "
+"испортим\"."
 
 #: src-en/data/events_sector_jerry.xml:1126
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[@req=\"unique_jerry\"]/text"
-msgstr ""
+msgstr "(Джерри) \"Я горжусь вами\"."
 
 #: src-en/data/events_sector_jerry.xml:1128
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[@req=\"unique_jerry\"]/event/text"
 msgstr ""
+"Джерри говорит в коммуникатор. \"Привет, я знаю, что все было непросто, но я "
+"хочу, чтобы вы знали, что я горжусь вами. Вы сами сказали, что живы, не так "
+"ли? Это немалый подвиг в такой опасной галактике, как эта\".\n"
+"\t\t\t\t\t\n"
+"\"Джерри? Вы действительно это говорите?\" Голос на другом конце звучит "
+"захлебываясь. \"Вы даже не представляете, как долго нам нужно было это "
+"услышать. Вы действительно самый крутой парень в галактике\"."
 
 #: src-en/data/events_sector_jerry.xml:1135
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Утешить их."
 
 #: src-en/data/events_sector_jerry.xml:1139
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Избавить их от страданий."
 
 #: src-en/data/events_sector_jerry.xml:1141
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "Их упадническое настроение, надеюсь, даст вам тактическое преимущество."
 
 #: src-en/data/events_sector_jerry.xml:1144
 msgid ""
@@ -1716,12 +1907,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1150
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "Уйти от повстанцев."
 
 #: src-en/data/events_sector_jerry.xml:1152
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[2]/event/choice[4]/event/text"
-msgstr ""
+msgstr "Вы спокойно уходите, не говоря больше ни слова."
 
 #: src-en/data/events_sector_jerry.xml:1154
 msgid ""
@@ -1736,12 +1927,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:1166
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[3]/text"
-msgstr ""
+msgstr "Пощадить удрученного повстанца."
 
 #: src-en/data/events_sector_jerry.xml:1168
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_REBEL_DEPRESSED\"]/choice[3]/event/text"
 msgstr ""
+"Какой бы ни была их проблема, вы воспользуетесь возможностью избежать "
+"сражения."
 
 #: src-en/data/events_sector_jerry.xml:1170
 msgid ""
@@ -1757,6 +1950,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_REBEL_DEPRESSED_CONSOLE\"]/event[1]/text"
 msgstr ""
+"\"Что ТЫ знаешь? То, что ты вообще здесь, говорит о том, что ты никогда не "
+"сможешь понять нашу боль!\" Настроение капитана повстанцев изменилось. Вам "
+"придется сражаться с ними!"
 
 #: src-en/data/events_sector_jerry.xml:1185
 msgid ""
@@ -1767,96 +1963,135 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_REBEL_DEPRESSED_CONSOLE\"]/event[2]/text"
 msgstr ""
+"\"Ренегат пытается нас развеселить? Не думал, что доживу до этого дня\". "
+"Повстанцы бросают вам припасы, чтобы вы их подобрали."
 
 #: src-en/data/events_sector_jerry.xml:1194
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_REBEL_DEPRESSED_CONSOLE\"]/event[3]/text"
-msgstr ""
+msgstr "\"Что ты пытаешься здесь сделать? Не стоит тратить на нас свое время\"."
 
 #: src-en/data/events_sector_jerry.xml:1212
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/text"
 msgstr ""
+"Маленький невооруженный корабль настойчиво вызывает вас, когда вы "
+"приближаетесь. \"Мы представляем группу \"Заклинатели снов\", цель которой - "
+"принести радость и чудо в жизнь людей, особенно маленьких детей и Джерри. Мы "
+"вызывали улыбки на лицах людей, сбрасывая астероиды на орбиты, чтобы они "
+"выглядели как падающие звезды... но произошел несчастный случай, и на "
+"астероиде, который мы сбросили, мог оказаться секретный тайник с "
+"боеголовками, которые сейчас падают в сторону населенного города\". Короткая "
+"пауза. \"Пожалуйста, помогите им!\""
 
 #: src-en/data/events_sector_jerry.xml:1214
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"MAGNET_ARM\"]/text"
 msgstr ""
+"(Магнитный кран) Подлететь и захватить тайник с боеголовками с помощью "
+"своего магнитного крана."
 
 #: src-en/data/events_sector_jerry.xml:1216
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"MAGNET_ARM\"]/event/text"
 msgstr ""
+"Вы подлетаете и хватаете его как раз вовремя. В тайнике полно боеголовок и "
+"даже спрятано баллистическое орудие."
 
 #: src-en/data/events_sector_jerry.xml:1220
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"MAGNET_ARM\"]/event/choice/text"
-msgstr ""
+msgstr "Вернуться к \"Заклинателям снов\"."
 
 #: src-en/data/events_sector_jerry.xml:1222
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"MAGNET_ARM\"]/event/choice/event/text"
 msgstr ""
+"\"Вау, вы сделали это! Но... Мне жаль, что мы не смогли устроить большое "
+"зрелище... Да что я говорю, по крайней мере, никто не пострадал\". Они дают "
+"вам небольшое вознаграждение."
 
 #: src-en/data/events_sector_jerry.xml:1229
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_FOCUS_DAMAGE\"]/text"
 msgstr ""
+"(Повреждающий точечный луч) Использовать свой точечный луч, чтобы метко "
+"уничтожить тайник."
 
 #: src-en/data/events_sector_jerry.xml:1231
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_FOCUS_DAMAGE\"]/event/text"
 msgstr ""
+"Ваш точечный луч попадает в тайник в нужном месте, чтобы взорвать "
+"боеголовки. Астероид безвредно взрывается в атмосфере, не долетев до города. "
+"Образовавшиеся обломки сгорают в атмосфере, что приводит к явлению, "
+"напоминающему метеоритный дождь, для города внизу."
 
 #: src-en/data/events_sector_jerry.xml:1233
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_FOCUS_DAMAGE\"]/event/choice/text"
-msgstr ""
+msgstr "Вернуться к \"Заклинателям снов\"."
 
 #: src-en/data/events_sector_jerry.xml:1239
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_ACCURATE_BALLISTIC\"]/text"
 msgstr ""
+"(Меткое баллистическое орудие) Использовать ракету, чтобы метко уничтожить "
+"тайник."
 
 #: src-en/data/events_sector_jerry.xml:1241
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_ACCURATE_BALLISTIC\"]/event/text"
 msgstr ""
+"Ваш выстрел попадает в тайник в нужном месте, чтобы взорвать боеголовки. "
+"Астероид безвредно взрывается в атмосфере, не долетев до города. "
+"Образовавшиеся обломки сгорают в атмосфере, что приводит к явлению, "
+"напоминающему метеоритный дождь, для города внизу."
 
 #: src-en/data/events_sector_jerry.xml:1246
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"BLUELIST_ACCURATE_BALLISTIC\"]/event/choice/text"
-msgstr ""
+msgstr "Вернуться к \"Заклинателям снов\"."
 
 #: src-en/data/events_sector_jerry.xml:1252
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"SNIPER\"]/text"
-msgstr ""
+msgstr "(Точновцель) Метко уничтожить тайник."
 
 #: src-en/data/events_sector_jerry.xml:1254
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"SNIPER\"]/event/text"
 msgstr ""
+"Ваш выстрел попадает в тайник в нужном месте, чтобы взорвать боеголовки. "
+"Астероид безвредно взрывается в атмосфере, не долетев до города. "
+"Образовавшиеся обломки сгорают в атмосфере, что приводит к явлению, "
+"напоминающему метеоритный дождь, для города внизу."
 
 #: src-en/data/events_sector_jerry.xml:1256
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[@req=\"SNIPER\"]/event/choice/text"
-msgstr ""
+msgstr "Вернуться к \"Заклинателям снов\"."
 
 #: src-en/data/events_sector_jerry.xml:1262
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[5]/text"
 msgstr ""
+"Тайник уже находится в атмосфере и падает в сторону города. Если только ваш "
+"выстрел не будет очень точным, вы скорее всего попадете в город, чем в "
+"тайник."
 
 #: src-en/data/events_sector_jerry.xml:1266
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[6]/text"
-msgstr ""
+msgstr "Убить \"Заклинателей снов\"."
 
 #: src-en/data/events_sector_jerry.xml:1268
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[6]/event/text"
 msgstr ""
+"Вместо того чтобы спасать город, вы делаете несколько выстрелов прямо в "
+"\"Заклинателей снов\", уничтожая их корабль в мгновение ока. На планете "
+"внизу тайник врезается в город, вызывая мощный взрыв."
 
 #: src-en/data/events_sector_jerry.xml:1271
 msgid ""
@@ -1871,7 +2106,7 @@ msgstr "Не обращать на них внимания."
 #: src-en/data/events_sector_jerry.xml:1279
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_SHOOTING_STAR\"]/choice[7]/event/text"
-msgstr ""
+msgstr "На поверхности планеты происходит большой взрыв."
 
 #: src-en/data/events_sector_jerry.xml:1281
 msgid ""
@@ -1887,57 +2122,74 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_DREAM_CONJURER_REWARD\"]/text"
 msgstr ""
+"\"БА-БАХ! Вы сделали это! Это было потрясающе! Уверен, для жителей города "
+"это выглядело прекрасно. Похоже, сегодня вы были самым настоящим "
+"\"Заклинателем снов\". Вот ваша награда!\""
 
 #: src-en/data/events_sector_jerry.xml:1298
 msgid "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/text"
 msgstr ""
+"Большая реклама зоопарка на этом маяке помогает точно определить "
+"местоположение сигнала бедствия. \"Помогите, животные вышли из-под контроля! "
+"Мы не можем вернуть их обратно!\""
 
 #: src-en/data/events_sector_jerry.xml:1300
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(Контроль разума) Умиротворить животных."
 
 #: src-en/data/events_sector_jerry.xml:1302
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"Животные легко поддаются вашей системе Контроля разума. Владельцы зоопарка "
+"горячо благодарят вас. \"Вы помогли этим животным, не причинив им вреда. "
+"Спасибо вам\"."
 
 #: src-en/data/events_sector_jerry.xml:1308
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"unique_irwin\"]/text"
-msgstr ""
+msgstr "(Ирвин) Показать им, как это делается."
 
 #: src-en/data/events_sector_jerry.xml:1310
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"unique_irwin\"]/event/text"
 msgstr ""
+"Ирвин с легкостью загоняет каждое животное в свой вольер. При этом он "
+"обучает владельцев зоопарка правилам содержания и ухода за животными. Его "
+"знания и опыт производят на них неизгладимое впечатление."
 
 #: src-en/data/events_sector_jerry.xml:1316
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
 msgstr ""
+"(Член экипажа-кристаллин) Установить заграждения, чтобы направить животных в "
+"вольеры."
 
 #: src-en/data/events_sector_jerry.xml:1318
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"Член экипажа кристаллин умело возвращает всех животных в их вольеры, "
+"используя свою способность изоляции. \"Вы помогли этим животным, не причинив "
+"им вреда. Спасибо\"."
 
 #: src-en/data/events_sector_jerry.xml:1324
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "(Член экипажа-валун) Пусть ваш валун использует силу."
 
 #: src-en/data/events_sector_jerry.xml:1328
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Отправить свой экипаж на помощь, чтобы успокоить животных."
 
 #: src-en/data/events_sector_jerry.xml:1332
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Невозможно отправить экипаж, если на борту никого нет."
 
 #: src-en/data/events_sector_jerry.xml:1336
 msgid ""
@@ -1947,7 +2199,7 @@ msgstr "Не обращать внимания на луну."
 #: src-en/data/events_sector_jerry.xml:1338
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DISTRESS_JERRY_ZOO\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Вы оставляете повстанцам самим разбираться с этой ситуацией."
 
 #: src-en/data/events_sector_jerry.xml:1340
 msgid ""
@@ -1963,36 +2215,57 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_ROCK\"]/event[1]/text"
 msgstr ""
+"Ваш валун пытается силой затолкать животных обратно в клетки, используя свою "
+"огромную массу и вес. К счастью, ни одно животное не пострадало. Владельцы "
+"выглядят благодарными, хотя и немного нервничают."
 
 #: src-en/data/events_sector_jerry.xml:1357
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_ROCK\"]/event[2]/text"
 msgstr ""
+"Ваш валун пытается силой загнать животных обратно в клетки, используя свою "
+"большую массу и вес. К сожалению, животные пугаются. В результате борьбы "
+"одно из животных погибает. Владельцы прогоняют вас прочь после этого "
+"происшествия."
 
 #: src-en/data/events_sector_jerry.xml:1363
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_CREW\"]/event[1]/text"
 msgstr ""
+"С помощью вашего экипажа владельцам зоопарка удается вернуть всех животных в "
+"их вольеры. К счастью, ни одно животное не пострадало. Владельцы зоопарка "
+"благодарны вам."
 
 #: src-en/data/events_sector_jerry.xml:1368
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_CREW\"]/event[2]/text"
 msgstr ""
+"Как бы они ни старались, ваш экипаж недостаточно опытен, чтобы помочь в этой "
+"ситуации. Больше здесь делать нечего."
 
 #: src-en/data/events_sector_jerry.xml:1372
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_CREW\"]/event[3]/text"
 msgstr ""
+"Один из членов вашего экипажа немного не в себе. Во время беспорядков "
+"происходит несчастный случай, и он погибает. Зоопарк приносит извинения, но, "
+"похоже, вы отправитесь дальше с пустыми руками."
 
 #: src-en/data/events_sector_jerry.xml:1375
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"JERRY_ZOO_CREW\"]/event[3]/removeCrew/text"
-msgstr ""
+msgstr "Ваш член экипажа выходит из Клон-отсека ничуть не пострадавшим."
 
 #: src-en/data/events_sector_jerry.xml:1392
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION\"]/text"
 msgstr ""
+"Корабль повстанцев появляется за вами, когда вы выходите из ССД. \"Я слежу "
+"за тобой с тех пор, как ты прибыл сюда, посторонний. Если тебе интересно, у "
+"меня есть для тебя работа. Есть одна офицерка, которая... назовем ее просто "
+"\"проблемной\". Ты ведь здесь, чтобы убивать повстанцев, не так ли? Что ж, "
+"мы дадим тебе координаты сочной цели, и мы оба будем в выигрыше. Даже "
+"награда для тебя найдется, если ты справишься. Договорились?\""
 
 #: src-en/data/events_sector_jerry.xml:1395
 msgid ""
@@ -2003,16 +2276,20 @@ msgstr "Принять задание."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION\"]/choice[1]/event/text"
 msgstr ""
+"\"Отлично. Ты не пожалеешь об этом, Ренегат. Мы отправим тебе координаты, а "
+"также место нашей встречи\"."
 
 #: src-en/data/events_sector_jerry.xml:1402
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать их, мы не ведем дела с повстанцами!"
 
 #: src-en/data/events_sector_jerry.xml:1404
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION\"]/choice[2]/event/text"
 msgstr ""
+"\"Я ожидал этого!\" Корабль повстанцев немедленно активирует орудия, как и "
+"ваш!"
 
 #: src-en/data/events_sector_jerry.xml:1407
 msgid ""
@@ -2028,6 +2305,8 @@ msgstr "Отказаться от халата."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION\"]/choice[3]/event/text"
 msgstr ""
+"\"Жаль... но с таким отношением к делу ты дальше не пройдешь!\" Повстанец "
+"немедленно атакует, получив отказ."
 
 #: src-en/data/events_sector_jerry.xml:1418
 msgid ""
@@ -2037,12 +2316,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1427
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится повстанец, которого вам предстоит убить."
 
 #: src-en/data/events_sector_jerry.xml:1429
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/text"
 msgstr ""
+"Прибыв к маяку, вы замечаете свою цель, которая заправляется на станции. Она "
+"не реагирует на ваше приближение."
 
 #: src-en/data/events_sector_jerry.xml:1431
 msgid ""
@@ -2052,7 +2333,7 @@ msgstr "Атаковать их."
 #: src-en/data/events_sector_jerry.xml:1433
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Они быстро отсоединяются от станции, чтобы ответить на ваше нападение!"
 
 #: src-en/data/events_sector_jerry.xml:1436
 msgid ""
@@ -2062,42 +2343,69 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1442
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/text"
-msgstr ""
+msgstr "Сначала связаться."
 
 #: src-en/data/events_sector_jerry.xml:1444
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/text"
 msgstr ""
+"\"Почему ты здесь, Ренегат? Я с тобой не ссорилась. Если ты не нападаешь на "
+"гражданских, значит, мы не обязаны сражаться\"."
 
 #: src-en/data/events_sector_jerry.xml:1446
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) Джерри хочет поговорить."
 
 #: src-en/data/events_sector_jerry.xml:1448
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/text"
 msgstr ""
+"\"Привет, Эйлин\".\n"
+"\t\t\t\t\t\n"
+"\"О, Джерри? Я бы не догадалась, что ты на борту. Что тебе нужно?\"\n"
+"\t\t\t\t\t\n"
+"\"Не знаю, как тебе сказать, но кто-то пытается тебя убить. Повстанец "
+"попросил капитана этого корабля убить тебя!\"\n"
+"\t\t\t\t\t\n"
+"Эйлин покачала головой. \"Думаю, мне не стоит удивляться. Многим "
+"высокопоставленным повстанцам не нравятся мои идеи. Я просто не думала, что "
+"кто-то из них пошлет корабль в Протекторат с единственной целью - убить "
+"меня\".\n"
+"\t\t\t\t\t\n"
+"Джерри вздыхает. \"Я не знаю, что нам делать... есть ли способ выяснить, кто "
+"их послал?\"\n"
+"\t\t\t\t\t\n"
+"\"Предоставь это мне. Свяжитесь с нами, как только захватите их корабль, и "
+"мы разберемся с этим. Мы разрешим вам использовать эту станцию\"."
 
 #: src-en/data/events_sector_jerry.xml:1464
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Спросить ее о ее обязанностях."
 
 #: src-en/data/events_sector_jerry.xml:1466
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Если ты хочешь знать, мы ведем кампанию по внесению изменений в военные "
+"действия, чтобы уменьшить воздействие на гражданское население. Наконец-то "
+"мы добились некоторых успехов, но это медленная работа. Конечно, мы не можем "
+"показать слабость перед вашей Федерацией, но жизни гражданских слишком "
+"важны, чтобы ими пренебрегать\"."
 
 #: src-en/data/events_sector_jerry.xml:1468
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Мораль - это не слабость."
 
 #: src-en/data/events_sector_jerry.xml:1470
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"\"Вы, представители Федерации, такие претенциозные. Мы бы не добились таких "
+"успехов, если бы вели себя так же, как вы. А теперь оставьте меня в покое, у "
+"меня важная работа\". Она отключает связь."
 
 #: src-en/data/events_sector_jerry.xml:1472
 msgid ""
@@ -2107,7 +2415,7 @@ msgstr "Атаковать их."
 #: src-en/data/events_sector_jerry.xml:1474
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Они быстро покидают свою станцию, чтобы ответить на ваше нападение!"
 
 #: src-en/data/events_sector_jerry.xml:1477
 msgid ""
@@ -2117,47 +2425,66 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1483
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Оставить их в покое."
 
 #: src-en/data/events_sector_jerry.xml:1489
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/text"
 msgstr ""
+"Почему повстанцы должны вас слушать? Федерация хочет мира. Победа - это то, "
+"чего хотят повстанцы."
 
 #: src-en/data/events_sector_jerry.xml:1491
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Когда Восстание только начиналось, было прискорбно, но неизбежно, что нам "
+"приходилось подвергать опасности гражданских, чтобы быть услышанными. Но "
+"теперь мы можем сражаться достойно, и поэтому мы обязаны это делать\"."
 
 #: src-en/data/events_sector_jerry.xml:1493
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/text"
 msgstr ""
+"Значит, совесть появляется только после победы? А что будет, если Восстание "
+"снова начнет проигрывать?"
 
 #: src-en/data/events_sector_jerry.xml:1495
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"\"Я не говорю, что согласна с ранними действиями Восстания, но если мы "
+"собираемся изменить галактику, то должны стать организацией, достойной "
+"этого, прежде чем побеждать. Я не понимаю, ты серьезно пришел сюда, чтобы "
+"просто допросить меня о моих намерениях? Какое тебе до этого дело?\""
 
 #: src-en/data/events_sector_jerry.xml:1497
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Повстанец велел нам убить вас. Мы хотели знать, почему."
 
 #: src-en/data/events_sector_jerry.xml:1499
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Вы очень принципиальны, не так ли? Надеюсь, вы не против, если я скажу, "
+"что в этом мы с вами похожи. Если ваши цели совпадают с моими, то вы окажете "
+"мне услугу. Есть несколько повстанцев, которые очень выступают против "
+"изменений, которые я предлагаю. Возможно, я смогу узнать, кто это, если вы "
+"захватите их корабль. Просто дайте мне знать, когда вы закончите. И не "
+"стесняйтесь взять немного топлива и лома на дорогу\"."
 
 #: src-en/data/events_sector_jerry.xml:1505
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Просто нужно было узнать, кого мы убиваем."
 
 #: src-en/data/events_sector_jerry.xml:1507
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Она издает озадаченный звук, когда вы переходите в атаку. \"Я все еще... не "
+"понимаю\"."
 
 #: src-en/data/events_sector_jerry.xml:1510
 msgid ""
@@ -2167,22 +2494,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1516
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Ничего. Не беспокойтесь об этом."
 
 #: src-en/data/events_sector_jerry.xml:1518
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "\"Хорошо...?\" Она вас больше не беспокоит."
 
 #: src-en/data/events_sector_jerry.xml:1524
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/text"
 msgstr ""
+"Движение повстанцев никогда не было связано с миром. Вы не можете изменить "
+"то, кем являются повстанцы."
 
 #: src-en/data/events_sector_jerry.xml:1526
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Какая ограниченность. Если мы не можем изменить повстанцев, то вы не "
+"можете изменить свою Федерацию, и все никогда не станет лучше\". Она "
+"отключает связь."
 
 #: src-en/data/events_sector_jerry.xml:1528
 msgid ""
@@ -2192,7 +2524,7 @@ msgstr "Атаковать их."
 #: src-en/data/events_sector_jerry.xml:1530
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Они быстро покидают свою станцию, чтобы ответить на ваше нападение!"
 
 #: src-en/data/events_sector_jerry.xml:1533
 msgid ""
@@ -2202,37 +2534,45 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1539
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Оставить их в покое."
 
 #: src-en/data/events_sector_jerry.xml:1547
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Благородная цель."
 
 #: src-en/data/events_sector_jerry.xml:1549
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"\"Я рада, что вы согласны. Так зачем вы пришли сюда? Ваше присутствие только "
+"усугубит ситуацию\"."
 
 #: src-en/data/events_sector_jerry.xml:1551
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Повстанец велел нам убить вас. Мы хотели знать, почему."
 
 #: src-en/data/events_sector_jerry.xml:1553
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/event/choice[1]/event/text"
 msgstr ""
+"\"Это все, что вам было нужно, да? Что ж, я уважаю вашу готовность выслушать "
+"нас. Есть несколько повстанцев, которые очень против изменений, которые я "
+"предлагаю. Возможно, я смогу узнать, кто это, если вы захватите их корабль. "
+"Просто дайте мне знать, когда вы закончите\"."
 
 #: src-en/data/events_sector_jerry.xml:1558
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Просто нужно было узнать, кого мы убиваем."
 
 #: src-en/data/events_sector_jerry.xml:1560
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_SPOT\"]/choice[2]/event/choice[2]/event/choice[3]/event/choice[2]/event/text"
 msgstr ""
+"Она издает озадаченный звук, когда вы переходите в атаку. \"Я все еще... не "
+"понимаю\"."
 
 #: src-en/data/events_sector_jerry.xml:1563
 msgid ""
@@ -2243,26 +2583,30 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_COMPLETED\"]/text"
 msgstr ""
+"Ваша цель уничтожена. Чтобы получить награду, вам нужно отправиться к месту "
+"встречи."
 
 #: src-en/data/events_sector_jerry.xml:1583
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Вы завершили свое убийство. Приходите сюда, чтобы получить награду."
 
 #: src-en/data/events_sector_jerry.xml:1585
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/text"
 msgstr ""
+"\"Отличная работа. Ты значительно облегчил нам работу. Вот твоя награда\"."
 
 #: src-en/data/events_sector_jerry.xml:1589
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Открыть по ним огонь, как только они отдадут награду."
 
 #: src-en/data/events_sector_jerry.xml:1591
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/choice[1]/event/text"
 msgstr ""
+"Они не удивлены вашим нападением. \"Ха! Я все равно хотел тебя прикончить\"."
 
 #: src-en/data/events_sector_jerry.xml:1594
 msgid ""
@@ -2272,12 +2616,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_jerry.xml:1600
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Отправиться в дорогу."
 
 #: src-en/data/events_sector_jerry.xml:1602
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REWARD\"]/choice[2]/event/text"
 msgstr ""
+"Ваш работодатель исчезает, оставляя вам немного времени, чтобы сделать что-"
+"нибудь на своем корабле."
 
 #: src-en/data/events_sector_jerry.xml:1604
 msgid ""
@@ -2292,12 +2638,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_jerry.xml:1617
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REVERSE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Вам поручено захватить корабль человека, который дал вам задание."
 
 #: src-en/data/events_sector_jerry.xml:1619
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"QUEST_JERRY_ASSASSINATION_REVERSE\"]/text"
 msgstr ""
+"\"Так-так-так. Ты проявил небрежность, и даже кажется, что ты с ней "
+"разговаривал. Думаю, мы оба понимаем, что мы не можем позволить тебе уйти\". "
+"Похоже, сражение неизбежно."
 
 #: src-en/data/events_sector_jerry.xml:1622
 msgid ""
@@ -2314,7 +2663,7 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:1646
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"ENCOUNTER_TOM\"]/choice[1]/text"
-msgstr ""
+msgstr "Не особо."
 
 #: src-en/data/events_sector_jerry.xml:1648
 msgid ""
@@ -2339,9 +2688,9 @@ msgstr "(Джерри) \"Эй, Том!\""
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"ENCOUNTER_TOM\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/text"
 msgstr ""
-"\"Ахаха! Я нашел тебя! Дурак. Подожди, пока Вэнс узнает, что ты работаешь на"
-" борту корабля Федерации! Наконец-то твой дядя перестанет о тебе заботиться "
-"и вернется к управлению Восстанием!\""
+"\"А-ха-ха! Я нашел тебя! Дурак. Подожди, пока Вэнс узнает, что ты работаешь "
+"на борту корабля Федерации! Наконец-то твой дядя перестанет о тебе "
+"заботиться и вернется к управлению Восстанием!\""
 
 #: src-en/data/events_sector_jerry.xml:1662
 msgid ""
@@ -2359,7 +2708,7 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:1672
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DESTROYED_TOM\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) \"Том... успокойся уже\"."
 
 #: src-en/data/events_sector_jerry.xml:1676
 msgid ""
@@ -2388,10 +2737,9 @@ msgid ""
 msgstr "Освободить повстанца и дать ему уйти."
 
 #: src-en/data/events_sector_jerry.xml:1692
-#, fuzzy
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"DESTROYED_TOM\"]/choice[6]/text"
-msgstr "Пощадить его."
+msgstr "Выкинуть его в открытый космос."
 
 #: src-en/data/events_sector_jerry.xml:1694
 msgid ""
@@ -2455,6 +2803,16 @@ msgstr ""
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"DESTROYED_TOM_POD_ACCEPT_JERRY\"]/event[1]/text"
 msgstr ""
+"\"Том, пожалуйста. Я тебе не враг\".\n"
+"\n"
+"\"Ты думаешь, что ты намного лучше меня?\"\n"
+"\n"
+"\"Я никогда не говорил ничего подобного\".\n"
+"\n"
+"\"Знаешь что? Я ДОКАЖУ, что я лучше. Я сделаю больше, чем ты когда-либо "
+"думал, что это ВОЗМОЖНО!\"\n"
+"\n"
+"Том присоединился в команду... нравится вам это или нет."
 
 #: src-en/data/events_sector_jerry.xml:1731
 msgid ""
@@ -2465,6 +2823,16 @@ msgstr "Том"
 msgid ""
 "data/events_sector_jerry.xml$//eventList[@name=\"DESTROYED_TOM_POD_ACCEPT_JERRY\"]/event[2]/text"
 msgstr ""
+"\"Том, пожалуйста. Я тебе не враг\".\n"
+"\n"
+"\"Это нечестно. Это просто нечестно\".\n"
+"\n"
+"\"Разве мы не можем просто поладить?\"\n"
+"\n"
+"\"Неважно. Веселись. Я присмотрю за этим местом. ТОГДА они поймут, кто тут "
+"настоящий крутой парень\".\n"
+"\n"
+"Джерри вздыхает, когда Том покидает ваш корабль."
 
 #: src-en/data/events_sector_jerry.xml:1750
 msgid ""
@@ -2693,32 +3061,102 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:1882
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) Спросить Джерри."
 
 #: src-en/data/events_sector_jerry.xml:1884
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/text"
 msgstr ""
+"\"Себастьян, все в порядке. Это я. Я хочу поговорить с другим собой\".\n"
+"\t\t\t\n"
+"\t\t\tСебастьян удивленно смотрит на него. \"Джерри? Что ты делаешь на борту "
+"корабля Ренегата?\"\n"
+"\t\t\t\n"
+"\t\t\t\"Я уже был здесь раньше, в очень похожей ситуации. Я прошел мимо тебя "
+"и поговорил с Ренегатами, которые пришли поговорить со мной. И они были "
+"добры ко мне. Даже если мне нечего было предложить, они все равно выслушали "
+"меня. Вот почему я хочу поговорить с собой\".\n"
+"\t\t\t\n"
+"\t\t\t\"Я... понимаю. Ну, только не делай глупостей\". Себастьян отходит в "
+"сторону и позволяет другому Джерри снова шагнуть вперед.\n"
+"\t\t\t\n"
+"\t\t\t\"Другой я...? Ты действительно я?\" Спрашивает другой Джерри.\n"
+"\t\t\t\n"
+"\t\t\t\"Да. Путешествуя по галактике, я узнал гораздо больше, чем сидя в "
+"нашем особняке. Мне еще многому предстоит научиться...\"\n"
+"\t\t\t\n"
+"\t\t\t\"Ты объездил всю галактику?\"\n"
+"\t\t\t\n"
+"\t\t\t\"Я побывал в стольких разных местах, но мне кажется, что я едва "
+"поцарапал ее поверхность. Я видел чужие миры, миры Федерации\".\n"
+"\t\t\t\n"
+"\t\t\t\"Как? Почему?\"\n"
+"\t\t\t\n"
+"\t\t\t\"Наверное, мне просто выпала такая возможность. Разве с нами не так "
+"всегда?\"\n"
+"\t\t\t\n"
+"\t\t\t\"Хех. Похоже на то\".\n"
+"\t\t\t\n"
+"\t\t\t\"Я решил, что хватит быть пассивным. Я хотел взглянуть на мир с новой "
+"стороны\".\n"
+"\t\t\t\n"
+"\t\t\t\"Но что ты пытаешься сделать?\""
 
 #: src-en/data/events_sector_jerry.xml:1910
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/text"
-msgstr ""
+msgstr "Рассказать Джерри о Флагмане повстанцев."
 
 #: src-en/data/events_sector_jerry.xml:1912
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/event/text"
 msgstr ""
+"Вы рассказываете Джерри о том, как Ренегатам поручено противостоять Флагману."
+"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"Джерри, ты столкнулся с Флагманом повстанцев? Твой дядя?\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tУточняет ваш Джерри. \"Ну, я не сталкивался с ним. Мультивселенная "
+"содержит бесчисленное множество путей, по которым мы можем пройти. Не все "
+"они ведут к схватке между дядей и Ренегатами\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"Надеюсь, тебе и не придется. Я все еще хочу иметь возможность "
+"поговорить с ним\"."
 
 #: src-en/data/events_sector_jerry.xml:1921
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Почему бы тебе не пойти с нами?"
 
 #: src-en/data/events_sector_jerry.xml:1923
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Ты хочешь, чтобы я тоже пошел?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Да, почему бы и нет? Это было бы хорошо для меня. Это может "
+"быть полезно и для тебя\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tДругой Джерри улыбается. \"Кто я такой, чтобы спорить с самим "
+"собой?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Я сделаю лучше. Кто ты такой, чтобы отказывать себе, своему "
+"лучшему \"я\"?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tДругой Джерри на мгновение задумывается. \"Как тебе удалось "
+"справиться с Сайрой?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tЛицо вашего Джерри меняется. \"А. Ну... В моем случае все было "
+"не так хорошо. Она была... упрямой. Но Ренегат дал ей шанс. Мы можем сделать "
+"это снова\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tДругой Джерри кивает. \"Думаю, стоит попробовать\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tВаш Джерри протягивает руку. \"Давай сделаем это\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tОба Джерри пожимают руки в знак согласия и улыбаются друг "
+"другу. Все остальные повстанцы, наблюдая за происходящим издалека, кажется, "
+"поражены увиденным зрелищем."
 
 #: src-en/data/events_sector_jerry.xml:1940
 msgid ""
@@ -2728,32 +3166,89 @@ msgstr "Джерри"
 #: src-en/data/events_sector_jerry.xml:1945
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Не стоит переживать, наш Джерри справится с этим."
 
 #: src-en/data/events_sector_jerry.xml:1947
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"unique_jerry\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Полагаю, ты справишься, не так ли? Ты гораздо круче и опытнее меня\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"В том, что я делаю, нет ничего особенного. Это может сделать "
+"кто угодно, особенно ты. Джерри, даже если ты останешься здесь, ты можешь "
+"сделать гораздо больше. Пожалуйста, не забывай об этом\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Не буду. И не забывай, кто мы такие. Мы - Джером Вентворт. "
+"Проследи, чтобы Ренегат не вступал в бой, пока наш дядя не выслушает тебя, "
+"хорошо?\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Даю слово\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tОба Джерри пожимают руки в знак согласия и улыбаются друг "
+"другу. Все остальные повстанцы, наблюдая за происходящим издалека, кажется, "
+"поражены открывшимся перед ними зрелищем."
 
 #: src-en/data/events_sector_jerry.xml:1963
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "Рассказать Джерри о Флагмане повстанцев."
 
 #: src-en/data/events_sector_jerry.xml:1965
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/text"
 msgstr ""
+"Вы рассказываете Джерри о том, как Ренегатам поручено противостоять Флагману."
+"\n"
+"   \t\t\t\t\t \n"
+"   \t\t\t\t\t\"Джерри, ты столкнулся с Флагманом повстанцев? Твой дядя?\"\n"
+"   \t\t\t\t\t \n"
+"   \t\t\t\t\t\"Да, сталкивался\". Джерри поправляет пистолет. \"Все... все "
+"пошло не так, как я хотел. Он не стал меня слушать. Он... он оскорбил меня. "
+"Дело дошло до сражения\".\n"
+"   \t\t\t\t\t \n"
+"   \t\t\t\t\tДругой Джерри держится за сердце и выглядит так, будто сейчас "
+"рухнет. \"Значит, если я пойду с тобой...\"\n"
+"   \t\t\t\t\t \n"
+"   \t\t\t\t\tДжерри вздыхает. \"Может быть. Я не был достаточно хорош, чтобы "
+"изменить его мнение. Не знаю, смогу ли я с чистой совестью сказать тебе, что "
+"ты сможешь изменить мнение своего дяди. Это болезненная перспектива\".\n"
+"   \t\t\t\t\t \n"
+"   \t\t\t\t\tДругой Джерри опускает глаза. \"Я не знаю, что и думать...\""
 
 #: src-en/data/events_sector_jerry.xml:1978
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Почему бы тебе не пойти с нами?"
 
 #: src-en/data/events_sector_jerry.xml:1980
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Ты хочешь, чтобы я тоже пошел?\"\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"Да, почему бы и нет? Это было бы хорошо для меня. Это может "
+"быть полезно и для тебя\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"Но разве мне не придется драться с дядей? Я не знаю, смогу "
+"ли я это сделать. В нем все еще есть добро. Я знаю, что есть\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"Я не откажу тебе в твоем путешествии. Когда придет время, "
+"ты сможешь поговорить с ним. Даю тебе слово\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tДругой Джерри на мгновение задумался. \"Как ты прошел мимо "
+"Сайры?\"\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tЛицо Джерри меняется. \"А. Ну... В мое время это не прошло "
+"гладко. Она была... упрямой. Но Ренегат дал ей шанс. Мы можем сделать это "
+"снова\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tДругой Джерри кивает. \"Думаю, стоит попробовать\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tВаш Джерри протягивает руку. \"Давай сделаем это\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tОба Джерри пожимают руки в знак согласия и улыбаются друг "
+"другу. Все остальные повстанцы, наблюдая за происходящим издалека, кажется, "
+"поражены увиденным зрелищем."
 
 #: src-en/data/events_sector_jerry.xml:1997
 msgid ""
@@ -2763,12 +3258,27 @@ msgstr "Джерри"
 #: src-en/data/events_sector_jerry.xml:2002
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Не стоит переживать, наш Джерри справится с этим."
 
 #: src-en/data/events_sector_jerry.xml:2004
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[@req=\"LIST_CREW_JERRY\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Может, это и к лучшему. Если я ничего не могу сделать, то лучше мне не "
+"присутствовать при его гибели\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"Но ты не можешь ничего не делать. Мы можем сделать очень "
+"многое. И я намерен доказать это еще раз. Никогда не забывай, на что ты "
+"способен\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"Ты уверен, что я на многое способен?\"\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\t\"На многое и даже больше. Дай себе шанс. Ты можешь быть "
+"удивлен тем, на что способен\".\n"
+"   \t\t\t\t\t\t \n"
+"   \t\t\t\t\t\tДжерри протягивает руку. Другой Джерри пожимает ее в знак "
+"согласия, и оба улыбаются друг другу. Все остальные повстанцы, наблюдая за "
+"происходящим издалека, кажется, поражены открывшимся перед ними зрелищем."
 
 #: src-en/data/events_sector_jerry.xml:2022
 msgid ""
@@ -2824,7 +3334,7 @@ msgstr ""
 #: src-en/data/events_sector_jerry.xml:2034
 msgid ""
 "data/events_sector_jerry.xml$//event[@name=\"JERRY_HOME_WIN\"]/choice[2]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Застрелить его."
 
 #: src-en/data/events_sector_jerry.xml:2036
 msgid ""
@@ -3033,4 +3543,3 @@ msgstr ""
 "не забывайте, что он тоже человек. Он много чего натворил, но я видел в нем "
 "ту сторону, которую большинство людей никогда не видели. Не забывайте, что "
 "она существует\"."
-

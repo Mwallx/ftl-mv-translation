@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-21 14:40+0000\n"
+"Last-Translator: Mwalls <Mwallxs@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_special_defeatxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_defeat.xml:14
 msgid ""
@@ -124,7 +131,6 @@ msgid ""
 msgstr "你搜刮了援军的残骸，但由于反舰炮台的威胁你无法停留太久。"
 
 #: src-en/data/events_special_defeat.xml:67
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DESTROYED_REINFORCEMENTS\"]/choice[@req=\"MAGNET_ARM\"]/text"
 msgstr "(磁性回收臂)进一步回收残骸。"
@@ -140,7 +146,6 @@ msgid ""
 msgstr "你搜刮了援军的残骸，但由于反舰炮台的威胁你无法停留太久。"
 
 #: src-en/data/events_special_defeat.xml:81
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEADCREW_REINFORCEMENTS\"]/choice[@req=\"MAGNET_ARM\"]/text"
 msgstr "(磁性回收臂)进一步回收残骸。"
@@ -502,10 +507,9 @@ msgid ""
 msgstr "释放叛军，让他们离开。"
 
 #: src-en/data/events_special_defeat.xml:339
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DESTROYED_REBEL_POD\"]/choice[6]/text"
-msgstr "饶了他们吧。"
+msgstr "把他丢到星舰外面。"
 
 #: src-en/data/events_special_defeat.xml:341
 msgid ""
@@ -1071,10 +1075,9 @@ msgid ""
 msgstr "\"这是一条自动信息。你停止攻击这架自动舰，作为回报，它将发放一部分货物。\""
 
 #: src-en/data/events_special_defeat.xml:694
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"SURRENDER_AUTO_GENERIC\"]/choice[1]/text"
-msgstr "接受他们的投降。"
+msgstr "接受投降。"
 
 #: src-en/data/events_special_defeat.xml:701
 msgid ""
@@ -1086,10 +1089,9 @@ msgid "data/events_special_defeat.xml$//event[@name=\"SURRENDER_AUTO_FUEL\"]/tex
 msgstr "\"这是一条自动信息。请你停止攻击这架自动舰，作为回报，它将发放一部分货物。\""
 
 #: src-en/data/events_special_defeat.xml:708
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"SURRENDER_AUTO_FUEL\"]/choice[1]/text"
-msgstr "接受他们的投降。"
+msgstr "接受投降。"
 
 #: src-en/data/events_special_defeat.xml:715
 msgid ""
@@ -1117,7 +1119,8 @@ msgstr "随着飞船的失控，自动舰开始失去控制。一系列淫秽的
 #: src-en/data/events_special_defeat.xml:747
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DESTROYED_ESTATE\"]/text[4]"
-msgstr "在自动飞船爆炸时，你收到了最后一条信息，只是简单地指责了一句：\"我打赌你也会踢小狗！\""
+msgstr "在自动舰爆炸时，你收到了最后一条信息，只是简单的一句指责："
+"\"你肯定是个欺凌弱者的铁石心肠！\""
 
 #: src-en/data/events_special_defeat.xml:748
 msgid ""
@@ -1156,7 +1159,8 @@ msgstr ""
 #: src-en/data/events_special_defeat.xml:765
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DESTROYED_ESTATE_FUEL\"]/text[4]"
-msgstr "在自动飞船爆炸时，你收到了最后一条信息，只是简单地指责了一句：\"我打赌你也会踢小狗！\"这艘船的残骸里似乎有不少燃料。"
+msgstr "在自动舰爆炸时，你收到了最后一条信息，只是简单的一句指责："
+"\"你肯定是个欺凌弱者的铁石心肠！\"这艘船的残骸里似乎有不少燃料。"
 
 #: src-en/data/events_special_defeat.xml:766
 msgid ""
@@ -1194,10 +1198,10 @@ msgstr ""
 "随着飞船的失控，自动舰开始失去控制。一系列淫秽的胡言乱语使你的电脑超载，只有在自动舰变成以前的焦炭残骸后，系统才完成了重启工作。这艘自动舰似乎有不少导弹贮存。"
 
 #: src-en/data/events_special_defeat.xml:783
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DESTROYED_ESTATE_MISSILES\"]/text[4]"
-msgstr "在自动飞船爆炸时，你收到了最后一条信息，只是简单地指责了一句：\"我打赌你也会踢小狗！\"这艘自动船似乎留下了不少弹药。"
+msgstr "在自动舰爆炸时，你收到了最后一条信息，只是简单的一句指责："
+"\"你肯定是个欺凌弱者的铁石心肠！\"这艘自动舰似乎留下了不少弹药。"
 
 #: src-en/data/events_special_defeat.xml:784
 msgid ""
@@ -1238,7 +1242,8 @@ msgstr ""
 #: src-en/data/events_special_defeat.xml:801
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DESTROYED_ESTATE_DRONES\"]/text[4]"
-msgstr "在自动飞船爆炸时，你收到了最后一条信息，只是简单地指责了一句：\"我打赌你也会踢小狗！\"这艘船的残骸里似乎有不少无人机部件。"
+msgstr "在自动舰爆炸时，你收到了最后一条信息，只是简单的一句指责："
+"\"你肯定是个欺凌弱者的铁石心肠！\"这艘船的残骸里似乎有不少无人机部件。"
 
 #: src-en/data/events_special_defeat.xml:802
 msgid ""
@@ -1573,11 +1578,11 @@ msgstr ""
 
 #: src-en/data/events_special_defeat.xml:1105
 msgid "data/events_special_defeat.xml$//event[@name=\"DESTROYED_MONK\"]/text"
-msgstr "你不知道该对超能信道者船的毁灭作何反应，但至少你搞到了点废料。"
+msgstr "你不知道该对信道者飞船的毁灭作何反应，但至少你搞到了点废料。"
 
 #: src-en/data/events_special_defeat.xml:1110
 msgid "data/events_special_defeat.xml$//event[@name=\"DEAD_CREW_MONK\"]/text"
-msgstr "你不知道为什么要对完全没有防备的超能信道者船痛下杀手，但是你至少搞到了点废料。"
+msgstr "你不知道为什么要对完全没有防备的信道者飞船痛下杀手，但是你至少搞到了点废料。"
 
 #: src-en/data/events_special_defeat.xml:1117
 msgid ""
@@ -2239,7 +2244,6 @@ msgid ""
 msgstr "接受他们的投降。"
 
 #: src-en/data/events_special_defeat.xml:1648
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_SURRENDER_PIRATE\"]/text[1]"
 msgstr "\"好了好了，你们赢了！拿走我们店里的一些装备，放过我们吧！\""
@@ -2275,10 +2279,9 @@ msgid ""
 msgstr "他们提议如果不摧毁他们舰船就把部分货物送给你。"
 
 #: src-en/data/events_special_defeat.xml:1655
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_SURRENDER_PIRATE\"]/text[8]"
-msgstr "你收到一条慌张的消息，\"我们所有东西都给你！千万别杀死我们。\""
+msgstr "你收到一条慌张的消息，\"我们所有东西都给你！千万别杀死我们！\""
 
 #: src-en/data/events_special_defeat.xml:1656
 msgid ""
@@ -2299,7 +2302,9 @@ msgstr "\"把我们东西都拿走吧，我们就当刚才的事从没发生过�
 msgid ""
 "data/events_special_defeat.xml$//eventList[@name=\"DEAD_CREW_SLAVERS\"]/event[3]/text"
 msgstr ""
-"看来这些奴隶在战斗中没有幸存下来。你在船舱里发现了他们烧焦的尸体，但在你扒开船的时候，你听到墙壁里有微弱的声音。你弄断了一个门闩，一个奴隶从一个隐蔽的隔间里掉了出来，不停地咳嗽。一旦恢复正常，这个奴隶主动提出要加入你的船员。"
+"看来这些奴隶在战斗中没有幸存下来。你在船舱里发现了他们烧焦的尸体，但在你扒开"
+"船的时候，你听到墙壁里有微弱的声音。你弄断了一个门闩，一个奴隶从一个隐蔽的隔"
+"间里掉了出来，不停地咳嗽。恢复正常后，这个奴隶主动提出要加入你的船员。"
 
 #: src-en/data/events_special_defeat.xml:1670
 msgid ""
@@ -2681,11 +2686,12 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_defeat.xml:1962
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEAD_CREW_HACKER_FLEET\"]/choice/event/text"
 msgstr ""
-"你的电脑吓坏了，屏幕上闪现出一串串编码信息和无意义的文字。黑客一定是部署了一个紧急病毒！你及时隔离了你的系统以防止传播，但级联效应可能会继续下去，甚至在叛军通过的时候。这应该会给他们带来一些麻烦。"
+"你的电脑崩溃了，屏幕上闪现出一串串编码过的信息和无意义的文字。黑客一定是部署"
+"了一种紧急病毒！你及时隔离了你的系统以防止传播，但这种串联反应很可能会继续进"
+"行到叛军通过之时，这应该会给他们带去一些麻烦。"
 
 #: src-en/data/events_special_defeat.xml:1979
 msgid ""
@@ -2858,10 +2864,9 @@ msgid ""
 msgstr "自由螳螂似乎不太愿意战斗。他们的舰长向你呼叫，提出要求停火。"
 
 #: src-en/data/events_special_defeat.xml:2127
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_SURRENDER_FREEMANTIS\"]/text[5]"
-msgstr "\"我们的族人肯定会因为懦弱而流放我们，但请让我们活下去。\""
+msgstr "\"我们虽然确实因为懦弱被族人流放，但求求你，请让我们活下去。\""
 
 #: src-en/data/events_special_defeat.xml:2128
 msgid ""
@@ -3167,10 +3172,10 @@ msgid ""
 msgstr "毫无疑问，你为许多被这些异种猎人追杀的无辜生命的灵魂报了仇。另外，你还得到了一些废料。"
 
 #: src-en/data/events_special_defeat.xml:2464
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DESTROYED_CLAN\"]/text[4]"
-msgstr "在飞船爆炸的同时，你试图想出一个巧妙的文字游戏来描述这种情况。你决定用\"猎人变成了猎物\"来形容，然后你才恍然大悟，下达命令将残骸铲除。"
+msgstr "在飞船爆炸的同时，你试图想出一个绝妙的表达来描述当下的情况。"
+"你最后想出个\"猎人变成了猎物\"，然后回过神来，下达命令将残骸回收。"
 
 #: src-en/data/events_special_defeat.xml:2482
 msgid ""
@@ -3188,10 +3193,10 @@ msgid ""
 msgstr "异猎会可能不喜欢你杀了他们的成员，但他们能做什么呢？你把这艘船搜刮了。"
 
 #: src-en/data/events_special_defeat.xml:2485
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_DEAD_CREW_CLAN\"]/text[4]"
-msgstr "你试图想出一个巧妙的文字游戏来描述这种情况。你决定用\"猎人变成了猎物\"来形容，然后你振作起来，下达命令将残骸铲除。"
+msgstr "你试图想出一个绝妙的表达来描述当下的情况。你最后想出个\"猎人变成了猎物\""
+"，然后回过神来，下达命令将残骸回收。"
 
 #: src-en/data/events_special_defeat.xml:2492
 msgid ""
@@ -3382,7 +3387,7 @@ msgstr "吸虫族舰长大声地打嗝，胆汁的斑点落在他们的相机上
 #: src-en/data/events_special_defeat.xml:2673
 msgid ""
 "data/events_special_defeat.xml$//textList[@name=\"TEXT_SURRENDER_LEECH_GENERIC\"]/text[5]"
-msgstr "\"我们决不投降！吸虫共和国永远-- 其实， 算了。我们投降了。我不想死。\""
+msgstr "\"我们决不投降！共和国永远-- 其实， 算了。我们投降了。我不想死。\""
 
 #: src-en/data/events_special_defeat.xml:2674
 msgid ""
@@ -3566,10 +3571,9 @@ msgstr ""
 "当你搜刮模物族飞船时，你想知道那些奇怪的灰色斑点是否能感觉到疼痛，以及他们的最后时刻是否在痛苦中度过。说实话，你仍然不确定他们是否是有智慧的。"
 
 #: src-en/data/events_special_defeat.xml:2859
-#, fuzzy
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"SURRENDER_MORPH\"]/choice[1]/text"
-msgstr "接受他们的投降。"
+msgstr "接受他们的\"投降\"。"
 
 #: src-en/data/events_special_defeat.xml:2868
 msgid ""
@@ -3833,8 +3837,8 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml:3082
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEADCREW_SIREN_UNKNOWN\"]/choice/event/text"
-msgstr ""
-"令你惊讶的是，你发现另一个人被塞进了外星飞船的仓库。他们似乎处于某种奇怪的恍惚状态，现在已经开始慢慢消失了。一旦他们安全了，他们就同意加入你的船员。"
+msgstr "令你惊讶的是，你发现另一个人被塞进了外星飞船的仓库。他们似乎处于某种奇怪的恍"
+"惚状态，现在已经开始慢慢消失了。他们安全了之后，同意加入你的船员。"
 
 #: src-en/data/events_special_defeat.xml:3112
 msgid ""
@@ -4035,7 +4039,7 @@ msgstr "似乎精英兰花族船的货物在战斗中幸存下来。里面有一
 #: src-en/data/events_special_defeat.xml:3339
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/text"
-msgstr "你已经成功地打倒了一个强大的精英母巢和他们的飞船，现在残骸是你的了，可以搜刮。"
+msgstr "你已经成功地打倒了一名强大的种植者与其飞船，现在残骸可供你搜刮。"
 
 #: src-en/data/events_special_defeat.xml:3342
 msgid ""
@@ -4050,7 +4054,7 @@ msgstr "看来叛军精英飞船的货物在战斗中幸存下来。里面有一
 #: src-en/data/events_special_defeat.xml:3359
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEFEAT_CRYSTAL_ELITE\"]/text"
-msgstr "精英水晶哨卫船的鲜红碎片飞向深渊，这艘强大的精英船停了下来。"
+msgstr "戍卫者飞船的鲜红碎晶片飞向深渊，这艘强大的精英战舰停了下来。"
 
 #: src-en/data/events_special_defeat.xml:3362
 msgid ""
@@ -4171,7 +4175,8 @@ msgstr "看来吸虫族星舰上的货物在战斗中幸存了下来。里面有
 #: src-en/data/events_special_defeat.xml:3516
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEFEAT_COALITION_ELITE\"]/text"
-msgstr "这艘星联船解体的时候你无意中瞟到一眼\"星团精队\"4个字，你觉得这种愚蠢的简称非常契合星联。说真的，这鬼东西到底是谁想出来的？"
+msgstr "这艘星联船解体的时候你无意中瞟到一眼\"星团精队\"四个字"
+"，你觉得这种愚蠢的简称非常契合星联。说真的，这鬼东西到底是谁想出来的？"
 
 #: src-en/data/events_special_defeat.xml:3519
 msgid ""
@@ -4226,4 +4231,3 @@ msgstr "继续。"
 msgid ""
 "data/events_special_defeat.xml$//event[@name=\"DEFEAT_DYNASTY_ELITE\"]/choice/event/text"
 msgstr "看来灵朝战舰上的货物在战斗中幸存了下来。里面有一个还能用的武器，你把它带回星舰。"
-

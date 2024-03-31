@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-16 22:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_special_anomalyxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_anomaly.xml:16
 msgid ""
@@ -80,9 +88,10 @@ msgid ""
 msgstr ""
 "Не успели вы осмотреться, как к вам подлетает большой транспортный корабль "
 "слизней и телепортирует слизня на ваш корабль. Одетый в свежевыглаженный "
-"костюм и со странно знакомой внешностью, он кладет на соседний стол большой "
-"портфель, достает стопку аккуратно разложенных бумаг и кладет ее перед "
-"собой. Все это он делает, не глядя на вас и не говоря с вами."
+"костюм и со странно знакомой внешностью, он кладет на расположенный "
+"поблизости стол большой портфель, достает стопку аккуратно разложенных бумаг "
+"и кладет ее перед собой. Все это он делает, не глядя на вас и не говоря с "
+"вами."
 
 #: src-en/data/events_special_anomaly.xml:138
 msgid ""
@@ -353,7 +362,7 @@ msgstr "Стефан"
 #: src-en/data/events_special_anomaly.xml:295
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_COVERUP\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Мы ничем не можем помочь."
 
 #: src-en/data/events_special_anomaly.xml:297
 msgid ""
@@ -366,7 +375,7 @@ msgstr ""
 #: src-en/data/events_special_anomaly.xml:303
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_COVERUP\"]/choice[2]/text"
-msgstr ""
+msgstr "Уходим сейчас же."
 
 #: src-en/data/events_special_anomaly.xml:305
 msgid ""
@@ -396,8 +405,8 @@ msgstr ""
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_COVERUP_FIGHT\"]/text"
 msgstr ""
-"\"Неожиданное и несанкционированное вмешательство в протоколы обеспечения "
-"постоянства. Попытка коррекции. Передайте аномальную контрабанду, или вы "
+"\"Неожиданное и несанкционированное вмешательство в протоколы борьбы за "
+"постоянство. Попытка коррекции. Передайте аномальную контрабанду, или вы "
 "будете арестованы за нарушение постоянства\"."
 
 #: src-en/data/events_special_anomaly.xml:344
@@ -413,8 +422,8 @@ msgid ""
 msgstr ""
 "Владелец станции протестует, но с вашим поднятым оружием у них нет другого "
 "выбора, кроме как подчиниться. Вы чувствуете некоторую вину за быстрое "
-"предательство, но вы не подписывались иметь с этим дело, чем бы это ни было."
-" \"Благодарим за соблюдение протоколов обеспечения постоянства. Теперь вы "
+"предательство, но вы не подписывались иметь с этим дело, чем бы это ни было. "
+"\"Благодарим за соблюдение протоколов борьбы за постоянство. Теперь вы "
 "можете забыть о произошедшем. Пожалуйста, покиньте помещение для начала "
 "устранения аномалии\"."
 
@@ -429,6 +438,11 @@ msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_COVERUP_FIGHT\"]/choice[@req=\"human_humanoid\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"Ошибка. Отсутствует аномальный элемент. Ваша попытка обмана расценивается "
+"как оскорбление борьбы за постоянство. Теперь вы виновны в нарушении "
+"протокола 13; укрывательство аномальной контрабанды, и протокола 18; "
+"удаление контрабанды из аномального места или вмешательство в его работу. "
+"Приступаю к устранению\"."
 
 #: src-en/data/events_special_anomaly.xml:360
 msgid ""
@@ -445,10 +459,10 @@ msgstr "Отказать!"
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_COVERUP_FIGHT\"]/choice[3]/event/text"
 msgstr ""
-"\"Ввиду сопротивления обеспечению постоянства, вы обвиняетесь в нарушении "
-"протокола 13: укрывательство аномальной контрабанды, протокола 18: удаление "
-"контрабанды с аномальной территории, и протокола 24: отказ подчиниться "
-"уполномоченному лицу, обеспечивающему постоянство. Приступаю к устранению\"."
+"\"Оказывая сопротивление силовику постоянства, вы обвиняетесь в нарушении "
+"протокола 13; укрывательство аномальной контрабанды, протокола 18; удаление "
+"контрабанды с аномальной территории, и протокола 24; отказ подчиниться "
+"уполномоченному силовику постоянства. Приступаю к устранению\"."
 
 #: src-en/data/events_special_anomaly.xml:371
 msgid ""
@@ -523,71 +537,112 @@ msgstr ""
 #: src-en/data/events_special_anomaly.xml:435
 msgid "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/text"
 msgstr ""
+"Вдали небольшая планета, незаселенная и покрытая растительностью, показывает "
+"необычные энергетические сигналы все еще активного корабля. Немного странно "
+"обнаружить здесь корабль, но случались и более странные вещи."
 
 #: src-en/data/events_special_anomaly.xml:439
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/text"
-msgstr ""
+msgstr "Исследовать планету."
 
 #: src-en/data/events_special_anomaly.xml:441
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/text"
 msgstr ""
+"Вы приближаетесь к планете и замечаете, что это стандартный корабль "
+"Соцветия, не очень большой. На его корпусе сидит одинокий Флорал и держит "
+"какой-то предмет, который вы не можете разобрать. Вы приземляетесь на "
+"некотором расстоянии от корабля, подходите ближе и орхидея, увидев вас, "
+"вскакивает.\n"
+"\t\t\t\n"
+"\t\t\t\"Кто ты?!\" От испуга язык жестов Флорала дрожит, и он путает "
+"несколько знаков, которые ваш переводчик автоматически исправляет. \"Это "
+"священная земля! Я - хранитель священного кусочка мяса, а ты нарушаешь "
+"святость этой земли!\""
 
 #: src-en/data/events_special_anomaly.xml:445
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Священного... чего?"
 
 #: src-en/data/events_special_anomaly.xml:447
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Орхидея наклоняется ближе и пристально смотрит на вас. \"Священный кусочек "
+"мяса. Если ты действительно не знаешь, то, как я вижу, ты явно не работаешь "
+"со слизнями в костюмах!\" Орхидея удовлетворенно кивает сама себе. \"Хорошо, "
+"тогда вам здесь рады, если вы согласны уважать священный кусочек\"."
 
 #: src-en/data/events_special_anomaly.xml:449
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Слизнями в костюмах?! О чем ты вообще говоришь?"
 
 #: src-en/data/events_special_anomaly.xml:451
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Давным-давно я была обычным цветком, занимающимся своими делами, когда с "
+"неба упал космический подарок!\". Орхидея лезет в карман и достает "
+"заплесневелый ломтик бекона, небрежно помахивая им перед вами. \"Это "
+"священный кусочек! Он упал прямо с листьев Циртал'и Мнколо, дерева жизни! Я "
+"была избрана, чтобы своей жизнью защитить кусочек от адских шакалов! Слизней "
+"в костюмах! С того самого дня люди в костюме и с портфелями преследуют меня, "
+"пытаясь отобрать кусочек! Но я не сдаюсь! Никогда! Кусочек должен быть "
+"защищен!\""
 
 #: src-en/data/events_special_anomaly.xml:453
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Предложить взять орхидею с собой, чтобы защитить ее."
 
 #: src-en/data/events_special_anomaly.xml:455
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Ты тоже хочешь охранять священный кусочек? Что ж... полагаю, это "
+"безопаснее, чем прятаться здесь, где только вопрос времени, пока костюмы "
+"найдут меня... Хорошо! Я пойду с тобой, но вы ни в коем случае не должны "
+"пытаться разлучить меня с кусочком!\""
 
 #: src-en/data/events_special_anomaly.xml:456
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Э'нд Крюв"
 
 #: src-en/data/events_special_anomaly.xml:460
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"nexus_sylvan_gman\"]/text"
 msgstr ""
+"(Джи-Ван) \"Просссто дай мне... бекон. Это для... безопасссносссти всссех, "
+"включая тебя\"."
 
 #: src-en/data/events_special_anomaly.xml:462
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"nexus_sylvan_gman\"]/event/text"
 msgstr ""
+"Орхидея кричит - это первый звук, который она издала с тех пор, как вы "
+"приземлились. \"Нет! Нет! Ты снова меня нашел!\" Орхидея хватает бекон и в "
+"отчаянии засовывает его в свой клюв. Джи-Ван разочарованно опускает руки. \"О"
+"... черт возьми. Этот бекон из... другого классссстера. Как он... оказалссся "
+"здесссь, неизвессстно, но я подозреваю нечиссстую игру жутких. В любом "
+"ссслучае, он сссодержит... образцы ДНК несссущщщессствующщщих здесссь людей, "
+"и поэтому он должен быть уничтожен или возвращщщен\". Джи-Ван моргает. "
+"\"Полагаю, единссственный выбор, который у меня сссейчассс есссть и который "
+"не сссвязан ссс... убийссством, - это взять орхидею ссс нами и надеятьссся "
+"на лучшшшее\"."
 
 #: src-en/data/events_special_anomaly.xml:463
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"nexus_sylvan_gman\"]/event/crewMember"
-msgstr ""
+msgstr "Э'нд Крюв"
 
 #: src-en/data/events_special_anomaly.xml:467
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[1]/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Оставить безумную орхидею в покое и уйти."
 
 #: src-en/data/events_special_anomaly.xml:477
 msgid ""
@@ -597,7 +652,7 @@ msgstr "Не обращать внимания на планету."
 #: src-en/data/events_special_anomaly.xml:479
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_CEL_BACON\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Каким бы любопытным вы ни были, нет смысла разглядывать все вокруг."
 
 #: src-en/data/events_special_anomaly.xml:481
 msgid ""
@@ -637,4 +692,3 @@ msgstr "Заняться чем-либо на корабле."
 msgid ""
 "data/events_special_anomaly.xml$//event[@name=\"ANOMALY_ORACLE_REAL\"]/choice[2]/text"
 msgstr "Ничего не делать."
-

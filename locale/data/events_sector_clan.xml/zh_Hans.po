@@ -1,23 +1,38 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-24 04:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_clanxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_clan.xml:38
 msgid "data/events_sector_clan.xml$//event[@name=\"CLAN_FAUNA_START\"]/text"
 msgstr ""
+"一艘异种猎人战舰停留在一颗充满树栖生物的星球的轨道上，你一到来，他们就向你呼"
+"叫。“下面这颗星球居住着整个宇宙中最危险的树栖生物。它们在战斗中所向披靡，还能"
+"用先天的精神力扰乱你的思维。大多数物种都没法伤它们分毫，它们也难以被击晕。我"
+"们的蛞蝓族可以帮忙，但还没强到独自面对它们。”"
 
 #: src-en/data/events_sector_clan.xml:40
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"CLAN_FAUNA_START\"]/choice[1]/text"
-msgstr ""
+msgstr "询问他们为什么不用自己飞船上安装的武器。"
 
 #: src-en/data/events_sector_clan.xml:42
+#, fuzzy
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"CLAN_FAUNA_START\"]/choice[1]/event/text"
 msgstr ""
+"“你是不知道这对狩猎意味着什么吗？如果用了飞船级的武器，我们还打什么猎？而且，"
+"那些武器只能留下弹坑，而不是可以展示的奖杯。另外，能不在打猎的过程中毁坏森林"
+"也是一件好事。”"
 
 #: src-en/data/events_sector_clan.xml:44
 msgid ""
@@ -1008,7 +1023,7 @@ msgstr ""
 #: src-en/data/events_sector_clan.xml:875
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_JAMMER_SALESMAN\"]/choice[5]/text"
-msgstr ""
+msgstr "拒绝。"
 
 #: src-en/data/events_sector_clan.xml:877
 msgid ""
@@ -1238,7 +1253,10 @@ msgstr "进入查看。"
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/text"
 msgstr ""
-"一位异种猎枪手正靠在墙上，与一小群超能族官员交谈，他们在你进来后不久就离开了。\"噗，想象一下，你是一个完全不知变通的人。那些超能族来到这里，问我是否有经营这家商店的许可！他们以为这是谁的星区呢？然后甚至什么都没买...\""
+"一位异种猎枪手正靠在墙上，与一小群超能族官员交谈，官员在你进来后不久就离开了"
+"。\"噗，真的是～～一群完全不知变通的人。那些超能族来到这里，问我是～～否有经"
+"营这家商～～店的许 "
+"可！他们以为这是～～谁的星区呢？然后他们甚～～至什～～么都没买...\""
 
 #: src-en/data/events_sector_clan.xml:1099
 msgid ""
@@ -1248,7 +1266,8 @@ msgstr "你在卖什么？"
 #: src-en/data/events_sector_clan.xml:1101
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/text"
-msgstr "\"啊，问得好！毛绒玩具！我在整个银河系看到的各种异国生物的玩具。来吧，看一看！虽然你很可能会是第一个下单的人...\""
+msgstr "\"啊，问得好！毛绒玩具！原型是～～我在整个银河系看到的各种的异国生～～物。来"
+"吧，看一看！虽然你很可能会是～～第一个下单的人...\""
 
 #: src-en/data/events_sector_clan.xml:1103
 msgid ""
@@ -1258,28 +1277,31 @@ msgstr "看看那个蜘蛛毛绒玩具。"
 #: src-en/data/events_sector_clan.xml:1105
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr "\"那是一只巨大异形蜘蛛！不知道科学名叫什么，大家都这么称呼它们。\""
+msgstr "\"那是～～一只巨大异形蜘蛛！不知道学名叫什～～么，大家都这么称呼它们。\""
 
 #: src-en/data/events_sector_clan.xml:1107
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr "购买它。[7~]"
+msgstr "购买毛绒玩具。[7~]"
 
 #: src-en/data/events_sector_clan.xml:1109
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr "\"哦，感谢惠顾！这可能是我有史以来的第一笔利润...看来，在星云中开店不是个好主意。\""
+msgstr "\"哦，感谢惠顾！这可能..."
+"是～～我有史～～以来的第一笔利润。看来在星云中开店不是～～个好主意。\""
 
 #: src-en/data/events_sector_clan.xml:1114
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "把剩下的也一并购买了。[14~]"
+msgstr "把剩下的也一并买下。[14~]"
 
 #: src-en/data/events_sector_clan.xml:1116
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"\"你-你想要全部？那我可就...你要么真的喜欢我的东西，要么就是一个骨灰级的带慈善家。告诉你好了，我在这里的生意不是很好，所以我想我会和你待一段时间！\""
+"\"你 - 你全都要？震撼到我...你要么真 的 喜欢我的毛绒玩具，要么就是～～一个骨"
+"灰级的带慈善家。这么着吧，既然我在这里的生～～意不是～～很好，所以我和你待一"
+"段时间好了！\""
 
 #: src-en/data/events_sector_clan.xml:1124
 msgid ""
@@ -1299,7 +1321,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_clan.xml:1134
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr "\"啊，哦，好吧。至少谢谢你动了购买的念头...\""
+msgstr "\"啊，哦好吧。至少谢谢你动了购买的念头...\""
 
 #: src-en/data/events_sector_clan.xml:1140
 msgid ""
@@ -1319,18 +1341,21 @@ msgstr "购买它。[7~]"
 #: src-en/data/events_sector_clan.xml:1146
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
-msgstr "\"哦，感谢惠顾！这可能是我有史以来的第一笔利润...看来，在星云中开店不是个好主意。\""
+msgstr "\"哦，感谢惠顾！这可能..."
+"是～～我有史～～以来的第一笔利润。看来在星云中开店不是～～个好主意。\""
 
 #: src-en/data/events_sector_clan.xml:1151
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/text"
-msgstr "把剩下的也一并购买了。[14~]"
+msgstr "把剩下的也一并买下。[14~]"
 
 #: src-en/data/events_sector_clan.xml:1153
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"\"你-你想要全部？那我可就...你要么真的喜欢我的东西，要么就是一个骨灰级的带慈善家。告诉你好了，我在这里的生意不是很好，所以我想我会和你待一段时间！\""
+"\"你 - 你全都要？震撼到我...你要么真 的 喜欢我的毛绒玩具，要么就是～～一个骨"
+"灰级的带慈善家。这么着吧，既然我在这里的生～～意不是～～很好，所以我和你待一"
+"段时间好了！\""
 
 #: src-en/data/events_sector_clan.xml:1161
 msgid ""
@@ -1350,7 +1375,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_clan.xml:1171
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
-msgstr "\"啊，哦，好吧。至少谢谢你动了购买的念头...\""
+msgstr "\"啊，哦好吧。至少谢谢你动了购买的念头...\""
 
 #: src-en/data/events_sector_clan.xml:1177
 msgid ""
@@ -1360,7 +1385,7 @@ msgstr "看看那只蜥蜴毛绒玩具。"
 #: src-en/data/events_sector_clan.xml:1179
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[3]/event/text"
-msgstr "\"那是一种...嗯，我其实不知道名字。我猜它们只是蜥蜴。\""
+msgstr "\"那是一种...嗯，我其实不知道名字。它们只是蜥蜴家伙吧大概。\""
 
 #: src-en/data/events_sector_clan.xml:1181
 msgid ""
@@ -1370,18 +1395,21 @@ msgstr "购买它。[7~]"
 #: src-en/data/events_sector_clan.xml:1183
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[3]/event/choice[1]/event/text"
-msgstr "\"哦，感谢惠顾！这可能是我有史以来的第一笔利润...看来，在星云中开店不是个好主意。\""
+msgstr "\"哦，感谢惠顾！这可能..."
+"是～～我有史～～以来的第一笔利润。看来在星云中开店不是～～个好主意。\""
 
 #: src-en/data/events_sector_clan.xml:1188
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[3]/event/choice[1]/event/choice[1]/text"
-msgstr "把剩下的也一并购买了。[14~]"
+msgstr "把剩下的也一并买下。[14~]"
 
 #: src-en/data/events_sector_clan.xml:1190
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[1]/event/choice/event/choice[3]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"\"你-你想要全部？那我可就...你要么真的喜欢我的东西，要么就是一个骨灰级的带慈善家。告诉你好了，我在这里的生意不是很好，所以我想我会和你待一段时间！\""
+"\"你 - 你全都要？震撼到我...你要么真 的 喜欢我的毛绒玩具，要么就是～～一个骨"
+"灰级的带慈善家。这么着吧，既然我在这里的生～～意不是～～很好，所以我和你待一"
+"段时间好了！\""
 
 #: src-en/data/events_sector_clan.xml:1198
 msgid ""
@@ -1406,12 +1434,12 @@ msgstr "\"啊，哦，好吧。至少谢谢你动了购买的念头...\""
 #: src-en/data/events_sector_clan.xml:1218
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击空间站！"
 
 #: src-en/data/events_sector_clan.xml:1220
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[2]/event/text"
-msgstr "你的谋杀倾向再次成为全场焦点，现在正在攻击越来越多的人。"
+msgstr "你的杀戮欲望再次高涨，现在正在攻击越来越多的人。"
 
 #: src-en/data/events_sector_clan.xml:1223
 msgid ""
@@ -1421,12 +1449,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_clan.xml:1229
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[3]/text"
-msgstr ""
+msgstr "无视空间站。"
 
 #: src-en/data/events_sector_clan.xml:1231
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_PLUSHIES\"]/choice[3]/event/text"
-msgstr "你有更重要的事情要做，而不是随意参观讹人的旅游景点。"
+msgstr "比起参观什么讹人的旅游景点，你有更重要的事情要做。"
 
 #: src-en/data/events_sector_clan.xml:1233
 msgid ""
@@ -1714,10 +1742,9 @@ msgid ""
 msgstr "\"你想帮忙？好吧，反正也不碍事。如果你有的话，我们需要一些物资。\""
 
 #: src-en/data/events_sector_clan.xml:1465
-#, fuzzy
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_SHELL_RADIANT\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr "给他们15发弹药。"
+msgstr "给他们7发弹药。"
 
 #: src-en/data/events_sector_clan.xml:1467
 msgid ""
@@ -1735,7 +1762,6 @@ msgid ""
 msgstr "\"谢谢你，联邦。既然我们现在有大量的无人机部件，我想我们不需要这件武器了。\""
 
 #: src-en/data/events_sector_clan.xml:1485
-#, fuzzy
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_CLAN_SHELL_RADIANT\"]/choice[1]/event/choice[2]/event/choice[3]/text"
 msgstr "算了。"
@@ -3033,7 +3059,6 @@ msgstr ""
 "你踏进小舍，感觉似乎你注定要在这遇到什么人。然而，没有人冒出来。你四处游荡，直到你的耳朵捕捉到一名异种猎人与一名海盗之间关于一个叫\"盐人\"的人的有趣对话。你在与他们相邻的桌子旁坐下，凑近听他们在说什么。"
 
 #: src-en/data/events_sector_clan.xml:2436
-#, fuzzy
 msgid ""
 "data/events_sector_clan.xml$/FTL/event[@name=\"SYLVAN_SALT_QUEST_INTRO_CHAOS\"]/choice/text"
 msgstr "说来听听。"
@@ -3051,7 +3076,6 @@ msgstr ""
 "你踏进小舍，感觉似乎你注定要在这遇到什么人。然而，没有人冒出来。你四处游荡，直到你的耳朵捕捉到一名异种猎人与一名海盗之间关于一个叫\"盐人\"的人的有趣对话。你在与他们相邻的桌子旁坐下，凑近听他们在说什么。"
 
 #: src-en/data/events_sector_clan.xml:2448
-#, fuzzy
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"SYLVAN_SALT_QUEST_INTRO_NOPE\"]/choice/text"
 msgstr "说来听听。"
@@ -3447,13 +3471,17 @@ msgstr "希尔凡不会来。"
 #: src-en/data/events_sector_clan.xml:2746
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"SALT_QUEST_COORDS\"]/choice/event/text"
-msgstr "\"他...不来？哦。嗯...那你一个也足够。虽然没有希尔凡那么好，但我至少有信心你能把事情办好。好吧，这是坐标。祝你好运，尽量不要死！\""
+msgstr "\"他...不来？哦。嗯...那你一个也足够。虽然没有希尔凡那么好，但我至少有信心你"
+"能把事情办好。坐标反正先传给你。祝你好运，尽量不要死！\""
 
 #: src-en/data/events_sector_clan.xml:2752
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"SALT_QUEST_COORDS_CHAOS\"]/text"
 msgstr ""
-"\"我们之前正在执行一项任务，要干掉异猎会的一个不太友好的解剖中心，但老板遇到了个麻烦。他被抓了，目前被关在那里，但我们逃脱了。他最后的命令是让我们呆在船上，躲起来。我们没有条件劫狱了，特别是现在这次小争吵过后。不过，你这个变元者可能刚好最适合干这个活！好吧，这就是坐标。祝你好运，尽量不要死！\""
+"\"我们之前正在执行一项任务，要干掉异猎会的一个不太友好的解剖中心，但老板遇到"
+"了个麻烦。他被抓了，目前被关在那里，但我们逃脱了。他最后的命令是让我们呆在船"
+"上，躲起来。我们没有条件劫狱了，特别是现在这次小争吵过后。不过，你这个变元者"
+"可能刚好最适合干这个活！坐标反正先传给你。祝你好运，尽量不要死！\""
 
 #: src-en/data/events_sector_clan.xml:2759
 msgid ""
@@ -3561,7 +3589,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_clan.xml:2824
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"NEBULA_SALT_QUEST_2\"]/choice/event/choice/event/choice[@req=\"LIST_CREW_CLAN\"]/text"
-msgstr "(异种猎人船员)\"当然！\""
+msgstr "(异猎会船员)\"当然！\""
 
 #: src-en/data/events_sector_clan.xml:2826
 msgid ""
@@ -4134,4 +4162,3 @@ msgstr "我也不知道发生了什么，但矮人想让你和我们一起走。
 msgid ""
 "data/events_sector_clan.xml$//event[@name=\"CHAOS_SALT_REWARD_OBYN\"]/choice[@req=\"unique_obyn\"]/event/text"
 msgstr "\"如果这是矮人之意，我将遵循。愿神保佑我们所有人。我想我已经不需要我的飞船了，所以你可以拥有它。也许这还能取悦这只矮人，谁知道呢。\""
-

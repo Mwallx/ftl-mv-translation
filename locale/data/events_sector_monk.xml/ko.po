@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-22 17:13+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_monkxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_monk.xml:35
 msgid "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/text"
@@ -14,7 +21,7 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:39
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/choice[1]/text"
-msgstr ""
+msgstr "착륙한다."
 
 #: src-en/data/events_sector_monk.xml:41
 msgid ""
@@ -73,10 +80,12 @@ msgstr "노드 17 기념비에는 적혀있지 않았나요?"
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"\"졸탄에 대한 언급은 한 마디도 없습니다. 한 명도 없었어요. 수백만 명의 인간이 적혀 있지만 졸탄이나 엔지는 한 명도 없어요. 도대체"
-" 왜 그런 것 같나요? 전쟁 전에 웬트워스와 골프를 치던 돈 많고 음습한 연맹 쓰레기들이 기념비의 제작비를 지불했던 장본인들입니다. "
-"그들은 기념비에 다른 종족에 대한 내용을 쓰고 싶지 않았을 겁니다. 그래서 그들은 우릴 제외했습니다. 그래서 데보락 같은 사람들이 연방에"
-" 등을 돌린 겁니다.\""
+"\"졸탄에 대한 언급은 한 마디도 없습니다. 한 명도 없었어요. 수백만 명의 "
+"인간이 적혀 있지만 졸탄이나 엔지는 한 명도 없어요. 도대체 왜 그런 것 같나요? "
+"전쟁 전에 웬트워스와 골프를 치던 돈 많고 음습한 협회 쓰레기들이 기념비의 "
+"제작비를 지불했던 장본인들입니다. 그들은 기념비에 다른 종족에 대한 내용을 "
+"쓰고 싶지 않았을 겁니다. 그래서 그들은 우릴 제외했습니다. 그래서 데보락 같은 "
+"사람들이 연방에 등을 돌린 겁니다.\""
 
 #: src-en/data/events_sector_monk.xml:67
 msgid ""
@@ -136,13 +145,17 @@ msgstr "무덤 중 하나에 스크랩을 바친다."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/choice[1]/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
-"다소 희한한 행동이지만, 이것이 당신이 가진 한정된 자원으로 할 수 있는 최선의 행동입니다. 졸탄도 어쨌든 고마워하는 것 같습니다. 그가"
-" 눈물을 닦으며 말합니다. \"가-감사합니다. 배회자들이 감성을 가졌을 줄은 몰랐습니다. 제 상황을 잘 이해하고 공감해주셨습니다. "
-"겉모습만 보고 당신을 판단한 저 자신이 부끄럽군요.\" 그는 다시 일어서서 손을 내밉니다. \"제 이름은 도반입니다. 저는 제 인생의 "
-"암흑기에 더스크브링어에 합류했습니다. 그 당시 내각과 연맹 사이의 갈등은 최고조에 달했었고, 제가 연방에 대해 느낀 것은... "
-"절망적이었습니다. 하지만 이제야 그게 전부 실수였다는 걸 깨달았어요. 연방은 그 모든 결점에도 불구하고 은하계를 통합할 수 있는 유일한 "
-"존재입니다. 더스크브링어나 반군 같은 조직들은 ... 멀티버스 전체를 갈기갈기 찢어버릴 뿐이죠. 저도 당신과 함께 가도 될까요? 제 "
-"선원들은 신경 쓰지 않으셔도 되니...\""
+"다소 희한한 행동이지만, 이것이 당신이 가진 한정된 자원으로 할 수 있는 최선의 "
+"행동입니다. 졸탄도 어쨌든 고마워하는 것 같습니다. 그가 눈물을 닦으며 "
+"말합니다. \"가-감사합니다. 배회자들이 감성을 가졌을 줄은 몰랐습니다. 제 "
+"상황을 잘 이해하고 공감해주셨습니다. 겉모습만 보고 당신을 판단한 저 자신이 "
+"부끄럽군요.\" 그는 다시 일어서서 손을 내밉니다. \"제 이름은 도반입니다. 저는 "
+"제 인생의 암흑기에 더스크브링어에 합류했습니다. 그 당시 내각과 협회 사이의 "
+"갈등은 최고조에 달했었고, 제가 연방에 대해 느낀 것은... 절망적이었습니다. "
+"하지만 이제야 그게 전부 실수였다는 걸 깨달았어요. 연방은 그 모든 결점에도 "
+"불구하고 은하계를 통합할 수 있는 유일한 존재입니다. 더스크브링어나 반군 같은 "
+"조직들은 ... 멀티버스 전체를 갈기갈기 찢어버릴 뿐이죠. 저도 당신과 함께 가도 "
+"될까요? 제 선원들은 신경 쓰지 않으셔도 되니...\""
 
 #: src-en/data/events_sector_monk.xml:97
 msgid ""
@@ -186,7 +199,7 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:129
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GRAVE\"]/choice[2]/text"
-msgstr ""
+msgstr "위성을 무시한다."
 
 #: src-en/data/events_sector_monk.xml:131
 msgid ""
@@ -418,7 +431,7 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:301
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_STRANDED_FED\"]/choice[1]/text"
-msgstr ""
+msgstr "거래에 응한다."
 
 #: src-en/data/events_sector_monk.xml:307
 msgid ""
@@ -461,7 +474,7 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:338
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/text"
-msgstr ""
+msgstr "교신한다."
 
 #: src-en/data/events_sector_monk.xml:340
 msgid ""
@@ -471,10 +484,9 @@ msgstr ""
 "고스트입니다. 이 함선은 무장이 빈약하고 탄약도 부족한데 우리에게 소량의 탄약을 주지 않겠습니까?\""
 
 #: src-en/data/events_sector_monk.xml:342
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/event/choice[1]/text"
-msgstr "15발의 미사일을 준다."
+msgstr "5발의 미사일을 준다."
 
 #: src-en/data/events_sector_monk.xml:344
 msgid ""
@@ -489,10 +501,9 @@ msgid ""
 msgstr "Casper"
 
 #: src-en/data/events_sector_monk.xml:352
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/event/choice[2]/text"
-msgstr "15발의 미사일을 준다."
+msgstr "10발의 미사일을 준다."
 
 #: src-en/data/events_sector_monk.xml:354
 msgid ""
@@ -524,7 +535,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:373
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_GHOST\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "도울 수 없습니다."
 
 #: src-en/data/events_sector_monk.xml:375
 msgid ""
@@ -697,7 +708,7 @@ msgstr "함선처럼 생긴 것이 성운 속으로 들어가 사라졌습니다
 #: src-en/data/events_sector_monk.xml:513
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_CHASE\"]/choice[1]/text"
-msgstr ""
+msgstr "쫓아간다."
 
 #: src-en/data/events_sector_monk.xml:517
 msgid ""
@@ -832,7 +843,6 @@ msgstr ""
 "\"아아아, 우리의 합리쩍인 가격을 이해하는 싸람이 있기는 하구만!\" 해커들은 수도원에 대한 통제권을 포기하고 도약해 사라졌습니다."
 
 #: src-en/data/events_sector_monk.xml:613
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_HOSTAGES\"]/choice[2]/event/choice/text"
 msgstr "수도승들과 접촉한다."
@@ -867,7 +877,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:633
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_HOSTAGES\"]/choice[4]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_monk.xml:635
 msgid ""
@@ -982,7 +992,7 @@ msgstr "구명포드를 지나 잔해를 뒤져보니 스크랩과 보급품이 
 #: src-en/data/events_sector_monk.xml:736
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_LOST_MAN_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "구조된 평화 유지군이 알려준 위험에 처한 비밀 요원의 위치입니다."
 
 #: src-en/data/events_sector_monk.xml:738
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_LOST_MAN_QUEST\"]/text"
@@ -1014,7 +1024,7 @@ msgstr "수도승은 목적지의 좌표를 전송했습니다."
 #: src-en/data/events_sector_monk.xml:759
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_MONK_CONVOY\"]/choice[2]/text"
-msgstr ""
+msgstr "도울 수 없습니다."
 
 #: src-en/data/events_sector_monk.xml:761
 msgid ""
@@ -1034,7 +1044,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_monk.xml:777
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_CONVOY_DESTINATION\"]/event[1]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "수도승 선박을 이곳까지 호위하십시오."
 
 #: src-en/data/events_sector_monk.xml:779
 msgid ""
@@ -1049,15 +1059,15 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:789
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_CONVOY_DESTINATION\"]/event[2]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "수도승 선박을 이곳까지 호위하십시오."
 
 #: src-en/data/events_sector_monk.xml:791
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_CONVOY_DESTINATION\"]/event[2]/text"
 msgstr ""
-"잠시 후 수도승들이 도약해왔습니다. \"잘하셨습니다. 당신 처럼 폭력적인 야만인에게 의지해야 하는 건 유감이지만, 이곳은 잔인하고 "
-"무관심한 은하계지요. 이 기부금을 감사의 뜻으로 받아주십시오.\""
+"잠시 후 수도승들이 도약해왔습니다. \"잘하셨습니다. 당신 처럼 폭력적인 "
+"야만인에게 의지해야 하는 건 유감이지만, 이곳은 잔인하고 무정한 은하계지요. "
+"이 기부금을 감사의 뜻으로 받아주십시오.\""
 
 #: src-en/data/events_sector_monk.xml:821
 msgid ""
@@ -1100,17 +1110,21 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:842
 msgid ""
 "data/events_sector_monk.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_AUTO_MONK\"]/text[1]"
-msgstr ""
+msgstr "\"이곳은 성지입니다. 당신이 올 곳이 아니란 말입니다.\" 의문의 목소리에 이어 "
+"무인기의 총성이 들립니다!"
 
 #: src-en/data/events_sector_monk.xml:843
 msgid ""
 "data/events_sector_monk.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_AUTO_MONK\"]/text[2]"
-msgstr ""
+msgstr "\"잠재적 위협 감지. 위험 평가에 따라 즉시 제거할 것으로 결정.\" 레이더에 "
+"빠르게 다가오는 적대적 함선이 포착됩니다!"
 
 #: src-en/data/events_sector_monk.xml:844
 msgid ""
 "data/events_sector_monk.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_AUTO_MONK\"]/text[3]"
 msgstr ""
+"졸탄은 이 구역의 보안을 매우 중요하게 생각하므로, 무인기가 처음 보는 함선을 "
+"공격하기 위해 경계 태세를 갖추고 있는 것은 놀라운 일이 아닙니다!"
 
 #: src-en/data/events_sector_monk.xml:852
 msgid ""
@@ -1178,7 +1192,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:895
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"NEBULA_ENCOUNTER_MONK_SMUGGLER_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "밀수선에서 입수한 좌표의 위치입니다."
 
 #: src-en/data/events_sector_monk.xml:897
 msgid ""
@@ -1346,15 +1360,18 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:1026
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/text"
 msgstr ""
+"이곳에 수도승이 거주하고 있습니다. \"이 지역을 정리하던 중 우연히 흉악한 "
+"무기가 들어 있는 끔찍한 금고를 발견했습니다! 저희는 그런 물건이 필요 없지만, "
+"저희의 대의를 위해 기부해 주신다면, 기꺼이 가져가게 해 드리겠습니다.\""
 
 #: src-en/data/events_sector_monk.xml:1029
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[1]/text"
-msgstr ""
+msgstr "스크랩을 제공하고 무기를 받는다."
 
 #: src-en/data/events_sector_monk.xml:1031
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"완벽하군요! 좋은 곳에 사용하겠습니다. 평온한 하루 되십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1036
 msgid ""
@@ -1364,12 +1381,12 @@ msgstr "무기를 가져간다."
 #: src-en/data/events_sector_monk.xml:1044
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[@req=\"LIST_CREW_MONK\"]/text"
-msgstr ""
+msgstr "(수도승 선원) 책임감 있게 무기를 다루기로 맹세하고 할인을 받는다."
 
 #: src-en/data/events_sector_monk.xml:1046
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[@req=\"LIST_CREW_MONK\"]/event/text"
-msgstr ""
+msgstr "\"당신도 신앙을 가진 자이니, 그 맹세를 믿겠습니다. 평온한 하루 되십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1051
 msgid ""
@@ -1378,12 +1395,14 @@ msgstr "무기를 가져간다."
 
 #: src-en/data/events_sector_monk.xml:1059
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[3]/text"
-msgstr ""
+msgstr "수도승을 공격하면, 공짜로 얻을 수 있을지도 모른다."
 
 #: src-en/data/events_sector_monk.xml:1061
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[3]/event/text"
 msgstr ""
+"수도승이 후회스럽게 대답합니다. \"그 말이 사실이었군요... 폭력적인 수단을 "
+"사용하는 사람과는 이성적으로 소통할 수 없다...\""
 
 #: src-en/data/events_sector_monk.xml:1064
 msgid ""
@@ -1392,12 +1411,12 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_monk.xml:1070
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[4]/text"
-msgstr ""
+msgstr "당신도 원하지 않는다고 말한다."
 
 #: src-en/data/events_sector_monk.xml:1072
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_WEAPON\"]/choice[4]/event/text"
-msgstr ""
+msgstr "\"당신의 심정을 이해합니다. 항성에 던져버리거나 위대한 눈께 바쳐야겠네요.\""
 
 #: src-en/data/events_sector_monk.xml:1074
 msgid ""
@@ -1412,59 +1431,91 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_monk.xml:1086
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/text"
 msgstr ""
+"이 송신소엔 여러 수도승이 상주하고 있으며, 오키드 함선 한 척도 자리 잡고 "
+"있습니다. \"안녕하세요! 저희는 일레스크트리안 신앙을 가진 졸탄을 찾고 "
+"있습니다. 몇 명 정도 함께 가주었으면 하는데, 다들 좀 망설이는 것 같아요. "
+"혹시 설득해 주실 수 있나요?\""
 
 #: src-en/data/events_sector_monk.xml:1089
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"orchid_caretaker\"]/text"
-msgstr ""
+msgstr "(정원지기 선원) 수도승들에게 말 건다."
 
 #: src-en/data/events_sector_monk.xml:1091
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
+"정원지기는 수도승들에게 오키드의 삶과 의무, 그리고 신념에 대해 부드럽게 "
+"이야기하기 시작합니다. 수도승들은 정원지기의 이상에 감명받았는지 오키드와 "
+"함께 가기로 동의합니다. \"와, 정말 완벽한 설득이었어요! 도와줘서 고마워요.\" "
+"오키드는 감사의 표시로 소정의 보상을 줬습니다."
 
 #: src-en/data/events_sector_monk.xml:1096
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"LIST_CREW_FLORAL\"]/text"
-msgstr ""
+msgstr "(화초 선원) 다른 곳에서 찾아보라고 오키드를 설득한다."
 
 #: src-en/data/events_sector_monk.xml:1098
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"LIST_CREW_FLORAL\"]/event/text"
 msgstr ""
+"당신의 선원 상대측 오키드에게 그런 식의 여행은 이곳의 사람들에게는 어려운 "
+"일이며, 계속 찾다 보면 더 열성적인 수도승을 찾을 수 있을 거라고 "
+"설득했습니다. 오키드는 사과했습니다. 수도승들이 당신의 개입에 감사하며 "
+"보답으로 작은 선물을 줍니다."
 
 #: src-en/data/events_sector_monk.xml:1103
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"unique_mayeb\"]/text"
-msgstr ""
+msgstr "(마예브) 수도승들에게 말 건다."
 
 #: src-en/data/events_sector_monk.xml:1105
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"unique_mayeb\"]/event/text"
 msgstr ""
+"마예브가 수도승들에게 말을 겁니다. \"안녕하세요, 제 이름은 마예브입니다. "
+"이쪽은 제 동생 P'erpah고요.\" 그녀가 자기 몸에 달린 다른 머리를 가리킵니다. "
+"머리는 조금씩 움직이고 있습니다. \"P'erpah가 말하길, '만나서 반가워요-' 어, "
+"다음 부분은 좀 애매한데... '-신앙으로 빛나시는 분들'이라고 하네요.\"\n"
+"\n"
+"수도승들은 호기심을 보이며 마예브에게 동생에 대해 질문하기 시작합니다. "
+"이야기를 나누면서 마예브는 오키드에 대해 더 배워가면 어떻겠냐고 부드럽게 "
+"권유합니다. \"...그리고 어쩌면, 어쩌면... 그들도 여러분에게 배울 점이 "
+"있을지도 모르죠.\"\n"
+"\n"
+"수도승들은 결정을 내렸습니다.\n"
+"\n"
+"\"당신은... 이상한 사람입니다, 마예브. 하지만 우리를 위해 와주었습니다. "
+"고맙습니다.\" 오키드는 감사의 표시로 소정의 보상을 줬습니다."
 
 #: src-en/data/events_sector_monk.xml:1116
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"LIST_CREW_MONK\"]/text"
-msgstr ""
+msgstr "(수도승 선원) 수도승들을 설득한다."
 
 #: src-en/data/events_sector_monk.xml:1118
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[@req=\"LIST_CREW_MONK\"]/event/text"
 msgstr ""
+"당신의 선원은 이상을 전파하는 것의 중요성을 언급하며 지금 이 상황이 곧 "
+"위대한 눈이 그들에게 더 널리 영향을 미칠 때라고 알려주는 것이라 말했습니다. "
+"이 말을 들은 수도승들은 오키드 앞에 몰려들어 그와 동행하기로 했습니다. \"와, "
+"정말 완벽한 설득이었어요! 도와줘서 고마워요.\" 오키드는 감사의 표시로 소정의 "
+"보상을 줬습니다."
 
 #: src-en/data/events_sector_monk.xml:1123
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[5]/text"
-msgstr ""
+msgstr "양측을 중재해 본다."
 
 #: src-en/data/events_sector_monk.xml:1127
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[6]/text"
-msgstr ""
+msgstr "오키드 함선을 공격한다."
 
 #: src-en/data/events_sector_monk.xml:1129
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[6]/event/text"
-msgstr ""
+msgstr "당신이 무기를 들어 올리자 오키드도 빠르게 교신을 끊고 무기를 가동하기 "
+"시작합니다."
 
 #: src-en/data/events_sector_monk.xml:1132
 msgid ""
@@ -1473,12 +1524,12 @@ msgstr "계속..."
 
 #: src-en/data/events_sector_monk.xml:1138
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[7]/text"
-msgstr ""
+msgstr "사과하고 통신을 종료한다."
 
 #: src-en/data/events_sector_monk.xml:1140
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ORCHID\"]/choice[7]/event/text"
-msgstr ""
+msgstr "당신은 오키드를 상대하지 않기로 합니다."
 
 #: src-en/data/events_sector_monk.xml:1142
 msgid ""
@@ -1494,15 +1545,27 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_ORCHID_MEDIATE\"]/event[1]/text"
 msgstr ""
+"당신은 최선을 다해 그들이 타협점을 찾도록 도왔고, 똑같은 문답을 계속 "
+"반복하다가 간신히 수도승 한 명을 설득했습니다. \"와, 그게 정말 통하다니 믿을 "
+"수가 없네요. 도와줘서 고마워요.\" 오키드는 감사의 표시로 소정의 보상을 "
+"줬습니다."
 
 #: src-en/data/events_sector_monk.xml:1158
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"MONK_ORCHID_MEDIATE\"]/event[2]/text"
 msgstr ""
+"당신은 최선을 다해 그들이 타협점을 찾도록 도왔지만, 어느 쪽 입장도 진정으로 "
+"공감하지 못했기 때문에 아무런 결과도 내지 못했습니다. 결국 오키드는 당신에게 "
+"시간만 뺏었다고 사과했습니다. 여기서 더 이상 할 수 있는 일은 없는 것 "
+"같습니다."
 
 #: src-en/data/events_sector_monk.xml:1164
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_SUN\"]/text"
 msgstr ""
+"\"불의 시험에 온 것을 환영합니다. 위대한 눈이 당신의 기개를 시험하라 "
+"하십니다. 당신은 잠시 고난을 경험해야 합니다. 진정한 깨달음을 얻기 위해 "
+"고통의 도가니에서 단련되는 것입니다.\" 잠시 동안 이 자리에 있게 하려는 것 "
+"같네요!"
 
 #: src-en/data/events_sector_monk.xml:1168
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_SUN\"]/choice/text"
@@ -1511,32 +1574,47 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:1173
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_SUN_TRIAL_WIN\"]/text"
 msgstr ""
+"\"합격! 시험이 끝났습니다. 보상을 받아 가십시오. 하지만 우주에는 더 많은 "
+"고난이 기다리고 있으니 조심하십시오. 언제나 우주의 교훈에 주의를 기울이는 "
+"겁니다.\""
 
 #: src-en/data/events_sector_monk.xml:1179
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/text"
 msgstr ""
+"성운 밖에서 졸탄 수도원을 보기는 쉽지 않습니다. 특히 이 수도원은 공전 주기와 "
+"자전 주기가 일치하는 행성에, 그 안에서도 딱 낮과 밤의 경계에 있어 주변이 "
+"항상 새벽인 것처럼 보입니다."
 
 #: src-en/data/events_sector_monk.xml:1181
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/text"
-msgstr ""
+msgstr "수도원을 방문한다."
 
 #: src-en/data/events_sector_monk.xml:1184
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/text"
 msgstr ""
+"\"안녕하십니까 여행자 여러분, 광명에 오신 것을 환영합니다. 저희 "
+"일레스크트리안 빛의 교단은 세상 모두를 들여다봅니다. 그러나 그저 영혼을 "
+"들여다볼 뿐, 누군가를 심판하지는 않습니다. 오직 빛을 통해서만 자신의 잘못을 "
+"속죄할 수 있습니다.\" 수도승이 유난히 날카로운 눈빛으로 당신의 눈을 "
+"응시합니다."
 
 #: src-en/data/events_sector_monk.xml:1186
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1188
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"\"오, 이런. 당신의 영혼은 완전히 더럽혀져 있습니다. 한눈에 봐도 많은 "
+"사람에게 불행을 가져다주었다는 것을 알 수 있습니다. 어쩌면 제가 간과하고 "
+"있는 소소한 선행이 있을지도 모르지만... 당신은 확실히 많은 사람에게 미움을 "
+"받고 있습니다. 당신은 어두운 길을 걷고 있습니다.\""
 
 #: src-en/data/events_sector_monk.xml:1190
 msgid ""
@@ -1548,13 +1626,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1198
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"\"당신은 많은 이들의 미움을 샀습니다. 우주를 누비면서 많은 적을 만들고 "
+"있군요. 정확한 사정은 모르겠지만, 이 작은 전쟁이 끝난 후 평온한 삶을 살고 "
+"싶다면 회개하셔야 합니다.\""
 
 #: src-en/data/events_sector_monk.xml:1200
 msgid ""
@@ -1566,13 +1647,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1208
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"\"당신은 논쟁을 불러일으키는 인물입니다. 지금까지 당신의 행동은 일관되게 "
+"비외교적이고 심지어 야만적으로 비칩니다. 진심으로 변화하려고 노력하지 않으면 "
+"더 이상 어디에서도 환영받지 못할 것입니다.\""
 
 #: src-en/data/events_sector_monk.xml:1210
 msgid ""
@@ -1584,13 +1668,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1218
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"\"당신은 전반적으로 이 은하계에 나쁜 인상을 남겼습니다. 정상 참작의 여지가 "
+"있을 수도 있지만, 잘못된 방향으로 나아가고 있는 것 같습니다. 하지만 최소한 "
+"어느 정도 자제력을 발휘한 것으로 보이네요.\""
 
 #: src-en/data/events_sector_monk.xml:1220
 msgid ""
@@ -1602,13 +1689,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1228
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"당신의 눈을 들여다보면 균형 잡혀 있는 것이 보입니다. 다른 사람에게 잘못한 "
+"행동이 있다 해도 선행이나 영웅적인 행동으로 상쇄되고 있습니다. 아니면... 두 "
+"경우 다 없을 수도요?\""
 
 #: src-en/data/events_sector_monk.xml:1230
 msgid ""
@@ -1623,6 +1713,11 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"REPUTATION_IS_TOTALLY_FINE\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
+"\"아, 맞습니다. 더 자세히 들여다보니 당신은 실제로 완전히 균형 잡힌 "
+"사람입니다. 명성을 쌓지도 악명을 쌓지도 않았습니다. 제 직감은 당신이 역경을 "
+"피하는 성향이라고 말해줍니다. 하지만 그건 곧 현명하다는 뜻이기도 하죠. "
+"저희는 당신에게 선물을 제공하겠습니다. 평안히 가시고 항상 빛을 따라가십시오."
+"\""
 
 #: src-en/data/events_sector_monk.xml:1237
 msgid ""
@@ -1635,13 +1730,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"-4\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1245
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"-4\"]/event/text"
 msgstr ""
+"\"당신은 전반적으로 좋은 평판을 가지고 있습니다. 나약한 사람들을 착취하거나 "
+"해치지 않고 평화와 안전을 가져다주려고 합니다. 당신이 있는 곳이 바로 빛이 "
+"닿는 곳입니다.\""
 
 #: src-en/data/events_sector_monk.xml:1247
 msgid ""
@@ -1661,13 +1759,16 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "빛을 느낀다."
 
 #: src-en/data/events_sector_monk.xml:1259
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[1]/event/choice[@req=\"rep_comb_all\""
 " and @lvl=\"-999\"]/event/text"
 msgstr ""
+"\"경외심이 느껴집니다. 당신은 별들에게 전적으로 긍정적인 힘을 주고 있습니다. "
+"폭력과 연관된 직업을 가졌음에도 긍정적인 업보를 쌓아가는 능력이 저를 "
+"겸손하게 만듭니다. 당신에게 배워야 할 것 같습니다.\""
 
 #: src-en/data/events_sector_monk.xml:1261
 msgid ""
@@ -1686,12 +1787,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_monk.xml:1273
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "수도원을 무시한다."
 
 #: src-en/data/events_sector_monk.xml:1275
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 수도승들을 무시하고 항해에 집중합니다."
 
 #: src-en/data/events_sector_monk.xml:1277
 msgid ""
@@ -1706,269 +1807,304 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_monk.xml:1288
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/text"
 msgstr ""
+"\"당신에게 큰 해를 입었다고 생각하는 사람들이 있습니다. 당신이 자신의 행동에 "
+"수치심이나 후회를 느낄지는 모르겠습니다. 하지만 그 행동을 속죄하고 싶다면 "
+"기회를 드리겠습니다. 해를 끼친 집단을 알려주시고 기부금을 주십시오. 그러고 "
+"나서 그 집단에 대한 자신의 잘못을 묵상해 주십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1290
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_general\"]/text"
-msgstr ""
+msgstr "특정한 대상 없이 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1298
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_general\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1304
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_union\"]/text"
-msgstr ""
+msgstr "협회를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1312
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_union\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1318
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_zoltan\"]/text"
-msgstr ""
+msgstr "졸탄 내각을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1326
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_zoltan\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1332
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_orchid\"]/text"
-msgstr ""
+msgstr "Ctl'Yae 군락을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1340
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_orchid\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1346
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_engi\"]/text"
-msgstr ""
+msgstr "엔지 하모니를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1354
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_engi\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1360
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_crystal\"]/text"
-msgstr ""
+msgstr "크리스탈 제국을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1368
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_crystal\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1374
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_outcast\"]/text"
-msgstr ""
+msgstr "락맨 망명자들을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1382
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_outcast\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1388
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_vampweed\"]/text"
-msgstr ""
+msgstr "Oro'bache 공동체를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1396
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_vampweed\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1402
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_freemantis\"]/text"
-msgstr ""
+msgstr "독립 맨티스를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1410
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_freemantis\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1416
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_shell\"]/text"
-msgstr ""
+msgstr "셸 천재정을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1424
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_shell\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1430
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_slug\"]/text"
-msgstr ""
+msgstr "슬러그 도둑정을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1438
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[@req=\"rep_slug\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1444
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[12]/text"
-msgstr ""
+msgstr "속죄하지 않는다."
 
 #: src-en/data/events_sector_monk.xml:1446
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER\"]/choice[12]/event/text"
 msgstr ""
+"\"그렇군요... 그 말을 들으니 정말 슬프네요. 하지만 아직 늦지 않았다는 것을 "
+"알아주십시오. 회개하고 싶다면 언제든 다시 돌아오세요. 저희가 최선을 다해 "
+"당신의 영혼을 구해드리겠습니다.\""
 
 #: src-en/data/events_sector_monk.xml:1451
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/text"
 msgstr ""
+"\"당신은 대부분의 사람들로부터 좋은 평가를 받고 있지만, 선의는 아무리 넘쳐도 "
+"괜찮은 것입니다. 당신에게 수치심이나 후회를 느낄 행동이 있는지는 "
+"모르겠습니다. 하지만 만약 어떤 행동을 속죄하고 싶다면 기회를 드리겠습니다. "
+"해를 끼친 집단을 알려주시고 기부금을 주십시오. 그러고 나서 그 집단에 대한 "
+"자신의 잘못을 묵상해 주십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1453
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_general\"]/text"
-msgstr ""
+msgstr "특정한 대상 없이 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1458
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_general\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1464
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_union\"]/text"
-msgstr ""
+msgstr "협회를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1469
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_union\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1475
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_zoltan\"]/text"
-msgstr ""
+msgstr "졸탄 내각을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1480
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_zoltan\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1486
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_orchid\"]/text"
-msgstr ""
+msgstr "Ctl'Yae 군락을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1491
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_orchid\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1497
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_engi\"]/text"
-msgstr ""
+msgstr "엔지 하모니를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1502
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_engi\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1508
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_crystal\"]/text"
-msgstr ""
+msgstr "크리스탈 제국을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1513
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_crystal\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1519
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_outcast\"]/text"
-msgstr ""
+msgstr "락맨 망명자들을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1524
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_outcast\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1530
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_vampweed\"]/text"
-msgstr ""
+msgstr "Oro'bache 공동체를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1535
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_vampweed\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1541
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_freemantis\"]/text"
-msgstr ""
+msgstr "독립 맨티스를 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1546
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_freemantis\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1552
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_shell\"]/text"
-msgstr ""
+msgstr "셸 천재정을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1557
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_shell\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1563
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_slug\"]/text"
-msgstr ""
+msgstr "슬러그 도둑정을 떠올리며 잘못을 속죄한다."
 
 #: src-en/data/events_sector_monk.xml:1568
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[@req=\"rep_slug\"]/event/choice/text"
-msgstr ""
+msgstr "눈을 감고 긴장을 푼다..."
 
 #: src-en/data/events_sector_monk.xml:1574
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[12]/text"
-msgstr ""
+msgstr "속죄하지 않는다."
 
 #: src-en/data/events_sector_monk.xml:1576
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_ATONEMENT_OFFER_GOOD_KARMA\"]/choice[12]/event/text"
-msgstr ""
+msgstr "\"알겠습니다... 아쉽지만, 당신이라면 스스로 자신의 행동으로 바로잡을 수 "
+"있으리라 믿겠습니다. 평안히 가십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1581
 msgid "data/events_sector_monk.xml$//event[@name=\"ATONEMENT_NIGHTMARE\"]/text"
 msgstr ""
+"모든 것이 어둡고 고요하지만... 그럼에도 마치 빛에 감싸인 것처럼 느껴집니다. "
+"악명을 쌓았던 행동을 되돌아보자 소름 끼치는 공포가 몸을 둘러싸는 것이 "
+"느껴집니다. 당신이 저질렀던 잘못마다 가슴이 찢어지는 듯한 고통이 울려 "
+"퍼집니다. 잘못은 곧 물리적 형태를 갖추고 합쳐져 거대한 룬 큐브 모양을 "
+"형성합니다. 큐브들이 주위를 둘러싸고 천천히, 확실하게 빛을 가리면서 당신의 "
+"마음을 황폐하게 만듭니다. 하지만 곧 큐브가 사라지고 비가 내리기 시작합니다. "
+"아니... 이건 비가 아니라... 메뚜기 떼입니다. 메뚜기 떼가 당신에게 내려와 "
+"만찬을 시작합니다. 손가락, 팔, 다리... 온몸을 갉아 먹히고 있습니다. 하지만 "
+"메뚜기 떼는 당신을 완전히 정복해 버리기 전에 흩어집니다.\n"
+"\n"
+"...문이 열리는 소리가 들립니다."
 
 #: src-en/data/events_sector_monk.xml:1585
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"ATONEMENT_NIGHTMARE\"]/choice/text"
-msgstr ""
+msgstr "눈을 뜬다."
 
 #: src-en/data/events_sector_monk.xml:1587
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"ATONEMENT_NIGHTMARE\"]/choice/event/text"
 msgstr ""
+"당신은 식은땀을 흘리며 깨어났고, 수도승의 부축을 받아 다시 일어섰습니다. "
+"눈을 감은 후 많은 시간이 지난 것처럼 느껴집니다. 선원들은 당신을 쳐다보며 "
+"걱정스러운 표정을 짓고 있었지만, 당신이 깨어난 것에 안도하는 것 같습니다.\n"
+"\n"
+"\t\t\t수도승이 다시 입을 엽니다. \"속죄가 끝났습니다. 저울의 균형이 다시 "
+"잡혔습니다. 도덕적 의무를 다할 수 있도록 각별히 신경 써 주십시오. 평안히 "
+"가십시오.\""
 
 #: src-en/data/events_sector_monk.xml:1595
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_CLEAN_SOUL\"]/text"
 msgstr ""
+"\"정말 인상적입니다. 모든 사람들이... 정확히 따지자면 당신이 무엇을 하든 "
+"미워할 사람들을 제외하고는, 당신에 대해 좋은 말만 하는 것 같군요. 모두에게 "
+"친절을 베풀고자 수고를 아끼지 않으셨다는 사실이 너무나도 기쁩니다. 위대한 "
+"눈께서 하사해 주신 이 훌륭한 유물이 여러분에게 도움이 되기를 바랍니다.\""
 
 #: src-en/data/events_sector_monk.xml:1608
 msgid "data/events_sector_monk.xml$//event[@name=\"MONK_TEMPLE\"]/text"
@@ -2018,7 +2154,7 @@ msgstr "\"괜찮습니다 친구여. 안전한 여행이 되길 바랍니다.\""
 #: src-en/data/events_sector_monk.xml:1640
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_TEMPLE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_monk.xml:1642
 msgid ""
@@ -2281,6 +2417,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[1]/text"
 msgstr ""
+"모노리스에 다가가자, 고대 외계인의 목소리가 들려옵니다. \"너의 임무는 크나큰 "
+"전투와 거대한 상실을 가져왔다. 이것이 고통을 더는 데 도움이 될지니.\" 잠시 "
+"후 당신은 함선에 의료 장비가 나타났다는 보고를 받았습니다!"
 
 #: src-en/data/events_sector_monk.xml:1848
 msgid ""
@@ -2335,10 +2474,9 @@ msgid ""
 msgstr "주위에 나노봇 구름이 형성되고 목소리가 들려옵니다. \"어떤 목적을 위해 섬겨야 합니까?\""
 
 #: src-en/data/events_sector_monk.xml:1875
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[8]/choice[1]/text"
-msgstr "조타실"
+msgstr "조타."
 
 #: src-en/data/events_sector_monk.xml:1877
 msgid ""
@@ -2366,10 +2504,9 @@ msgid ""
 msgstr "L-6644"
 
 #: src-en/data/events_sector_monk.xml:1889
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[8]/choice[3]/text"
-msgstr "전투중"
+msgstr "전투."
 
 #: src-en/data/events_sector_monk.xml:1891
 msgid ""
@@ -2469,7 +2606,8 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:1966
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST\"]/event[16]/text"
-msgstr ""
+msgstr "낄낄거리는 목소리가 함선에 울려 퍼지고, 형체 없는 목소리가 뒤따릅니다. \"친구"
+" 하나, 적 하나. 눈에는 눈.\""
 
 #: src-en/data/events_sector_monk.xml:1971
 msgid ""
@@ -2542,6 +2680,9 @@ msgstr ""
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[1]/text"
 msgstr ""
+"모노리스에 다가가자, 고대 외계인의 목소리가 들려옵니다. \"너의 임무는 크나큰 "
+"전투와 거대한 상실을 가져왔다. 이것이 고통을 더는 데 도움이 될지니.\" 잠시 "
+"후 당신은 함선에 의료 장비가 나타났다는 보고를 받았습니다!"
 
 #: src-en/data/events_sector_monk.xml:2032
 msgid ""
@@ -2596,10 +2737,9 @@ msgid ""
 msgstr "주위에 나노봇 구름이 형성되고 목소리가 들려옵니다. \"어떤 목적을 위해 섬겨야 합니까?\""
 
 #: src-en/data/events_sector_monk.xml:2059
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[8]/choice[1]/text"
-msgstr "조타실"
+msgstr "조타."
 
 #: src-en/data/events_sector_monk.xml:2061
 msgid ""
@@ -2627,10 +2767,9 @@ msgid ""
 msgstr "L-6644"
 
 #: src-en/data/events_sector_monk.xml:2073
-#, fuzzy
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[8]/choice[3]/text"
-msgstr "전투중"
+msgstr "전투."
 
 #: src-en/data/events_sector_monk.xml:2075
 msgid ""
@@ -2730,7 +2869,8 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:2150
 msgid ""
 "data/events_sector_monk.xml$//eventList[@name=\"GREAT_EYE_LIST_GOOD\"]/event[16]/text"
-msgstr ""
+msgstr "낄낄거리는 목소리가 함선에 울려 퍼지고, 형체 없는 목소리가 뒤따릅니다. \"친구"
+" 하나, 적 하나. 눈에는 눈.\""
 
 #: src-en/data/events_sector_monk.xml:2155
 msgid ""
@@ -2826,7 +2966,7 @@ msgstr ""
 #: src-en/data/events_sector_monk.xml:2229
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_PEACE_QUEST2\"]/choice[1]/text"
-msgstr ""
+msgstr "교신을 시도한다."
 
 #: src-en/data/events_sector_monk.xml:2231
 msgid ""
@@ -2945,4 +3085,3 @@ msgstr "선원을 요청한다."
 msgid ""
 "data/events_sector_monk.xml$//event[@name=\"MONK_PEACE_QUEST_REWARD\"]/choice[2]/event/crewMember"
 msgstr "Envoy"
-

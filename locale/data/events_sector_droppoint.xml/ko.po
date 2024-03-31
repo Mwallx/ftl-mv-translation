@@ -1,15 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-18 17:40+0000\n"
+"Last-Translator: 꼴뚜기 <dyvoraos@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_droppointxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_droppoint.xml:26
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_UNION_PROTESTORS\"]/destroyed/text"
-msgstr "당신은 민간 선박을 파괴하고 스크랩을 차지했습니다."
+msgstr "당신은 협회 선박을 파괴하고 스크랩을 차지했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:29
 msgid ""
@@ -17,10 +23,10 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:34
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_UNION_PROTESTORS\"]/deadCrew/text"
-msgstr "당신은 민간 선박에 존재하는 모든 생명체를 제거하고, 그들의 스크랩을 차지했습니다."
+msgstr "당신은 협회 선박에 존재하는 모든 생명체를 제거하고, 그들의 스크랩을 "
+"차지했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:37
 msgid ""
@@ -45,17 +51,18 @@ msgstr "\"그만! 그만! 노예를 보내줄테니 우릴 보내줘. 우릴 죽
 #: src-en/data/events_sector_droppoint.xml:90
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_SLAVER_START\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "그들의 제안을 받아들인다."
 
 #: src-en/data/events_sector_droppoint.xml:97
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_SLAVER_START\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "항복은 선택사항이 아니다."
 
 #: src-en/data/events_sector_droppoint.xml:107
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/escape/text"
-msgstr ""
+msgstr "그들은 이런 상황을 예상하기라도 한 듯 즉시 엔진을 가동했습니다. 서둘러야 "
+"합니다─이 함선의 엔진은 이상할 정도로 강력합니다."
 
 #: src-en/data/events_sector_droppoint.xml:110
 msgid ""
@@ -65,52 +72,55 @@ msgstr "해적들은 도약해 사라졌습니다."
 #: src-en/data/events_sector_droppoint.xml:113
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/surrender/text"
-msgstr ""
+msgstr "\"잠깐잠깐, 우리는 그냥 배달이 하고 싶은 것뿐이라고! 이걸 줄 테니 우릴 좀 "
+"내버려 둬!\""
 
 #: src-en/data/events_sector_droppoint.xml:115
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "그들의 제안을 받아들인다."
 
 #: src-en/data/events_sector_droppoint.xml:122
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "항복은 선택사항이 아니다."
 
 #: src-en/data/events_sector_droppoint.xml:127
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/destroyed/text"
-msgstr ""
+msgstr "밀수꾼의 함선은 산산조각나고, 엔진은 불타 없어졌습니다."
 
 #: src-en/data/events_sector_droppoint.xml:130
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/destroyed/choice/text"
-msgstr ""
+msgstr "화물 중 값나가는 게 있는지 찾아본다."
 
 #: src-en/data/events_sector_droppoint.xml:135
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_BULKY_SMUGGLER\"]/deadCrew/text"
 msgstr ""
+"당신은 방해꾼 없이 화물을 뒤적거리다가 무언가 발견합니다. 그들이 말한 중요한 "
+"배달품이 이것이었을지는 잘 모르겠지만, 이제 당신 것이라는 것은 확실합니다."
 
 #: src-en/data/events_sector_droppoint.xml:141
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"BULKY_SMUGGLER_DESTROY\"]/event[1]/text"
-msgstr ""
+msgstr "그들의 화물은 살아남지 못한 듯합니다. 값 좀 나갈 것 같았는데, 아쉽게 됐군요."
 
 #: src-en/data/events_sector_droppoint.xml:144
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"BULKY_SMUGGLER_DESTROY\"]/event[2]/text"
-msgstr ""
+msgstr "그들의 화물은 살아남지 못한 듯합니다. 값 좀 나갈 것 같았는데, 아쉽게 됐군요."
 
 #: src-en/data/events_sector_droppoint.xml:147
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"BULKY_SMUGGLER_DESTROY\"]/event[3]/text"
-msgstr ""
+msgstr "그들의 화물은 살아남지 못한 듯합니다. 값 좀 나갈 것 같았는데, 아쉽게 됐군요."
 
 #: src-en/data/events_sector_droppoint.xml:150
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"BULKY_SMUGGLER_DESTROY\"]/event[4]/text"
-msgstr ""
+msgstr "당신은 화물이었던 것들 사이에서 멀쩡하게 남은 무언가를 발견할 수 있었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:157
 msgid ""
@@ -142,22 +152,26 @@ msgstr "\"당신이 이기다! 가장 위대한 투사다. 약속대로 나는 �
 #: src-en/data/events_sector_droppoint.xml:196
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "승선을 환영한다."
 
 #: src-en/data/events_sector_droppoint.xml:203
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "그들을 마무리한다."
 
 #: src-en/data/events_sector_droppoint.xml:208
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/destroyed/text"
 msgstr ""
+"실수로... 독립 맨티스들을 죽여 버렸습니다. 아니면 일부러 그랬던 걸까요? "
+"이유가 뭐였든 이제 할 수 있는 건 그들의 선체를 갈아 스크랩으로 만드는 "
+"것뿐이었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:212
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/deadCrew/text"
-msgstr ""
+msgstr "당신은 실수였든 고의였든 간에 독립 맨티스들을 살해한 것 같습니다. 당신은 "
+"함선의 잔해를 인양할 수 밖에 없었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:215
 msgid ""
@@ -215,7 +229,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:247
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_FREEMANTIS_START_CHALLENGE\"]/deadCrew/choice[@req=\"BLUELIST_BOMBS_HEAL\"]/text"
-msgstr "(의료용 폭탄) 독립 맨티스를 살려낸다. [-1}]"
+msgstr "(의료 폭탄) 독립 맨티스를 살려낸다. [-1}]"
 
 #: src-en/data/events_sector_droppoint.xml:249
 msgid ""
@@ -404,7 +418,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:458
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_QUEST_STORE_RESCUE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "반군 함선 한 척이 현재 좌표에 있는 우주 공항을 습격중인 것을 보았습니다."
 
 #: src-en/data/events_sector_droppoint.xml:460
 msgid ""
@@ -439,7 +453,7 @@ msgstr "잠시 후, 그 함선은 무기 동력을 끈 다음 도약해 사라�
 #: src-en/data/events_sector_droppoint.xml:484
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_QUEST_ESCORT\"]/choice[1]/text"
-msgstr ""
+msgstr "수락한다."
 
 #: src-en/data/events_sector_droppoint.xml:486
 msgid ""
@@ -472,7 +486,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_droppoint.xml:506
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_QUEST_ESCORT\"]/choice[3]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_droppoint.xml:508
 msgid ""
@@ -508,7 +522,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:526
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_QUEST_ESCORT_ARRIVE\"]/event[1]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비무장 선박을 특정 좌표로 호위하는 의뢰를 받았습니다."
 
 #: src-en/data/events_sector_droppoint.xml:528
 msgid ""
@@ -523,7 +537,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:538
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_QUEST_ESCORT_ARRIVE\"]/event[2]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비무장 선박을 특정 좌표로 호위하는 의뢰를 받았습니다."
 
 #: src-en/data/events_sector_droppoint.xml:540
 msgid ""
@@ -533,7 +547,7 @@ msgstr "당신이 도착하고 난 뒤 당신이 호위하던 함선도 근처�
 #: src-en/data/events_sector_droppoint.xml:546
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_QUEST_ESCORT_ARRIVE\"]/event[3]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비무장 선박을 특정 좌표로 호위하는 의뢰를 받았습니다."
 
 #: src-en/data/events_sector_droppoint.xml:548
 msgid ""
@@ -545,7 +559,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:555
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_QUEST_ESCORT_ARRIVE\"]/event[4]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "비무장 선박을 특정 좌표로 호위하는 의뢰를 받았습니다."
 
 #: src-en/data/events_sector_droppoint.xml:557
 msgid ""
@@ -669,12 +683,12 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:642
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_DISTRESS_CRASH_LANDING\"]/text"
 msgstr ""
-"당신은 우주를 떠다니는 떠돌이 행성에 도착했습니다. 표면을 스캔한 결과 행성 뒷편에 함선 하나가 불시착했다고 합니다. 꼴이 말이 아니지만"
-" 어쩌면 생존자를 발견할 수 있을 것 같습니다."
+"당신은 죽어버린 항성 주위를 돌고 있는 어느 외딴 행성에 도착했습니다. 표면을 "
+"스캔한 결과 행성 뒤편에 함선 하나가 불시착했다고 합니다. 꼴이 말이 아니지만 "
+"어쩌면 생존자를 발견할 수 있을 것 같습니다."
 
 #: src-en/data/events_sector_droppoint.xml:645
 msgid ""
@@ -702,10 +716,9 @@ msgid ""
 msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_sector_droppoint.xml:665
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/destroyed/text"
-msgstr "반군 함선을 파괴했습니다. 잔해에서 남아있는 자원을 인양합니다."
+msgstr "반군 함선을 파괴했습니다. 잔해에서 자원을 인양합니다."
 
 #: src-en/data/events_sector_droppoint.xml:668
 msgid ""
@@ -713,18 +726,17 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:670
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/destroyed/choice/event/text"
 msgstr ""
-"반군 항공모함의 상태는 생각보다 심각했습니다. 나머지 자동 드론들이 비활성화 되어 있는 탓에 그저 거대한 과녁이나 마찬가지였습니다. "
-"그들은 항복의 표시로 당신에게 약간의 보급품을 바쳤습니다."
+"반군 항공모함의 상태는 생각보다 심각했습니다. 나머지 함대가 비활성화 되어 "
+"있는 탓에 그저 거대한 과녁이나 마찬가지였습니다. 그들은 항복의 표시로 "
+"당신에게 약간의 보급품을 바쳤습니다."
 
 #: src-en/data/events_sector_droppoint.xml:676
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/deadCrew/text"
-msgstr "반군 함선을 파괴했습니다. 잔해에서 남아있는 자원을 인양합니다."
+msgstr "반군 함선을 파괴했습니다. 잔해에서 자원을 인양합니다."
 
 #: src-en/data/events_sector_droppoint.xml:679
 msgid ""
@@ -732,20 +744,20 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:681
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//ship[@name=\"SHIP_REBEL_CRASH_LANDING_START\"]/deadCrew/choice/event/text"
 msgstr ""
-"반군 항공모함의 상태는 생각보다 심각했습니다. 나머지 자동 드론들이 비활성화 되어 있는 탓에 그저 거대한 과녁이나 마찬가지였습니다. "
-"그들은 항복의 표시로 당신에게 약간의 보급품을 바쳤습니다."
+"반군 항공모함의 상태는 생각보다 심각했습니다. 나머지 함대가 비활성화 되어 "
+"있는 탓에 그저 거대한 과녁이나 마찬가지였습니다. 그들은 항복의 표시로 "
+"당신에게 약간의 보급품을 바쳤습니다."
 
 #: src-en/data/events_sector_droppoint.xml:689
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_CRASH_LANDING_INSPECT\"]/event[1]/text"
 msgstr ""
-"자세히 보니 단순한 함선이 아니었습니다. 무려 거대한 반군 항공모함이었습니다! 항공모함은 남아 있는 시스템 몇 개를 가동해 무인 함재기를"
-" 발진시켰습니다. 당신을 발견한 게 틀림없습니다."
+"자세히 보니 단순한 함선이 아니었습니다. 그 정체는 무려 거대한 반군 "
+"항공모함이었습니다! 항공모함은 남아 있는 시스템 몇 개를 가동해 무인 함재기를 "
+"발진시켰습니다."
 
 #: src-en/data/events_sector_droppoint.xml:692
 msgid ""
@@ -785,7 +797,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:714
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_CRASH_LANDING_INSPECT\"]/event[3]/choice[1]/text"
-msgstr ""
+msgstr "함선을 인양한다."
 
 #: src-en/data/events_sector_droppoint.xml:718
 msgid ""
@@ -1011,10 +1023,9 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:905
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_HELP_MINERS\"]/choice[@req=\"LIST_CREW_LOSTSUN\"]/text"
-msgstr "(로스트선 특공대) 즉석 폭발물 제조 방법을 가르쳐 주겠다고 제안한다."
+msgstr "(로스트선 선원) 급조 폭발물 제조 방법을 가르쳐 주겠다고 제안한다."
 
 #: src-en/data/events_sector_droppoint.xml:907
 msgid ""
@@ -1071,17 +1082,17 @@ msgstr "행성을 스캔해본다."
 #: src-en/data/events_sector_droppoint.xml:939
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_TERRAFORMING_SCAN\"]/choice[1]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 센서 성능을 최대한으로 올린 후 스캔한다."
 
 #: src-en/data/events_sector_droppoint.xml:943
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_TERRAFORMING_SCAN\"]/choice[1]/event/choice[@req=\"LIST_CREW_POWER\"]/text"
-msgstr ""
+msgstr "(추가 전력 공급 선원) 선원을 보내 상대의 시스템을 과충전시킨다."
 
 #: src-en/data/events_sector_droppoint.xml:947
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_TERRAFORMING_SCAN\"]/choice[1]/event/choice[@req=\"zoltan_osmian\"]/text"
-msgstr ""
+msgstr "(오스미안 선원) 홀로그램을 보내 상대의 시스템을 과충전시킨다."
 
 #: src-en/data/events_sector_droppoint.xml:951
 msgid ""
@@ -1228,7 +1239,7 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_ROGUE_REBEL\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(고급 센서) 지역을 스캔한다."
 
 #: src-en/data/events_sector_droppoint.xml:1063
 msgid ""
@@ -1243,11 +1254,10 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_sector_droppoint.xml:1072
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"MV_ROGUE_REBEL\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr "(최고급 센서실) 반군의 위치를 정확히 알아낸다."
+msgstr "(최고급 센서) 반군의 위치를 정확히 알아낸다."
 
 #: src-en/data/events_sector_droppoint.xml:1074
 msgid ""
@@ -1265,12 +1275,13 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1086
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_ROGUE_REBEL_SEARCH\"]/event[1]/text"
-msgstr ""
+msgstr "당신은 시간을 들여 주변을 살펴보았지만 스캐너는 어떠한 반군 함선의 단서도 "
+"찾지 못했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1088
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"MV_ROGUE_REBEL_SEARCH\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "계속 찾아본다."
 
 #: src-en/data/events_sector_droppoint.xml:1090
 msgid ""
@@ -1415,10 +1426,9 @@ msgid ""
 msgstr "놀랍게도, 해적들은 약속을 지켰고 엔진 효율이 향상되었습니다. 앞으로의 여정에 도움이 될 것입니다."
 
 #: src-en/data/events_sector_droppoint.xml:1213
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SKETCHY_UPGRADES\"]/choice/event/choice[2]/text"
-msgstr "공격한다."
+msgstr "공격!"
 
 #: src-en/data/events_sector_droppoint.xml:1215
 msgid ""
@@ -1455,7 +1465,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1241
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SKETCHY_UPGRADES\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "괜찮습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1243
 msgid ""
@@ -1558,7 +1568,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1323
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_SLAVER_LIST\"]/event[1]/choice[3]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_droppoint.xml:1328
 msgid ""
@@ -1600,7 +1610,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1358
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_SLAVER_LIST\"]/event[2]/choice[3]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_sector_droppoint.xml:1365
 msgid "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_CACHE\"]/text"
@@ -1642,7 +1652,7 @@ msgstr "이 정도면 한동안은 혼란스러울 것입니다. 민간인이나
 #: src-en/data/events_sector_droppoint.xml:1394
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_CACHE\"]/choice[4]/text"
-msgstr ""
+msgstr "상자를 무시한다."
 
 #: src-en/data/events_sector_droppoint.xml:1396
 msgid ""
@@ -1768,7 +1778,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:1476
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ORCHIDS\"]/choice[2]/text"
-msgstr ""
+msgstr "먼저 공격한다."
 
 #: src-en/data/events_sector_droppoint.xml:1478
 msgid ""
@@ -1810,10 +1820,9 @@ msgstr ""
 " 남은 물자를 챙길 수 있을 겁니다."
 
 #: src-en/data/events_sector_droppoint.xml:1522
-#, fuzzy
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_PIRATE_RAID\"]/choice[1]/text"
-msgstr "해적을 공격한다."
+msgstr "해적을 공격한다!"
 
 #: src-en/data/events_sector_droppoint.xml:1524
 msgid ""
@@ -1921,7 +1930,7 @@ msgstr "처음부터 선원이 전혀 없었기에, 선원을 내줄 수 없습�
 #: src-en/data/events_sector_droppoint.xml:1593
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_FORTIFICATIONS\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "우린 도울 수 없다."
 
 #: src-en/data/events_sector_droppoint.xml:1595
 msgid ""
@@ -1941,7 +1950,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_droppoint.xml:1609
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_FORTIFICATIONS\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_droppoint.xml:1611
 msgid ""
@@ -2002,7 +2011,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:1646
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_PROTESTORS\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "협회의 선박을 공격한다."
 
 #: src-en/data/events_sector_droppoint.xml:1648
 msgid ""
@@ -2029,7 +2038,7 @@ msgstr "지금 당신이 조종하는 거대한 살인 기계는 비살상적인
 #: src-en/data/events_sector_droppoint.xml:1665
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_PROTESTORS\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "도망친다."
 
 #: src-en/data/events_sector_droppoint.xml:1667
 msgid ""
@@ -2070,6 +2079,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_PROTESTORS_ATTACK\"]/event[1]/text"
 msgstr ""
+"나머지 시민들은 당신의 무자비한 공격을 보고는 도망치기 바빴습니다. 멀티버스 "
+"배회자들을 보는 시선이 개선되진 않겠습니다만, 그래도 연방의 병사들은 구할 수 "
+"있었습니다. 병사들은 보상으로 약간의 자원을 나눠주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1700
 msgid ""
@@ -2095,6 +2107,10 @@ msgstr ""
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_PROTESTORS_CREW\"]/event[1]/text"
 msgstr ""
+"당신은 분쟁지역 한복판에 아무도 깔리지 않도록 조심히 함선을 착륙시켰습니다. "
+"선원들은 바깥으로 나가 시위대와 말로 해결해 보기로 했습니다. 어떻게든 폭력을 "
+"사용하지 않도록 설득하는 데 성공했는지, 시위대들은 이윽고 해산했습니다. 연방 "
+"관계자는 평화적으로 상황이 해결된 것에 감사해하며 당신에게 보상을 주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1719
 msgid ""
@@ -2130,7 +2146,7 @@ msgstr "거절한다."
 #: src-en/data/events_sector_droppoint.xml:1739
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_CRAZYZOLTAN\"]/choice[2]/text"
-msgstr ""
+msgstr "헌금한다."
 
 #: src-en/data/events_sector_droppoint.xml:1743
 msgid ""
@@ -2172,7 +2188,7 @@ msgstr ""
 #: src-en/data/events_sector_droppoint.xml:1764
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_CRAZYZOLTAN\"]/choice[6]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_droppoint.xml:1766
 msgid ""
@@ -2234,8 +2250,9 @@ msgstr "졸탄은 스크랩을 퍼담으면서 당신의 행운에 대해 예언
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_FREEMANTIS\"]/text"
 msgstr ""
-"독립 맨티스가 번역기가 따라잡기 힘들 정도로 열렬히 당신을 환영했습니다. \"오 오 연방 함장, 난 묻다 당신이 내 도움 받을 수 "
-"있는지! 그래, 난 신념 가진다, 보여줘 증거. 나와 싸우고, 이기면 선원으로 들어간다. 조심해라, 나 자비 없다!\""
+"독립 맨티스는 번역기가 따라잡기 힘들 정도로 열렬히 당신을 환영했습니다. \"오 "
+"오 연방 함장, 난 묻다 당신이 내 도움 받을 수 있는지! 그래, 난 신념 가진다, "
+"보여줘 증거. 나와 싸우고, 이기면 선원으로 들어간다. 조심해라, 나 자비 없다!\""
 
 #: src-en/data/events_sector_droppoint.xml:1819
 msgid ""
@@ -2280,16 +2297,20 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/text"
 msgstr ""
+"무장하지 않은 알게온 선박을 보는 건 흔한 일이 아닙니다. 이 선박은 당신과 "
+"최대한 거리를 두려고 하고 있습니다. \"나 너랑 싸울 생각 없는데. 괜찮다면 "
+"먼저 실례하지.\""
 
 #: src-en/data/events_sector_droppoint.xml:1849
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[1]/text"
-msgstr ""
+msgstr "선박을 공격해 가지고 있는 것을 빼앗는다."
 
 #: src-en/data/events_sector_droppoint.xml:1851
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "비무장 상태일지라도, 밀수꾼들이 연방 구역에 돌아다니는 걸 보고만 있을 순 "
+"없죠."
 
 #: src-en/data/events_sector_droppoint.xml:1854
 msgid ""
@@ -2299,22 +2320,26 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1860
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/text"
-msgstr ""
+msgstr "도움이 필요한지 묻는다."
 
 #: src-en/data/events_sector_droppoint.xml:1862
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"너 마침 잘 만났다. 저기 송신소에 있는 검문소 보이지? 잠깐 시선만 좀 "
+"끌어주면 우린 아주 고맙겠어.\""
 
 #: src-en/data/events_sector_droppoint.xml:1864
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"LIST_CREW_FEDERATION_ELITE_EASTER\"]/text"
-msgstr ""
+msgstr "(엘리트 연방 선원) 밀반입자를 통관시킨다."
 
 #: src-en/data/events_sector_droppoint.xml:1866
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"LIST_CREW_FEDERATION_ELITE_EASTER\"]/event/text"
 msgstr ""
+"당신의 선원은 검문소에 밀수꾼 함선을 폐선장으로 데리고 가는 중이라고 "
+"꾸며내었습니다. 송신소는 별 다른 의심 없이 당신을 통과시켰습니다. \"허, 역시 "
+"밀수꾼의 최고의 친구는 인맥이구만. 도와줘서 고맙다.\""
 
 #: src-en/data/events_sector_droppoint.xml:1869
 msgid ""
@@ -2324,12 +2349,16 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1875
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(정신 지배 장비) 송신소에게 저들을 보내주라고 한다."
 
 #: src-en/data/events_sector_droppoint.xml:1877
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"당신의 선원은 검문소에 밀수꾼 함선을 폐선장으로 데리고 가는 중이라고 "
+"꾸며내었습니다. 설명이 끝나자마자 당신은 정신 지배 장비를 켜, 검문소 직원이 "
+"품을 일말의 의심조차 지웠습니다. 밀수꾼은 이를 틈타 잽싸게 검문소를 "
+"통과했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1880
 msgid ""
@@ -2340,19 +2369,22 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(해킹 장비) 검문소의 센서를 마비시킨다."
 
 #: src-en/data/events_sector_droppoint.xml:1890
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(고급 해킹) 검문소의 센서를 마비시킨다."
 
 #: src-en/data/events_sector_droppoint.xml:1892
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"당신은 아무런 흔적도 없이 검문소를 해킹했습니다. 검문소 직원이 통과 사인을 "
+"보내자, 밀수꾼이 들키지 않고 당신과 함께 입항합니다. \"도와줘서 고맙군. 저 "
+"검문소 되게 골칫거리였거든.\""
 
 #: src-en/data/events_sector_droppoint.xml:1895
 msgid ""
@@ -2363,12 +2395,16 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1901
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "검문소 직원과 잡담하여 주의를 끈다."
 
 #: src-en/data/events_sector_droppoint.xml:1903
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[5]/event/text"
 msgstr ""
+"당신은 검문소의 경비와 장황한 대화를 시작했습니다. 밀수꾼이 경비를 피해 "
+"통과하는 동안, 어렵사리 저들의 시선을 끄는데 성공했습니다. 당신이 교란을 "
+"마친 후, 검문소는 당신이 무슨 짓을 저질렀는지 눈치챘습니다. 여기에 더 있으면 "
+"곤란할 것 같습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1906
 msgid ""
@@ -2378,7 +2414,8 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1908
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[5]/event/choice/event/text"
-msgstr ""
+msgstr "당신은 검문소 영역을 겨우 벗어난 곳에서 밀수꾼을 만날 수 있었습니다. \"멋진 "
+"해결책은 아니었지만, 약속은 약속이지.\""
 
 #: src-en/data/events_sector_droppoint.xml:1911
 msgid ""
@@ -2388,27 +2425,30 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:1919
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[6]/text"
-msgstr ""
+msgstr "송신소에 밀수꾼을 신고한다."
 
 #: src-en/data/events_sector_droppoint.xml:1921
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[6]/event/text"
 msgstr ""
+"당신은 밀수꾼 함선의 위치를 고발했습니다. 이내 그 함선은 연방 함선에 "
+"포위되어, 밀수꾼들이 모두 연행되었습니다. 검문소 경비는 당신의 제보에 "
+"감사해하며 물자를 나누어 주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1926
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[2]/event/choice[7]/text"
-msgstr ""
+msgstr "아무것도 할 수 있는게 없다고 사과한다."
 
 #: src-en/data/events_sector_droppoint.xml:1932
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[3]/text"
-msgstr ""
+msgstr "밀수꾼을 내버려둔다."
 
 #: src-en/data/events_sector_droppoint.xml:1934
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_BULKY_SMUGGLER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "밀수꾼을 내버려둔다. 괜히 엮여서 좋을 것 없으니까."
 
 #: src-en/data/events_sector_droppoint.xml:1936
 msgid ""
@@ -2424,6 +2464,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_BULKY_SMUGGLER_HACK\"]/event[1]/text"
 msgstr ""
+"당신은 아무런 흔적도 없이 검문소를 해킹했습니다. 검문소 직원이 통과 사인을 "
+"보내자, 밀수꾼이 들키지 않고 당신과 함께 입항합니다. \"도와줘서 고맙군. 저 "
+"검문소 되게 골칫거리였거든.\""
 
 #: src-en/data/events_sector_droppoint.xml:1951
 msgid ""
@@ -2434,6 +2477,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"DROPPOINT_BULKY_SMUGGLER_HACK\"]/event[2]/text"
 msgstr ""
+"해킹이 검문소에 경보를 일으킨 것 같습니다. 당신과 밀수꾼은 검문소 경비와 "
+"직면했습니다. 밀수꾼은 당신일 도와주지도 않고 몰래 빠져나갔고, 당신은 검문소 "
+"경비에게 호되게 당해야만 했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:1958
 msgid ""
@@ -2444,66 +2490,82 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/text"
 msgstr ""
+"졸탄 함선 한 척이 당신과 교신했습니다. \"좀 도와주십시오! 이 구역에 온 뒤로 "
+"에너지 보호막이 작동하지 않습니다. 분명 전원을 넣었는데도 전원이 나간 것 "
+"처럼 되어 버렸습니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:1980
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/text"
-msgstr ""
+msgstr "(에너지 보호막) 당신의 보호막을 이용해 상대에게 전원을 나누어 준다."
 
 #: src-en/data/events_sector_droppoint.xml:1982
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/text"
 msgstr ""
+"상대의 방어막 투사기가 다시 작동을 개시합니다. \"시스템이 정상으로 "
+"돌아왔군... 좋습니다! 다음 도약 쯤이면 완전 충전될 겁니다. 도와줘서 "
+"감사합니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:1987
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"DEBUG_GENERATOR\"]/text"
-msgstr ""
+msgstr "(비상용 발전기) 비상용 발전기를 사용해 전원을 공급한다."
 
 #: src-en/data/events_sector_droppoint.xml:1989
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"DEBUG_GENERATOR\"]/event/text"
 msgstr ""
+"상대의 방어막 투사기가 다시 작동을 개시합니다. \"시스템이 정상으로 "
+"돌아왔군... 좋습니다! 다음 도약 쯤이면 완전 충전될 겁니다. 도와줘서 "
+"감사합니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:1994
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "(예비 배터리) 예비 배터리를 이용해 전원을 공급한다."
 
 #: src-en/data/events_sector_droppoint.xml:1996
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"battery\"]/event/text"
 msgstr ""
+"상대의 방어막 투사기가 다시 작동을 개시합니다. \"시스템이 정상으로 "
+"돌아왔군... 좋습니다! 다음 도약 쯤이면 완전 충전될 겁니다. 도와줘서 "
+"감사합니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:2001
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"leech\"]/text"
-msgstr ""
+msgstr "(리치 선원) 리치 선원으로 발전기의 이상을 확인한다."
 
 #: src-en/data/events_sector_droppoint.xml:2003
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"leech\"]/event/text"
 msgstr ""
+"당신의 리치 선원은 발전기가 실제로 작동하는 것을 보곤 의아해합니다. 그러고는 "
+"실험적으로 발전기를 건드려봅니다. 곧이어 당신은 고통스러운 비명소리와 함께 "
+"찢어지는 듯한 정전기 소리를 들었습니다. 잠시 후 리치 선원이 뭔가 달라진 채로 "
+"함선에 복귀했습니다. 졸탄들은 당신이 한 시도에 크게 달가워하진 않아 보입니다."
 
 #: src-en/data/events_sector_droppoint.xml:2008
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[@req=\"DRONE_CONTROL_REPAIR_CREW\"]/text"
-msgstr ""
+msgstr "(수리 드론) 수리 드론을 보낸다. [-1|]"
 
 #: src-en/data/events_sector_droppoint.xml:2012
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[6]/text"
-msgstr ""
+msgstr "수리를 시도해 본다."
 
 #: src-en/data/events_sector_droppoint.xml:2016
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[7]/text"
-msgstr ""
+msgstr "반격할 수 없을때 공격한다!"
 
 #: src-en/data/events_sector_droppoint.xml:2018
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[7]/event/text"
-msgstr ""
+msgstr "당신은 가능한 한 많은 스크랩이 필요합니다. 이 함선은 쉬운 목표가 되겠군요."
 
 #: src-en/data/events_sector_droppoint.xml:2021
 msgid ""
@@ -2513,12 +2575,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:2027
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[8]/text"
-msgstr ""
+msgstr "도울 것이 없어 미안하다고 말한다."
 
 #: src-en/data/events_sector_droppoint.xml:2029
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_ZOLTAN\"]/choice[8]/event/text"
-msgstr ""
+msgstr "졸탄이 한숨쉽니다. \"가다가 적합한 사람이 있으면 보내주시오.\""
 
 #: src-en/data/events_sector_droppoint.xml:2031
 msgid ""
@@ -2534,46 +2596,83 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_CREW\"]/event[1]/text"
 msgstr ""
+"당신의 선원들은 고장난 방어막 생성기를 살펴보고는, 작업을 시작했습니다. 곧 "
+"그들은 문제가 되는 부분을 찾아 고치는 데 성공합니다. \"시스템이 정상으로 "
+"돌아왔군... 좋습니다! 다음 도약 쯤이면 완전 충전될 겁니다. 도와줘서 "
+"감사합니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:2049
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_CREW\"]/event[2]/text"
 msgstr ""
+"당신의 선원들은 고장난 방어막 생성기를 살펴보고는, 작업을 시작했습니다. "
+"시간이 좀 지나고, 방어막 생성기를 고치지는 못했지만, 최소한 뭐가 "
+"문제였는지는 알아낼 수 있었습니다. \"뭐, 없는 것보다는 낫겠지요... 이제 "
+"어디가 고장난 지는 알았으니까요.\" 그들은 당신에게 간소하게 사례했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2054
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_CREW\"]/event[3]/text"
 msgstr ""
+"당신의 선원들은 고장난 방어막 생성기를 살펴보고는, 작업을 시작했습니다. "
+"방어막 생성기는 잠깐 동안 작동을 시작하다가, 이내 펑 하는 소리를 냈습니다. "
+"완전히 고치는 데는 실패한 듯했습니다. \"뭐, 없는 것보다는 낫겠지요... 이 "
+"정도로 일단은 버텨 봐야겠군요.\" 그들은 당신에게 적당히 사례했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2059
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_CREW\"]/event[4]/text"
 msgstr ""
+"당신의 선원들은 고장난 방어막 생성기를 살펴보고는, 작업을 시작했습니다. 선원 "
+"한 명이 무언가 건드리던 중, 방어막 생성기가 퍽 하는 소리를 내더니 불이 붙기 "
+"시작했습니다. 아예 망가진 모양이었습니다. \"이제 완전히 망했군요. 이것 참 "
+"고마워서 어쩔 줄 모르겠습니다?\""
 
 #: src-en/data/events_sector_droppoint.xml:2063
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_CREW\"]/event[5]/text"
 msgstr ""
+"당신의 선원들은 고장난 방어막 생성기를 살펴보고는, 작업을 시작했습니다. "
+"하지만 아무리 살펴봐도 아무도 뭐가 문제인지 알아낼 수 없었습니다. 졸탄들은 "
+"이걸 보고 고개를 저었습니다. \"우리라고 그걸 안 만져본 줄 아셨습니까...? "
+"대체 뭐가 다를 거라 생각하셨나요?\""
 
 #: src-en/data/events_sector_droppoint.xml:2068
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_REPAIR\"]/event[1]/text"
 msgstr ""
+"당신의 드론은 망가진 방어막 발전기를 수리하기 시작했습니다. 얼마 지나지 않아 "
+"드론은 문제점을 발견해 수리했습니다. \"시스템이 정상으로 돌아왔군... "
+"좋습니다! 다음 도약 쯤이면 완전 충전될 겁니다. 도와줘서 감사합니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:2075
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_REPAIR\"]/event[2]/text"
 msgstr ""
+"당신의 드론은 망가진 방어막 발전기를 수리하기 시작했습니다. 그러나 이내 "
+"수리를 위한 자원이 부족하다는 보고를 내면서, 문제를 고칠 방법을 "
+"인쇄했습니다. \"이것도 도움이라고 봐야겠지요... 그래도 문제가 뭔지는 "
+"알았으니까요.\" 그들은 작은 보상을 내어 주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2083
 msgid ""
 "data/events_sector_droppoint.xml$//eventList[@name=\"S1_ZOLTAN_SHIELD_SEND_REPAIR\"]/event[3]/text"
 msgstr ""
+"당신의 드론당신의 드론은 망가진 방어막 발전기를 수리하기 시작했습니다. "
+"그러나 발전기가 잠시 고쳐지는가 싶더니, 이내 펑 하고 꺼져 버립니다. 드론은 "
+"문제점을 발견했으나 고칠 수 없다는 보고를 올립니다. \"이것도 도움이라고 "
+"봐야겠지요... 이제 우리끼리 수리할 수 있을 겁니다.\" 그들은 적당한 보상을 "
+"내어 주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2093
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/text"
 msgstr ""
+"이 송신소에 있는 정거장에 탑승한 시민을 구하기 위해 구조신호를 발신한 것 "
+"같습니다. 하지만 막상 장소에 도착해 보니, 연방 함선이 나와 당신을 "
+"맞이합니다. \"괜찮습니다. 상황은 정리되었습니다. 화학물질이 정거장의 "
+"생명유지장치에 섞여 들어갔었습니다. 정거장의 인원은 모두 대피시켰습니다만. "
+"정거장 직원 중 한 명이 부탁이 있는 것 같습니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:2096
 msgid ""
@@ -2584,66 +2683,82 @@ msgstr "이야기를 들어본다."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/text"
 msgstr ""
+"곧이어 시민이 통화를 이어받습니다. \"아, 안녕하세요. 정거장과 거래 중이던 "
+"상인입니다. 운 없게도 하필 제 선박도 거기에 정박되어 있었거든요. 혹시 제 "
+"선박을 조종해서 환기를 해 주실 수 있으신가요? 정거장만큼 독성 물질에 "
+"오염되진 않았습니다만, 그래도 조심하지 않으면 위험할 겁니다.\""
 
 #: src-en/data/events_sector_droppoint.xml:2100
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/text"
-msgstr ""
+msgstr "(무산소 선원) 호흡하지 않는 선원을 보낸다."
 
 #: src-en/data/events_sector_droppoint.xml:2102
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/event/text"
 msgstr ""
+"호흡이 필요없는 선원은 독성 물질에 저항할 수 있었습니다. 그는 재빨리 선박을 "
+"분리해 빠져나갔고, 곧이어 모든 독성 물질을 배출하고 생명 유지 장치를 켜 "
+"내부를 신선한 공기로 채웠습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2104
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/event/choice/text"
-msgstr ""
+msgstr "함선을 주인에게 돌려준다."
 
 #: src-en/data/events_sector_droppoint.xml:2110
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "(셸 선원) 셸 선원을 보낸다."
 
 #: src-en/data/events_sector_droppoint.xml:2112
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/event/text"
 msgstr ""
+"셸 선원은 독성 물질에 저항할 수 있었습니다. 그는 재빨리 선박을 분리해 "
+"빠져나갔고, 곧이어 모든 독성 물질을 배출하고 생명 유지 장치를 켜 내부를 "
+"신선한 공기로 채웠습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2114
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/text"
-msgstr ""
+msgstr "함선을 주인에게 돌려준다."
 
 #: src-en/data/events_sector_droppoint.xml:2120
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"O2_MASKS\"]/text"
-msgstr ""
+msgstr "(산소 호흡기) 선원을 함선으로 보낸다."
 
 #: src-en/data/events_sector_droppoint.xml:2123
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"O2_MASKS\"]/event/text"
 msgstr ""
+"당신의 선원은 산소 마스크를 착용하고 선박에 진입합니다. 그는 재빨리 선박을 "
+"분리해 빠져나갔고, 곧이어 모든 독성 물질을 배출하고 생명 유지 장치를 켜 "
+"내부를 신선한 공기로 채웠습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2125
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"O2_MASKS\"]/event/choice/text"
-msgstr ""
+msgstr "함선을 주인에게 돌려준다."
 
 #: src-en/data/events_sector_droppoint.xml:2131
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_SYSTEM_CREW\"]/text"
-msgstr ""
+msgstr "(시스템 제어 드론) 시스템 제어 드론을 함선에 보낸다."
 
 #: src-en/data/events_sector_droppoint.xml:2133
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_SYSTEM_CREW\"]/event/text"
 msgstr ""
+"당신의 제어 드론은 프로그래밍된 명령보다 더 많은 기능을 할 수 있었습니다. "
+"그것은 선박을 정거장에서 분리해 빠져나갔고, 곧이어 모든 독성 물질을 배출하고 "
+"생명 유지 장치를 켜 내부를 신선한 공기로 채웠습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2135
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_SYSTEM_CREW\"]/event/choice/text"
-msgstr ""
+msgstr "함선을 주인에게 돌려준다."
 
 #: src-en/data/events_sector_droppoint.xml:2141
 msgid ""
@@ -2654,6 +2769,9 @@ msgstr "거절한다."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"상인은 절망감 섞인 탄식을 내뱉고는 다시 연방 장교에게 통화를 넘겨줍니다. "
+"\"시민들은 유독 물질이 사라질 때 까지 근처 주거지로 대피시키겠습니다. 임무에 "
+"행운을 빕니다!\""
 
 #: src-en/data/events_sector_droppoint.xml:2145
 msgid ""
@@ -2668,12 +2786,13 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_droppoint.xml:2157
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[2]/text"
-msgstr ""
+msgstr "연방 함선을 공격한다."
 
 #: src-en/data/events_sector_droppoint.xml:2159
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DISTRESS_DROPPOINT_HAZARDOUS_FACILITY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "끔찍하게도 당신은 통신을 끊고 방금까지 사람들을 구한 연방 함선을 공격하기로 "
+"했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2162
 msgid ""
@@ -2684,11 +2803,19 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SHIP_TOXIN_FLUSHED\"]/text"
 msgstr ""
+"\"정말로 감사합니다. 먹고 살려면 저 함선이 꼭 필요했다고요. 저는 이 함선이랑 "
+"절대 떨어질 수 없습니다. 제 감사의 표시를 받아주세요.\" 상인이 당신에게 "
+"보조장비를 주었습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2185
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"QUEST_DROPPOINT_POD\"]/text"
 msgstr ""
+"작은 탈출 포드 하나가 이 근방에 떠 있습니다. 도색으로 보았을 때 다른 "
+"멀티버스의 지구에서 온 것 같습니다. 마치 원래 살던 시간선을 포기하고 탈출한 "
+"끝이 여기에 빠진 것 같습니다만, 어느 함선에서 사출된 것인지 찾을 수 "
+"없습니다. 그런데 당신이 포드를 회수하기도 전에 반군이 끼어들었습니다. \"이 "
+"인간은 반군의 대의를 실천하는데 제격인 녀석이겠군!\""
 
 #: src-en/data/events_sector_droppoint.xml:2188
 msgid ""
@@ -2698,37 +2825,46 @@ msgstr "계속..."
 #: src-en/data/events_sector_droppoint.xml:2193
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ACQUIRE_ESCAPE_POD\"]/text"
-msgstr ""
+msgstr "포드는 여전히 이 주변을 떠다니고 있습니다. 보통 함정일 가능성은 적습니다만, "
+"그래도 조심해서 나쁠 건 없습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2195
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ACQUIRE_ESCAPE_POD\"]/choice[1]/text"
-msgstr ""
+msgstr "포드를 챙긴다."
 
 #: src-en/data/events_sector_droppoint.xml:2197
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ACQUIRE_ESCAPE_POD\"]/choice[1]/event/text"
 msgstr ""
+"포드에 든 인간은 자신이 이 우주에 당도한 것을 믿을 수 없어합니다. 당신은 "
+"임무에 대해 설명하지만, 포드 속 인간은 내막을 더 알기 전까지 임무에 "
+"참여하기를 주저합니다. 대신 그는 근처 거주지에 이송을 요청하였습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2202
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ACQUIRE_ESCAPE_POD\"]/choice[2]/text"
-msgstr ""
+msgstr "포드를 무시한다."
 
 #: src-en/data/events_sector_droppoint.xml:2204
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ACQUIRE_ESCAPE_POD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "포드 속에 무엇이 들었는지 알 수 없습니다. 당신은 포드를 내버려 두기로 "
+"했습니다."
 
 #: src-en/data/events_sector_droppoint.xml:2212
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ESCAPE_POD_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "포드 속 생존자를 거주지에 데려다 주고 이 멀티버스에 적응하도록 하십시오."
 
 #: src-en/data/events_sector_droppoint.xml:2214
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_ESCAPE_POD_QUEST\"]/text"
 msgstr ""
+"생존자는 거주지에 무사히 도착한 것에 감사해합니다. \"이 시간선은 그래도 제가 "
+"온 곳보다는 안정적이네요. 당신의 대의에 동참할 수도 있습니다만, 시간을 좀 더 "
+"주셨으면 좋겠습니다. 그래도 제가 가지고 온 반응로 핵은 드리겠습니다. 잘 써 "
+"주십시오.\""
 
 #: src-en/data/events_sector_droppoint.xml:2235
 msgid ""
@@ -2898,7 +3034,7 @@ msgstr "함선을 피한다."
 #: src-en/data/events_sector_droppoint.xml:2386
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT_ATTACK_REBEL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 보급고에서 물러납니다."
 
 #: src-en/data/events_sector_droppoint.xml:2388
 msgid ""
@@ -2939,7 +3075,7 @@ msgstr "함선을 피한다."
 #: src-en/data/events_sector_droppoint.xml:2416
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT_ATTACK_PIRATE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 보급고에서 물러납니다."
 
 #: src-en/data/events_sector_droppoint.xml:2418
 msgid ""
@@ -2981,7 +3117,7 @@ msgstr "함선을 피한다."
 #: src-en/data/events_sector_droppoint.xml:2446
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT_ATTACK_MANTIS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 보급고에서 물러납니다."
 
 #: src-en/data/events_sector_droppoint.xml:2448
 msgid ""
@@ -2992,4 +3128,3 @@ msgstr "함선에서 무언가를 한다."
 msgid ""
 "data/events_sector_droppoint.xml$//event[@name=\"DROPPOINT_SUPPLY_DEPOT_ATTACK_MANTIS\"]/choice[2]/event/choice[2]/text"
 msgstr "아무것도 하지 않는다."
-

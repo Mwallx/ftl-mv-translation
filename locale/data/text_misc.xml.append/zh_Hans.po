@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-30 09:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/datatext_miscxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_\"]"
@@ -115,10 +122,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_ion_fire\"]"
 msgstr "提示：火焰离子和普通离子武器效果类似，但是命中后会同时引燃目标舱室。如果命中护盾则不会引燃。"
 
 #: src-en/data/text_misc.xml.append:83
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ion_bio\"]"
 msgstr ""
-"提示：辐射离子和普通离子武器效果类似，但是命中后会对目标舱室内的船员造成额外伤害。如果命中护盾则不会造成额外伤害，但是会对处于护盾舱室内的所有船员附加减益。"
+"提示：辐射离子和普通离子武器效果类似，命中后会使目标舱室内的船员虚弱10秒，虚"
+"弱会使其移动与维修速度降低66%，且眩晕时长增加75%。若命中护盾，则不会造成船员"
+"伤害，但仍会使处于护盾舱室内的所有船员虚弱。"
 
 #: src-en/data/text_misc.xml.append:84
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ion_stun\"]"
@@ -170,7 +178,8 @@ msgstr "提示：果核武器与导弹武器类似，但每次发射时都有较
 
 #: src-en/data/text_misc.xml.append:116
 msgid "data/text_misc.xml.append$//text[@name=\"tip_kernel_elite\"]"
-msgstr "提示：高级果核武器是果核武器的升级版本，具有相比普通版更高的不耗弹率，且必定击晕命中舱室内的敌人。"
+msgstr "提示：精英果核武器是果核武器的升级版本，具有相比普通版更高的不耗弹率，且必定"
+"击晕命中舱室内的敌人。"
 
 #: src-en/data/text_misc.xml.append:118
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spore\"]"
@@ -189,9 +198,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_breach_beam\"]"
 msgstr "提示：破舱光束对击中的每个舱格都造成破舱效果，且可穿透1层护盾！"
 
 #: src-en/data/text_misc.xml.append:130
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mining_beam\"]"
-msgstr "提示：采矿光束可穿透1层护盾，这意味着穿透第1层护盾时不会有伤害减损。第1层后的每1层护盾都会降低其1点伤害。"
+msgstr "提示：采矿光束可穿透单层护盾，对多层护盾则无效。"
 
 #: src-en/data/text_misc.xml.append:132
 msgid "data/text_misc.xml.append$//text[@name=\"tip_pierce_beam\"]"
@@ -210,9 +218,9 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_repair\"]"
 msgstr "提示：援舰光束可恢复敌方舰体值，但不恢复系统。适合与舰体伤害类武器相辅相成，打出绝妙的船员击杀！"
 
 #: src-en/data/text_misc.xml.append:141
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_focus\"]"
-msgstr "提示：光点武器比光束武器伤害更高，但只有极短的划过距离。与光束武器类似，每层护盾降低其1点伤害。"
+msgstr "提示：光点武器是特化的光束武器，伤害更高，但只能针对某个舱格攻击。与光束武器"
+"类似，每层护盾会降低其1点伤害。"
 
 #: src-en/data/text_misc.xml.append:148
 msgid "data/text_misc.xml.append$//text[@name=\"tip_particle_laser\"]"
@@ -228,10 +236,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_particle_beam\"]"
 msgstr "提示：粒子光束不造成舰体与船员伤害，也不穿透护盾。但在护盾被击破后可以造成高额系统伤害且能引燃目标。"
 
 #: src-en/data/text_misc.xml.append:157
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_sentry\"]"
 msgstr ""
-"提示：通过消耗弹药，哨卫部署器可以在击中的舱室内部署哨卫，其可为所在舱室提供各项增/减益。哨卫不被视为船员，也无法移动或被摧毁。若击中的舱室内已有一名哨卫，部署新的将替换旧的。"
+"提示：通过消耗弹药，哨卫部署器可以在击中的舱室内部署哨卫，其可为所在舱室提供"
+"各项增/减益。哨卫不被视为船员，也无法移动或被摧毁。若击中的舱室内已有一名哨卫"
+"，部署新的将替换旧的。"
 
 #: src-en/data/text_misc.xml.append:159
 msgid "data/text_misc.xml.append$//text[@name=\"tip_scanner\"]"
@@ -246,20 +255,20 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_zolt_deleter\"]"
 msgstr "提示：使用该光束武器击杀任意非超能族生物的行为都被视为非法且罪至死刑。"
 
 #: src-en/data/text_misc.xml.append:165
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_conservative\"]"
 msgstr ""
-"提示：集能武器通过回收武器系统中泄漏的能源来为自身供能，因此本身不耗能。其代价为武器需要更长的充能时间，且需要另一件已供能武器或船员提供的能量来获取能量源。当武器系统无供能时，可通过\"开火\"来为集能武器积蓄开火次数。"
+"提示：集能武器通过回收武器系统中泄漏的能源来为自身供能，因此本身不耗能。其代"
+"价为武器需要更长的充能时间，且需要另一件已供能武器或船员提供的能量来获取能量"
+"源，否则无法生效。"
 
 #: src-en/data/text_misc.xml.append:167
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_battery\"]"
-msgstr "提示：供能武器为其右端槽位的武器提供能量，且允许能量上限超过武器系统限制。必须为其提供多余其自身供能的能量才能使其正常运作。"
+msgstr "提示：供能武器为其右端槽位的武器提供能量，且允许能量上限超过武器系统限制。"
 
 #: src-en/data/text_misc.xml.append:169
 msgid "data/text_misc.xml.append$//text[@name=\"tip_bio\"]"
-msgstr ""
-"提示：辐射武器可造成高额船员伤害，具有较低破舱率，且可使被击中的船员虚弱10秒。被虚弱的船员移动与维修速度降低至0.66倍，被击晕时持续时间增加至1.75倍。"
+msgstr "提示：辐射武器可造成高额船员伤害，具有较低破舱率，且可使被击中的船员虚弱10秒"
+"。被虚弱的船员移动与维修速度降低66%，眩晕时长增加75%。"
 
 #: src-en/data/text_misc.xml.append:171
 msgid "data/text_misc.xml.append$//text[@name=\"tip_madness\"]"
@@ -302,10 +311,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_adapter\"]"
 msgstr "提示：自适应武器会在每次开火后提高其伤害。提高量与伤害上限取决于武器。"
 
 #: src-en/data/text_misc.xml.append:196
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_preemptive\"]"
 msgstr ""
-"提示：先发武器每场战斗只可使用1次，充能时间基本可忽略。其本身类似集能武器，无需供能但需要另一件已充能的武器才可发挥效果。若在一场战斗中开火后未击败敌方就逃离，下个信标将无法使用。"
+"提示：先发武器每场战斗只可使用1次，充能时间基本可忽略。其本身类似集能武器，无"
+"需供能但需要另一件已充能的武器才可发挥效果。若在一场战斗中开火后未击败敌方就"
+"逃离，下个信标将无法使用。"
 
 #: src-en/data/text_misc.xml.append:200
 msgid "data/text_misc.xml.append$//text[@name=\"description_stats\"]"
@@ -361,7 +371,7 @@ msgstr "链式冷却下限：\\1秒(\\2次攻击后)"
 
 #: src-en/data/text_misc.xml.append:212
 msgid "data/text_misc.xml.append$//text[@name=\"shot_radius\"]"
-msgstr "散乱幅度：\\1"
+msgstr "着弹范围：\\1"
 
 #: src-en/data/text_misc.xml.append:213
 msgid "data/text_misc.xml.append$//text[@name=\"beam_length\"]"
@@ -377,11 +387,11 @@ msgstr "对空舱室造成2倍舰体伤害。"
 
 #: src-en/data/text_misc.xml.append:216
 msgid "data/text_misc.xml.append$//text[@name=\"redesigned_damage_room\"]"
-msgstr "每间舱室标准伤害：\\1(船员伤害乘15)"
+msgstr "每间舱室标准伤害：\\1(船员伤害则乘15)"
 
 #: src-en/data/text_misc.xml.append:217
 msgid "data/text_misc.xml.append$//text[@name=\"redesigned_damage_shot\"]"
-msgstr "每发标准伤害：\\1(船员伤害乘15)"
+msgstr "每发弹体标准伤害：\\1(船员伤害乘15)"
 
 #: src-en/data/text_misc.xml.append:218
 msgid "data/text_misc.xml.append$//text[@name=\"hull_damage\"]"
@@ -405,15 +415,15 @@ msgstr "封锁击中的舱室"
 
 #: src-en/data/text_misc.xml.append:223
 msgid "data/text_misc.xml.append$//text[@name=\"hull_damage_negative\"]"
-msgstr "舰体修复：\\1 点"
+msgstr "舰体修复： \\1 点"
 
 #: src-en/data/text_misc.xml.append:224
 msgid "data/text_misc.xml.append$//text[@name=\"system_damage_negative\"]"
-msgstr "系统修复：\\1 格"
+msgstr "系统修复： \\1 格"
 
 #: src-en/data/text_misc.xml.append:225
 msgid "data/text_misc.xml.append$//text[@name=\"personnel_damage_negative\"]"
-msgstr "生命恢复：\\1 点"
+msgstr "生命恢复： \\1 点"
 
 #: src-en/data/text_misc.xml.append:227
 msgid "data/text_misc.xml.append$//text[@name=\"scrap_value\"]"
@@ -488,11 +498,11 @@ msgstr "生成船员率：\\1%"
 
 #: src-en/data/text_misc.xml.append:243
 msgid "data/text_misc.xml.append$//text[@name=\"crew_death_time\"]"
-msgstr "存活时间：\\1秒"
+msgstr "存活期：\\1秒"
 
 #: src-en/data/text_misc.xml.append:244
 msgid "data/text_misc.xml.append$//text[@name=\"crew_death_time_expired\"]"
-msgstr "存活时间：已故"
+msgstr "已到期"
 
 #: src-en/data/text_misc.xml.append:245
 msgid "data/text_misc.xml.append$//text[@name=\"crew_statboost_chance\"]"
@@ -500,7 +510,7 @@ msgstr "虚弱率：\\1 %"
 
 #: src-en/data/text_misc.xml.append:246
 msgid "data/text_misc.xml.append$//text[@name=\"room_statboost_chance\"]"
-msgstr "部署率：\\1%"
+msgstr "部署率：\\1 %"
 
 #: src-en/data/text_misc.xml.append:253
 msgid "data/text_misc.xml.append$//text[@name=\"tip_toggle\"]"
@@ -538,14 +548,19 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_crew\"]"
 msgstr ""
 
 #: src-en/data/text_misc.xml.append:275
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"tip_toggle_crew\"]"
 msgstr ""
-"提示：多效无人机具备多种功能。可在任意时刻使用左上角的切换按钮来切换其模式！\n"
+"提示：多效无人机具备多种功能。可在任意时刻使用左上角的切换按钮来切换其模式！"
 "\n"
-"提示：舰内无人机需要1件无人机部件来部署，在被摧毁前无需重复部署。充能时将一直留在舰内辅助船员直至被摧毁，将其引导至充能的无人机舱室可修复其损伤。\n"
 "\n"
-"提示：在每个新信标处，登舰无人机都需要1件无人机部件来部署。充能时将侵入敌舰并进攻直至被摧毁。若战斗胜利时其未被摧毁，可将其回收从而取回消耗的无人机部件。"
+"提示：舰内无人机需要1件无人机部件来部署，在被摧毁前无需重复部署。部署后将一直"
+"留在舰内辅助船员直至被摧毁，将其引导至已供能的无人机舱室可修复其损伤。\n"
+"\n"
+"提示：在每个新信标处，登舰无人机都需要1件无人机部件来部署。充能时将侵入敌舰并"
+"进攻直至被摧毁。若战斗胜利时其未被摧毁，可将其回收从而取回消耗的无人机部件。"
+"\n"
+"\n"
+"舰内无人机具有一定的灼烧伤害与眩晕抗性，且只受一半的舰载武器伤害。"
 
 #: src-en/data/text_misc.xml.append:282
 msgid "data/text_misc.xml.append$//text[@name=\"tip_amp_combat\"]"
@@ -568,11 +583,15 @@ msgstr "该物件只可作为库存而非武器。不过其可能还有商业或
 
 #: src-en/data/text_misc.xml.append:294
 msgid "data/text_misc.xml.append$//text[@name=\"defense_friendly\"]"
-msgstr "防御无人机[目标-实体弹]：\\n拦截来袭的导弹与陨石等实体弹。己舰跃迁或其自身被摧毁前一直生效。"
+msgstr ""
+"防御无人机[目标-实体弹]：\\n"
+"拦截来袭的导弹与小行星等实体弹。己舰跃迁或其自身被摧毁前会一直生效。"
 
 #: src-en/data/text_misc.xml.append:295
 msgid "data/text_misc.xml.append$//text[@name=\"defense_enemy\"]"
-msgstr "防御无人机[目标-实体弹]：\\n拦截来袭的导弹与陨石等实体弹。可摧毁敌舰无人机系统来防止其运作。"
+msgstr ""
+"防御无人机[目标-实体弹]：\\n"
+"拦截来袭的导弹与小行星等实体弹。可摧毁敌舰无人机系统来阻止其运作。"
 
 #: src-en/data/text_misc.xml.append:297
 msgid "data/text_misc.xml.append$//text[@name=\"defense_2_friendly\"]"
@@ -592,27 +611,39 @@ msgstr "防御无人机目标-[反无人机]：\\n不断攻击己方作战无人
 
 #: src-en/data/text_misc.xml.append:303
 msgid "data/text_misc.xml.append$//text[@name=\"defense_asteroid_friendly\"]"
-msgstr "防御无人机[目标-小行星]：\\n拦截来袭的陨石。己舰跃迁或其自身被摧毁前一直生效。"
+msgstr ""
+"防御无人机[目标-小行星]：\\n"
+"拦截来袭的小行星。己舰跃迁或其自身被摧毁前会一直生效。"
 
 #: src-en/data/text_misc.xml.append:304
 msgid "data/text_misc.xml.append$//text[@name=\"defense_asteroid_enemy\"]"
-msgstr "防御无人机[目标-小行星]：\\n拦截来袭的陨石。可摧毁敌舰无人机系统来防止其运作。"
+msgstr ""
+"防御无人机[目标-小行星]：\\n"
+"拦截来袭的小行星。可摧毁敌舰无人机系统来阻止其运作。"
 
 #: src-en/data/text_misc.xml.append:306
 msgid "data/text_misc.xml.append$//text[@name=\"defense_solid_friendly\"]"
-msgstr "防御无人机[目标-实体弹]：\\n拦截来袭的导弹与陨石等实体弹。己舰跃迁或其自身被摧毁前一直生效。"
+msgstr ""
+"防御无人机[目标-实体弹]：\\n"
+"拦截来袭的导弹与小行星等实体弹。己舰跃迁或其自身被摧毁前会一直生效。"
 
 #: src-en/data/text_misc.xml.append:307
 msgid "data/text_misc.xml.append$//text[@name=\"defense_solid_enemy\"]"
-msgstr "防御无人机[目标-实体弹]：\\n拦截来袭的导弹与陨石等实体弹。可摧毁敌舰无人机系统来防止其运作。"
+msgstr ""
+"防御无人机[目标-实体弹]：\\n"
+"拦截来袭的导弹与小行星等实体弹。可摧毁敌舰无人机系统来阻止其运作。"
 
 #: src-en/data/text_misc.xml.append:309
 msgid "data/text_misc.xml.append$//text[@name=\"defense_all_friendly\"]"
-msgstr "防御无人机[目标-所有单位]：\\n拦截所有来袭的弹体及所有敌方无人机。己舰跃迁或其自身被摧毁前一直生效。"
+msgstr ""
+"防御无人机[目标-所有单位]：\\n"
+"拦截所有来袭的弹体及所有敌方无人机。己舰跃迁或其自身被摧毁前会一直生效。"
 
 #: src-en/data/text_misc.xml.append:310
 msgid "data/text_misc.xml.append$//text[@name=\"defense_all_enemy\"]"
-msgstr "防御无人机[目标-所有单位]：\\n拦截你发射的所有弹体及所有己方无人机。可摧毁敌舰无人机系统来防止其运作。"
+msgstr ""
+"防御无人机[目标-所有单位]：\\n"
+"拦截你发射的所有弹体及所有己方无人机。可摧毁敌舰无人机系统来阻止其运作。"
 
 #: src-en/data/text_misc.xml.append:319
 msgid "data/text_misc.xml.append$//text[@name=\"tip_civ_loot_1\"]"
@@ -729,7 +760,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"loot_cultist_1\"]"
 msgstr ""
 "异教徒战利品\n"
-"可穿透所有护盾，+10px光束长度\n"
+"可穿透所有护盾，+10光束长度\n"
 "-1秒充能时间，引燃每个被击中的舱格"
 
 #: src-en/data/text_misc.xml.append:383
@@ -759,7 +790,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"loot_lanius_1\"]"
 msgstr ""
 "食铁战利品\n"
-"+30%破舱率，-7px着弹范围\n"
+"+30%破舱率，-7着弹范围\n"
 "每次开火额外降低0.5秒充能时间"
 
 #: src-en/data/text_misc.xml.append:402
@@ -832,7 +863,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"loot_math_3\"]"
 msgstr ""
 "数学战利品\n"
-"-1.5秒充能时间，+15px 着弹范围，无破舱率"
+"-1.5秒充能时间，+15着弹范围，无破舱率"
 
 #: src-en/data/text_misc.xml.append:443
 msgid "data/text_misc.xml.append$//text[@name=\"loot_math_4\"]"
@@ -850,7 +881,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"loot_math_6\"]"
 msgstr ""
 "数学战利品\n"
-"+20%起火率，+20%破舱率，+50%击晕率，不造成船员伤害，+5px 着弹范围"
+"+20%起火率，+20%破舱率，+50%击晕率，不造成船员伤害，+5着弹范围"
 
 #: src-en/data/text_misc.xml.append:452
 msgid "data/text_misc.xml.append$//text[@name=\"loot_math_7\"]"
@@ -1160,7 +1191,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:576
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ambassador\"]"
-msgstr ""
+msgstr "大使[!]"
 
 #: src-en/data/text_misc.xml.append:578
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_alpha\"]"
@@ -1513,7 +1544,7 @@ msgstr "无法使用：战斗中"
 
 #: src-en/data/text_misc.xml.append:717
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_in_combat\"]"
-msgstr "无法使用：无敌舰"
+msgstr "无法使用：敌舰不存在"
 
 #: src-en/data/text_misc.xml.append:718
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_system\"]"
@@ -1562,7 +1593,7 @@ msgstr "无法使用：被敌方心灵控制中"
 
 #: src-en/data/text_misc.xml.append:730
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_stunned\"]"
-msgstr "无法使用：被击晕中"
+msgstr "无法使用：眩晕中"
 
 #: src-en/data/text_misc.xml.append:731
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_repairing\"]"
@@ -1580,7 +1611,7 @@ msgstr "无法使用：修理破舱中"
 
 #: src-en/data/text_misc.xml.append:734
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_fighting\"]"
-msgstr "无法使用：战斗中"
+msgstr "无法使用：近战战斗中"
 
 #: src-en/data/text_misc.xml.append:735
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_sabotaging\"]"
@@ -1588,7 +1619,7 @@ msgstr "无法使用：破坏中"
 
 #: src-en/data/text_misc.xml.append:736
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_shooting\"]"
-msgstr "无法使用：射击中"
+msgstr "无法使用：远程战斗中"
 
 #: src-en/data/text_misc.xml.append:737
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_moving\"]"
@@ -1596,7 +1627,7 @@ msgstr "无法使用：移动中"
 
 #: src-en/data/text_misc.xml.append:738
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_idle\"]"
-msgstr "无法使用：空闲中"
+msgstr "无法使用：闲置中"
 
 #: src-en/data/text_misc.xml.append:739
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_manning\"]"
@@ -1625,7 +1656,7 @@ msgstr "无法使用：船员传送或眩晕中"
 
 #: src-en/data/text_misc.xml.append:747
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_burning_false\"]"
-msgstr "无法使用：未起火"
+msgstr "无法使用：未被灼烧"
 
 #: src-en/data/text_misc.xml.append:748
 msgid ""
@@ -1634,7 +1665,7 @@ msgstr "无法使用：未窒息"
 
 #: src-en/data/text_misc.xml.append:749
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_mind_false\"]"
-msgstr "无法使用：未被敌方控制"
+msgstr "无法使用：未被敌方心灵控制"
 
 #: src-en/data/text_misc.xml.append:750
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_stunned_false\"]"
@@ -1657,7 +1688,7 @@ msgstr "无法使用：非修理破舱中"
 
 #: src-en/data/text_misc.xml.append:754
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_fighting_false\"]"
-msgstr "无法使用：非战斗中"
+msgstr "无法使用：非近战战斗中"
 
 #: src-en/data/text_misc.xml.append:755
 msgid ""
@@ -1666,7 +1697,7 @@ msgstr "无法使用：非破坏中"
 
 #: src-en/data/text_misc.xml.append:756
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_shooting_false\"]"
-msgstr "无法使用：非射击中"
+msgstr "无法使用：非远程战斗中"
 
 #: src-en/data/text_misc.xml.append:757
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_moving_false\"]"
@@ -1674,7 +1705,7 @@ msgstr "无法使用：非移动中"
 
 #: src-en/data/text_misc.xml.append:758
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_idle_false\"]"
-msgstr "无法使用：非空闲中"
+msgstr "无法使用：非闲置中"
 
 #: src-en/data/text_misc.xml.append:759
 msgid "data/text_misc.xml.append$//text[@name=\"power_not_ready_manning_false\"]"
@@ -1712,7 +1743,7 @@ msgstr "眩晕中：\\1秒"
 
 #: src-en/data/text_misc.xml.append:770
 msgid "data/text_misc.xml.append$//text[@name=\"hotkey_lockdown\"]"
-msgstr "使用船员的主动技能"
+msgstr "船员主动技能"
 
 #: src-en/data/text_misc.xml.append:772
 msgid "data/text_misc.xml.append$//text[@name=\"weapon_cooldown_negative\"]"
@@ -1792,7 +1823,8 @@ msgstr "\\n\\n              即将跃迁"
 
 #: src-en/data/text_misc.xml.append:798
 msgid "data/text_misc.xml.append$//text[@name=\"no_time_sector\"]"
-msgstr "检查星图之后，你意识到已经没有时间了，必须立刻赶至下个星区！你把任务留至以后再说。"
+msgstr "检查星图之后，你意识到已经没有时间了，必须立刻赶至下个星区！你把这项任务留至"
+"以后再说。"
 
 #: src-en/data/text_misc.xml.append:800
 msgid "data/text_misc.xml.append$//text[@name=\"alt_unlock_crystal\"]"
@@ -1899,11 +1931,11 @@ msgstr "开关额外信息模式(鼠标停至船员与武器时，显示额外�
 
 #: src-en/data/text_misc.xml.append:839
 msgid "data/text_misc.xml.append$//text[@name=\"discord_main_menu\"]"
-msgstr "在主菜单"
+msgstr "主菜单"
 
 #: src-en/data/text_misc.xml.append:840
 msgid "data/text_misc.xml.append$//text[@name=\"discord_hangar\"]"
-msgstr "在舰库中"
+msgstr "浏览舰库"
 
 #: src-en/data/text_misc.xml.append:841
 msgid "data/text_misc.xml.append$//text[@name=\"discord_dying\"]"
@@ -1915,7 +1947,7 @@ msgstr "探索中"
 
 #: src-en/data/text_misc.xml.append:843
 msgid "data/text_misc.xml.append$//text[@name=\"discord_battle\"]"
-msgstr "战斗"
+msgstr "战斗中"
 
 #: src-en/data/text_misc.xml.append:844
 msgid "data/text_misc.xml.append$//text[@name=\"discord_battle_boss\"]"
@@ -1923,11 +1955,11 @@ msgstr "BOSS战中(第\\1阶段)"
 
 #: src-en/data/text_misc.xml.append:845
 msgid "data/text_misc.xml.append$//text[@name=\"discord_sector\"]"
-msgstr "\\1(\\2/8)"
+msgstr "\\1(第\\2星区)"
 
 #: src-en/data/text_misc.xml.append:846
 msgid "data/text_misc.xml.append$//text[@name=\"discord_ship\"]"
-msgstr "\\1型\\2"
+msgstr "\\1\\2型"
 
 #: src-en/data/text_misc.xml.append:847
 msgid "data/text_misc.xml.append$//text[@name=\"discord_playing_modded\"]"
@@ -1943,7 +1975,7 @@ msgstr "胜利！"
 
 #: src-en/data/text_misc.xml.append:850
 msgid "data/text_misc.xml.append$//text[@name=\"discord_dead\"]"
-msgstr "死亡"
+msgstr "失败"
 
 #: src-en/data/text_misc.xml.append:851
 msgid "data/text_misc.xml.append$//text[@name=\"discord_mod\"]"
@@ -1979,7 +2011,7 @@ msgstr "未识别的险要星区"
 
 #: src-en/data/text_misc.xml.append:870
 msgid "data/text_misc.xml.append$//text[@name=\"sector_unknown\"]"
-msgstr ""
+msgstr "未识别的中立星区"
 
 #: src-en/data/text_misc.xml.append:872
 msgid "data/text_misc.xml.append$//text[@name=\"sector_legend_civilian\"]"
@@ -1999,17 +2031,19 @@ msgstr "种子"
 
 #: src-en/data/text_misc.xml.append:877
 msgid "data/text_misc.xml.append$//text[@name=\"menu_status_seed\"]"
-msgstr "Seed"
+msgstr "种子"
 
 #: src-en/data/text_misc.xml.append:878
 msgid "data/text_misc.xml.append$//text[@name=\"unlocks_disabled\"]"
-msgstr "解锁功能已禁用"
+msgstr "无法获得成就"
 
 #: src-en/data/text_misc.xml.append:882
 msgid "data/text_misc.xml.append$//text[@name=\"transfer_save_dialog\"]"
 msgstr ""
 "你好，欢迎进入超越光速：多元宇宙的世界！\n"
-"看起来这是你第一次玩本Mod，或是没有创建一个新的存档！多元宇宙有独立的一套存档与解锁系统，存于一份独立的存档文件中。你想导入原版进度，还是创建一个新存档？若选择导入进度可能会被暂时不应看到的内容剧透！\n"
+"看样子这是你第一次玩本Mod，或者没有创建过一个新的存档！多元宇宙有独立的一套存"
+"档与解锁系统，存于一份独立的存档文件中。你想导入原版进度，还是创建一个新存档"
+"？若选择导入进度可能会被暂时不应看到的内容剧透！\n"
 "不用担心，该操作不会对你的原版游戏的存档与进度有任何影响。"
 
 #: src-en/data/text_misc.xml.append:885
@@ -2022,7 +2056,7 @@ msgstr "清除存档"
 
 #: src-en/data/text_misc.xml.append:889
 msgid "data/text_misc.xml.append$//text[@name=\"hotkey_drone4\"]"
-msgstr "无人机槽位4"
+msgstr "选择无人机 4"
 
 #: src-en/data/text_misc.xml.append:890
 msgid "data/text_misc.xml.append$/FTL/text[467]"
@@ -2038,11 +2072,11 @@ msgstr "开关额外信息模式"
 
 #: src-en/data/text_misc.xml.append:893
 msgid "data/text_misc.xml.append$//text[@name=\"hotkey_temporal\"]"
-msgstr "充能时流系统"
+msgstr "增能时流系统"
 
 #: src-en/data/text_misc.xml.append:894
 msgid "data/text_misc.xml.append$//text[@name=\"hotkey_un_temporal\"]"
-msgstr "断能时流系统"
+msgstr "减能时流系统"
 
 #: src-en/data/text_misc.xml.append:895
 msgid "data/text_misc.xml.append$//text[@name=\"hotkey_temporal_speed\"]"
@@ -2089,10 +2123,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_cheat\"]"
 msgstr "恭喜你开挂被发现！！！"
 
 #: src-en/data/text_misc.xml.append:925
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_peace\"]"
 msgstr ""
-"在旗舰的一阶段被击败，并见识到击败者星舰的威力后，万斯上将和叛军舰队投降了。这个宇宙里的叛军纷纷放下了武器。剩下的余孽被迅速清剿，联邦的生存得到了保障。"
+"在见证一阶段的旗舰被击败，并见识到其对手星舰的威力后，万斯上将和叛军舰队投降"
+"了。这个宇宙里的叛军纷纷放下了武器。剩下的余孽被迅速清剿，联邦的生存得到了保"
+"障。"
 
 #: src-en/data/text_misc.xml.append:928
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_slug\"]"
@@ -2127,10 +2162,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_true_mutual\"]"
 msgstr "在叛军旗舰和你的星舰被摧毁后，典范炸弹被遗弃在裂空中，不知所踪。尽管方碑帝国很快崩塌了，叛军掌握了实权，不久后取代了万斯的领导地位。"
 
 #: src-en/data/text_misc.xml.append:941
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_good_save\"]"
 msgstr ""
-"希尔凡本尊死后不久，C.E.L.重组了一个新的领导委员会。希尔凡本尊星团，你的家园，在经历了千年的排斥之后，终于被纳入其中，并由你担任代表。多元宇宙和平秩序的新时代开始了，但由于她还在某个地方活着，不确定这能维持多久..."
+"希尔凡本尊死后不久，C.E.L.重组了一个新的领导委员会。希尔凡本尊星团，你的家园"
+"，在经历了千年的排斥之后，终于被纳入其中，并由你担任代表。多元宇宙和平秩序的"
+"新时代开始了，但由于她还在某个地方活着，不确定这能维持多久..."
 
 #: src-en/data/text_misc.xml.append:942
 #, fuzzy
@@ -2144,10 +2180,11 @@ msgstr ""
 "随着你的死亡和C.E.L.的毁灭，她的邪恶向外蔓延，收复了过去所有的星域。你星团中的居民几乎瞬间被杀死，免受她侵蚀的所有其他人所遭受的永恒的痛苦。"
 
 #: src-en/data/text_misc.xml.append:944
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_bad_kill\"]"
 msgstr ""
-"随着她对联结点的权力得到巩固，最后几个C.E.L.的幸存者试图逃离，但很快就和他们的星团一起被扼杀了。你最初的任务很快就被遗忘了，因为你接受了你在她身边的位置，忠实地为她服务，直到永远。"
+"随着她对联结点的权力得到巩固，最后几个C.E.L.的幸存者试图逃离，但很快就和他们"
+"的星团一起被扼杀了。你最初的任务很快就被遗忘了，因为你接受了你在她身边的位置"
+"，忠实地为她服务，直到永远。"
 
 #: src-en/data/text_misc.xml.append:946
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_nexus_her\"]"
@@ -2186,9 +2223,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"subset_games\"]"
 msgstr "多元宇宙Mod贡献成员"
 
 #: src-en/data/text_misc.xml.append:964
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"created_by\"]"
-msgstr "首席开发媛"
+msgstr "首席开发者"
 
 #: src-en/data/text_misc.xml.append:965
 msgid "data/text_misc.xml.append$//text[@name=\"matthew_justin\"]"
@@ -2199,42 +2235,38 @@ msgid "data/text_misc.xml.append$//text[@name=\"addition_code\"]"
 msgstr "首席开发媛"
 
 #: src-en/data/text_misc.xml.append:968
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"andrew_church\"]"
-msgstr "AgentTHeKat，Laythe，PDTM"
+msgstr "Jersee"
 
 #: src-en/data/text_misc.xml.append:970
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"music_by\"]"
-msgstr "船员美术设计"
+msgstr "美术团队"
 
 #: src-en/data/text_misc.xml.append:971
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"ben_prunty\"]"
-msgstr "MoreOrLesser，Felipemello"
+msgstr ""
+"Laythe, AgentTHeKat, Moreorlesser, Felipemello,\n"
+" PDTM, R4V3-0N"
 
 #: src-en/data/text_misc.xml.append:974
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"writing_by\"]"
-msgstr "其他画师及曲师"
+msgstr "写手"
 
 #: src-en/data/text_misc.xml.append:975
 msgid "data/text_misc.xml.append$//text[@name=\"tom_jubert\"]"
 msgstr "Lucca, Foo757"
 
 #: src-en/data/text_misc.xml.append:977
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"guest_writer\"]"
-msgstr "额外程序支持及文本纠错"
+msgstr "曲师"
 
 #: src-en/data/text_misc.xml.append:978
 msgid "data/text_misc.xml.append$//text[@name=\"chris_a\"]"
 msgstr "Squishyboi, PDTM, Maddie Doktor"
 
 #: src-en/data/text_misc.xml.append:980
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"additional_art\"]"
-msgstr "前开发团队成员："
+msgstr "额外程序支持"
 
 #: src-en/data/text_misc.xml.append:981
 msgid "data/text_misc.xml.append$//text[@name=\"bryan_ma\"]"
@@ -2246,7 +2278,7 @@ msgstr "前开发团队成员："
 
 #: src-en/data/text_misc.xml.append:984
 msgid "data/text_misc.xml.append$//text[@name=\"alison_w\"]"
-msgstr ""
+msgstr "Magic Badger, Markus McCloud, SolidBoi (CurseDC), Winter"
 
 #: src-en/data/text_misc.xml.append:986
 msgid "data/text_misc.xml.append$//text[@name=\"additional_testing\"]"
@@ -2273,9 +2305,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"credits_loc_fr\"]"
 msgstr "Hyperspace API支持"
 
 #: src-en/data/text_misc.xml.append:993
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"credits_loc_fr_names\"]"
-msgstr "ThewiftTiger，Admiral Billy，Mathchamp等"
+msgstr ""
+"TheSwiftTiger，Admiral Billy， mathchamp，\n"
+" laszlogasd，ih8ih8sn0w， Mr Doom，\n"
+" Chrono Vortex"
 
 #: src-en/data/text_misc.xml.append:996
 msgid "data/text_misc.xml.append$//text[@name=\"credits_loc_it\"]"
@@ -2324,4 +2358,3 @@ msgstr ""
 "开发中子Mod：公司扩展包\n"
 "即将推出。\n"
 "点击查看更多信息。"
-

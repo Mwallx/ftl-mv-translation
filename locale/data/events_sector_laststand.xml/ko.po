@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-10 06:17+0000\n"
+"Last-Translator: Kestrel <flameblast12@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_laststandxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_laststand.xml:26
 msgid "data/events_sector_laststand.xml$//event[@name=\"FEDERATION_BASE\"]/text"
@@ -51,19 +58,16 @@ msgstr ""
 "\t연방 수도는 당신의 마지막 목적지입니다. 이 현실을 반군의 포위로부터 구하려면 연방 본부가 파괴되기 전에 반군 기함을 격침해야 합니다."
 
 #: src-en/data/events_sector_laststand.xml:80
-#, fuzzy
 msgid ""
 "data/events_sector_laststand.xml$/FTL/event[@name=\"LASTSTAND_WARP_REAL\"]/choice[@req=\"loc_laststand\"]/text"
 msgstr "한계속도를 마친다."
 
 #: src-en/data/events_sector_laststand.xml:84
-#, fuzzy
 msgid ""
 "data/events_sector_laststand.xml$/FTL/event[@name=\"LASTSTAND_WARP_REAL\"]/choice[@req=\"challenge_level\"]/text"
 msgstr "한계속도를 마친다."
 
 #: src-en/data/events_sector_laststand.xml:88
-#, fuzzy
 msgid ""
 "data/events_sector_laststand.xml$/FTL/event[@name=\"LASTSTAND_WARP_REAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "한계속도를 마친다."
@@ -76,7 +80,7 @@ msgstr "경로를 바꾼다."
 #: src-en/data/events_sector_laststand.xml:96
 msgid ""
 "data/events_sector_laststand.xml$/FTL/event[@name=\"LASTSTAND_WARP_REAL\"]/choice[@req=\"COORDS_BOSS_TOOLATE\"]/text"
-msgstr ""
+msgstr "다른 구역에 들를 시간이 없다!"
 
 #: src-en/data/events_sector_laststand.xml:115
 msgid ""
@@ -762,9 +766,11 @@ msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"TRUE_LAST_STAND_START\"]/choice[@req=\"rep_comb_federation\""
 " and @lvl=\"-999\"]/event/choice[@req=\"SHIP_VAMPWEED\"]/event/text"
 msgstr ""
-"화면 중앙에 툴리 제독과 함께 여러 연방 및 엔지 장교들이 나타났습니다. \"흡혈초? Confederacy에서 지원이 올 거라고는 "
-"예상하지 못했는데. 연방-맨티스 전쟁 중에 있었던 일이 마침내 모두 물거품이 돼 사라진건가? 뭐, 아마 아니겠지... 하지만 그 일은 "
-"나중에 얘기하도록 하지. 지금은 없애버려야 할 기함이 있으니까.\""
+"화면 중앙에 툴리 제독과 함께 여러 연방 및 엔지 장교들이 나타났습니다. "
+"\"흡혈초? 공동체에서 지원이 올 거라고는 예상하지 못했는데. 연방-맨티스 전쟁 "
+"중에 있었던 일이 마침내 모두 물거품이 돼 사라진건가? 뭐, 아마 아니겠지... "
+"하지만 그 일은 나중에 얘기하도록 하지. 지금은 없애버려야 할 기함이 있으니까."
+"\""
 
 #: src-en/data/events_sector_laststand.xml:478
 msgid ""
@@ -824,6 +830,11 @@ msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"TRUE_LAST_STAND_START\"]/choice[@req=\"rep_comb_federation\""
 " and @lvl=\"-999\"]/event/choice[@req=\"SHIP_UNION\"]/event/text"
 msgstr ""
+"화면 중앙에 툴리 제독과 함께 여러 연방 및 엔지 장교들이 나타났습니다. "
+"\"협회에서 여전히 우리의 아군으로 남아 있어줘서 다행이군. 날이 갈수록 협회 "
+"구성원들이 반군 쪽에 붙는 상황이지만서도, 제0우주에서 계속 우리 편인 "
+"배회자들을 보내주는 이상 희망은 꺼지지 않을 테지. 기대하고 있겠네, 함장. "
+"자네를 믿고 있다네.\""
 
 #: src-en/data/events_sector_laststand.xml:508
 msgid ""
@@ -1419,7 +1430,8 @@ msgstr "우리는 연방을 모함하려는 신디케이트의 공격을 막음�
 #: src-en/data/events_sector_laststand.xml:872
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"BOSS_TEXT_1\"]/choice[@req=\"PEACE\"]/event/choice[@req=\"ach_crew_ivar\"]/text"
-msgstr ""
+msgstr "우리는 공동체 구역의 생명을 구하고 그들의 정부에 숨어든 연합의 밀정들을 "
+"축출했습니다."
 
 #: src-en/data/events_sector_laststand.xml:876
 msgid ""
@@ -1465,7 +1477,7 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"BOSS_TEXT_1\"]/choice[@req=\"loc_jerrykill\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "기함은 오래지 않아 당신을 발견했습니다. 이내 함포에 전원을 넣고 접근합니다."
 
 #: src-en/data/events_sector_laststand.xml:902
 msgid ""
@@ -1881,51 +1893,56 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/text"
 msgstr ""
+"독립 맨티스 강하선이 접근했습니다. \"연방 친구들! 파카타카라카 클랜은 만나서 "
+"반갑다! 너희들을 도와주려고 여기까지 왔다. 다른 애들은 집안일이 바빠서 못 "
+"왔지만... 집안에는 명예가 없다! 우린 반군의 머리통을 수집할 것이다! 지금가진 "
+"머리통 대신 미사일만 가득 처맞았지만...\""
 
 #: src-en/data/events_sector_laststand.xml:1187
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "우리도 선원이 필요한 상황이었는데, 같이 갈 텐가?"
 
 #: src-en/data/events_sector_laststand.xml:1189
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "\"텔레포터가 있나? 그렇다면 좋다! 연방의 명예를 위하여!\""
 
 #: src-en/data/events_sector_laststand.xml:1190
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/event/crewMember"
-msgstr ""
+msgstr "Pakatakalaka"
 
 #: src-en/data/events_sector_laststand.xml:1194
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/text"
-msgstr ""
+msgstr "우리도 선원이 필요한 상황이었는데, 같이 할 텐가?"
 
 #: src-en/data/events_sector_laststand.xml:1196
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/event/text"
-msgstr ""
+msgstr "\"텔레포터가 있나? 그렇다면 좋다! 연방의 명예를 위하여!\""
 
 #: src-en/data/events_sector_laststand.xml:1197
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/event/crewMember"
-msgstr ""
+msgstr "Pakatakalaka"
 
 #: src-en/data/events_sector_laststand.xml:1201
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"teleporter\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "우리도 선원이 필요한 상황이었는데, 같이 갈 텐가?"
 
 #: src-en/data/events_sector_laststand.xml:1203
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_FREEMANTIS_GLORY\"]/choice[@req=\"teleporter\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "\"네 선원으로 들어가면 함선에 계속 있어야 한다... 그건 싫다! 반군 직접 "
+"처치하고 싶다!\""
 
 #: src-en/data/events_sector_laststand.xml:1205
 msgid ""
@@ -2533,10 +2550,13 @@ msgstr "그가 불평하는 소리를 들어본다."
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_EGGMAN\"]/choice[1]/event/text"
 msgstr ""
-"그 공병은 미친 듯이 제스처를 취하며 말했습니다. \"-발표할 내용이 있어서 왔다. 헤지 대령은 멍청한 개새끼야. 그놈이 내 아내랑 잠을"
-" 잤어. 바로 그거야, 그놈은-\" 마이크가 잠시 말썽을 부렸지만, 연설은 곧 재개됐습니다. \"그놈은 \"이정도로 컸어\", 그리고 "
-"나는 '그거 역겹다!'고 말했지. 그래서 나는 여러분 모두에게 알려주려고 한다! 헤지는-\" 다시 한번 마이크가 순간적으로 끊겼습니다. "
-"\"이 함선 정도의 크기지만, 훨씬 더 작아! 그리고 다음은 이쪽을 봐봐. 이게 내 물건의 모습이야!\""
+"그 공병은 미친 듯이 제스처를 취하며 말했습니다. \"-발표할 내용이 있어서 "
+"왔다. 헤지 대령은 멍청한 개새끼야. 그 놈이 내 아내랑 바람이 났다고. 바로 "
+"그거야, 그놈 은-\" 마이크가 잠시 말썽을 부렸지만, 연설은 곧 재개됐습니다. "
+"\"그놈은 \"이정도로 컸어\", 그리고 나는 '그거 역겹다!'고 말했지. 그래서 나는 "
+"여러분 모두에게 알려주도록 하지! 헤지는-\" 다시 한번 마이크가 순간적으로 "
+"끊겼습니다. \"이 함선 정도의 크기지만, 훨씬 더 작아! 그리고 다음은 이쪽을 "
+"봐봐. 이게 내 물건의 모습이야!\""
 
 #: src-en/data/events_sector_laststand.xml:1671
 msgid ""
@@ -2547,11 +2567,15 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_EGGMAN\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"근처의 함대 중 한 척에서 거대한 ASB 대포가 뻗어 나오자 군중이 비명을 질렀습니다. \"바로 그거야 친구들! 그놈은 내 아내랑 잤어."
-" 그러니 나는... 어... 이 행성이랑 잠을 잘 거야!\" 거대한 ASB 대포가 발사됐지만, 포탄은 행성을 빗겨나가 훨씬 더 높이 "
-"날아가서 위성을 맞췄고, 그곳에 있던 거대한 암석을 유리처럼 깨뜨려버렸습니다. \"바로 이거야. 이게 바로 너희가 경험하게 될 나의 슈퍼"
-" 레이저 대포야! 어떤가, 헤지? 난 달과 잤다고 이 멍청아! 23분 후면 내가 기다리다 지쳐서 도시 전체를 파괴할 거야. 지금 당장 "
-"항복해. 이제 내가 너희 모두랑 잠들기 전에 내 눈앞에서 사라져!\" 방송이 종료됐습니다."
+"근처의 함대 중 한 척에서 거대한 ASB 대포가 뻗어 나오자 군중이 비명을 "
+"질렀습니다. \"바로 그거야 친구들! 그놈은 내 아내랑 바람이 났어. 그러니 "
+"나는... 어... 이 행성에 바람구멍을 내 줘야지!\" 거대한 ASB 대포가 "
+"발사됐지만, 포탄은 행성을 빗겨나가 훨씬 더 높이 날아가서 위성을 맞췄고, "
+"그곳에 있던 거대한 암석을 유리처럼 깨뜨려버렸습니다. \"바로 이거야. 이게 "
+"바로 너희가 경험하게 될 나의 슈퍼 레이저 대포야! 어떤가, 헤지? 난 달과 "
+"바람났다고 이 멍청아! 23분 후면 내가 기다리다 지쳐서 도시 전체를 파괴할 "
+"거야. 지금 당장 항복해. 이제 내가 너희 모두에게 바람구멍을 내기 전에 내 "
+"눈앞에서 사라져!\" 방송이 종료됐습니다."
 
 #: src-en/data/events_sector_laststand.xml:1675
 msgid ""
@@ -2589,7 +2613,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_laststand.xml:1699
 msgid ""
 "data/events_sector_laststand.xml$//event[@name=\"NODE17_EGGMAN\"]/choice[1]/event/choice/event/choice[3]/text"
-msgstr "같이 잠들게 되기 전에 떠난다."
+msgstr "함선에 바람구멍이 나기 전에 떠난다."
 
 #: src-en/data/events_sector_laststand.xml:1707
 msgid ""
@@ -3419,4 +3443,3 @@ msgid ""
 msgstr ""
 "가까운 곳에 한 교역 정거장이 버려져 있습니다. 몇몇 연방 기술자들이 그들의 조선소를 군사용 수리시설로 바꾸었습니다. 그들은 당신의 "
 "함선을 수리해주겠다고 제안했습니다."
-

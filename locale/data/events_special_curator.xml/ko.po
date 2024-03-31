@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-27 06:40+0000\n"
+"Last-Translator: 노병민 <nohbmin@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_special_curatorxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_curator.xml:8
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_PROPOSITION\"]/text"
@@ -43,7 +50,7 @@ msgstr ""
 #: src-en/data/events_special_curator.xml:21
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PROPOSITION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "듣고 있습니다."
 
 #: src-en/data/events_special_curator.xml:23
 msgid ""
@@ -94,7 +101,7 @@ msgstr ""
 #: src-en/data/events_special_curator.xml:55
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PROPOSITION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "거절한다."
 
 #: src-en/data/events_special_curator.xml:57
 msgid ""
@@ -115,7 +122,8 @@ msgstr "아무것도 하지 않는다."
 
 #: src-en/data/events_special_curator.xml:74
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_TASK_MENU\"]/text"
-msgstr ""
+msgstr "의뢰 난이도를 선택하세요. 수락 가능한 의뢰는 무작위로 정해지며, 도약당 한 "
+"번씩 초기화할 수 있습니다."
 
 #: src-en/data/events_special_curator.xml:76
 msgid ""
@@ -166,7 +174,8 @@ msgstr "돌아간다."
 #: src-en/data/events_special_curator.xml:113
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TASK_MENU_NOSPECIAL\"]/text"
-msgstr ""
+msgstr "의뢰 난이도를 선택하세요. 수락 가능한 의뢰는 무작위로 정해지며, 도약당 한 "
+"번씩 초기화할 수 있습니다."
 
 #: src-en/data/events_special_curator.xml:115
 msgid ""
@@ -253,7 +262,10 @@ msgid ""
 "data/events_special_curator.xml$/FTL/event[@name=\"CURA_SCHOOLID_PREVIEW\"]/text"
 msgstr ""
 "[쉬운 의뢰 - 유물 명칭: 학생증]\n"
-"\t설명: 저는 연맹의 아이들이 학창 시절에 학생증을 배정받는다는 사실을 알게 되었습니다. 이 학생증은 유용한 정보나 사진을 동반할 수 있습니다. 과거의 데이터가 여전히 남아 있을 수 있는 데이터 서버를 확인했습니다. 해당 서버에 접속해 주십시오.\n"
+"\t설명: 저는 협회의 아이들이 학창 시절에 학생증을 배정받는다는 사실을 알게 "
+"되었습니다. 이 학생증은 유용한 정보나 사진을 동반할 수 있습니다. 과거의 "
+"데이터가 여전히 남아 있을 수 있는 데이터 서버를 확인했습니다. 해당 서버에 "
+"접속해 주십시오.\n"
 "\t요구사항: 데이터 서버에 접속.\n"
 "\t권고: 비폭력적인 방법으로 접속할 수 있도록 대비할 것.\n"
 "\t\n"
@@ -283,8 +295,9 @@ msgstr "돌아간다."
 msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_SCHOOLID\"]/destroyed/text"
 msgstr ""
-"아무래도 실수를 한 것 같습니다. 연맹에 재산 피해를 줬을 뿐만 아니라 테이터 저장소도 사라졌습니다. C.U.R.A.는 실망하겠지만, "
-"적어도 잔해를 건져 올릴 수는 있었습니다."
+"아무래도 실수를 한 것 같습니다. 협회에 재산 피해를 줬을 뿐만 아니라 테이터 "
+"저장소도 사라졌습니다. C.U.R.A.는 실망하겠지만, 적어도 잔해를 건져 올릴 수는 "
+"있었습니다."
 
 #: src-en/data/events_special_curator.xml:311
 msgid ""
@@ -295,6 +308,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCHOOLID\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[쉬운 의뢰 - 유물 명칭: 학생증]"
 
 #: src-en/data/events_special_curator.xml:321
 msgid ""
@@ -499,7 +514,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCHOOLID_SUCCESS\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:442
 msgid ""
@@ -508,7 +523,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:448
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCHOOLID_SUCCESS\"]/choice/event/choice[3]/text"
 msgstr "듣는다."
@@ -561,6 +575,8 @@ msgstr "돌아간다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[쉬운 의뢰 - 유물 명칭: 어린 시절의 그림]"
 
 #: src-en/data/events_special_curator.xml:494
 msgid ""
@@ -655,7 +671,7 @@ msgstr "계속..."
 #: src-en/data/events_special_curator.xml:545
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING\"]/choice/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_special_curator.xml:547
 msgid ""
@@ -673,9 +689,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING_SUCCESS\"]/text"
 msgstr ""
-"데이터 전송이 완료되자마자 C.U.R.A.가 교신을 보냈습니다. \"그 과성장한 기생충의 '쓰레기 같은 연맹 주거지'라는 발언이 "
-"흥미롭네요. 혹시 이게 웬트워스 씨의 어린 시절 집을 말하는 걸까요? 더 조사해 보겠지만 그런 사적인 일에... 당신 같은 사람을 "
-"연관시키진 않을 겁니다.\""
+"데이터 전송이 완료되자마자 C.U.R.A.가 교신을 보냈습니다. \"그 과성장한 "
+"기생충의 '쓰레기 같은 협회 주거지'라는 발언이 흥미롭네요. 혹시 이게 웬트워스 "
+"씨의 어린 시절 집을 말하는 걸까요? 더 조사해 보겠지만 그런 사적인 일에... "
+"당신 같은 사람을 연관시키진 않을 겁니다.\""
 
 #: src-en/data/events_special_curator.xml:562
 msgid ""
@@ -706,7 +723,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING_SUCCESS\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:580
 msgid ""
@@ -715,7 +732,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:586
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING_SUCCESS\"]/choice/event/choice[3]/text"
 msgstr "듣는다."
@@ -723,11 +739,14 @@ msgstr "듣는다."
 #: src-en/data/events_special_curator.xml:593
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_DRAWING_LORE\"]/text"
 msgstr ""
-"\"흠. 그냥 낙서? 전혀 아니네요. 이 삽화는 유년기의 교양을 뚜렷하게 보여주는데, 제가 가장 흥미를 느끼는 주제를 다루고 있습니다. "
-"이 작품은 연맹의 외계종 포용 기념일인 '통합의 날'을 축하하기 위해 그려진 것으로 보입니다. 정말 터무니없는 전통이죠. 웬트워스 씨는 "
-"미술 쪽 일을 한 적이 있을까요? 아니면 자신의 잠재력을 낭비하는 하찮은 열정이 외계종에 대한 '사랑과 존중'만큼이나 빨리 식었을까요? "
-"어쨌거나 일단은 이 몇 가지 세부 사항들을 제 컬렉션에 추가할 겁니다만, 다음엔 좀 더 어려운 의뢰에 도전하는 게 어떤가요 배회자 씨? "
-"정말로 쓸만한 정보는 이런 간단한 의뢰으로 얻을 수 없습니다.\""
+"\"흠. 그냥 낙서? 전혀 아니네요. 이 삽화는 유년기의 교양을 뚜렷하게 "
+"보여주는데, 제가 가장 흥미를 느끼는 주제를 다루고 있습니다. 이 작품은 협회의 "
+"외계종 포용 기념일인 '통합의 날'을 축하하기 위해 그려진 것으로 보입니다. "
+"정말 터무니없는 전통이죠. 웬트워스 씨는 미술 쪽 일을 한 적이 있을까요? "
+"아니면 자신의 잠재력을 낭비하는 하찮은 열정이 외계종에 대한 '사랑과 "
+"존중'만큼이나 빨리 식었을까요? 어쨌거나 일단은 이 몇 가지 세부 사항들을 제 "
+"컬렉션에 추가할 겁니다만, 다음엔 좀 더 어려운 의뢰에 도전하는 게 어떤가요 "
+"배회자 씨? 정말로 쓸만한 정보는 이런 간단한 의뢰으로 얻을 수 없습니다.\""
 
 #: src-en/data/events_special_curator.xml:595
 msgid ""
@@ -791,6 +810,8 @@ msgstr "C.U.R.A.에게 연락한다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CRUSH\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[쉬운 의뢰 - 유물 명칭: 첫사랑의 증언]"
 
 #: src-en/data/events_special_curator.xml:650
 msgid ""
@@ -855,8 +876,9 @@ msgstr "명령에 따라 정거장을 공격한다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CRUSH\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"당신은 총을 뽑아 페레즈의 등을 쐈습니다. 그녀는 곧바로 주저앉으며 무기를 떨어뜨렸습니다. 당신은 경보기가 하나둘씩 켜지며 정거장에 전투"
-" 태세가 갖춰질 때 재빨리 함선으로 돌아갔습니다."
+"당신은 총을 뽑아 페레즈의 등을 쐈습니다. 그녀는 곧바로 주저앉으며 무기를 "
+"떨어뜨렸습니다. 당신은 경보기가 하나둘씩 켜지며 정거장에 전투태세가 갖춰질 "
+"때 재빨리 함선으로 돌아갔습니다."
 
 #: src-en/data/events_special_curator.xml:675
 msgid ""
@@ -921,7 +943,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CRUSH_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:725
 msgid ""
@@ -930,7 +952,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:731
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CRUSH_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -983,6 +1004,8 @@ msgstr "돌아간다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TOILET\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[쉬운 의뢰 - 유물 명칭: 중고 변기]"
 
 #: src-en/data/events_special_curator.xml:775
 msgid ""
@@ -1109,7 +1132,7 @@ msgstr "C.U.R.A.에게 연락한다."
 #: src-en/data/events_special_curator.xml:841
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TOILET\"]/choice/event/choice/event/choice/event/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_curator.xml:843
 msgid ""
@@ -1124,7 +1147,7 @@ msgstr "계속..."
 #: src-en/data/events_special_curator.xml:853
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TOILET\"]/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_curator.xml:855
 msgid ""
@@ -1161,7 +1184,7 @@ msgstr "C.U.R.A.에게 연락한다."
 #: src-en/data/events_special_curator.xml:895
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TOILET_HAGGLE_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_curator.xml:897
 msgid ""
@@ -1199,7 +1222,7 @@ msgstr "C.U.R.A.에게 연락한다."
 #: src-en/data/events_special_curator.xml:921
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TOILET_HAGGLE_SUCCESS\"]/choice[2]/text"
-msgstr ""
+msgstr "아무것도 아니다."
 
 #: src-en/data/events_special_curator.xml:923
 msgid ""
@@ -1260,6 +1283,8 @@ msgstr "돌아간다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PLUSHIE\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[쉬운 의뢰 - 유물 명칭: 미스터 스너글 버글스]"
 
 #: src-en/data/events_special_curator.xml:971
 msgid ""
@@ -1274,13 +1299,14 @@ msgstr "방문하지 않은 송신소입니다."
 #: src-en/data/events_special_curator.xml:975
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_PLUSHIE\"]/text"
 msgstr ""
-"당신은 근처에 있던 소규모 수상 주거지에 접근했습니다. 이곳은 민병대와 그 가족들이 관리하는 일종의 연맹 방어 기지인 것으로 보입니다. "
-"보아하니, 지금은 훈련 같은 것이 진행되고 있는 모양입니다."
+"당신은 근처에 있던 소규모 수상 주거지에 접근했습니다. 이곳은 민병대와 그 "
+"가족들이 관리하는 일종의 협회 방어 기지인 것으로 보입니다. 보아하니, 지금은 "
+"훈련 같은 것이 진행되고 있는 모양입니다."
 
 #: src-en/data/events_special_curator.xml:978
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PLUSHIE\"]/choice/text"
-msgstr ""
+msgstr "착륙해 조사한다."
 
 #: src-en/data/events_special_curator.xml:980
 msgid ""
@@ -1417,7 +1443,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PLUSHIE_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:1058
 msgid ""
@@ -1426,7 +1452,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:1064
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PLUSHIE_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -1505,6 +1530,8 @@ msgstr "사진을 가져와 C.U.R.A.에게 보낸다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PETE\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 사진첩]"
 
 #: src-en/data/events_special_curator.xml:1146
 msgid ""
@@ -1519,9 +1546,11 @@ msgstr "방문하지 않은 송신소입니다."
 #: src-en/data/events_special_curator.xml:1150
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_PETE\"]/text"
 msgstr ""
-"당신은 낡은 연맹 운반선으로 보이는 것에 가까이 다가갔습니다. 운반선에는 거대한 붉은색 경고 표시와 함께 \"조심해!\"라는 글귀가 "
-"두텁게 도색돼 있었습니다. 기다란 막대기에 묶여 똑바로 서 있는 낯선 생물체가 비디오 스크린에 나타났습니다. 그의 상체는 유난히 말라 "
-"보였고 말할 때마다 팔다리가 펄럭였습니다. \"넌 누구지? 여기엔 왜 온 거야?\""
+"당신은 낡은 협회 운반선으로 보이는 것에 가까이 다가갔습니다. 운반선에는 "
+"거대한 붉은색 경고 표시와 함께 \"조심해!\"라는 글귀가 두텁게 도색돼 "
+"있었습니다. 기다란 막대기에 묶여 똑바로 서 있는 낯선 생물체가 비디오 "
+"스크린에 나타났습니다. 그의 상체는 유난히 말라 보였고 말할 때마다 팔다리가 "
+"펄럭였습니다. \"넌 누구지? 여기엔 왜 온 거야?\""
 
 #: src-en/data/events_special_curator.xml:1153
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_PETE\"]/choice/text"
@@ -1575,24 +1604,29 @@ msgstr "계속..."
 #: src-en/data/events_special_curator.xml:1185
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_PETE_STORY\"]/text"
 msgstr ""
-"\"좋아, 그럼 거기 앉아서 잘 들어주게나. 아무도 내 말을 안 믿지만, 맹세컨대 난 진실하네! 몇 년 전 그 빌어먹은 내전이 일어나기도"
-" 전에 허공에서 갑자기 그 엿 같은 무지개색 배가 나타나더니 무지개색 소용돌이 눈깔에 호리호리한 삼각대 괴물들이 내려왔어! 그놈들이 그냥"
-" 할 일 하고 있던 나한테 마법을 걸고 날 납치하려 했다고! 하지만 그 면발 괴물들은 내가 6연속 연맹 무술 챔피언이었다는 걸 몰랐지. "
-"그래서 난 그놈들을 멋지게 때려눕혔다! 예호!\""
+"\"좋아, 그럼 거기 앉아서 잘 들어주게나. 아무도 내 말을 안 믿지만, 맹세컨대 "
+"난 진실하네! 몇 년 전 그 빌어먹은 내전이 일어나기도 전에 허공에서 갑자기 그 "
+"엿 같은 무지개색 배가 나타나더니 무지개색 소용돌이 눈깔에 호리호리한 삼각대 "
+"괴물들이 내려왔어! 그놈들이 그냥 할 일 하고 있던 나한테 마법을 걸고 날 "
+"납치하려 했다고! 하지만 그 면발 괴물들은 내가 6연속 협회 무술 챔피언이었다는 "
+"걸 몰랐지. 그래서 난 그놈들을 멋지게 때려눕혔다! 예호!\""
 
 #: src-en/data/events_special_curator.xml:1187
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PETE_STORY\"]/choice/text"
-msgstr ""
+msgstr "예..."
 
 #: src-en/data/events_special_curator.xml:1189
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PETE_STORY\"]/choice/event/text"
 msgstr ""
-"\"하지만 넌 분명 '피트, 그렇게 잘 싸우면서 왜 척추를 잃은 거에요?'라고 생각하겠지. 사실, 면발 괴물들이 너무 많아서 난 "
-"지쳐버렸어. 그놈들은 날 묶고 척추를 뽑아버렸네! 난 죽은 거나 다름없었지만 어째선지 그놈들은 날 살려 놓더라고. 하지만 그게 바로 "
-"결정적인 실수였어! 왜냐, 내가 6연속 연맹 무술 챔피언일 뿐만 아니라 8연속 연맹 무척추 무술 챔피언이었기 때문이지! 하하! 난 "
-"번개처럼 빠르게 놈들을 때려잡고 그 배를 훔쳐서 귀국한 다음 나 자신을 위해 이 트럭을 건조했다네.\""
+"\"하지만 넌 분명 '피트, 그렇게 잘 싸우면서 왜 척추를 잃은 거에요?'라고 "
+"생각하겠지. 사실, 면발 괴물들이 너무 많아서 난 지쳐버렸어. 그놈들은 날 묶고 "
+"척추를 뽑아버렸네! 난 죽은 거나 다름없었지만 어째선지 그놈들은 날 살려 "
+"놓더라고. 하지만 그게 바로 결정적인 실수였어! 왜냐, 내가 6연속 협회 무술 "
+"챔피언일 뿐만 아니라 8연속 협회 무척추 무술 챔피언이었기 때문이지! 하하! 난 "
+"번개처럼 빠르게 놈들을 때려잡고 그 배를 훔쳐서 귀국한 다음 나 자신을 위해 이 "
+"트럭을 건조했다네.\""
 
 #: src-en/data/events_special_curator.xml:1191
 msgid ""
@@ -1656,6 +1690,10 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_PETE_SUCCESS_CK\"]/text"
 msgstr ""
+"\"피트가 죽었나요? 안타깝군요. 정말 정말 이상한 사고였습니다, 그렇죠 배회자 "
+"씨? 원인을 밝히기 어려워 보이네요. 하지만 상관없습니다, 당신이 회수한 그 질 "
+"나쁜 사진들은 제가 자료를 찾는 데 별 도움이 안 될 겁니다. 이번 일을 마음에 "
+"두지 마십시오. 노력한 만큼 보상을 드리겠습니다.\""
 
 #: src-en/data/events_special_curator.xml:1226
 msgid ""
@@ -1717,6 +1755,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_USB\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 데이터스틱]"
 
 #: src-en/data/events_special_curator.xml:1281
 msgid ""
@@ -1793,7 +1833,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_USB_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:1332
 msgid ""
@@ -1802,7 +1842,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:1338
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_USB_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -1875,6 +1914,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SURVIVOR\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 생존자의 증언]"
 
 #: src-en/data/events_special_curator.xml:1401
 msgid ""
@@ -2037,6 +2078,8 @@ msgstr "C.U.R.A.에게 연락한다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WEDDING\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 결혼사진]"
 
 #: src-en/data/events_special_curator.xml:1513
 msgid ""
@@ -2098,7 +2141,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WEDDING_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:1552
 msgid ""
@@ -2107,7 +2150,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:1558
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WEDDING_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -2130,9 +2172,13 @@ msgid ""
 "data/events_special_curator.xml$/FTL/event[@name=\"CURA_WILL_PREVIEW\"]/text"
 msgstr ""
 "[중급 의뢰 - 유물 명칭: 유언장]\n"
-"\t설명: 웬트워스 씨 부모님의 유언장 사본을 보관하고 있을 만한 연맹의 은행을 추려냈습니다. 저는 이미 유언장의 내용을 대략적으로 추론할 수 있지만, 그가 물려받은 유산의 전모를 아는 것은 그의 과거에 대해 더 많은 것들을 가늠할 수 있도록 해줄 것입니다. 이 서류를 입수해 주십시오.\n"
+"\t설명: 웬트워스 씨 부모님의 유언장 사본을 보관하고 있을 만한 협회의 은행을 "
+"추려냈습니다. 저는 이미 유언장의 내용을 대략적으로 추론할 수 있지만, 그가 "
+"물려받은 유산의 전모를 아는 것은 그의 과거에 대해 더 많은 것들을 가늠할 수 "
+"있도록 해줄 것입니다. 이 서류를 입수해 주십시오.\n"
 "\t요구사항: 웬트워스 씨 부모님의 유언장을 회수.\n"
-"\t권고: 웬트워스 씨 계좌의 현 비밀번호를 해독했습니다. 기억해두십시오: 7G!O3a0p6n\n"
+"\t권고: 웬트워스 씨 계좌의 현 비밀번호를 해독했습니다. 기억해두십시오: 7G!"
+"O3a0p6n\n"
 "\t\n"
 "\t보수: 다량의 스크랩 + 자원."
 
@@ -2170,6 +2216,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WILL\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 유언장]"
 
 #: src-en/data/events_special_curator.xml:1612
 msgid ""
@@ -2279,7 +2327,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WILL_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:1684
 msgid ""
@@ -2288,7 +2336,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:1690
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_WILL_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -2312,7 +2359,12 @@ msgid ""
 "data/events_special_curator.xml$/FTL/event[@name=\"CURA_SCANDAL_PREVIEW\"]/text"
 msgstr ""
 "[중급 의뢰 - 유물 명칭: 신문지]\n"
-"\t설명: 이상하게도, 일부 연맹 시민들은 아직 뉴스 기사가 인쇄된 종이 팜플렛을 거래하는 것 같습니다. 솔직히 저는 이것을 유치하다고 생각합니다만, 웬트워스 씨와 그의 오른팔 격 여자인 시라 블랙 사이의 스캔들을 묘사한 특정 기사를 발견했습니다. 이 주장의 진위를 확인하고 싶은데, 그러려면 우선 이 신문을 구해야 합니다. 연로한 연맹 소속 남성이 이 구역의 가장자리에 상주하고 있습니다. 그가 퇴직 후 거주 중인 집을 찾아 신문을 입수해 주십시오.\n"
+"\t설명: 이상하게도, 일부 협회 시민들은 아직 뉴스 기사가 인쇄된 종이 팜플렛을 "
+"거래하는 것 같습니다. 솔직히 저는 이것을 유치하다고 생각합니다만, 웬트워스 "
+"씨와 그의 오른팔 격 여자인 시라 블랙 사이의 스캔들을 묘사한 특정 기사를 "
+"발견했습니다. 이 주장의 진위를 확인하고 싶은데, 그러려면 우선 이 신문을 "
+"구해야 합니다. 연로한 협회 소속 남성이 이 구역의 가장자리에 상주하고 "
+"있습니다. 그가 퇴직 후 거주 중인 집을 찾아 신문을 입수해 주십시오.\n"
 "\t요구사항: 신문을 회수.\n"
 "\t권고: 노인의 잔디밭을 밟지 말 것.\n"
 "\t\n"
@@ -2371,6 +2423,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCANDAL\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[중급 의뢰 - 유물 명칭: 신문지]"
 
 #: src-en/data/events_special_curator.xml:1759
 msgid ""
@@ -2385,7 +2439,8 @@ msgstr "방문하지 않은 송신소입니다."
 #: src-en/data/events_special_curator.xml:1763
 msgid "data/events_special_curator.xml$//event[@name=\"CURA_SCANDAL\"]/text"
 msgstr ""
-"연맹 민병대 전초기지에 은퇴한 노인이 산다는 건 이상한 일입니다. 하지만 낡은 싸구려 장식품들을 보면 제대로 찾아온 것 같습니다."
+"협회 민병대 전초기지에 은퇴한 노인이 산다는 건 이상한 일입니다. 하지만 낡은 "
+"싸구려 장식품들을 보면 제대로 찾아온 것 같습니다."
 
 #: src-en/data/events_special_curator.xml:1765
 msgid ""
@@ -2421,6 +2476,11 @@ msgstr "이런 신문을 찾고 있습니다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCANDAL_WIN\"]/choice/event/text"
 msgstr ""
+"혼란스러워하지만 기꺼이 협조하려는 노인이 당신에게 문제의 신문을 "
+"가져다줬습니다. \"허허, 이 신문이 나왔던 날이 기억나는군. 아주 난리가 "
+"났었지. 자, 그럼 볼일은 끝났군. 왜 이런 걸 원하는지는 모르겠지만 내 벽에 또 "
+"다른 생식기를 그리지만 않는다면 뭐라 하지 않겠네.\" 정거장에 있던 다른 "
+"민병대원들도 오해에 대한 배상으로 당신의 함선을 수리해 주겠다고 했습니다."
 
 #: src-en/data/events_special_curator.xml:1786
 msgid ""
@@ -2451,7 +2511,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCANDAL_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:1809
 msgid ""
@@ -2460,7 +2520,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:1815
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SCANDAL_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -2563,7 +2622,7 @@ msgstr "(의료 폭탄) 그를 되살린다. [-1}]"
 #: src-en/data/events_special_curator.xml:1911
 msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_TORTURE\"]/deadCrew/choice[@req=\"RECON_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "(재구성 텔레포트) 그를 되살린다."
 
 #: src-en/data/events_special_curator.xml:1915
 msgid ""
@@ -2574,6 +2633,8 @@ msgstr "되살릴 방법이 없다."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TORTURE\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[어려운 의뢰 - 유물 명칭: 포로 보고서]"
 
 #: src-en/data/events_special_curator.xml:1930
 msgid ""
@@ -2646,7 +2707,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TORTURE_SAVE\"]/choice/event/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "안타깝게도 당신은 이 문제를 어떻게 처리해야 할지 모르고, C.U.R.A.도 응답하지 "
+"않습니다."
 
 #: src-en/data/events_special_curator.xml:1972
 msgid ""
@@ -2684,7 +2746,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TORTURE_SAVE_BOMB\"]/choice/event/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "안타깝게도 당신은 이 문제를 어떻게 처리해야 할지 모르고, C.U.R.A.도 응답하지 "
+"않습니다."
 
 #: src-en/data/events_special_curator.xml:1994
 msgid ""
@@ -2710,7 +2773,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TORTURE_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:2010
 msgid ""
@@ -2719,7 +2782,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:2016
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_TORTURE_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -2803,6 +2865,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[어려운 의뢰 - 유물 명칭: 일지]"
 
 #: src-en/data/events_special_curator.xml:2088
 msgid ""
@@ -2823,12 +2887,25 @@ msgstr ""
 #: src-en/data/events_special_curator.xml:2095
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST\"]/choice[@req=\"unique_tully\"]/text"
-msgstr ""
+msgstr "(툴리) 일지에 대해 물어본다."
 
 #: src-en/data/events_special_curator.xml:2097
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST\"]/choice[@req=\"unique_tully\"]/event/text"
 msgstr ""
+"\"제독님!\" 연방 장교들이 툴리에게 경례했습니다. \"필요하신 거 있으십니까?\""
+"\n"
+"            \n"
+"\t\t\t\"밴스 웬트워스의 수첩을 찾고 있네.\"\n"
+"            \n"
+"\t\t\t\"예, 제독님. 사본을 원하십니까, 아니면 원본이 필요하십니까?\"\n"
+"            \n"
+"\t\t\t\"만약을 대비해 원본을 가져가는 게 좋겠군.\"\n"
+"            \n"
+"\t\t\t\"알겠습니다. 바로 갖다 드리겠습니다.\"\n"
+"            \n"
+"\t\t\t툴리가 노트를 회수하는 동안 연방 전초 기지에서 함선을 수리하고 자원을 "
+"보충해 줬습니다."
 
 #: src-en/data/events_special_curator.xml:2112
 msgid ""
@@ -2838,12 +2915,30 @@ msgstr "계속..."
 #: src-en/data/events_special_curator.xml:2118
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST\"]/choice[@req=\"unique_turzil\"]/text"
-msgstr ""
+msgstr "(투르질) 일지에 대해 물어본다."
 
 #: src-en/data/events_special_curator.xml:2120
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST\"]/choice[@req=\"unique_turzil\"]/event/text"
 msgstr ""
+"\"투르질 장군님!\" 연방 장교들이 투르질에게 경례했습니다. \"필요하신 거 "
+"있으십니까?\"\n"
+"            \n"
+"\t\t\t\"중요 임무: 밴스 웬트워스의 수첩 -회수-.\"\n"
+"            \n"
+"\t\t\t\"예, 장군님. 사본을 원하십니까, 아니면 원본이 필요하십니까?\"\n"
+"            \n"
+"\t\t\t\"불확실. 원본을 회수하는 것이 -논리적-으로 보임.\"\n"
+"            \n"
+"\t\t\t\"알겠습니다. 바로 가져다드리겠습니다. 그리고 자유롭게 말해도 "
+"되겠습니까?\"\n"
+"            \n"
+"\t\t\t\"허가.\"\n"
+"            \n"
+"\t\t\t\"아직 살아계셔서 다행입니다.\"\n"
+"            \n"
+"\t\t\t투르질이 노트를 회수하는 동안 연방 전초 기지에서 함선을 수리하고 "
+"자원을 보충해 줬습니다."
 
 #: src-en/data/events_special_curator.xml:2139
 msgid ""
@@ -2893,7 +2988,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST_WIN\"]/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "일지를 손에 넣었지만, C.U.R.A.의 지시 없이는 당신의 이미지만 실추시킨 "
+"무의미한 노력이었습니다. 잘하셨습니다!"
 
 #: src-en/data/events_special_curator.xml:2174
 msgid ""
@@ -2918,7 +3014,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:2190
 msgid ""
@@ -2927,7 +3023,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:2196
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_OUTPOST_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -3009,6 +3104,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_SHIP\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[어려운 의뢰 - 유물 명칭: 순양함]"
 
 #: src-en/data/events_special_curator.xml:2268
 msgid ""
@@ -3159,7 +3256,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$/FTL/event[@name=\"CURA_SHIP_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:2366
 msgid ""
@@ -3168,7 +3265,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:2372
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$/FTL/event[@name=\"CURA_SHIP_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -3196,6 +3292,8 @@ msgstr ""
 #: src-en/data/events_special_curator.xml:2393
 msgid "data/events_special_curator.xml$/FTL/event[@name=\"CURA_SHIP_FAIL\"]/text"
 msgstr ""
+"순양함을 확보했지만, C.U.R.A.와의 통신이 끊긴 상태라 안타깝기만 합니다. "
+"당신은 이제 쓸모없어진 순양함을 분해해서 아쉬움을 달랩니다."
 
 #: src-en/data/events_special_curator.xml:2398
 msgid ""
@@ -3268,12 +3366,15 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_DUSK\"]/deadCrew/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "성급했던 후퇴 이후에도 기회가 남아있길 바랐지만, C.U.R.A.는 더 이상 기척도 "
+"관심도 드러내지 않습니다."
 
 #: src-en/data/events_special_curator.xml:2461
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DUSK\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[어려운 의뢰 - 유물 명칭: 녹취 기록]"
 
 #: src-en/data/events_special_curator.xml:2463
 msgid ""
@@ -3370,7 +3471,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DUSK_SUCCESS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "갈 길이 바쁘다."
 
 #: src-en/data/events_special_curator.xml:2527
 msgid ""
@@ -3379,7 +3480,6 @@ msgid ""
 msgstr "계속..."
 
 #: src-en/data/events_special_curator.xml:2533
-#, fuzzy
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_DUSK_SUCCESS\"]/choice[3]/text"
 msgstr "듣는다."
@@ -3442,6 +3542,9 @@ msgstr "돌아간다."
 msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_CONTRACT\"]/destroyed/text"
 msgstr ""
+"C.U.R.A.가 말했던대로 정거장이 파괴되기 직전 후미의 격납고에서 포드가 "
+"사출됐습니다. 그 안에는 몇 대의 쓸모없는 서비스 봇 도식과 계약서가 실려 "
+"있었습니다."
 
 #: src-en/data/events_special_curator.xml:2592
 msgid ""
@@ -3460,11 +3563,17 @@ msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_CONTRACT\"]/destroyed/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"깜빡 속은 것 같습니다. 계약서라고 생각했던 것은 평범한 유지보수 매뉴얼로 "
+"교체돼 있습니다. 진짜 계약서는 공격을 중단됐던 사이 다른 곳으로 보내진 게 "
+"분명합니다. 그래도 C.U.R.A. 다시 당신을 꾸짖지는 않는군요."
 
 #: src-en/data/events_special_curator.xml:2603
 msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_CONTRACT\"]/deadCrew/text"
 msgstr ""
+"정거장은 온전한 상태로 무력화됐고, 데이터 포드는 후미의 격납고에 보관돼 "
+"있었습니다. 그 안에는 몇 대의 쓸모없는 서비스 봇 도식과 계약서가 실려 "
+"있었습니다."
 
 #: src-en/data/events_special_curator.xml:2606
 msgid ""
@@ -3483,11 +3592,16 @@ msgid ""
 "data/events_special_curator.xml$//ship[@name=\"SHIP_CURA_CONTRACT\"]/deadCrew/choice[@req=\"loc_task_accepted\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"깜빡 속은 것 같습니다. 계약서라고 생각했던 것은 평범한 유지보수 매뉴얼로 "
+"교체돼 있습니다. 진짜 계약서는 공격을 중단됐던 사이 다른 곳으로 보내진 게 "
+"분명합니다. 그래도 C.U.R.A. 다시 당신을 꾸짖지는 않는군요."
 
 #: src-en/data/events_special_curator.xml:2624
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CONTRACT\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"현재 진행 중인 C.U.R.A.의 의뢰:\n"
+"\t\t\t[어려운 의뢰 - 유물 명칭: 계약서]"
 
 #: src-en/data/events_special_curator.xml:2626
 msgid ""
@@ -3543,6 +3657,12 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_CONTRACT_SUCCESS_KILL\"]/text"
 msgstr ""
+"당신은 호기심에 계약서를 훑어보기 시작했지만, C.U.R.A.로부터 연락을 받기 "
+"전까지 \"아카디아 연구개발 - 중앙 지능 전투 보조 (C.I.C.A) 프로그램 개발 "
+"허가\"라는 내용만 읽을 수 있었습니다. 엔지니어들이 죽었다고요? 좋습니다. "
+"계약서를 전송하는 수고는 하지 않으셔도 됩니다. 제가 이미 파일을 추출하고 "
+"당신의 시스템에서 삭제해 놓았습니다. 지금은 다른 볼일이 있어서 이 유물을 "
+"읽어보지 않을 겁니다. 할 일 하러 가십시오, 배회자 씨.\""
 
 #: src-en/data/events_special_curator.xml:2658
 msgid ""
@@ -3612,4 +3732,3 @@ msgstr "계속..."
 msgid ""
 "data/events_special_curator.xml$//event[@name=\"CURA_HQ_PREVIEW\"]/choice[2]/text"
 msgstr "돌아간다."
-

@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-14 00:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_outcastxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_outcast.xml:28
 msgid ""
@@ -23,7 +31,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:56
 msgid "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/text"
 msgstr ""
-"На орбите соседней планеты находится старая шахтерская колония Теократии, "
+"На орбите ближайшей планеты находится старая шахтерская колония Теократии, "
 "созданная для добычи материалов из колец планеты. Теперь, похоже, она "
 "превратилась в лагерь Изгоев, где собрались несколько валунов и даже "
 "несколько агентов ГОСВ."
@@ -61,22 +69,22 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:67
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[@req=\"unique_tuco\"]/text"
-msgstr ""
+msgstr "(Туко) \"Позвольте мне рассказать вам свою собственную историю!\""
 
 #: src-en/data/events_sector_outcast.xml:71
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Расскажите нам первую историю о Туко, о протестах Врахоса IV."
 
 #: src-en/data/events_sector_outcast.xml:75
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr "Расскажите нам вторую сказку о Туко, трудовые лагеря Китпак."
+msgstr "Расскажите нам вторую историю о Туко, трудовые лагеря Китпак."
 
 #: src-en/data/events_sector_outcast.xml:79
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[4]/text"
-msgstr "Расскажите нам третью сказку о Туко, о его сегодняшнем наследии."
+msgstr "Расскажите нам третью историю о Туко, о его сегодняшнем наследии."
 
 #: src-en/data/events_sector_outcast.xml:83
 msgid ""
@@ -97,22 +105,22 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:87
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[@req=\"unique_tuco\"]/text"
-msgstr ""
+msgstr "(Туко) \"Позвольте мне рассказать вам свою собственную историю!\""
 
 #: src-en/data/events_sector_outcast.xml:91
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[2]/text"
-msgstr ""
+msgstr "Расскажите нам первую историю о Туко, о протестах Врахоса IV."
 
 #: src-en/data/events_sector_outcast.xml:95
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[3]/text"
-msgstr "Расскажите нам вторую сказку о Туко, трудовые лагеря Китпак."
+msgstr "Расскажите нам вторую историю о Туко, трудовые лагеря Китпак."
 
 #: src-en/data/events_sector_outcast.xml:99
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[4]/text"
-msgstr "Расскажите нам третью сказку о Туко, о его сегодняшнем наследии."
+msgstr "Расскажите нам третью историю о Туко, о его сегодняшнем наследии."
 
 #: src-en/data/events_sector_outcast.xml:103
 msgid ""
@@ -139,22 +147,22 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:107
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[@req=\"FEDERATION_DATABASE\"]/event/choice[@req=\"unique_tuco\"]/text"
-msgstr ""
+msgstr "(Туко) \"Позвольте мне рассказать вам свою собственную историю!\""
 
 #: src-en/data/events_sector_outcast.xml:111
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[@req=\"FEDERATION_DATABASE\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Расскажите нам первую историю о Туко, о протестах Врахоса IV."
 
 #: src-en/data/events_sector_outcast.xml:115
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[@req=\"FEDERATION_DATABASE\"]/event/choice[3]/text"
-msgstr "Расскажите нам вторую сказку о Туко, трудовые лагеря Китпак."
+msgstr "Расскажите нам вторую историю о Туко, трудовые лагеря Китпак."
 
 #: src-en/data/events_sector_outcast.xml:119
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[1]/event/choice[1]/event/choice[5]/event/choice[@req=\"FEDERATION_DATABASE\"]/event/choice[4]/text"
-msgstr "Расскажите нам третью сказку о Туко, о его сегодняшнем наследии."
+msgstr "Расскажите нам третью историю о Туко, о его сегодняшнем наследии."
 
 #: src-en/data/events_sector_outcast.xml:123
 msgid ""
@@ -231,7 +239,7 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:171
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES\"]/choice[3]/text"
-msgstr ""
+msgstr "Не обращать внимания на колонию."
 
 #: src-en/data/events_sector_outcast.xml:173
 msgid ""
@@ -293,7 +301,7 @@ msgstr ""
 "что работорговцы Тииикака присутствуют в наших секторах только потому, что "
 "их наняла Теократия для захвата наших братьев и сестер для использования на "
 "строительных верфях Коалиции. Туко сам был одной из многочисленных жертв "
-"этих набегов, и поэтому его забрали в лагеря Тиикака. Но Туко не устраивали "
+"этих набегов, и поэтому его забрали в лагеря Тииикака. Но Туко не устраивали "
 "цепи и наручники, и по ночам он организовывал сопротивление, чтобы победить "
 "своих жестоких поработителей. Именно здесь он и получил свое имя Туко - "
 "кодовое название, используемое координаторами сопротивления, чтобы не "
@@ -376,6 +384,54 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES_TUCO_BLUE\"]/text"
 msgstr ""
+"\"Может ли это быть правдой? Услышать новую историю о Грозном пирате... это "
+"большая честь!\"\n"
+"\t\n"
+"\tТуко достает струнный инструмент. \"Не стесняйтесь, присоединяйтесь. Лично "
+"я считаю, что у любой истории должен быть достойный саундтрек, слышите?\" "
+"Остальные валуны кивают и начинают доставать свои инструменты - ударные, "
+"горны, духовые.\n"
+"\t\n"
+"\t\"Есть идеи, какую композицию мы могли бы сыграть?\" спрашивает другой "
+"рассказчик.\n"
+"\t\n"
+"\t\"Я подумал, что-то похожее на \"Разрыв Дельта Горно\"? Звучит неплохо?\" "
+"Остальные кивают головами в знак согласия.  \"Раз, два, три, четыре\". "
+"Валуны начинают играть на своих инструментах, а ГОСВ хлопают им. \"Друзья "
+"мои, Улей, он не знает предела своему прожорливому аппетиту. Эта королева, "
+"эти насекомые... они будут сражаться за все, что смогут ухватить своими "
+"маленькими острыми лапками, и проткнут любого, кто им нужен, чтобы получить "
+"желаемое. Многие валуны становились их рабами, работая в шахтах "
+"Вииикалирааако. Есть тут кто-нибудь?\"\n"
+"\t\n"
+"\t\"Сестра\". Один из валунов, играющая на бонго, ворчливо бормочет.\n"
+"\t\n"
+"\t\"Сестра. Ее заставляют создавать богатства для тиранической королевы-"
+"жука. О, богатства этих ужасных шахт. И разве Улей заслужил хоть малую "
+"толику этого?\"\n"
+"\t\n"
+"\t\"Нет!!!\"\n"
+"\t\n"
+"\t\"Нет! Конечно, нет, поэтому я расскажу вам, что я сделал. Я и мой экипаж "
+"взяли мой старый добрый пыльный крейсер и решили преподать им урок. Раз в "
+"неделю они грузят всю эту грязную добычу в конвой и отправляют обратно в "
+"свое гнездо. Что ж, мне не чужда рискованная стратегия, поэтому я расскажу "
+"вам, что я сделал. Мои друзья получили в свое распоряжение шикарный "
+"транспорт Союза. Все, что нам нужно было сделать, - это заставить их думать, "
+"что он полон полезных и талантливых рабов. Как только они приблизились к "
+"нему на расстояние прыжка, мы активировали сигнал бедствия и стали ждать. "
+"Как по часам, два Сюзерена отправились на разведку. Прямо на минное поле, "
+"которое мы для них оставили. Таким образом, их осталось только двое против "
+"моего единственного корабля. Но вы все меня знаете, это более чем честный "
+"бой, как мне кажется! Мы победили этих богомолов, два к одному! Битва была "
+"славной... и сокровища были нашими!\"\n"
+"\t\n"
+"\t\"И что вы сделали с наградой?\"\n"
+"\t\n"
+"\tТуко перестал играть на струнах. \"Ну... в основном играли в азартные игры "
+"и пили\". Толпа разражается неистовым хохотом.\n"
+"\t\n"
+"\t\"Это наш Туко!\""
 
 #: src-en/data/events_sector_outcast.xml:259
 msgid ""
@@ -386,6 +442,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_STORIES_TUCO_BLUE\"]/choice/event/text"
 msgstr ""
+"Вы даже не заметили, как время пролетело быстрее, чем вы думали. Когда "
+"рассказ закончился, вы извинились, но предупредили, что должны уходить. \"Мы "
+"сожалеем, что так задержали вас, но для нас было большой честью встретиться "
+"с живой легендой. Мы тоже будем петь песни из ваших историй, когда вы "
+"одержите победу. Идите и выиграйте свой бой, Ренегат!\""
 
 #: src-en/data/events_sector_outcast.xml:269
 msgid "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_RECRUITMENT\"]/text"
@@ -499,7 +560,7 @@ msgstr "Не обращать внимания на аванпост."
 #: src-en/data/events_sector_outcast.xml:343
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_RECRUITMENT\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вам нечего делать с этими революционерами."
 
 #: src-en/data/events_sector_outcast.xml:345
 msgid ""
@@ -514,9 +575,9 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:357
 msgid "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_SHIELD\"]/text"
 msgstr ""
-"На соседней луне, похоже, есть небольшая деревня Изгоев, окруженная щитом. "
-"Конечно, эта штука должна потреблять много энергии, чтобы работать, и, "
-"похоже, кроме щита у них нет других средств защиты."
+"На расположенной неподалеку луне, похоже, есть небольшая деревня Изгоев, "
+"окруженная щитом. Конечно, эта штука должна потреблять много энергии, чтобы "
+"работать, и, похоже, кроме щита у них нет других средств защиты."
 
 #: src-en/data/events_sector_outcast.xml:360
 msgid ""
@@ -1074,7 +1135,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_outcast.xml:705
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_TEAMWORK\"]/choice[1]/event/choice[@req=\"unique_alkali\"]/text"
-msgstr "(Алькали) \"ХАХАХАХАХАХАХАХ, ХАААААХАХАХАХ... ХАХ ХААААХ ХАХАХ... Хех.\""
+msgstr ""
+"(Алькали) \"ХА-ХА-ХА-ХА-ХА-ХА-ХА, ХААААА-ХА-ХА-ХА... ХА ХААААХ ХА-ХА... Хех."
+"\""
 
 #: src-en/data/events_sector_outcast.xml:707
 msgid ""
@@ -1300,7 +1363,7 @@ msgstr "Вызвать его на дуэль."
 #: src-en/data/events_sector_outcast.xml:826
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
-msgstr "\"Хаха, вот это я понимаю. Начинаем битву!\""
+msgstr "\"Ха-ха, вот это я понимаю. Начинаем битву!\""
 
 #: src-en/data/events_sector_outcast.xml:829
 msgid ""
@@ -1317,13 +1380,12 @@ msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 "\"Я разочарован! Ну что ж, я понимаю. Но тогда ты никогда не узнаешь мой "
-"секрет, хаха!\""
+"секрет, ха-ха!\""
 
 #: src-en/data/events_sector_outcast.xml:847
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS\"]/choice[2]/text"
-msgstr "Не обращать внимания на корабль."
+msgstr "Не обращать внимания на корабли."
 
 #: src-en/data/events_sector_outcast.xml:849
 msgid ""
@@ -1363,13 +1425,13 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:871
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS_WIN\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Ваш... что?"
 
 #: src-en/data/events_sector_outcast.xml:873
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_CHUNGUS_WIN\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"\"ХАХАХАХ! МОЙ ВЕС! Эти тупицы не смогли пробить мой череп, потому что он "
+"\"ХА-ХА-ХА! МОЙ ВЕС! Эти тупицы не смогли пробить мой череп, потому что он "
 "был защищен слоями жира. А теперь, за то, что ты был таким хорошим "
 "спортсменом и первым, кто превзошел меня в бою, возьми вот это!\""
 
@@ -1393,9 +1455,9 @@ msgstr ""
 #: src-en/data/events_sector_outcast.xml:897
 msgid "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_MAKESHIFT\"]/text"
 msgstr ""
-"Неподалеку был построен небольшой временный аванпост Тиикаки для содержания "
-"рабов. Судя по тому, что они не пытаются связаться с вами, очевидно, что они"
-" не готовы торговать."
+"Неподалеку был построен небольшой временный аванпост Тииикаки для содержания "
+"рабов. Судя по тому, что они не пытаются связаться с вами, очевидно, что они "
+"не готовы торговать."
 
 #: src-en/data/events_sector_outcast.xml:899
 msgid ""
@@ -1504,7 +1566,6 @@ msgstr ""
 "ветхих деревень. Похоже, у них есть к вам просьба."
 
 #: src-en/data/events_sector_outcast.xml:979
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"DISTRESS_OUTCAST_TENSIONS\"]/choice/text"
 msgstr "Слушать."
@@ -1765,7 +1826,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:1135
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение станции ГОСВ, на которой находится груз Теократии."
 
 #: src-en/data/events_sector_outcast.xml:1137
 msgid ""
@@ -1810,15 +1871,13 @@ msgid ""
 msgstr "Не обращать на них внимания и потребовать, чтобы они отдали груз."
 
 #: src-en/data/events_sector_outcast.xml:1157
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/choice[@req=\"weapons\"]/event/choice[1]/event/text"
 msgstr ""
 "Не имея другого выбора, кристаллины передают груз и прыгают. Вскоре после "
 "этого прибывает конвой Теократии и осматривает груз. Удовлетворенные, они "
-"передают награду, но когда вы уходите, на ваш корабль нападают враждебные "
-"абордажники! Похоже, ГОСВ был прав насчет того, что вам нанесут удар в "
-"спину."
+"передают награду, но когда вы уходите, взрывы сотрясают ваш корабль! Похоже, "
+"ГОСВ был прав насчет того, что вам нанесут удар в спину."
 
 #: src-en/data/events_sector_outcast.xml:1162
 msgid ""
@@ -1843,7 +1902,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_outcast.xml:1177
-#, fuzzy
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"OUTCAST_LOSTCARGO_QUEST\"]/choice[@req=\"weapons\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -1882,6 +1940,13 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:1218
 msgid "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_MISTAKE\"]/text"
 msgstr ""
+"\"Ренегат! Обычно я не вступаю в контакт с такими, как вы, но я совершил "
+"ужасную ошибку! Я получил информацию о местонахождении поселения валунов. Я "
+"приказал нашему кораблю отправиться туда и освободить его от Теократии, но, "
+"похоже, я поторопился с выводами. На самом деле это было поселение Изгоев, а "
+"не Теократии. Пожалуйста, вы должны связаться с моим народом, пока не стало "
+"слишком поздно! Вы должны сказать им, чтобы они защищали поселение, а не "
+"нападали на него\"."
 
 #: src-en/data/events_sector_outcast.xml:1221
 msgid ""
@@ -1892,6 +1957,8 @@ msgstr "Согласиться."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_MISTAKE\"]/choice[1]/event/text"
 msgstr ""
+"Кристаллин чувствует облегчение. \"Я отправлю вам координаты. Пожалуйста, вы "
+"должны поторопиться, пока не случилась трагедия\"."
 
 #: src-en/data/events_sector_outcast.xml:1229
 msgid ""
@@ -1902,6 +1969,8 @@ msgstr "Отказаться."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_MISTAKE\"]/choice[2]/event/text"
 msgstr ""
+"\"Мне следовало доверять своим инстинктам и не полагаться на таких, как ты! "
+"Сгинь, грязный Ренегат\"."
 
 #: src-en/data/events_sector_outcast.xml:1233
 msgid ""
@@ -1916,67 +1985,79 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:1246
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение введенного в заблуждение оперативников ГОСВ."
 
 #: src-en/data/events_sector_outcast.xml:1248
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/text"
 msgstr ""
+"Корабль ГОСВ находится над орбитой планеты. Похоже, они готовятся к битве. "
+"\"Это тебя не касается, Ренегат\"."
 
 #: src-en/data/events_sector_outcast.xml:1252
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[1]/text"
-msgstr ""
+msgstr "Сообщить ГОСВ, что поселение на самом деле принадлежит Теократии."
 
 #: src-en/data/events_sector_outcast.xml:1254
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[1]/event/text"
 msgstr ""
+"\"Ты, наверное, считаешь нас совсем глупыми, если думаешь, что мы этого еще "
+"не знаем. Зачем, по-твоему мнению, мы сюда пришли? Оставь нас. Мы должны "
+"разрушить контроль Теократии над этим сектором\"."
 
 #: src-en/data/events_sector_outcast.xml:1256
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Больше здесь делать нечего."
 
 #: src-en/data/events_sector_outcast.xml:1262
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/text"
-msgstr ""
+msgstr "Сообщить ГОСВ, что поселение на самом деле принадлежит Изгоям."
 
 #: src-en/data/events_sector_outcast.xml:1264
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/text"
 msgstr ""
+"\"Ты пытаешься нас обмануть! Ты не можешь рассчитывать на то, что мы поверим "
+"в твою правоту, а мы ошибаемся. Покажи нам доказательства, или ты будешь "
+"уничтожен за свое вероломство\"."
 
 #: src-en/data/events_sector_outcast.xml:1266
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(Продв. Сенсоры) Представить им точные данные о поселении."
 
 #: src-en/data/events_sector_outcast.xml:1270
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(Сканеры дальнего действия) Представить им точные данные о поселении."
 
 #: src-en/data/events_sector_outcast.xml:1274
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-кристаллин) Рассказать им об ошибке."
 
 #: src-en/data/events_sector_outcast.xml:1278
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "Рассказать им об ошибке."
 
 #: src-en/data/events_sector_outcast.xml:1280
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[4]/event/text"
 msgstr ""
+"\"Я просил доказательств! Ты распускаешь только слухи. Ты заплатишь за свою "
+"ложь!\""
 
 #: src-en/data/events_sector_outcast.xml:1283
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[4]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Если вы сумеете отвлечь их, то можете дождаться, пока кто-нибудь другой "
+"прояснит ситуацию!"
 
 #: src-en/data/events_sector_outcast.xml:1289
 msgid ""
@@ -1992,11 +2073,15 @@ msgstr "Атаковать их."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[5]/event/text"
 msgstr ""
+"Вы не заинтересованы в том, чтобы вразумить их. Насилие - более быстрое "
+"решение."
 
 #: src-en/data/events_sector_outcast.xml:1300
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[5]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Если вы сумеете отвлечь их, то можете дождаться, пока кто-нибудь другой "
+"прояснит ситуацию!"
 
 #: src-en/data/events_sector_outcast.xml:1306
 msgid ""
@@ -2006,12 +2091,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_outcast.xml:1312
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[6]/text"
-msgstr ""
+msgstr "Убираемся отсюда."
 
 #: src-en/data/events_sector_outcast.xml:1314
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"QUEST_SSLG_DESTINATION\"]/choice[2]/event/choice[6]/event/text"
-msgstr ""
+msgstr "Несмотря на угрозы, корабль ГОСВ не пытается преследовать вас."
 
 #: src-en/data/events_sector_outcast.xml:1316
 msgid ""
@@ -2026,6 +2111,9 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_outcast.xml:1329
 msgid "data/events_sector_outcast.xml$//event[@name=\"SSLG_MISTAKE_HAIL\"]/text"
 msgstr ""
+"Поблизости появляется корабль Изгоев. Корабль ГОСВ на мгновение прерывает "
+"атаку, чтобы связаться с кораблем Изгоев. После этого они робко связываются "
+"с вами."
 
 #: src-en/data/events_sector_outcast.xml:1333
 msgid ""
@@ -2036,6 +2124,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"SSLG_MISTAKE_CORRECTED\"]/text"
 msgstr ""
+"\"Так это правда? Подумать только, мы чуть не совершили то самое "
+"преступление, которое пытаемся остановить... Спасибо, Ренегат. Я ошибся в "
+"вас\". Поселение и корабль предлагают вознаграждение за разрешение ситуации."
 
 #: src-en/data/events_sector_outcast.xml:1341
 msgid ""
@@ -2335,11 +2426,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"RUWEN_DESTINATION\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"Рувен нервно сглотнул и неловко поерзал в своем кристаллическом кресле. "
-"\"Хахах, да вы, конечно, шутите! Да, Затерянные Солнца - ваши враги, но "
-"Империя вовсе не стремится к войне со Старейшинами! Мы просто хотим уладить "
-"текущую ситуацию между ГОСВ и силами Затерянных Солнц по поводу оккупации "
-"Пустошей! Вот и все. Нет необходимости во вражде\"."
+"Рувен нервно сглотнул и неловко поерзал в своем кристаллическом кресле. \"Ха-"
+"ха, да вы, конечно, шутите! Да, Затерянные Солнца - ваши враги, но Империя "
+"вовсе не стремится к войне со Старейшинами! Мы просто хотим уладить текущую "
+"ситуацию между ГОСВ и силами Затерянных Солнц по поводу оккупации Пустошей! "
+"Вот и все. Нет необходимости во вражде\"."
 
 #: src-en/data/events_sector_outcast.xml:1536
 msgid ""
@@ -2473,7 +2564,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_outcast.xml:1611
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"RUWEN_SAVE\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Дайте мне время, чтобы подготовиться."
 
 #: src-en/data/events_sector_outcast.xml:1617
 msgid ""
@@ -2489,7 +2580,7 @@ msgstr ""
 
 #: src-en/data/events_sector_outcast.xml:1628
 msgid "data/events_sector_outcast.xml$//event[@name=\"RUWEN_JUMP\"]/text"
-msgstr ""
+msgstr "\"Вы готовы к отлету, капитан?\""
 
 #: src-en/data/events_sector_outcast.xml:1630
 msgid ""
@@ -2514,7 +2605,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_outcast.xml:1645
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"RUWEN_JUMP\"]/choice[2]/text"
-msgstr ""
+msgstr "Дайте мне время, чтобы подготовиться."
 
 #: src-en/data/events_sector_outcast.xml:1651
 msgid ""
@@ -2711,7 +2802,7 @@ msgstr ""
 "Империю валунов-кристаллинов и захватили власть, но ему отказали в месте "
 "Старейшины. Он предупредил меня, что Старейшины не будут милостивы к нашему "
 "роду, если мы не будем продолжать доказывать свою преданность. Я много лет "
-"служил хризолитовым священником, а потом женился на своей жене Ири. У нас "
+"служил хризолическим священником, а потом женился на своей жене Ири. У нас "
 "родилось двое детей - сын и дочь\"."
 
 #: src-en/data/events_sector_outcast.xml:1738
@@ -2884,4 +2975,3 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml$//event[@name=\"TURBAN_BOMBING_COALITION_WIN\"]/choice/event/choice/text"
 msgstr "Продолжить..."
-

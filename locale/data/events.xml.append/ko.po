@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-01 12:31+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataeventsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events.xml.append:17
 msgid "data/events.xml.append$//event[@name=\"CHARACTER_TEST\"]/text"
@@ -74,6 +81,12 @@ msgstr "거절한다."
 #: src-en/data/events.xml.append:95
 msgid "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL\"]/text"
 msgstr ""
+"[튜토리얼 사용 가능!]\n"
+"\t안녕하세요! FTL: 멀티버스에 오신 것을 환영합니다. 아무래도 5.4 버전은 처음 "
+"해보시는 것 같군요. 새로운 게임 메커니즘들을 소개하는 신규 인게임 튜토리얼이 "
+"준비되어 있습니다. 한 번 보시겠어요?\n"
+"\t\n"
+"\t튜토리얼은 향후 언제든지 다시 확인할 수 있습니다"
 
 #: src-en/data/events.xml.append:114
 msgid ""
@@ -83,7 +96,7 @@ msgstr "창고를 확인한다."
 #: src-en/data/events.xml.append:115
 msgid ""
 "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL\"]/eventButton[@name=\"UI_STORAGE_CHECK_BUTTON\"]/inactiveTooltip"
-msgstr ""
+msgstr "위험 상황에서는 이용할 수 없습니다."
 
 #: src-en/data/events.xml.append:123
 msgid "data/events.xml.append$//eventButton[@name=\"UI_JUKEBOX\"]/tooltip"
@@ -105,26 +118,31 @@ msgstr "사용불가!"
 #: src-en/data/events.xml.append:146
 msgid ""
 "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL\"]/choice[1]/text"
-msgstr ""
+msgstr "튜토리얼로 이동한다."
 
 #: src-en/data/events.xml.append:150
 msgid ""
 "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL\"]/choice[2]/text"
-msgstr ""
+msgstr "튜토리얼을 건너뛴다."
 
 #: src-en/data/events.xml.append:152
 msgid "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL_SKIP\"]/text"
 msgstr ""
+"정말로 튜토리얼을 건너뛰시겠습니까? 버전 5.0 이상의 멀티버스를 플레이해 본 "
+"사람에게만 추천됩니다.\n"
+"\t\t\t\n"
+"\t\t\t지금은 튜토리얼을 건너뛰고 향후 새로운 항해를 시작할 때 다시 확인할 "
+"수도 있습니다."
 
 #: src-en/data/events.xml.append:156
 msgid ""
 "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL_SKIP\"]/choice[1]/text"
-msgstr ""
+msgstr "마음이 바뀌었습니다, 튜토리얼로 안내해 주세요."
 
 #: src-en/data/events.xml.append:160
 msgid ""
 "data/events.xml.append$//event[@name=\"START_BEACON_TUTORIAL_SKIP\"]/choice[2]/text"
-msgstr ""
+msgstr "예, 튜토리얼을 건너뛰겠습니다."
 
 #: src-en/data/events.xml.append:167
 msgid "data/events.xml.append$//event[@name=\"START_BEACON_FAKE\"]/text"
@@ -171,7 +189,7 @@ msgstr "무언가를 해킹했습니다."
 #: src-en/data/events.xml.append:309
 msgid ""
 "data/events.xml.append$//event[@name=\"PLACEHOLDER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "PLACEHOLDER"
 
 #: src-en/data/events.xml.append:310
 msgid ""
@@ -184,7 +202,7 @@ msgstr "미사용 텍스트"
 
 #: src-en/data/events.xml.append:319
 msgid "data/events.xml.append$//event[@name=\"PLACEHOLDER\"]/choice[1]/text"
-msgstr ""
+msgstr "Blocked to prevent compulsive skimming."
 
 #: src-en/data/events.xml.append:323
 msgid "data/events.xml.append$//event[@name=\"PLACEHOLDER\"]/choice[2]/text"
@@ -196,10 +214,9 @@ msgid ""
 msgstr "창고를 확인한다."
 
 #: src-en/data/events.xml.append:335
-#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"SPAWN_STORAGE\"]/eventButton[@name=\"UI_STORAGE_CHECK_BUTTON\"]/inactiveTooltip"
-msgstr "사용불가: 위험 상황에서는 이용할 수 없습니다!"
+msgstr "위험 상황에서는 이용할 수 없습니다."
 
 #: src-en/data/events.xml.append:364
 msgid "data/events.xml.append$//event[@name=\"GENERIC_SURRENDER\"]/choice[1]/text"
@@ -365,4 +382,3 @@ msgstr ""
 msgid ""
 "data/events.xml.append$//eventList[@name=\"REBEL_STATION_CAPTURED\"]/event[5]/text"
 msgstr "정거장은 평범한 반군 전초기지에 지나지 않았습니다. 당신은 선체를 마저 수거하기로 합니다."
-

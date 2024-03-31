@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-06 14:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_theocracyxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_theocracy.xml:28
 msgid ""
@@ -244,7 +251,7 @@ msgstr "(水晶系武器)我们有一件水晶武器。"
 #: src-en/data/events_sector_theocracy.xml:233
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_CRYOBSESSION\"]/choice[@req=\"BLUELIST_WEAPONS_CRYSTAL\"]/event/text"
-msgstr "\"了不起！这么好的武器也是精心制作的。我想你应该不愿意卖给我们一个，对吗？\""
+msgstr "\"了不起！真是件精心制作的武器。你不会愿意卖给我们一个吧？\""
 
 #: src-en/data/events_sector_theocracy.xml:235
 msgid ""
@@ -334,7 +341,7 @@ msgstr "卖给他们一件琥珀发射器。"
 #: src-en/data/events_sector_theocracy.xml:405
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_CRYOBSESSION\"]/choice[@req=\"BLUELIST_WEAPONS_CRYSTAL\"]/event/choice[@req=\"CRYSTAL_BURST_FIRE_CHAOS\"]/text"
-msgstr ""
+msgstr "卖给他们一件混沌琥珀发射器。"
 
 #: src-en/data/events_sector_theocracy.xml:415
 msgid ""
@@ -1116,7 +1123,7 @@ msgstr "岩石族船长很惊讶，因为他之前认为迷失烈阳是一伙激
 #: src-en/data/events_sector_theocracy.xml:1025
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_ATHEIST\"]/choice[@req=\"LIST_CREW_FLORAL\"]/text"
-msgstr "(兰花族船员)让你的兰花族劝说他们加入你。"
+msgstr "(悦兰船员)让你的兰花族劝说他们加入你。"
 
 #: src-en/data/events_sector_theocracy.xml:1027
 msgid ""
@@ -1215,7 +1222,7 @@ msgstr "武器被引爆了。一切都变暗了，指挥舱被从舰体上涌出
 #: src-en/data/events_sector_theocracy.xml:1090
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_LIVE_MINE\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_MISSILES_ALL\"]/text"
-msgstr "(弹药武器)试图用弹药进行一次受控的引爆。"
+msgstr "(导弹武器)尝试用导弹进行一次受控的引爆。"
 
 #: src-en/data/events_sector_theocracy.xml:1092
 msgid ""
@@ -2046,7 +2053,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_theocracy.xml:1721
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_NURSERY_MV\"]/choice[@req=\"weapons\"]/text"
-msgstr "(高级武器)在靠近骚乱的地方开火警告，以宣告你的到来。"
+msgstr "(先进武器)在靠近骚乱的地方开火警告，以宣告你的到来。"
 
 #: src-en/data/events_sector_theocracy.xml:1723
 msgid ""
@@ -3214,7 +3221,6 @@ msgid ""
 msgstr "是。"
 
 #: src-en/data/events_sector_theocracy.xml:2639
-#, fuzzy
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_CRYSTAL_WAYSTONE\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3258,7 +3264,12 @@ msgstr "主动提供帮助。"
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_ZOLTAN_PARASITE\"]/choice[1]/event/text"
 msgstr ""
-"岩石族对一艘联邦飞船将要提供帮助的行为感到轻微的困惑，但没有抱怨。\"我们是弯剑工业的代表。昨天，首席营销官里格·布拉姆斯通在附近这些地方安排了一次会议，与一位名叫婷丹的超能族特使讨论在牧师团内的商品配发和营销手段。然而，我们没有预料到，一艘蛞蝓族船在不久之后抵达，并在会议上部署了一个\"恶作剧\"，心灵控制里格，让他把婷丹整个吃掉。相信你明白，我们现在处于相当的困境，需要立即作出行动化解此事。\""
+"岩石族对一艘联邦飞船将要提供帮助的行为感到轻微的困惑，但没有抱怨。"
+"\"我们是弯剑工业的代表。昨天，首席营销官里格·布拉姆斯通在附近这些地方安排了一"
+"次会议，与一位名叫婷丹的超能族特使讨论在牧师团内的商品配发和营销手段。然而，"
+"我们没有预料到，一艘蛞蝓族船在不久之后抵达，并在会议上部署了一个\"恶作剧\"，"
+"心灵控制里格，让他把婷丹整个吞掉。相信你明白，我们现在处于相当的困境，需要立"
+"即作出行动化解此事。\""
 
 #: src-en/data/events_sector_theocracy.xml:2678
 msgid ""
@@ -3637,4 +3648,3 @@ msgstr "现在就离开。"
 msgid ""
 "data/events_sector_theocracy.xml$//event[@name=\"ROCK_HOMEWORLDS_VICTORY_KILL_AUTO\"]/choice[2]/event/text"
 msgstr "希望你在岩石族中掀起的这股新的希望之火不会被其他长老一定会派来的援军所扼杀。你不能再为你的任务冒险了，所以你充能引擎飞离了城市。"
-

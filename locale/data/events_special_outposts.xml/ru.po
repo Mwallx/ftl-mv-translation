@@ -1,29 +1,53 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-18 14:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_special_outpostsxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_special_outposts.xml:22
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FEDERATION\"]/text[1]"
 msgstr ""
+"Вы получаете сигнал с расположенной неподалеку заправочной станции "
+"Федерации. \"Привет!..\" На другом конце раздается громкий удар. \"ЧЕРТ! АЙ! "
+"О, БОЖЕ! АХ!\" Мгновение спустя капитан Федерации снова появляется на "
+"экране. \"Ах... не обращайте внимания. Мы набрали пару новичков, и один из "
+"них только что уронил мне на ногу ящик с топливом. Извините за это. Несмотря "
+"на боль в ноге, я рад видеть дружелюбное лицо! Если вам что-нибудь "
+"понадобится, не стесняйтесь, спрашивайте!\""
 
 #: src-en/data/events_special_outposts.xml:23
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FEDERATION\"]/text[2]"
 msgstr ""
+"Гимн Федерации звучит через стереосистему, на время оглушая вас. "
+"Автоматическое сообщение зацикливается, когда вы спешите убавить громкость. "
+"\"ФЕДЕРАЦИЯ!!! УРА!!! ФЕ! ДЕ! РA! ЦИ! Я!!!\" Несмотря на чрезмерный "
+"патриотизм, царящий на ближайшей станции, все остальные дела, похоже, идут "
+"как обычно. Здесь можно получить бесплатные припасы."
 
 #: src-en/data/events_special_outposts.xml:24
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FEDERATION\"]/text[3]"
 msgstr ""
+"Командир Федерации на борту ближайшей станции вызывает вас. \"Ренегаты! "
+"Когда-нибудь я надеюсь посетить Вселенную 0 лично, а пока я рад гостям из "
+"самого центра Федерации. Все, что вам нужно, в вашем распоряжении. Проучите "
+"этих ублюдков-повстанцев!\""
 
 #: src-en/data/events_special_outposts.xml:41
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FEDERATION\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:47
 msgid ""
@@ -31,7 +55,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:55
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FEDERATION\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -49,7 +72,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:73
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FEDERATION\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:76
 msgid ""
@@ -60,16 +83,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FEDERATION_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:85
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FEDERATION_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:87
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FEDERATION_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:89
 msgid ""
@@ -89,7 +116,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:101
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FEDERATION_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:104
 msgid ""
@@ -100,21 +127,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_UNION\"]/text[1]"
 msgstr ""
+"Дружественный аванпост Союза связывается с вами. \"Это хороший день для "
+"Федерации! Мы слышали, что у повстанцев возникли некоторые проблемы на пути "
+"к Узлу 17 из-за восстания в их собственных рядах! Ха-ха, ну разве это не "
+"символично! В честь праздника все друзья Федерации получат наш сервис за "
+"счет заведения!\""
 
 #: src-en/data/events_special_outposts.xml:132
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_UNION\"]/text[2]"
 msgstr ""
+"\"Обычно я не склонен к бесплатным раздачам, но вы, Ренегаты, несете на "
+"своей спине груз целой чертовой Мультивселенной! Не знаю, насколько я могу "
+"поддержать все решения Вселенной 0, но я могу уважать вашу миссию! Все, что "
+"вам нужно, я готов предоставить\"."
 
 #: src-en/data/events_special_outposts.xml:133
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_UNION\"]/text[3]"
 msgstr ""
+"Командир Союза связывается с вами. \"Я совершил ошибку, встав на сторону "
+"повстанцев в Гражданской войне. Любой, у кого есть орган чувств, сейчас "
+"видят, что повстанцы чуть не разорвали эту галактику на части! Я знаю, что "
+"это не так уж много, но если я смогу хоть чем-то помочь вам, мне станет хоть "
+"немного легче из-за моего прошлого\"."
 
 #: src-en/data/events_special_outposts.xml:150
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_UNION\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:156
 msgid ""
@@ -122,7 +163,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:164
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_UNION\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -136,6 +176,8 @@ msgstr "Запросить дрон-комплекты."
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_UNION\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
+"(Член экипажа-человек) Поручить своему человеку заключить с ними сделку на "
+"ремонт. [10$]"
 
 #: src-en/data/events_special_outposts.xml:186
 msgid ""
@@ -145,7 +187,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:188
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_UNION\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:191
 msgid ""
@@ -156,16 +198,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_UNION_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:200
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_UNION_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:202
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_UNION_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:204
 msgid ""
@@ -185,7 +231,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:216
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_UNION_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:219
 msgid ""
@@ -196,21 +242,36 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ENGI\"]/text[1]"
 msgstr ""
+"\"Сканирование на идентификацию Федерации...\" Энджи делает паузу, пока "
+"несколько дронов роятся над вашим кораблем, тщательно сканируя его. "
+"\"Идентификация: пройдена. Согласно протоколам доброй воли, бенефициары "
+"Ренегаты должны получить соответствующую награду за услуги\"."
 
 #: src-en/data/events_special_outposts.xml:247
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ENGI\"]/text[2]"
 msgstr ""
+"Оживленный аванпост Гармонии принимает десятки входящих и исходящих грузов "
+"одновременно, и все же ему удается связаться с вами. \"Процессоры ядра "
+"перегружены - трафик превысил официальные возможности на 356%. Однако "
+"пропускная способность может быть превышена еще больше, если капитан Ренегат "
+"сочтет это необходимым. Вам разрешено: повысить уровень пропускной "
+"способности не более чем на 30%. Поторопитесь\"."
 
 #: src-en/data/events_special_outposts.xml:248
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ENGI\"]/text[3]"
 msgstr ""
+"Неподалеку был построен совместный аванпост Гармонии и Министерства. В то "
+"время как большинство энджи игнорируют вас, золтан-офицер связывается с "
+"вами. \"Приветствую вас. В глазах Федерации мы все равны, и поэтому я "
+"считаю, что это только честь для нас - оказать вам теплый прием. Вам нужна "
+"помощь?\""
 
 #: src-en/data/events_special_outposts.xml:265
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ENGI\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:271
 msgid ""
@@ -218,7 +279,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:279
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ENGI\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -241,7 +301,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:303
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ENGI\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:306
 msgid ""
@@ -252,16 +312,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ENGI_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:315
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ENGI_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:317
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ENGI_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:319
 msgid ""
@@ -281,7 +345,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:331
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ENGI_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:334
 msgid ""
@@ -292,21 +356,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ZOLTAN\"]/text[1]"
 msgstr ""
+"Вас приветствует аванпост золтанов, частично функционирующий как храм. \"В "
+"природе Иллесктрианства заложено, что мы открываем свой разум и принимаем "
+"всех остальных\". Золтан бросает на вас взгляд. \"Вас... трудно принять. Но "
+"я буду считать это испытанием моей веры и я приму вас независимо от этого. "
+"Услуги этого храма в вашем распоряжении\"."
 
 #: src-en/data/events_special_outposts.xml:362
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ZOLTAN\"]/text[2]"
 msgstr ""
+"\"Министерство приветствует вас, капитан Ренегат. Сейчас опасные, предвзятые "
+"дни. Я уверен, что у нас есть много разногласий, но давайте сегодня оставим "
+"их в прошлом. Что вас беспокоит? Если бы вы могли раскрыть эту информацию, "
+"возможно, мы смогли бы ее решить\"."
 
 #: src-en/data/events_special_outposts.xml:363
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ZOLTAN\"]/text[3]"
 msgstr ""
+"\"Фу... Ренегаты...\" Капитан-золтан делает грубый жест руками, прежде чем "
+"осознать, что его снимают на камеру, и быстро смущается. \"То есть... эм... "
+"приветствую вас! Да благословит вас Великое Око в этот прекрасный день! Все, "
+"что вам нужно, я уверен, мы можем предложить!\""
 
 #: src-en/data/events_special_outposts.xml:380
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ZOLTAN\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:386
 msgid ""
@@ -314,7 +391,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:394
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ZOLTAN\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -339,7 +415,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:418
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ZOLTAN\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:421
 msgid ""
@@ -350,16 +426,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ZOLTAN_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:430
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ZOLTAN_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:432
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ZOLTAN_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:434
 msgid ""
@@ -379,7 +459,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:446
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ZOLTAN_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:449
 msgid ""
@@ -390,21 +470,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ORCHID\"]/text[1]"
 msgstr ""
+"Монах Флоралов связывается с вами, говоря на языке жестов. \"Соцветие "
+"приветствует всех мирных людей на этих землях. Вкусили ли вы нектар сладкого "
+"плода Циртал'и Мнколо или являетесь обычным путником, ищущим убежища, мы "
+"благодарны предложить вам его. Что мы можем сделать для вас сегодня, капитан?"
+"\""
 
 #: src-en/data/events_special_outposts.xml:477
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ORCHID\"]/text[2]"
 msgstr ""
+"Ближайший аванпост, похоже, представляет собой переоборудованную платформу "
+"для терраформирования, которая теперь служит аванпостом для экстренного "
+"снабжения. \"Федерация принесла Соцветию процветание. Будет правильно, если "
+"мы вернем наши долги\". Флорал жестом указывает на стыковочный отсек, где "
+"ваш корабль ожидает группа."
 
 #: src-en/data/events_special_outposts.xml:478
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_ORCHID\"]/text[3]"
 msgstr ""
+"\"Наше богатство - ваше! Нет более благородной системы экономики, чем "
+"обеспечение всем равной долей того, что они вносят в общество. И вы, вы - "
+"надежда на спасение нашей реальности! Поэтому кажется правильным, что мы "
+"должны вам хоть что-нибудь, вообще что-нибудь!\""
 
 #: src-en/data/events_special_outposts.xml:495
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ORCHID\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:501
 msgid ""
@@ -412,7 +506,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:509
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ORCHID\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -437,7 +530,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:533
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_ORCHID\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:536
 msgid ""
@@ -448,16 +541,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ORCHID_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:545
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ORCHID_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:547
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ORCHID_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:549
 msgid ""
@@ -477,7 +574,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:561
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_ORCHID_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:564
 msgid ""
@@ -488,21 +585,39 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FREEMANTIS\"]/text[1]"
 msgstr ""
+"\"О да-да, это приближение Ренегата! Еле сдерживать волнение!\" Командир "
+"Свободных Богомолов на ближайшем аванпосте делает огромный глоток из флакона "
+"с феромонами. \"УРА!!!!!! Я ВОЛНОВАТЬСЯ! Я ОТДАВАТЬ ВАМ ВСЕ! Я ДАМ ВАМ "
+"ПЕРВЕНЦА, Я ОТДАВАТЬ ВАМ...\" Богомол тут же падает, слегка подергиваясь от "
+"переполняющей энергии, бьющей по их венам. Тем не менее, в стыковочном "
+"отсеке вас ждет более способная группа."
 
 #: src-en/data/events_special_outposts.xml:592
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FREEMANTIS\"]/text[2]"
 msgstr ""
+"Вас вызывает ближайший аванпост, где вас ждет рыдающий свободный богомол. "
+"\"Вы... так прекрасно. Вы величественно, что я не заслуживать того, чтобы "
+"видеть вас! Идти, забирать бесплатные вещи и уходить, пока я не выплакать "
+"все слезы!\""
 
 #: src-en/data/events_special_outposts.xml:593
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_FREEMANTIS\"]/text[3]"
 msgstr ""
+"Пришел вызов от офицера Федерации, работающего на ближайшей станции "
+"Свободных Богомолов. \"Должен сказать, что с этими Свободными Богомолами... "
+"очень интересно работать. Когда я впервые был спасен одним из них из плена "
+"повстанцев, они поцеловали меня и начали молиться у моих ног. Теперь мы "
+"женаты!\" Капитан Федерации делает паузу, прежде чем вспомнить, о чем он "
+"говорил. \"Эм... простите, когда слишком долго живешь среди Свободных "
+"Богомолов, начинаешь болтать о пустяках. Вам нужна какая-нибудь помощь? Я "
+"уверен, что остальные члены экипажа сочтут за честь помочь вам\"."
 
 #: src-en/data/events_special_outposts.xml:610
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FREEMANTIS\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:616
 msgid ""
@@ -510,7 +625,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:624
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FREEMANTIS\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -535,7 +649,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:648
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_FREEMANTIS\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:651
 msgid ""
@@ -546,16 +660,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FREEMANTIS_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:660
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FREEMANTIS_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:662
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FREEMANTIS_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:664
 msgid ""
@@ -575,7 +693,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:676
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_FREEMANTIS_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:679
 msgid ""
@@ -586,21 +704,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_CRYSTAL\"]/text[1]"
 msgstr ""
+"\"Пришельцы, как любопытно. Икатин знает, какие таинственные истории вы "
+"можете рассказать!\" Кристаллин зевает. \"Или я так раньше думал. К "
+"сожалению, вы все кажетесь довольно скучными. Тем не менее, скучные вы или "
+"нет, но я обязался выполнять свои обязанности перед Федерацией и намерен их "
+"выполнять. Что вам нужно?\""
 
 #: src-en/data/events_special_outposts.xml:707
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_CRYSTAL\"]/text[2]"
 msgstr ""
+"Станция кристаллинов неподалеку направляет на вас все свои орудия, угрожая "
+"открыть огонь. \"СТОЯТЬ НА МЕСТЕ! ЭТО КОСМОС ИМПЕРИИ! ПРОВАЛИВАЙ ИЛИ... оу, "
+"склеп, вы Ренегат! Вау! Мои извинения. Не стесняйтесь, пристыкуйтесь, а я "
+"позабочусь о том, чтобы моя команда смогла предоставить вам все необходимые "
+"ресурсы\"."
 
 #: src-en/data/events_special_outposts.xml:708
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_CRYSTAL\"]/text[3]"
 msgstr ""
+"Империя добилась значительных успехов в колонизации космоса, в которое она "
+"только недавно перебралась. Аванпост под флагами Империи и Федерации "
+"связывается с вами, предлагая различные бесплатные услуги."
 
 #: src-en/data/events_special_outposts.xml:725
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_CRYSTAL\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:731
 msgid ""
@@ -608,7 +739,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:739
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_CRYSTAL\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -638,7 +768,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:764
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_CRYSTAL\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:767
 msgid ""
@@ -649,16 +779,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_CRYSTAL_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:776
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_CRYSTAL_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:778
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_CRYSTAL_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:780
 msgid ""
@@ -678,7 +812,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:792
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_CRYSTAL_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:795
 msgid ""
@@ -689,21 +823,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_OUTCAST\"]/text[1]"
 msgstr ""
+"На странной территории, которую Изгои называют своим домом, нередко можно "
+"встретить самые разные странности. Тем не менее, здешний аванпост Федерации "
+"стал для вас сюрпризом! Как только вы приближаетесь, они открывают двери "
+"ангара, чтобы пропустить вас внутрь."
 
 #: src-en/data/events_special_outposts.xml:827
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_OUTCAST\"]/text[2]"
 msgstr ""
+"Изгой на борту расположенной неподалеку заправочной станции Федерации "
+"связывается с вами. \"Я эмигрировал в Соцветие, кажется, целую вечность "
+"назад. Но быть частью Федерации - это величайшая честь, о которой я мог "
+"только мечтать. Позвольте мне сделать все возможное, чтобы помочь вам, "
+"капитан\"."
 
 #: src-en/data/events_special_outposts.xml:828
 msgid ""
 "data/events_special_outposts.xml$//textList[@name=\"TEXT_OUTPOST_OUTCAST\"]/text[3]"
 msgstr ""
+"Немного удивительно, хотя и не совсем шокирующе, обнаружить аванпост "
+"Федерации на территории Изгоев. На борту работает команда, состоящая из "
+"представителей самых разных видов, а командир предлагает вам бесплатные "
+"услуги в ответ на ваше намерение спасти реальность."
 
 #: src-en/data/events_special_outposts.xml:845
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_OUTCAST\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "Запросить бесплатный ремонт. [7$]"
 
 #: src-en/data/events_special_outposts.xml:851
 msgid ""
@@ -711,7 +858,6 @@ msgid ""
 msgstr "Запросить топливо."
 
 #: src-en/data/events_special_outposts.xml:859
-#, fuzzy
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_OUTCAST\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
@@ -741,7 +887,7 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:884
 msgid ""
 "data/events_special_outposts.xml$//event[@name=\"OUTPOST_OUTCAST\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:887
 msgid ""
@@ -752,16 +898,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_OUTCAST_BAD\"]/text"
 msgstr ""
+"Похоже, ваша репутация вас подвела: хотя рядом с этим маяком находится "
+"аванпост союзников, они отказываются отвечать на ваши вызовы и, похоже, "
+"перешли на какой-то режим изоляции. Похоже, вы не получите от них никаких "
+"услуг."
 
 #: src-en/data/events_special_outposts.xml:896
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_OUTCAST_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:898
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_OUTCAST_BAD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Не стоит усугублять свое положение. Вы решаете покинуть аванпост."
 
 #: src-en/data/events_special_outposts.xml:900
 msgid ""
@@ -781,10 +931,9 @@ msgstr "Атаковать аванпост!"
 #: src-en/data/events_special_outposts.xml:912
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_OUTCAST_BAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы активируете орудия и атакуете станцию!"
 
 #: src-en/data/events_special_outposts.xml:915
 msgid ""
 "data/events_special_outposts.xml$/FTL/event[@name=\"OUTPOST_OUTCAST_BAD\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
-

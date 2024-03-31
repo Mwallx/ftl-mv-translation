@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-13 18:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_hektarxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_hektar.xml:26
 msgid "data/events_sector_hektar.xml$//event[@name=\"FINISH_BEACON_HEKTAR\"]/text"
@@ -439,10 +447,10 @@ msgstr ""
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"DISTRESS_HEKTAR_GHETTO\"]/text"
 msgstr ""
-"На соседней планете есть и шумное гетто, полное ящеров, и корабль пиратов, "
-"ведущий по ним огонь! Вполне вероятно, что \"Гектар Индастриз\" знает об "
-"этом, но не хочет вмешиваться, так что вы можете стать их единственной "
-"надеждой!"
+"На расположенной поблизости планете находится шумное гетто, полное ящеров, и "
+"корабль пиратов, ведущий по ним огонь! Вполне вероятно, что \"Гектар "
+"Индастриз\" знает об этом, но не хочет вмешиваться, так что вы можете стать "
+"их единственной надеждой!"
 
 #: src-en/data/events_sector_hektar.xml:293
 msgid ""
@@ -830,7 +838,7 @@ msgstr ""
 #: src-en/data/events_sector_hektar.xml:519
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_RAIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на завод."
 
 #: src-en/data/events_sector_hektar.xml:521
 msgid ""
@@ -999,7 +1007,7 @@ msgstr ""
 #: src-en/data/events_sector_hektar.xml:615
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_TOYS\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Точно..."
 
 #: src-en/data/events_sector_hektar.xml:617
 msgid ""
@@ -1054,7 +1062,7 @@ msgstr ""
 #: src-en/data/events_sector_hektar.xml:645
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_TOYS\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Точно..."
 
 #: src-en/data/events_sector_hektar.xml:647
 msgid ""
@@ -1110,7 +1118,7 @@ msgstr ""
 #: src-en/data/events_sector_hektar.xml:675
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_TOYS\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Точно..."
 
 #: src-en/data/events_sector_hektar.xml:677
 msgid ""
@@ -1376,10 +1384,10 @@ msgstr "Посетить электростанцию."
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_POWERPLANT\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Похоже, что из установки, о котором идет речь, торчит несколько массивных "
-"катушек Тесла, питающихся от шторма. Управляющий установки, похоже, не "
-"слишком воспринял сообщение орхидеи. \"Пфф, да кого волнует какой-то глупый "
-"кит. Анаэробы - это отссстой! Просссто дышшшите киссслородом, неудачники\"."
+"Похоже, что из установки торчит несколько массивных катушек Тесла, "
+"питающихся от шторма. Управляющий установки, похоже, не слишком воспринял "
+"сообщение орхидеи. \"Пфф, да кого волнует какой-то глупый кит. Анаэробы - "
+"это отссстой! Просссто дышшшите киссслородом, неудачники\"."
 
 #: src-en/data/events_sector_hektar.xml:841
 msgid ""
@@ -1401,7 +1409,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_hektar.xml:852
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_HEKTAR_POWERPLANT\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr "Помочь заводу и атаковать орхидеи."
+msgstr "Помочь заводу и атаковать орхидей."
 
 #: src-en/data/events_sector_hektar.xml:854
 msgid ""
@@ -2193,7 +2201,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_hektar.xml:1317
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_DISTRESS_HEKTAR_CHILDREN\"]/choice[1]/event/choice[3]/text"
-msgstr "Заплатите владельцу завода, чтобы он освободил детей."
+msgstr "Заплатить владельцу завода, чтобы он освободил детей."
 
 #: src-en/data/events_sector_hektar.xml:1319
 msgid ""
@@ -2204,10 +2212,9 @@ msgstr ""
 "награждают вас."
 
 #: src-en/data/events_sector_hektar.xml:1324
-#, fuzzy
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_DISTRESS_HEKTAR_CHILDREN\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr "Принять подарок."
+msgstr "Принять их подарок."
 
 #: src-en/data/events_sector_hektar.xml:1330
 msgid ""
@@ -2228,7 +2235,7 @@ msgstr "Уйти."
 #: src-en/data/events_sector_hektar.xml:1344
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"NEBULA_DISTRESS_HEKTAR_CHILDREN\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на завод."
 
 #: src-en/data/events_sector_hektar.xml:1346
 msgid ""
@@ -2910,7 +2917,7 @@ msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"BILLY\"]/choice/event/choice[1]/event/text"
 msgstr ""
 "Слизень, кажется, понял, что вы не тот, кого он ожидал увидеть. \"Подожди - "
-"ты не Телец! Я ССССПАСССЕН! ССССПАСССЕН! Хахах! Я Билли Гектар, генеральный "
+"ты не Телец! Я ССССПАСССЕН! ССССПАСССЕН! Ха-ха! Я Билли Гектар, генеральный "
 "директор компании Гектар и правнук Карла Гектара, оссснователя Гектар "
 "Индассстриз! Я знал, что сссигнал рано или поздно дойдет до кого-то! К "
 "сссожалению, я был заперт в сссвоем офиссссе в течение нессскольких "
@@ -3083,7 +3090,7 @@ msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"BILLY_SAVE\"]/choice/event/choice/event/text"
 msgstr ""
 "\"О-о-о. Подождите... межпроссстранссственные герои, наверное, не платят "
-"налоги, да? Хаха, детка, большшше никаких налогов, я иду! О, и ссспасссать "
+"налоги, да? Ха-ха, детка, большшше никаких налогов, я иду! О, и ссспасссать "
 "реальносссть - это тоже круто, я так думаю\"."
 
 #: src-en/data/events_sector_hektar.xml:1841
@@ -3124,6 +3131,9 @@ msgstr ""
 msgid ""
 "data/events_sector_hektar.xml$//ship[@name=\"SHIP_HEKTAR_BOSS\"]/destroyed/text"
 msgstr ""
+"Корабль \"Гектар Индастриз\" уничтожен. Возможно, вы должны чувствовать себя "
+"виноватым, ведь они были всего лишь Сотрудниками, выполнявшими приказ, но вы "
+"не испытываете ни малейшего сострадания."
 
 #: src-en/data/events_sector_hektar.xml:1867
 msgid ""
@@ -3134,6 +3144,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_hektar.xml$//ship[@name=\"SHIP_HEKTAR_BOSS\"]/deadCrew/text"
 msgstr ""
+"Корабль \"Гектар Индастриз\" уничтожен. Возможно, вы должны чувствовать себя "
+"виноватым, ведь они были всего лишь Сотрудниками, выполнявшими приказ, но вы "
+"не испытываете ни малейшего сострадания."
 
 #: src-en/data/events_sector_hektar.xml:1875
 msgid ""
@@ -3336,8 +3349,8 @@ msgstr "Уговорить Метьюнта заставить их сложит
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"HEKTAR_SHIPYARDS_WIN\"]/choice[1]/event/text"
 msgstr ""
-"Вы обращаетесь к Метьюнту, призывая его разрядить обстановку. Он мешкает, но"
-" обращается к Сотрудникам \"Гектар Индастриз\", требуя, чтобы они сложили "
+"Вы обращаетесь к Метьюнту, призывая его разрядить обстановку. Он мешкает, но "
+"обращается к сотрудникам \"Гектар Индастриз\", требуя, чтобы они сложили "
 "оружие. Сначала они отказываются, но когда Метьюнт угрожает привлечь Билли, "
 "они отступают. Как только Сотрудники \"Гектар Индастриз\" прекратили "
 "сопротивление, ящеры заполонили все вокруг и схватили Метьюнта, в то же "
@@ -3388,4 +3401,3 @@ msgstr ""
 msgid ""
 "data/events_sector_hektar.xml$//event[@name=\"HEKTAR_SHIPYARDS_WIN\"]/choice[2]/text"
 msgstr "Мы не можем рисковать. Взять все, что есть, и уйти."
-

@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-19 15:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"datatext_blueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_anaerobic_desc\"]"
@@ -33,12 +41,11 @@ msgid "data/text_blueprints.xml.append$//text[@name=\"crew_morph_power_1\"]"
 msgstr "45 здоровья, невосприимчивость к удушью"
 
 #: src-en/data/text_blueprints.xml.append:14
-#, fuzzy
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_morph_power_2\"]"
 msgstr ""
-"На пустых маяках могут превращаться в имитацию большинства генетических "
-"типов экипажа. Вся имитированная команда будет иметь на 25% меньше здоровья,"
-" чем обычно и иммунитет к удушью."
+"С помощью склада могут превращаться в имитацию большинства генетических "
+"типов экипажа. Вся имитированная команда будет иметь на 25% меньше здоровья, "
+"чем обычно и иммунитет к удушью."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_gold_title\"]"
@@ -56,10 +63,9 @@ msgid "data/text_blueprints.xml.append$//text[@name=\"crew_gold_power_1\"]"
 msgstr "60 здоровья, невосприимчивость к удушью"
 
 #: src-en/data/text_blueprints.xml.append:19
-#, fuzzy
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_gold_power_2\"]"
 msgstr ""
-"На пустых маяках могут имитировать большинство элитных типов экипажей, при "
+"С помощью склада могут имитировать большинство элитных типов экипажей, при "
 "условии, что у вас есть экипаж соответствующей расы или подвида. Весь "
 "мимикриющий экипаж будет иметь на 25% меньше здоровья, чем обычно, и "
 "иммунитет к удушью."
@@ -71,7 +77,7 @@ msgstr "Технопат"
 #: src-en/data/text_blueprints.xml.append:22
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_techno_desc\"]"
 msgstr ""
-"Технопаты несут особую мутацию генов морфа, которые позволяют им проводить "
+"Технопаты несут особую мутацию генов морфов, которые позволяют им проводить "
 "электричество и, следовательно, имитировать определенную электронику или "
 "металлоидных существ."
 
@@ -80,12 +86,11 @@ msgid "data/text_blueprints.xml.append$//text[@name=\"crew_techno_power_1\"]"
 msgstr "55 здоровья, иммунитет к удушью"
 
 #: src-en/data/text_blueprints.xml.append:24
-#, fuzzy
 msgid "data/text_blueprints.xml.append$//text[@name=\"crew_techno_power_2\"]"
 msgstr ""
-"На пустых маяках может имитировать большинство электронных членов экипажа "
-"или дронов. Эти члены команды будут иметь на 15% меньше здоровья и иммунитет"
-" к удушью."
+"С помощью склада может имитировать большинство электронных или металлических "
+"членов экипажа. Эти члены команды будут иметь на 15% меньше здоровья и "
+"иммунитет к удушью."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid "data/text_blueprints.xml.append$//text[@name=\"weapon_BEAM_1_title\"]"
@@ -177,12 +182,11 @@ msgstr ""
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:64
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_PROTOMV_unlock\"]"
 msgstr ""
-"Путешествуйте по Мультивселенной и откройте все крейсеры Мультивселенной "
-"страницы 1, чтобы открыть первый корабль Федерации Мультивселенной."
+"Путешествуйте по вселенной и откройте все крейсеры Мультивселенной страницы "
+"1, чтобы открыть первый корабль Федерации Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
@@ -257,13 +261,11 @@ msgstr ""
 "крейсере Ополчения тип А, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:85
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_KESTREL_unlock\"]"
 msgstr ""
 "Помогите коллекционеру со Старой Земли вернуть украденный артефакт, чтобы "
-"разблокировать этот корабль... ИЛИ пройдите игру на любом крейсере "
-"Ополчения."
+"разблокировать этот корабль... ИЛИ пройдите игру на любом крейсере Ополчения."
 
 #: src-en/data/text_blueprints.xml.append:86
 msgid ""
@@ -579,13 +581,11 @@ msgstr ""
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:167
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ENGI_unlock\"]"
 msgstr ""
-"Найдите подозрительный контрабандный груз и затем либо доставьте его "
-"\"получателю\", либо передайте его Гармонии, чтобы разблокировать этот "
-"корабль."
+"Найдите подозрительный контрабандный груз и защитите его от Гармонии, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:168
 msgid ""
@@ -790,7 +790,7 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_BISHOP_unlock\"]"
 msgstr ""
-"Попадите на аудиенцию к самой королеве Лейконплиинакре и обсудите условия с "
+"Попадите на аудиенцию к самой королеве Лейконплииинакре и обсудите условия с "
 "Коалицией, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:219
@@ -1132,12 +1132,12 @@ msgstr ""
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:303
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ORCHID_unlock\"]"
 msgstr ""
-"Отправьтесь на Рт'лак Эт и аккуратно остановите пиратский рейд, чтобы "
-"завоевать благосклонность орхидей и разблокировать этот корабль."
+"Отправьтесь в Сады Соцветия и удалите занозу на стороне Преторов, чтобы "
+"завоевать благосклонность орхидей и разблокировать этот корабль... ИЛИ "
+"пройдите игру на любом крейсере Конфедерации."
 
 #: src-en/data/text_blueprints.xml.append:304
 msgid ""
@@ -1157,6 +1157,8 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CARETAKER_unlock\"]"
 msgstr ""
+"Отправьтесь на Рт'лак Эт и успешно разрешите проблемы, чтобы удовлетворить "
+"жителей сада."
 
 #: src-en/data/text_blueprints.xml.append:308
 msgid ""
@@ -1174,10 +1176,11 @@ msgstr ""
 "корабль."
 
 #: src-en/data/text_blueprints.xml.append:311
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_VAMPWEED_unlock\"]"
-msgstr "СКОРО ПОЯВИТСЯ"
+msgstr ""
+"Выясните, о чем беспокоится капитан Вампсорняков... ИЛИ выиграйте игру с "
+"любым крейсером Соцветия."
 
 #: src-en/data/text_blueprints.xml.append:312
 msgid ""
@@ -1196,7 +1199,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:315
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CULTIVATOR_unlock\"]"
-msgstr ""
+msgstr "Отправьтесь в родные миры Вампсорняков и спасите политика."
 
 #: src-en/data/text_blueprints.xml.append:316
 msgid ""
@@ -1213,7 +1216,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:319
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AMBASSADOR_unlock\"]"
-msgstr ""
+msgstr "Предотвратите покушение на орхидея посла."
 
 #: src-en/data/text_blueprints.xml.append:320
 msgid ""
@@ -1324,24 +1327,23 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_LEECH_2_unlock\"]"
 msgstr ""
-"Достигните сектора 5 на крейсере повстанцев тип А, чтобы разблокировать этот"
-" корабль."
+"Достигните сектора 5 на Республиканском крейсере тип А, чтобы разблокировать "
+"этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:355
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_LEECH_3_unlock\"]"
 msgstr ""
-"Достигните сектора 5 на крейсере повстанцев тип Б или пройдите игру на "
-"крейсере повстанцев тип А, чтобы разблокировать этот корабль."
+"Достигните сектора 5 на Республиканском крейсере тип Б или пройдите игру на "
+"Республиканском крейсере тип А, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:357
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ALKRAM_unlock\"]"
 msgstr ""
 "Помогите валунам разрушить перепрофилированную добывающую колонию, которую "
 "используют революционеры, чтобы разблокировать этот корабль... ИЛИ пройдите "
-"игру на любом Иргенском крейсере."
+"игру на любом Республиканском крейсере."
 
 #: src-en/data/text_blueprints.xml.append:358
 msgid ""
@@ -1482,8 +1484,8 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ANCIENT_unlock\"]"
 msgstr ""
-"Отправьтесь в опустошенные миры давно забытой древней инопланетной расы, "
-"чтобы разблокировать этот корабль."
+"Отправьтесь в опустошенные миры давно забытой древней расы пришельцев, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:394
 msgid ""
@@ -1621,38 +1623,40 @@ msgstr ""
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:422
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_ELITE_SHIP_COALITION_ELITE_unlock\"]"
 msgstr ""
-"Разблокируйте все варианты крейсеров Клептократии, Теократии, Улья и Ирген, "
-"чтобы разблокировать этот корабль."
+"Разблокируйте все варианты крейсеров Клептократии, Теократии, Улья и "
+"Республики, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:423
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_ELITE_SHIP_PRAETORIAN_unlock\"]"
 msgstr ""
+"Разблокируйте все варианты крейсеров Соцветия и Смотрителей, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:424
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_ELITE_SHIP_CULTIVATOR_unlock\"]"
 msgstr ""
+"Разблокируйте все варианты крейсеров Конфедерации и Культиваторов, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:425
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_ELITE_SHIP_AMPERE_unlock\"]"
 msgstr ""
-"Разблокируйте все варианты крейсеров Ирген и Революционеров, чтобы "
+"Разблокируйте все варианты крейсеров Республики и Революционеров, чтобы "
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:426
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_ELITE_SHIP_RADIANT_unlock\"]"
 msgstr ""
-"Разблокируйте все варианты крейсеров ракушек, научных и ремонтных крейсеров,"
-" чтобы разблокировать этот корабль."
+"Разблокируйте все варианты крейсеров Гениократии, научных и ремонтных "
+"крейсеров, чтобы разблокировать этот корабль. (может потребоваться "
+"перезагрузка игры, если условия были выполнены)"
 
 #: src-en/data/text_blueprints.xml.append:427
 msgid ""
@@ -1910,8 +1914,8 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_CREW_SHIP_IVAR_unlock\"]"
 msgstr ""
-"Посоветуйтесь с президентом пиявок по поводу конкретного артефакта, чтобы "
-"разблокировать корабль."
+"Посоветуйтесь с премьером Конфедерации по поводу конкретного артефакта, "
+"чтобы разблокировать корабль."
 
 #: src-en/data/text_blueprints.xml.append:470
 msgid ""
@@ -1925,7 +1929,7 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_CREW_SHIP_WITHER_unlock\"]"
 msgstr ""
 "Разблокируйте все уникальные корабли персонажей - членов экипажа, чтобы "
-"разблокировать лучший Мультивселенский крейсер."
+"разблокировать лучший крейсер Мультивселенной."
 
 #: src-en/data/text_blueprints.xml.append:472
 msgid ""
@@ -2127,19 +2131,18 @@ msgid ""
 msgstr "Победите Сборщика долгов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:519
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SYLVAN_TRANSPORT_unlock\"]"
 msgstr ""
-"Разблокируйте все корабли типа А в игре, включая корабли персонажей и "
-"оригинальных версий, чтобы разблокировать этот корабль."
+"Разблокируйте все корабли типа А на страницах с 1 по 13, включая корабли "
+"персонажей и оригинальных версий, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:520
-#, fuzzy
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SYLVAN_TRANSPORT_2_unlock\"]"
 msgstr ""
-"Разблокируйте все другие корабли в игре, чтобы разблокировать этот корабль."
+"Разблокируйте все другие корабли в игре (за исключением слота под этот "
+"корабль), чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:521
 msgid ""
@@ -2170,4 +2173,3 @@ msgid ""
 msgstr ""
 "Победите Сильвана, используя \"Предел 3\" или получите Истинную Концовку на "
 "всех \"Пределах\", чтобы разблокировать этот корабль."
-

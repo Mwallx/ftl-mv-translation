@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-18 08:40+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_ministryxml/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_ministry.xml:28
 msgid ""
@@ -292,7 +299,8 @@ msgstr "노예상을 공격한다."
 #: src-en/data/events_sector_ministry.xml:234
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_FIGHTER_MONK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "내각은 영내에 노예상이 존재하는 것을 달가워하지 않을 것입니다. 당신은 무기를 "
+"장전하고 공격하러 접근합니다."
 
 #: src-en/data/events_sector_ministry.xml:237
 msgid ""
@@ -302,7 +310,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:243
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_FIGHTER_MONK\"]/choice[3]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_ministry.xml:245
 msgid ""
@@ -323,6 +331,9 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"ZOLTAN_FIGHTER_MONK_RESCUE_ATTEMPT\"]/event[1]/text"
 msgstr ""
+"조사 결과 졸탄은 전투 중에 사망한 것으로 보입니다. 그 이유를 알아내는 데는 "
+"별다른 발상력이 필요하지 않았습니다. 수감 환경이 생명을 위협할 정도로 "
+"열악하기 때문입니다. 여기서 더 이상 얻을 수 있는 것은 없는 것 같습니다."
 
 #: src-en/data/events_sector_ministry.xml:261
 msgid ""
@@ -333,6 +344,11 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"ZOLTAN_FIGHTER_MONK_RESCUE_ATTEMPT\"]/event[2]/text"
 msgstr ""
+"함선을 수색하다 노예칸을 발견했습니다. 노예들은 힘겹게 목숨을 붙들고 "
+"있었는데, 노예상들이 수감 시설의 안전에 놀라울 정도로 신경을 쓰지 않은 것 "
+"같습니다. 하지만 당신은 그들을 구출할 수 있습니다. 생존자 중 졸탄 수도승 "
+"하나가 당신에게 절을 합니다. \"노예상으로부터 구해주셔서 고맙습니다. 저도 "
+"일레스크트리안 교단에서 믿음을 얻기 전까지는 당신 같은 투사였습니다.\""
 
 #: src-en/data/events_sector_ministry.xml:269
 msgid ""
@@ -346,12 +362,12 @@ msgstr "먼 곳에 있는 위성에서 뭔가 위화감이 느껴집니다."
 #: src-en/data/events_sector_ministry.xml:279
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_ODD_MOON_MV\"]/choice[1]/text"
-msgstr ""
+msgstr "확인한다."
 
 #: src-en/data/events_sector_ministry.xml:283
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_ODD_MOON_MV\"]/choice[2]/text"
-msgstr ""
+msgstr "내버려둔다."
 
 #: src-en/data/events_sector_ministry.xml:285
 msgid ""
@@ -582,12 +598,12 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:457
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"ZOLTAN_CREW_SCAN_LIST_MV\"]/event[2]/choice[2]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(안티 바이러스) 무기 관제실을 복구한다."
 
 #: src-en/data/events_sector_ministry.xml:459
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"ZOLTAN_CREW_SCAN_LIST_MV\"]/event[2]/choice[2]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
-msgstr ""
+msgstr "무기 관제실이 완전히 복구되었습니다."
 
 #: src-en/data/events_sector_ministry.xml:462
 msgid ""
@@ -648,7 +664,6 @@ msgstr ""
 "\"이것만은 확실히 하죠\" 졸탄이 입을 엽니다. \"절대로 제 함선을 파괴하지 마십시오.\""
 
 #: src-en/data/events_sector_ministry.xml:512
-#, fuzzy
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_LIFERAFT_MV\"]/choice[1]/text"
 msgstr "해적과 전투한다."
@@ -719,7 +734,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:565
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_TOURIST\"]/choice[2]/text"
-msgstr ""
+msgstr "무시한다."
 
 #: src-en/data/events_sector_ministry.xml:567
 msgid ""
@@ -824,7 +839,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:648
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_FREEMANTIS_FRIENDLY\"]/choice[1]/event/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/text"
-msgstr ""
+msgstr "(내각 선원) 졸탄에게 설득을 맡긴다."
 
 #: src-en/data/events_sector_ministry.xml:652
 msgid ""
@@ -839,7 +854,6 @@ msgstr ""
 "정말 감사하다. 우리 친구만 만들려고 왔는데 졸탄은 우리 안믿는다. 나는 너와 같이 간다. 훨씬 친절하다.\""
 
 #: src-en/data/events_sector_ministry.xml:661
-#, fuzzy
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_FREEMANTIS_FRIENDLY\"]/choice[2]/text"
 msgstr "함선을 무시한다."
@@ -1138,7 +1152,6 @@ msgid ""
 msgstr "졸탄은 무뚝뚝하게 감사를 표하며 당신에게 연료를 주고는 해적이 있는 곳으로 돌아갑니다."
 
 #: src-en/data/events_sector_ministry.xml:899
-#, fuzzy
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"DISTRESS_ZOLTAN_ARREST\"]/choice[3]/text"
 msgstr "해적을 무시한다."
@@ -1185,7 +1198,6 @@ msgstr ""
 "합니다. 너무 혼란스러운 탓에 당신을 알아차리지 못한 것 같습니다."
 
 #: src-en/data/events_sector_ministry.xml:933
-#, fuzzy
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"DISTRESS_ZOLTAN_RAID\"]/choice[1]/text"
 msgstr "그들을 도와준다."
@@ -1367,7 +1379,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1069
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분실된 졸탄 법전의 추정 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1071
 msgid ""
@@ -1449,7 +1461,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1126
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "됐습니다."
 
 #: src-en/data/events_sector_ministry.xml:1128
 msgid ""
@@ -1469,7 +1481,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1145
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_QUEST_LAWBOOK_DUSKBRINGER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분실된 졸탄 법전의 추정 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1147
 msgid ""
@@ -1514,7 +1526,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1178
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_QUEST_LAWBOOK_ENGI\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분실된 졸탄 법전의 추정 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1180
 msgid ""
@@ -1581,7 +1593,7 @@ msgstr "법전을 되찾았으니 다시 그 졸탄을 만나러 가면 됩니�
 #: src-en/data/events_sector_ministry.xml:1225
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_QUEST_LAWBOOK_RETURN\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "분실된 법전을 이곳으로 돌려줘야 합니다."
 
 #: src-en/data/events_sector_ministry.xml:1227
 msgid ""
@@ -1595,7 +1607,7 @@ msgstr "정말 놀랍게도 이 송신소에는 라니우스 선박이 거주하
 #: src-en/data/events_sector_ministry.xml:1236
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_LANIUS_CORE\"]/choice[1]/text"
-msgstr ""
+msgstr "응답한다."
 
 #: src-en/data/events_sector_ministry.xml:1238
 msgid ""
@@ -1623,7 +1635,7 @@ msgstr "거절한다."
 #: src-en/data/events_sector_ministry.xml:1253
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_LANIUS_CORE\"]/choice[2]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_ministry.xml:1255
 msgid ""
@@ -1668,7 +1680,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1299
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_REGULAR\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄 방어막 코어를 추적한 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1301
 msgid ""
@@ -1678,7 +1690,7 @@ msgstr "좌표에는 평범한 졸탄 함선이 있었습니다. 코어를 얻�
 #: src-en/data/events_sector_ministry.xml:1304
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_REGULAR\"]/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_ministry.xml:1306
 msgid ""
@@ -1693,7 +1705,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1315
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_REGULAR\"]/choice[2]/text"
-msgstr "저 졸탄들은 우리에게 아무것도 하지 않았다. 그들을 내버려둔다."
+msgstr "저 졸탄들은 우리에게 아무것도 하지 않았다. 내버려둔다."
 
 #: src-en/data/events_sector_ministry.xml:1317
 msgid ""
@@ -1713,7 +1725,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1332
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_STATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄 방어막 코어를 추적한 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1334
 msgid ""
@@ -1723,7 +1735,7 @@ msgstr "좌표에는 평범한 졸탄 정거장이 있었습니다. 코어를 �
 #: src-en/data/events_sector_ministry.xml:1337
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_STATION\"]/choice[1]/text"
-msgstr ""
+msgstr "공격!"
 
 #: src-en/data/events_sector_ministry.xml:1339
 msgid ""
@@ -1738,7 +1750,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1348
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_STATION\"]/choice[2]/text"
-msgstr "저 졸탄들은 우리에게 아무것도 하지 않았다. 그들을 내버려둔다."
+msgstr "저 졸탄들은 우리에게 아무것도 하지 않았다. 내버려둔다."
 
 #: src-en/data/events_sector_ministry.xml:1350
 msgid ""
@@ -1758,7 +1770,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1365
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_DUSKBRINGER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄 방어막 코어를 추적한 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1367
 msgid ""
@@ -1775,7 +1787,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1377
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_MONK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄 방어막 코어를 추적한 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1379
 msgid ""
@@ -1834,7 +1846,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1418
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_AUTO\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "졸탄 방어막 코어를 추적한 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1420
 msgid ""
@@ -1842,10 +1854,9 @@ msgid ""
 msgstr "좌표에는 졸탄 무인기가 있었습니다. 휴면 모드인 것으로 보이는데, 코어를 은밀하게 추출할 수 있을지도 모릅니다."
 
 #: src-en/data/events_sector_ministry.xml:1423
-#, fuzzy
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_AUTO\"]/choice[1]/text"
-msgstr "잔해 수거를 시도한다."
+msgstr "방어막 코어 수거를 시도한다."
 
 #: src-en/data/events_sector_ministry.xml:1427
 msgid ""
@@ -1880,7 +1891,7 @@ msgstr "코어를 살펴본다."
 #: src-en/data/events_sector_ministry.xml:1447
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_AUTO\"]/choice[4]/text"
-msgstr ""
+msgstr "무인기를 무시한다."
 
 #: src-en/data/events_sector_ministry.xml:1449
 msgid ""
@@ -1947,7 +1958,7 @@ msgstr "이제 보상을 받을 순 없겠지만, 대신 방어막 제어실의 
 #: src-en/data/events_sector_ministry.xml:1498
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"QUEST_ZOLTAN_LANIUS_CORE_FINISH\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "당신이 회수한 방어막 코어를 기다리는 라니우스의 위치입니다."
 
 #: src-en/data/events_sector_ministry.xml:1500
 msgid ""
@@ -1962,7 +1973,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1542
 msgid ""
 "data/events_sector_ministry.xml$/FTL/event[@name=\"ENCOUNTER_ZOLTAN_REGULAR\"]/choice[@req=\"ZOLTAN_DELETER\"]/text"
-msgstr ""
+msgstr "(졸탄 제거기) 졸탄을 위협한다."
 
 #: src-en/data/events_sector_ministry.xml:1547
 msgid ""
@@ -2062,7 +2073,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1595
 msgid ""
 "data/events_sector_ministry.xml$/FTL/event[@name=\"ENCOUNTER_ZOLTAN_ASTEROID\"]/choice[@req=\"ZOLTAN_DELETER\"]/text"
-msgstr ""
+msgstr "(졸탄 제거기) 졸탄을 위협한다."
 
 #: src-en/data/events_sector_ministry.xml:1604
 msgid ""
@@ -2072,22 +2083,30 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1608
 msgid ""
 "data/events_sector_ministry.xml$/FTL/event[@name=\"ENCOUNTER_ZOLTAN_PULSAR\"]/choice[@req=\"ZOLTAN_DELETER\"]/text"
-msgstr ""
+msgstr "(졸탄 제거기) 졸탄을 위협한다."
 
 #: src-en/data/events_sector_ministry.xml:1613
 msgid ""
 "data/events_sector_ministry.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_PULSAR\"]/text[1]"
 msgstr ""
+"\"종말이 다가왔도다. 위대한 눈께서 당신의 광기를, 전자기 폭풍을 투영하신다!\""
+" 졸탄이 이해할 수 없는 말을 주절이며 공격해 옵니다!"
 
 #: src-en/data/events_sector_ministry.xml:1614
 msgid ""
 "data/events_sector_ministry.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_PULSAR\"]/text[2]"
 msgstr ""
+"이곳의 펄서 근처에 펄서를 연구하기 위한 내각 연구 정거장이 설립되어 "
+"있습니다. 어떤 이유에선지 당신의 존재를 무단 침입으로 인식하고 당신을 "
+"쫓아내려 함선을 보냈습니다!"
 
 #: src-en/data/events_sector_ministry.xml:1615
 msgid ""
 "data/events_sector_ministry.xml$//textList[@name=\"TEXT_ENCOUNTER_ZOLTAN_PULSAR\"]/text[3]"
 msgstr ""
+"대부분의 종족은 이런 곳을 피하려고 하지만 졸탄은 특별히 위험 요소를 신경 "
+"쓰는 것 같지 않습니다. 하지만 자신들의 영토를 돌아다니는 군함에 관해서는 "
+"얘기가 좀 다르겠죠!"
 
 #: src-en/data/events_sector_ministry.xml:1628
 msgid ""
@@ -2178,8 +2197,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ENCOUNTER_ENGI_ZOLTAN\"]/text"
 msgstr ""
-"한 때는 졸탄 순양함이었던 잔해가 있는 곳에 도착했습니다. 불행히도 순양함을 호위하고 있던 엔지 함선이 당신을 적으로 오해하고 보복을 "
-"시도합니다! 상대는 모든 통신을 거부하고 있습니다."
+"한때는 졸탄 순양함이었던 잔해가 있는 곳에 도착했습니다. 불행히도 순양함을 "
+"호위하고 있던 엔지 함선이 당신을 적으로 오해하고 보복을 시도합니다! 상대는 "
+"모든 통신을 거부하고 있습니다."
 
 #: src-en/data/events_sector_ministry.xml:1676
 msgid ""
@@ -2190,6 +2210,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE\"]/text"
 msgstr ""
+"도약을 마치자, 근처에 있던 내각 무인기에 불이 켜집니다. \"경고 - 이 구역은 "
+"출입 금지입니다 - 오류 - 설명을 찾을 수 없습니다. 사보타주가 의심됩니다. "
+"자기방어를 시작합니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1685
 msgid ""
@@ -2200,6 +2223,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_SELF_DEFENSE\"]/text"
 msgstr ""
+"\"아하! 안 봐도 비디오네요. 뭔가 나쁜 짓을 했군요, 그렇죠? 부인하지 마세요. "
+"나쁜 짓을 들켜서 무인기를 폭파한 거겠죠.\" 아무리 해명하려고 해도 졸탄은 "
+"다른 설명을 받아들이지 않습니다. 이 사건은 분명 내각에 보고될 것입니다."
 
 #: src-en/data/events_sector_ministry.xml:1692
 msgid ""
@@ -2209,37 +2235,45 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1697
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/text"
-msgstr ""
+msgstr "\"정말인가요? 증거는 어딨죠? 정말 공교롭게도 모든 물증이 파괴된 것 "
+"같습니다만.\""
 
 #: src-en/data/events_sector_ministry.xml:1699
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "(고급 센서) 함선 센서에 기록이 있습니다."
 
 #: src-en/data/events_sector_ministry.xml:1701
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[@req=\"sensors\"]/event/text"
 msgstr ""
+"졸탄이 열심히 로그를 살펴봅니다. \"확인됐습니다. 음, 상황을 보니, 정당방위가 "
+"맞았네요. 함선을 수리해 피해를 복구해 드리겠습니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1706
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/text"
-msgstr ""
+msgstr "(내각 선원) \"무인기에 632 오류가 발생했습니다. 최신 펌웨어 업데이트를 받지 "
+"못했던 것 같습니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1708
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/event/text"
 msgstr ""
+"졸탄은 잠시 생각에 잠겼습니다. \"그 설명은 타당하군요, 펌웨어를 업데이트하지 "
+"않았던 것 같습니다. 그렇다면 당신의 행동 또한 정당방위겠네요. 함선을 수리해 "
+"피해를 복구해 드리겠습니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1713
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[3]/text"
-msgstr ""
+msgstr "증거가 없습니다."
 
 #: src-en/data/events_sector_ministry.xml:1715
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_MALFUNCTION\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"그럼 믿을 수가 없네요. 지금은 그냥 넘어가 드리지만, 내각은 이 일을 잊지 "
+"않을 겁니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1717
 msgid ""
@@ -2249,22 +2283,25 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1724
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_ATTACKED\"]/text"
-msgstr ""
+msgstr "\"아, 이제 좀 진전이 있군요. 그러니까, 무인기가 아무 이유 없이 공격했다는 걸 "
+"믿으라는 건가요? 그건 말이 안 되죠.\""
 
 #: src-en/data/events_sector_ministry.xml:1726
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_ATTACKED\"]/choice[1]/text"
-msgstr ""
+msgstr "오작동이나 다른 문제가 있었던 것 같습니다."
 
 #: src-en/data/events_sector_ministry.xml:1730
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_ATTACKED\"]/choice[2]/text"
-msgstr ""
+msgstr "지금 피해를 본 것은 그쪽이 아니라 이쪽입니다. 우리가 당신을 심문해야 합니다!"
 
 #: src-en/data/events_sector_ministry.xml:1732
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"ZOLTAN_MALFUNCTION_INTERROGATE_ATTACKED\"]/choice[2]/event/text"
 msgstr ""
+"\"서로 생각이 다르군요? 음, 더 이상 진전이 없을 것 같으니 이만 가보겠습니다. "
+"아마 고장이거나 그런 거겠죠. 애초에 항상 제대로 작동하지는 않았었거든요.\""
 
 #: src-en/data/events_sector_ministry.xml:1734
 msgid ""
@@ -2275,31 +2312,38 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/text"
 msgstr ""
+"이 성운에서 최근 두 척의 함선이 총격을 주고받으며... 서로에게 파괴적인 "
+"결과를 초래한 것으로 보입니다. 화면 옆에 잔해가 떠다니다가 깊은 성운 속으로 "
+"들어가 시야에서 사라집니다. 면밀한 조사 없이는 누가 싸운 것인지 파악하기 "
+"어렵습니다."
 
 #: src-en/data/events_sector_ministry.xml:1759
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "(슬러그 선원) 생존자를 찾아달라고 요청한다."
 
 #: src-en/data/events_sector_ministry.xml:1761
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
+"행성계를 가득 채운 파괴의 흔적에도 불구하고, 당신의 선원은 잔해 속에서 한 "
+"생명체의 희미한 의식을 포착했습니다. 도와주지 않으면 오래 버티지 못할 것 "
+"같습니다."
 
 #: src-en/data/events_sector_ministry.xml:1763
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/text"
-msgstr ""
+msgstr "생존자를 구한다."
 
 #: src-en/data/events_sector_ministry.xml:1767
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/text"
-msgstr ""
+msgstr "다른 함선이 오기 전에 전장을 떠난다."
 
 #: src-en/data/events_sector_ministry.xml:1769
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 전장을 떴습니다."
 
 #: src-en/data/events_sector_ministry.xml:1771
 msgid ""
@@ -2314,27 +2358,30 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1783
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr ""
+msgstr "(진화적 재분기점) 생존자를 찾아달라고 요청한다."
 
 #: src-en/data/events_sector_ministry.xml:1785
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
+"행성계를 가득 채운 파괴의 흔적에도 불구하고, 당신의 선원은 잔해 속에서 한 "
+"생명체의 희미한 의식을 포착했습니다. 도와주지 않으면 오래 버티지 못할 것 "
+"같습니다."
 
 #: src-en/data/events_sector_ministry.xml:1787
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "생존자를 구한다."
 
 #: src-en/data/events_sector_ministry.xml:1791
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/text"
-msgstr ""
+msgstr "다른 함선이 오기 전에 전장을 떠난다."
 
 #: src-en/data/events_sector_ministry.xml:1793
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 전장을 떴습니다."
 
 #: src-en/data/events_sector_ministry.xml:1795
 msgid ""
@@ -2354,12 +2401,12 @@ msgstr "전장을 조사한다."
 #: src-en/data/events_sector_ministry.xml:1811
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[4]/text"
-msgstr ""
+msgstr "다른 함선이 오기 전에 전장을 떠난다."
 
 #: src-en/data/events_sector_ministry.xml:1813
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/choice[4]/event/text"
-msgstr ""
+msgstr "당신은 전장을 떴습니다."
 
 #: src-en/data/events_sector_ministry.xml:1815
 msgid ""
@@ -2375,41 +2422,52 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[1]/text"
 msgstr ""
+"전장을 조사하다가 떠다니는 잔해에 부딪혔습니다. 흥미로운 것을 전혀 발견하지 "
+"못한 당신은 더 이상 위험을 감수하지 않기로 하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_ministry.xml:1832
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[2]/text"
 msgstr ""
+"잔해가 생각보다 빠르게 움직이고 있습니다. 떠다니는 잔해에 부딪힐 뻔한 것을 "
+"간신히 피했습니다. 흥미로운 것을 전혀 발견하지 못한 당신은 더 이상 위험을 "
+"감수하지 않기로 하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_ministry.xml:1835
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[3]/text"
 msgstr ""
+"잔해가 생각보다 빠르게 움직이고 있습니다. 떠다니는 잔해에 부딪힐 뻔한 것을 "
+"간신히 피했습니다. 흥미로운 것을 전혀 발견하지 못한 당신은 더 이상 위험을 "
+"감수하지 않기로 하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_ministry.xml:1838
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[4]/text"
 msgstr ""
+"잔해가 생각보다 빠르게 움직이고 있습니다. 떠다니는 잔해에 부딪힐 뻔한 것을 "
+"간신히 피했습니다. 흥미로운 것을 전혀 발견하지 못한 당신은 더 이상 위험을 "
+"감수하지 않기로 하고 도약을 준비합니다."
 
 #: src-en/data/events_sector_ministry.xml:1841
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[5]/text"
-msgstr ""
+msgstr "잔해 속에서 떠다니던 생명체를 발견했습니다."
 
 #: src-en/data/events_sector_ministry.xml:1843
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[5]/choice[1]/text"
-msgstr ""
+msgstr "생존자를 구한다."
 
 #: src-en/data/events_sector_ministry.xml:1847
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[5]/choice[2]/text"
-msgstr ""
+msgstr "다른 함선이 오기 전에 전장을 떠난다."
 
 #: src-en/data/events_sector_ministry.xml:1849
 msgid ""
 "data/events_sector_ministry.xml$//eventList[@name=\"BATTLEFIELD_INVESTIGATE\"]/event[5]/choice[2]/event/text"
-msgstr ""
+msgstr "당신은 전장을 떴습니다."
 
 #: src-en/data/events_sector_ministry.xml:1851
 msgid ""
@@ -2424,67 +2482,75 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_ministry.xml:1863
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/text"
-msgstr ""
+msgstr "생존자를 함선으로 데려왔지만, 부상이 심각해 보입니다. 오래 버티지 못할 "
+"겁니다."
 
 #: src-en/data/events_sector_ministry.xml:1865
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[1]/text"
-msgstr ""
+msgstr "마지막 순간을 평온하게 해준다."
 
 #: src-en/data/events_sector_ministry.xml:1867
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[1]/event/text"
 msgstr ""
+"그는 최후를 맞기 직전 거친 목소리로 한 좌표를 말하며 그곳으로 가자고 "
+"애원했는데, 이유를 묻자 \"ABADOTH\"라고 말하며 숨을 거뒀습니다."
 
 #: src-en/data/events_sector_ministry.xml:1872
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(최고급 의료실) 의료실로 데려가라!"
 
 #: src-en/data/events_sector_ministry.xml:1874
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[@req=\"medbay\"]/event/text"
-msgstr ""
+msgstr "고성능 의료실을 사용해 생존자를 빠르게 치료했습니다. 생존자는 당신에게 "
+"고마워하며 선원으로 합류해 어떻게든 돕겠다고 합니다."
 
 #: src-en/data/events_sector_ministry.xml:1879
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "(클론 배양실) 늦기 전에 클론을 만든다."
 
 #: src-en/data/events_sector_ministry.xml:1881
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"BATTLEFIELD_SURVIVOR\"]/choice[@req=\"clonebay\"]/event/text"
-msgstr ""
+msgstr "당신은 생존자를 복제하고 본체는 죽도록 내버려뒀습니다. 클론은, 사실 달리 "
+"선택지도 없지만, 당신의 일행에 합류하기로 합니다."
 
 #: src-en/data/events_sector_ministry.xml:1889
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "죽어버린 생존자가 언급한 의문의 좌표입니다."
 
 #: src-en/data/events_sector_ministry.xml:1891
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/text"
 msgstr ""
+"구해주려 했지만, 죽어버린 생존자가 알려준 좌표에 도착했습니다. 첫인상으로는 "
+"행성도, 함선도, 생존자가 이곳을 언급한 이유에 대한 단서도, 그 무엇도 없는 것 "
+"같습니다."
 
 #: src-en/data/events_sector_ministry.xml:1893
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "(슬러그 선원) 생명체가 있나 확인해 보라고 한다."
 
 #: src-en/data/events_sector_ministry.xml:1897
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr ""
+msgstr "(진화적 재분기점) 생명체가 있나 확인해 보라고 한다."
 
 #: src-en/data/events_sector_ministry.xml:1901
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/choice[3]/text"
-msgstr ""
+msgstr "시간이 오래 걸리겠지만 행성계 전체를 수색한다."
 
 #: src-en/data/events_sector_ministry.xml:1903
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH\"]/choice[3]/event/text"
-msgstr ""
+msgstr "당신은 행성계 수색이라는 고된 작업을 시작합니다. 이만한 가치가 있기를 빕시다."
 
 #: src-en/data/events_sector_ministry.xml:1906
 msgid ""
@@ -2494,17 +2560,19 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1913
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/text"
-msgstr ""
+msgstr "갑자기 졸탄 함선이 어디선가 나타났습니다! \"여기 온 이유를 밝히지 않으면 "
+"심각한 결과를 맞게 될 것입니다.\""
 
 #: src-en/data/events_sector_ministry.xml:1916
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[1]/text"
-msgstr ""
+msgstr "죽어버린 생존자에 대해 설명한다."
 
 #: src-en/data/events_sector_ministry.xml:1918
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "잠시 침묵이 흐른 후 졸탄은 갑자기 무기를 가동했습니다. 뭔가 말을 잘못했나 "
+"봅니다... 이제는 싸워야만 합니다!"
 
 #: src-en/data/events_sector_ministry.xml:1921
 msgid ""
@@ -2514,32 +2582,41 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1927
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[@req=\"LIST_CREW_ENGI\"]/text"
-msgstr ""
+msgstr "(엔지 선원) ABADOTH라고 말한다."
 
 #: src-en/data/events_sector_ministry.xml:1929
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
 msgstr ""
+"엔지는 기억 장치를 통해 죽어버린 생존자가 말했던 단어를 쉽게 재현했습니다. "
+"잠시 침묵이 흐른 후 졸탄은 엄숙하게 감사를 표했습니다. 그는 당신의 여정이 "
+"순조롭기를 빌어주고, 졸탄을 위해 수고를 들인 것에 대한 보답으로 몇 가지 "
+"업그레이드를 제안합니다."
 
 #: src-en/data/events_sector_ministry.xml:1934
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/text"
-msgstr ""
+msgstr "(코그니티브 선원) ABADOTH라고 말한다."
 
 #: src-en/data/events_sector_ministry.xml:1936
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/event/text"
 msgstr ""
+"코그니티브는 기억 장치를 통해 죽어버린 생존자가 말했던 단어를 쉽게 "
+"재현했습니다. 잠시 침묵이 흐른 후 졸탄은 엄숙하게 감사를 표했습니다. 그는 "
+"당신의 여정이 순조롭기를 빌어주고, 졸탄을 위해 수고를 들인 것에 대한 "
+"보답으로 몇 가지 업그레이드를 제안합니다."
 
 #: src-en/data/events_sector_ministry.xml:1941
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[4]/text"
-msgstr ""
+msgstr "ANODYNE라고 말한다."
 
 #: src-en/data/events_sector_ministry.xml:1943
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[4]/event/text"
-msgstr ""
+msgstr "잠시 침묵이 흐른 후 졸탄은 갑자기 무기를 가동했습니다. 뭔가 말을 잘못했나 "
+"봅니다... 이제는 싸워야만 합니다!"
 
 #: src-en/data/events_sector_ministry.xml:1946
 msgid ""
@@ -2549,22 +2626,26 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml:1952
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[5]/text"
-msgstr ""
+msgstr "ABADOTH라고 말한다."
 
 #: src-en/data/events_sector_ministry.xml:1954
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[5]/event/text"
 msgstr ""
+"잠시 침묵이 흐른 후 졸탄은 엄숙하게 감사를 표했습니다. 그는 당신의 여정이 "
+"순조롭기를 빌어주고, 졸탄을 위해 수고를 들인 것에 대한 보답으로 몇 가지 "
+"업그레이드를 제안합니다."
 
 #: src-en/data/events_sector_ministry.xml:1959
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[6]/text"
-msgstr ""
+msgstr "ABATODH라고 말한다."
 
 #: src-en/data/events_sector_ministry.xml:1961
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"SECRET_WORD_ABADOTH_CONCLUSION\"]/choice[6]/event/text"
-msgstr ""
+msgstr "잠시 침묵이 흐른 후 졸탄은 갑자기 무기를 가동했습니다. 뭔가 말을 잘못했나 "
+"봅니다... 이제는 싸워야만 합니다!"
 
 #: src-en/data/events_sector_ministry.xml:1964
 msgid ""
@@ -2920,7 +3001,8 @@ msgstr "(최고급 센서) 함선이 탈출하도록 내버려 두고 행선지�
 #: src-en/data/events_sector_ministry.xml:2230
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"OSMIA_RAID_ESCAPE\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "(장거리 탐사용 스캐너) 함선이 탈출하도록 내버려 두고 행선지를 추적하자고 "
+"제안한다."
 
 #: src-en/data/events_sector_ministry.xml:2234
 msgid ""
@@ -3339,6 +3421,9 @@ msgstr "가까이 다가간다."
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"OSMIA_LAB\"]/choice[1]/event/text"
 msgstr ""
+"일정 선을 넘어서자, 평화유지군 함선이 가동되었습니다. 순양함이니 결코 가벼운 "
+"적수가 아닙니다. \"E17 구역은 진입이 금지되어 있습니다. 어떻게 이곳을 "
+"찾았습니까?\""
 
 #: src-en/data/events_sector_ministry.xml:2490
 msgid ""
@@ -3496,4 +3581,3 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml$//event[@name=\"OSMIAN_LEAVE\"]/choice/event/choice/event/crewMember"
 msgstr "Malki"
-

@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-17 20:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataautoblueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/autoBlueprints.xml.append:8035
 msgid ""
@@ -33,7 +41,7 @@ msgstr "Шаттл Союза"
 #: src-en/data/autoBlueprints.xml.append:8149
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_UNION_TUGSHIP\"]/class"
-msgstr ""
+msgstr "Буксир Союза"
 
 #: src-en/data/autoBlueprints.xml.append:8173
 msgid ""
@@ -68,12 +76,12 @@ msgstr "Союзная топливная станция"
 #: src-en/data/autoBlueprints.xml.append:8319
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_RST_SURVEYOR\"]/class"
-msgstr ""
+msgstr "Исследователь Р.Ж.А."
 
 #: src-en/data/autoBlueprints.xml.append:8413
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_INTERCEPTOR\"]/class"
-msgstr ""
+msgstr "Перехватчик Ополчения"
 
 #: src-en/data/autoBlueprints.xml.append:8438
 msgid ""
@@ -88,12 +96,12 @@ msgstr "Конвоир Ополчения"
 #: src-en/data/autoBlueprints.xml.append:8489
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_INVESTIGATOR\"]/class"
-msgstr ""
+msgstr "Следователь Ополчения"
 
 #: src-en/data/autoBlueprints.xml.append:8512
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_RIGGER\"]/class"
-msgstr ""
+msgstr "Такелажник Ополчения"
 
 #: src-en/data/autoBlueprints.xml.append:8535
 msgid ""
@@ -118,12 +126,12 @@ msgstr "Станция Ополчения"
 #: src-en/data/autoBlueprints.xml.append:8638
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_GUN_STATION\"]/class"
-msgstr ""
+msgstr "Оружейная платформа Ополчения"
 
 #: src-en/data/autoBlueprints.xml.append:8735
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_INTERCEPTOR_ELITE\"]/class"
-msgstr ""
+msgstr "Перехватчик ЭОК"
 
 #: src-en/data/autoBlueprints.xml.append:8760
 msgid ""
@@ -138,12 +146,12 @@ msgstr "Конвоир ЭОК"
 #: src-en/data/autoBlueprints.xml.append:8811
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_INVESTIGATOR_ELITE\"]/class"
-msgstr ""
+msgstr "Следователь ЭОК"
 
 #: src-en/data/autoBlueprints.xml.append:8834
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MILITIA_RIGGER_ELITE\"]/class"
-msgstr ""
+msgstr "Такелажник ЭОК"
 
 #: src-en/data/autoBlueprints.xml.append:8857
 msgid ""
@@ -251,40 +259,34 @@ msgid ""
 msgstr "Топливная станция Федерации"
 
 #: src-en/data/autoBlueprints.xml.append:9510
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_SCOUT_ELITE\"]/class"
-msgstr "Элитный разведчик"
+msgstr "Разведчик Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9532
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_FIGHTER_ELITE\"]/class"
-msgstr "Элитный истребитель"
+msgstr "Истребитель Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9556
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_CORVETTE_ELITE\"]/class"
-msgstr "Элитный корвет"
+msgstr "Корвет Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9578
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_RIGGER_ELITE\"]/class"
-msgstr "Элитный такелажник"
+msgstr "Такелажник Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9603
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_BOMBER_ELITE\"]/class"
-msgstr "Элитный бомбардировщик"
+msgstr "Бомбардировщик Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9627
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FED_LIGHT_CRUISER_ELITE\"]/class"
-msgstr "Элитный легкий крейсер"
+msgstr "Легкий крейсер Единства"
 
 #: src-en/data/autoBlueprints.xml.append:9667
 msgid ""
@@ -442,10 +444,9 @@ msgid ""
 msgstr "Силовик Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:10728
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ZOLTAN_ASSAULT\"]/class"
-msgstr "Штурмовик золтан"
+msgstr "Штурмовик Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:10754
 msgid ""
@@ -488,10 +489,9 @@ msgid ""
 msgstr "Станция Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:10944
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ZOLTAN_TRAPPER\"]/class"
-msgstr "Минер золтан"
+msgstr "Минер Министерства"
 
 #: src-en/data/autoBlueprints.xml.append:10968
 msgid ""
@@ -656,95 +656,87 @@ msgstr "Станция Соцветия"
 #: src-en/data/autoBlueprints.xml.append:11983
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_SCOUT\"]/class"
-msgstr ""
+msgstr "Пастеризатор Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12006
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_OUTRIDER\"]/class"
-msgstr ""
+msgstr "Огородник Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12029
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_FIGHTER\"]/class"
-msgstr ""
+msgstr "Фертильер Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12051
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_BOMBARD\"]/class"
-msgstr ""
+msgstr "Семеновод Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12074
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_BOMBER\"]/class"
-msgstr ""
+msgstr "Шелушитель Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12095
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_ASSAULT\"]/class"
-msgstr ""
+msgstr "Компостер Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12118
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CARETAKER_INSTIGATOR\"]/class"
-msgstr ""
+msgstr "Комбайн Смотрителей"
 
 #: src-en/data/autoBlueprints.xml.append:12203
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_SCOUT_ELITE\"]/class"
-msgstr "Разведчик Вождей"
+msgstr "Разведчик Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12226
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_OUTRIDER_ELITE\"]/class"
-msgstr "Конвоир Вождей"
+msgstr "Конвоир Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12252
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_FIGHTER_ELITE\"]/class"
-msgstr "Истребитель Вождей"
+msgstr "Истребитель Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12275
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_BOMBARD_ELITE\"]/class"
-msgstr "Бомбардир Вождей"
+msgstr "Бомбардир Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12301
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_BOMBER_ELITE\"]/class"
-msgstr "Бомбардировщик Вождей"
+msgstr "Бомбардировщик Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12324
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_ASSAULT_ELITE\"]/class"
-msgstr "Штурмовик Вождей"
+msgstr "Штурмовик Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12351
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_INSTIGATOR_ELITE\"]/class"
-msgstr "Подстрекатель Вождей"
+msgstr "Подстрекатель Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12377
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_GUARD_ELITE\"]/class"
-msgstr "Сторожевой корабль Вождей"
+msgstr "Сторожевой корабль Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12401
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_STATION_ELITE\"]/class"
-msgstr ""
+msgstr "Станция Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:12422
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_STATION_ELITE_CHILD\"]/class"
-msgstr ""
+msgstr "Служба защиты саженцев"
 
 #: src-en/data/autoBlueprints.xml.append:12540
 msgid ""
@@ -754,22 +746,22 @@ msgstr "Разведчик Конфедерации"
 #: src-en/data/autoBlueprints.xml.append:12562
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_OUTRIDER\"]/class"
-msgstr ""
+msgstr "Конвоир Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12586
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_INTERCEPTOR\"]/class"
-msgstr ""
+msgstr "Перехватчик Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12608
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_FIGHTER\"]/class"
-msgstr ""
+msgstr "Истребитель Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12631
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_BOMBER\"]/class"
-msgstr ""
+msgstr "Бомбардировщик Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12656
 msgid ""
@@ -784,17 +776,17 @@ msgstr "Линкор Конфедерации"
 #: src-en/data/autoBlueprints.xml.append:12706
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_ESCORT\"]/class"
-msgstr ""
+msgstr "Эскорт Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12728
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Транспортный корабль Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12752
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_TRAPPER\"]/class"
-msgstr ""
+msgstr "Минер Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12774
 msgid ""
@@ -804,52 +796,52 @@ msgstr "Сторожевой корабль Конфедерации"
 #: src-en/data/autoBlueprints.xml.append:12798
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_STATION\"]/class"
-msgstr ""
+msgstr "Станция Конфедерации"
 
 #: src-en/data/autoBlueprints.xml.append:12897
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_SCOUT_ELITE\"]/class"
-msgstr ""
+msgstr "Разведчик Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:12919
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_OUTRIDER_ELITE\"]/class"
-msgstr ""
+msgstr "Конвоир Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:12943
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_FIGHTER_ELITE\"]/class"
-msgstr ""
+msgstr "Истребитель Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:12966
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_BOMBER_ELITE\"]/class"
-msgstr ""
+msgstr "Бомбардировщик Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:12991
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_ASSAULT_ELITE\"]/class"
-msgstr ""
+msgstr "Штурмовик Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:13015
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_BATTLESHIP_ELITE\"]/class"
-msgstr ""
+msgstr "Линкор Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:13041
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_ESCORT_ELITE\"]/class"
-msgstr ""
+msgstr "Эскорт Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:13063
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_GUARD_ELITE\"]/class"
-msgstr ""
+msgstr "Сторожевой корабль Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:13087
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_VAMPWEED_STATION_ELITE\"]/class"
-msgstr ""
+msgstr "Станция Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:13209
 msgid ""
@@ -939,7 +931,7 @@ msgstr "Разведчик Полководцев"
 #: src-en/data/autoBlueprints.xml.append:13672
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_FREEMANTIS_FIGHTER_ELITE\"]/class"
-msgstr ""
+msgstr "Истребитель Полководцев"
 
 #: src-en/data/autoBlueprints.xml.append:13696
 msgid ""
@@ -989,7 +981,7 @@ msgstr "Разведчик Гениократии"
 #: src-en/data/autoBlueprints.xml.append:14018
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_INVESTIGATOR\"]/class"
-msgstr ""
+msgstr "Следователь Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14043
 msgid ""
@@ -1034,7 +1026,7 @@ msgstr "Разведчик Лучезарных"
 #: src-en/data/autoBlueprints.xml.append:14298
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_INVESTIGATOR_ELITE\"]/class"
-msgstr ""
+msgstr "Следователь Лучезарных"
 
 #: src-en/data/autoBlueprints.xml.append:14324
 msgid ""
@@ -1069,7 +1061,7 @@ msgstr "Научный анализатор Гениократии"
 #: src-en/data/autoBlueprints.xml.append:14527
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_INVESTIGATOR_SCIENCE\"]/class"
-msgstr ""
+msgstr "Научный инспектор Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14551
 msgid ""
@@ -1079,7 +1071,7 @@ msgstr "Научный зонд Гениократии"
 #: src-en/data/autoBlueprints.xml.append:14575
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_FIGHTER_SCIENCE\"]/class"
-msgstr "Научный инспектор Гениократии"
+msgstr "Научный исследователь Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14598
 msgid ""
@@ -1104,7 +1096,7 @@ msgstr "Научный транспортный корабль Гениокра�
 #: src-en/data/autoBlueprints.xml.append:14694
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_STATION_SCIENCE\"]/class"
-msgstr ""
+msgstr "Научный аванпост Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14749
 msgid ""
@@ -1114,7 +1106,7 @@ msgstr "Руководитель-оценщик Гениократии"
 #: src-en/data/autoBlueprints.xml.append:14772
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_INVESTIGATOR_MECH\"]/class"
-msgstr ""
+msgstr "Научный надсмотрщик Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14796
 msgid ""
@@ -1149,7 +1141,7 @@ msgstr "Военный разведчик Гениократии"
 #: src-en/data/autoBlueprints.xml.append:14955
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SHELL_INVESTIGATOR_SOLDIER\"]/class"
-msgstr ""
+msgstr "Военный следователь Гениократии"
 
 #: src-en/data/autoBlueprints.xml.append:14979
 msgid ""
@@ -1184,7 +1176,7 @@ msgstr "Морф Ю"
 #: src-en/data/autoBlueprints.xml.append:15204
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MORPH_LOPOGL\"]/class"
-msgstr ""
+msgstr "Морф Люпугл"
 
 #: src-en/data/autoBlueprints.xml.append:15226
 msgid ""
@@ -1484,7 +1476,7 @@ msgstr "Штурмовик ГОСВ"
 #: src-en/data/autoBlueprints.xml.append:17027
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SSLG_STATION\"]/class"
-msgstr "Форпост ГОСВ"
+msgstr "Аванпост ГОСВ"
 
 #: src-en/data/autoBlueprints.xml.append:17104
 msgid ""
@@ -2039,7 +2031,7 @@ msgstr "Атаманский сторожевой корабль"
 #: src-en/data/autoBlueprints.xml.append:20324
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_KNIGHT_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Атаманский транспортный корабль"
 
 #: src-en/data/autoBlueprints.xml.append:20460
 msgid ""
@@ -2474,7 +2466,7 @@ msgstr "Челнок Роя"
 #: src-en/data/autoBlueprints.xml.append:22991
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_LANIUS_MARAUDER_ELITE\"]/class"
-msgstr ""
+msgstr "Мародер Роя"
 
 #: src-en/data/autoBlueprints.xml.append:23014
 msgid ""
@@ -2639,77 +2631,77 @@ msgstr "Элитный сторожевой корабль"
 #: src-en/data/autoBlueprints.xml.append:24061
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_RIGGER_SELITE\"]/class"
-msgstr "Такелажник аса МФК"
+msgstr "Такелажник асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24086
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_FIGHTER_SELITE\"]/class"
-msgstr "Истребитель аса МФК"
+msgstr "Истребитель асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24110
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_BOMBER_SELITE\"]/class"
-msgstr "Бомбардировщик аса МФК"
+msgstr "Бомбардировщик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24138
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_SELITE\"]/class"
-msgstr "Штурмовик аса МФК"
+msgstr "Штурмовик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24167
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_SFISH\"]/class"
-msgstr "Штурмовик аса МФК"
+msgstr "Штурмовик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24194
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_SFISH_ANCIENT\"]/class"
-msgstr "Штурмовик аса МФК"
+msgstr "Штурмовик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24222
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PREDATOR_SELITE\"]/class"
-msgstr "Хищник аса МФК"
+msgstr "Хищник асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24251
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DROPSHIP_SELITE\"]/class"
-msgstr "Челнок аса МФК"
+msgstr "Челнок асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24278
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_INSTIGATOR_SELITE\"]/class"
-msgstr "Подстрекатель аса МФК"
+msgstr "Подстрекатель асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24304
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_BATTLESHIP_SELITE\"]/class"
-msgstr "Линкор аса МФК"
+msgstr "Линкор асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24333
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PICKET_SELITE\"]/class"
-msgstr "Дозор аса МФК"
+msgstr "Дозор асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24361
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PICKET_SELITE_EXIT\"]/class"
-msgstr "Дозор аса МФК"
+msgstr "Дозор асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24390
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DESTROYER_SELITE\"]/class"
-msgstr "Эсминец аса МФК"
+msgstr "Эсминец асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24417
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_MARAUDER_SELITE\"]/class"
-msgstr "Мародер аса МФК"
+msgstr "Мародер асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24444
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_GUARD_SELITE\"]/class"
-msgstr "Сторожевой корабль аса МФК"
+msgstr "Сторожевой корабль асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24533
 msgid ""
@@ -2724,62 +2716,62 @@ msgstr "Штурмовик Легионеров"
 #: src-en/data/autoBlueprints.xml.append:24663
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_RIGGER_SELITEA\"]/class"
-msgstr "Такелажник аса МФК"
+msgstr "Такелажник асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24689
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_FIGHTER_SELITEA\"]/class"
-msgstr "Истребитель аса МФК"
+msgstr "Истребитель асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24714
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_BOMBER_SELITEA\"]/class"
-msgstr "Бомбардировщик аса МФК"
+msgstr "Бомбардировщик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24742
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_SELITEA\"]/class"
-msgstr "Штурмовик аса МФК"
+msgstr "Штурмовик асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24771
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PREDATOR_SELITEA\"]/class"
-msgstr "Хищник аса МФК"
+msgstr "Хищник асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24800
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DROPSHIP_SELITEA\"]/class"
-msgstr "Челнок аса МФК"
+msgstr "Челнок асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24827
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_INSTIGATOR_SELITEA\"]/class"
-msgstr "Подстрекатель аса МФК"
+msgstr "Подстрекатель асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24854
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_BATTLESHIP_SELITEA\"]/class"
-msgstr "Линкор аса МФК"
+msgstr "Линкор асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24883
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PICKET_SELITEA\"]/class"
-msgstr "Дозор аса МФК"
+msgstr "Дозор асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24913
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DESTROYER_SELITEA\"]/class"
-msgstr "Эсминец аса МФК"
+msgstr "Эсминец асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24940
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_MARAUDER_SELITEA\"]/class"
-msgstr "Мародер аса МФК"
+msgstr "Мародер асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24967
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_GUARD_SELITEA\"]/class"
-msgstr "Сторожевой корабль аса МФК"
+msgstr "Сторожевой корабль асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:24994
 msgid ""
@@ -2789,12 +2781,12 @@ msgstr "Станция МФК"
 #: src-en/data/autoBlueprints.xml.append:25026
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_GUNBOAT\"]/class"
-msgstr "Канонерка аса МФК"
+msgstr "Канонерка асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:25052
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_GUNBOAT_WEAK\"]/class"
-msgstr "Канонерка аса МФК"
+msgstr "Канонерка асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:25095
 msgid ""
@@ -4299,542 +4291,542 @@ msgstr "Ренегат Мультивселенной"
 #: src-en/data/autoBlueprints.xml.append:35169
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CLANSMAN_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35195
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CLANSMAN_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35222
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CLANSMAN_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35250
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CLANSMAN_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35285
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_DUSKBRINGER_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35312
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_DUSKBRINGER_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35339
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_DUSKBRINGER_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35367
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_DUSKBRINGER_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35401
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGI_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35433
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGI_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35465
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGI_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35499
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGI_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35538
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FREEMANTIS_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35566
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FREEMANTIS_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35594
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FREEMANTIS_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35623
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FREEMANTIS_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35657
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LOSTSUN_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35684
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LOSTSUN_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35711
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LOSTSUN_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35739
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LOSTSUN_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35773
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MANTIS_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35804
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MANTIS_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35835
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MANTIS_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35867
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MANTIS_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35907
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MONK_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35939
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MONK_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:35972
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MONK_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36006
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_MONK_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36046
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ROCK_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36071
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ROCK_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36097
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ROCK_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36124
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ROCK_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36157
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SEPARATIST_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36190
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SEPARATIST_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36223
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SEPARATIST_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36257
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SEPARATIST_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36295
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SLUG_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36326
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SLUG_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36357
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SLUG_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36389
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SLUG_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36427
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_STEALTH_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36453
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_STEALTH_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36479
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_STEALTH_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36508
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_STEALTH_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36542
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ZOLTAN_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36568
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ZOLTAN_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36595
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ZOLTAN_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36623
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ZOLTAN_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36656
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGINEER_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36687
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGINEER_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36720
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGINEER_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36754
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ENGINEER_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36794
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SHELL_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36822
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SHELL_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36850
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SHELL_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36879
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_SHELL_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36913
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LANIUS_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36942
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LANIUS_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:36972
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LANIUS_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37004
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LANIUS_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37041
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_KESTREL_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37067
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_KESTREL_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37093
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_KESTREL_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37120
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_KESTREL_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37152
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FED_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37178
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FED_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37205
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FED_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37233
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_FED_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37266
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ORCHID_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37290
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ORCHID_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37315
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ORCHID_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37341
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_ORCHID_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37372
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CRYSTAL_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37400
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CRYSTAL_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37431
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CRYSTAL_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37464
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_CRYSTAL_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37502
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_TUCO_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37534
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_TUCO_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37567
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_TUCO_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37601
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_TUCO_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37640
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LEECH_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37669
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LEECH_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37698
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LEECH_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37728
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_BOSS_LEECH_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37770
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_MFK_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37796
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_MFK_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37822
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_MFK_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37850
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_MFK_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37883
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SALT_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37913
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SALT_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37945
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SALT_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:37978
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SALT_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38016
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SYLVAN_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38044
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SYLVAN_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38073
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SYLVAN_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38103
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SYLVAN_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38140
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_OSMIAN_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38170
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_OSMIAN_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38200
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_OSMIAN_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38231
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_OSMIAN_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38268
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_HORSE_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38295
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_HORSE_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38322
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_HORSE_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38350
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_HORSE_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38383
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SPIDER_NORMAL\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38413
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SPIDER_CHALLENGE\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38445
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SPIDER_EXTREME\"]/class"
-msgstr "Крейсер-Ренегат"
+msgstr "Крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38478
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MTS_BOSS_SPIDER_CHAOS\"]/class"
-msgstr "Хаотичный крейсер-Ренегат"
+msgstr "Хаотичный крейсер Ренегатов"
 
 #: src-en/data/autoBlueprints.xml.append:38582
 msgid ""
@@ -4874,17 +4866,17 @@ msgstr "Пиратский добытчик"
 #: src-en/data/autoBlueprints.xml.append:38759
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_UNION_TUGSHIP\"]/class"
-msgstr ""
+msgstr "Пиратский буксир"
 
 #: src-en/data/autoBlueprints.xml.append:38782
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_UNION_DROPSHIP\"]/class"
-msgstr ""
+msgstr "Пиратский курьер"
 
 #: src-en/data/autoBlueprints.xml.append:38807
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_UNION_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Пиратский транспортный корабль"
 
 #: src-en/data/autoBlueprints.xml.append:38832
 msgid ""
@@ -5049,17 +5041,17 @@ msgstr "Пиратский такелажник"
 #: src-en/data/autoBlueprints.xml.append:39645
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_ENGINEER_CARRIER\"]/class"
-msgstr ""
+msgstr "Пиратский авианосец"
 
 #: src-en/data/autoBlueprints.xml.append:39670
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_ENGINEER_OPERATOR\"]/class"
-msgstr ""
+msgstr "Пиратский оператор"
 
 #: src-en/data/autoBlueprints.xml.append:39696
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_ENGINEER_CARRYSHIP\"]/class"
-msgstr ""
+msgstr "Пиратский курьер"
 
 #: src-en/data/autoBlueprints.xml.append:39723
 msgid ""
@@ -5369,12 +5361,12 @@ msgstr "Пиратский сторожевой корабль"
 #: src-en/data/autoBlueprints.xml.append:41314
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_LEECH_TRAPPER\"]/class"
-msgstr ""
+msgstr "Пиратский минер"
 
 #: src-en/data/autoBlueprints.xml.append:41336
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_LEECH_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Пиратский транспортный корабль"
 
 #: src-en/data/autoBlueprints.xml.append:41357
 msgid ""
@@ -5534,7 +5526,7 @@ msgstr "Пиратский штурмовик"
 #: src-en/data/autoBlueprints.xml.append:42123
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_ORCHID_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Пиратский транспортный корабль"
 
 #: src-en/data/autoBlueprints.xml.append:42147
 msgid ""
@@ -5569,7 +5561,7 @@ msgstr "Пиратский линкор"
 #: src-en/data/autoBlueprints.xml.append:42304
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_PIRATE_FREEMANTIS_TRANSPORT\"]/class"
-msgstr ""
+msgstr "Пиратский транспортный корабль"
 
 #: src-en/data/autoBlueprints.xml.append:42331
 msgid ""
@@ -5624,7 +5616,7 @@ msgstr "Транспортный корабль Тииикаки"
 #: src-en/data/autoBlueprints.xml.append:42613
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_SLAVER_UNION_DROPSHIP\"]/class"
-msgstr ""
+msgstr "Курьер Тииикаки"
 
 #: src-en/data/autoBlueprints.xml.append:42640
 msgid ""
@@ -5869,12 +5861,12 @@ msgstr "Хищник Выводка"
 #: src-en/data/autoBlueprints.xml.append:44050
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_BROOD_MENACE\"]/class"
-msgstr ""
+msgstr "Тварь Выводка"
 
 #: src-en/data/autoBlueprints.xml.append:44073
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_BROOD_BEHEMOTH\"]/class"
-msgstr ""
+msgstr "Чудовище Выводка"
 
 #: src-en/data/autoBlueprints.xml.append:44170
 msgid ""
@@ -5996,7 +5988,7 @@ msgstr "064ЛД3ННЬ1Й X4K3Р"
 #: src-en/data/autoBlueprints.xml.append:44896
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_BEAM_MASTER_SLUG\"]/class"
-msgstr ""
+msgstr "Мастер психики"
 
 #: src-en/data/autoBlueprints.xml.append:44916
 msgid ""
@@ -6130,7 +6122,7 @@ msgstr "???"
 #: src-en/data/autoBlueprints.xml.append:45863
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_ENFORCER_FLEET\"]/class"
-msgstr ""
+msgstr "Силовик постоянства"
 
 #: src-en/data/autoBlueprints.xml.append:45893
 msgid ""
@@ -6224,22 +6216,22 @@ msgstr "Странствующий торговец"
 #: src-en/data/autoBlueprints.xml.append:46624
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_FLAGSHIP_CASUAL\"]/class"
-msgstr "Флагман аса МФК"
+msgstr "Флагман асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:46655
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_FLAGSHIP_NORMAL\"]/class"
-msgstr "Флагман аса МФК"
+msgstr "Флагман асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:46688
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_FLAGSHIP_CHALLENGE\"]/class"
-msgstr "Флагман аса МФК"
+msgstr "Флагман асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:46721
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_MFK_FLAGSHIP_EXTREME\"]/class"
-msgstr "Флагман аса МФК"
+msgstr "Флагман асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:46755
 msgid ""
@@ -6253,12 +6245,12 @@ msgstr "Худший человек (Очень плохой!)"
 #: src-en/data/autoBlueprints.xml.append:46818
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"STL_REBEL_FIGHTER\"]/class"
-msgstr ""
+msgstr "грустные люди (  они проиграли :(    )"
 
 #: src-en/data/autoBlueprints.xml.append:46841
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ARTILLERY_SELITE\"]/class"
-msgstr "Канонерка аса МФК"
+msgstr "Канонерка асов МФК"
 
 #: src-en/data/autoBlueprints.xml.append:46872
 msgid ""
@@ -6331,15 +6323,14 @@ msgid ""
 msgstr "Крейсер Вестников Заката"
 
 #: src-en/data/autoBlueprints.xml.append:47373
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_ORCHID_CRUISER\"]/class"
-msgstr "Крейсер орхидей"
+msgstr "Крейсер Преторов"
 
 #: src-en/data/autoBlueprints.xml.append:47411
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CULTIVATOR_CRUISER\"]/class"
-msgstr ""
+msgstr "Крейсер Культиваторов"
 
 #: src-en/data/autoBlueprints.xml.append:47454
 msgid ""
@@ -6391,7 +6382,6 @@ msgid ""
 msgstr "Крейсер Империи"
 
 #: src-en/data/autoBlueprints.xml.append:47778
-#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_LEECH_DREAD\"]/class"
 msgstr "Республиканский дредноут"
@@ -6492,7 +6482,7 @@ msgstr "Элитная канонерка"
 
 #: src-en/data/autoBlueprints.xml.append:48415
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_A55\"]/class"
-msgstr "34CP4H3Ц"
+msgstr "34СР4Н3Ц"
 
 #: src-en/data/autoBlueprints.xml.append:48450
 msgid ""
@@ -6893,4 +6883,3 @@ msgstr ""
 " Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул "
 "Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул Оракул"
 " Оракул Оракул Оракул Оракул Оракул Оракул"
-

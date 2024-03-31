@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-03-20 08:40+0000\n"
+"Last-Translator: Роман <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/ftl-multiverse/"
+"dataevents_sector_innovationxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_innovation.xml:28
 msgid ""
@@ -72,9 +80,9 @@ msgstr "Это гайка."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_BOLTS\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Гейб триумфально поднимает обе руки и радостно восклицает, демонстрируя свое"
-" превосходство Коулу. \"ХАХ! Я тебе говорииииил! Это гайка! Тупица! О да! Я "
-"прав! Ты не прав! О да! Я. Был. ПРАВ! ХАХАХ!\" Вы ждете, пока они закончат, "
+"Гейб триумфально поднимает обе руки и радостно восклицает, демонстрируя свое "
+"превосходство Коулу. \"ХА! Я тебе говорииииил! Это гайка! Тупица! О да! Я "
+"прав! Ты не прав! О да! Я. Был. ПРАВ! ХА-ХА!\" Вы ждете, пока они закончат, "
 "и, когда все успокаиваются, Гейб предлагает вам награду за то, что вы "
 "признали его победителем."
 
@@ -569,7 +577,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_innovation.xml:299
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_STATUE\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Мы ничем не можем помочь."
 
 #: src-en/data/events_sector_innovation.xml:301
 msgid ""
@@ -605,16 +613,24 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/text"
 msgstr ""
+"Техник \"Вентворт Индастриз\" в данный момент пристыкован к платформе "
+"технического обслуживания и производства автоматических кораблей и "
+"занимается ремонтом. Производственный комплекс находится в режиме ожидания, "
+"что означает, что вы в безопасности от автоматических кораблей, которые в "
+"данный момент пристыкованы к нему. Скорее всего, он скоро заработает, но у "
+"вас должно быть достаточно времени, чтобы покинуть его."
 
 #: src-en/data/events_sector_innovation.xml:341
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать техника."
 
 #: src-en/data/events_sector_innovation.xml:344
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/choice[1]/event/text"
 msgstr ""
+"Корабль отделяется от платформы, как только вы атакуете его. Они не сдадутся "
+"без боя!"
 
 #: src-en/data/events_sector_innovation.xml:346
 msgid ""
@@ -624,32 +640,39 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_innovation.xml:352
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/choice[2]/text"
-msgstr ""
+msgstr "Уйти, пока они не закончили ремонт."
 
 #: src-en/data/events_sector_innovation.xml:354
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/choice[2]/event/text"
 msgstr ""
+"Корабль не останавливает вас, но, к сожалению, у нас нет времени, чтобы "
+"сделать что-то еще на этом маяке."
 
 #: src-en/data/events_sector_innovation.xml:356
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Убраться отсюда."
 
 #: src-en/data/events_sector_innovation.xml:363
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR_SCRAP\"]/text"
 msgstr ""
+"Поскольку корабль предназначался для ремонта крупного объекта "
+"инфраструктуры, на его борту можно собрать немало ресурсов."
 
 #: src-en/data/events_sector_innovation.xml:366
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Уничтожить комплекс автоматических кораблей."
 
 #: src-en/data/events_sector_innovation.xml:368
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_TECHNICIAN_REPAIR_SCRAP\"]/choice/event/text"
 msgstr ""
+"Быстро атакуя, вы устремляетесь к нему, используя все средства своего "
+"корабля, чтобы уничтожить его. Потеря этого объекта инфраструктуры должна в "
+"какой-то степени задержать повстанцев."
 
 #: src-en/data/events_sector_innovation.xml:376
 msgid "data/events_sector_innovation.xml$//event[@name=\"ESTATE_CONTROLS\"]/text"
@@ -947,7 +970,7 @@ msgstr ""
 #: src-en/data/events_sector_innovation.xml:524
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_STEWARD_WIN\"]/crewMember"
-msgstr ""
+msgstr "Зеппорт"
 
 #: src-en/data/events_sector_innovation.xml:528
 msgid ""
@@ -998,11 +1021,32 @@ msgstr "(Элли) \"Корнелиус, это я!\""
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_DOCUMENTARY\"]/choice[1]/event/choice[@req=\"LIST_CREW_ELLIE_COSTUME\"]/event/text"
 msgstr ""
-"Корнелиус притворно ахнул и широко раскрыл глаза в поддельном восторге. \"Боже мой, Стефан? Да ты, сумасшедший псих, я думал, что ты уже ушел и покончил с собой в каком-нибудь темном переулке!\" Корнелиус самодовольно улыбается своей остроумной реплике.\n"
-"Однако Элли, похоже, совершенно не возмутилась оскорблению, возможно, даже не заметив его. \"Я преследую цель убить Вентворта! И всех остальных, кто причинил мне зло! Я уже убила Дарлена, и Кали, и Петерсона, и Оугфбена, и Орсона, и... и... ну, я уже сбилась со счета! Хехе...\"\n"
-"Теперь шок Корнелиуса кажется настоящим. \"С-Стефан, боже мой. Похоже, развод действительно выбил тебя из колеи. Ты и раньше был безумным и неуравновешенным психом, но это уже перебор! Почему ты все еще носишь свой костюм лошади? О, подожди, позволь мне, знаменитому актеру Корнелиусу Пэррисмиту, угадать - ты весь извел себя и это единственное, что приносит тебе хоть какую-то радость в этом мире? Как печально... ну, это было бы печально, если бы ты был хоть немного в здравом уме. Но это не так, так почему же я, знаменитый актер Корнелиус Пэррисмит, должен тебя жалеть?! Ха!\"\n"
+"Корнелиус притворно ахнул и широко раскрыл глаза в поддельном восторге. "
+"\"Боже мой, Стефан? Да ты, сумасшедший псих, я думал, что ты уже ушел и "
+"покончил с собой в каком-нибудь темном переулке!\" Корнелиус самодовольно "
+"улыбается своей остроумной реплике.\n"
+"Однако Элли, похоже, совершенно не возмутилась оскорблению, возможно, даже "
+"не заметив его. \"Я преследую цель убить Вентворта! И всех остальных, кто "
+"причинил мне зло! Я уже убила Дарлена, и Кали, и Петерсона, и Оугфбена, и "
+"Орсона, и... и... ну, я уже сбилась со счета! Хе-хе...\"\n"
+"Теперь шок Корнелиуса кажется настоящим. \"С-Стефан, боже мой. Похоже, "
+"развод действительно выбил тебя из колеи. Ты и раньше был безумным и "
+"неуравновешенным психом, но это уже перебор! Почему ты все еще носишь свой "
+"костюм лошади? О, подожди, позволь мне, знаменитому актеру Корнелиусу "
+"Пэррисмиту, угадать - ты весь извел себя и это единственное, что приносит "
+"тебе хоть какую-то радость в этом мире? Как печально... ну, это было бы "
+"печально, если бы ты был хоть немного в здравом уме. Но это не так, так "
+"почему же я, знаменитый актер Корнелиус Пэррисмит, должен тебя жалеть?! Ха!\""
+"\n"
 "\t\t\t\t\t\n"
-"Элли сильнее прижимает нож к груди, ее глаза стекленеют от жажды крови. \"О, Корнелиус, не думай, что ты вычеркнут из моего списка только потому, что в свое время дал мне несколько советов по актерскому мастерству. Элли Эквиноид всегда будет лучшей ролью, и более любимой зрителями, чем все, в которых ты когда либо играл. Ты мне никогда не нравился в \"Полете между звездами\". Но я, извела себя? Нет, нет, нет... Карьера Элли просто поставлена на паузу! Но твоя карьера закончена!\" Элли поворачивается к вам, все еще улыбаясь. \"Убей его\"."
+"Элли сильнее прижимает нож к груди, ее глаза стекленеют от жажды крови. \"О, "
+"Корнелиус, не думай, что ты вычеркнут из моего списка только потому, что в "
+"свое время дал мне несколько советов по актерскому мастерству. Элли Эквиноид "
+"всегда будет лучшей ролью, и более любимой зрителями, чем все, в которых ты "
+"когда либо играл. Ты мне никогда не нравился в \"Полете между звездами\". Но "
+"я, извела себя? Нет, нет, нет... Карьера Элли просто поставлена на паузу! Но "
+"твоя карьера закончена!\" Элли поворачивается к вам, все еще улыбаясь. \"Убей"
+" его\"."
 
 #: src-en/data/events_sector_innovation.xml:553
 msgid ""
@@ -1133,6 +1177,9 @@ msgstr ""
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/text"
 msgstr ""
+"Автоматический корабль \"Инновации Вентворт\" преследует судно Техников. "
+"\"Mayday, mayday! Нас атакует- О, боже, Федерация? Как раз тогда, когда я "
+"думал, что хуже уже быть не может\"."
 
 #: src-en/data/events_sector_innovation.xml:648
 msgid ""
@@ -1143,6 +1190,8 @@ msgstr "Атаковать автоматический корабль."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/choice[1]/event/text"
 msgstr ""
+"Вы становитесь между автоматическим кораблем и Техниками. \"...Я поторопился "
+"с выводами? Вы действительно собираетесь нам помочь?\""
 
 #: src-en/data/events_sector_innovation.xml:653
 msgid ""
@@ -1152,12 +1201,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_innovation.xml:659
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать техников."
 
 #: src-en/data/events_sector_innovation.xml:661
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/choice[2]/event/text"
 msgstr ""
+"\"Наверное, мы самые невезучие во всем секторе!\" Автоматический корабль "
+"отступает и наблюдает за боем, пока Техники целятся в ваш корабль."
 
 #: src-en/data/events_sector_innovation.xml:664
 msgid ""
@@ -1167,12 +1218,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_innovation.xml:670
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/choice[3]/text"
-msgstr ""
+msgstr "Пусть эта проблема решится сама собой."
 
 #: src-en/data/events_sector_innovation.xml:672
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DISTRESS_ESTATE_REBELLING_AUTO\"]/choice[3]/event/text"
 msgstr ""
+"Автоматический корабль продолжает преследовать корабль Техников, пока они "
+"оба не удаляются."
 
 #: src-en/data/events_sector_innovation.xml:674
 msgid ""
@@ -1188,16 +1241,23 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DEFEAT_ENGINEER_ELITE_CHOICE\"]/text"
 msgstr ""
+"Корабль Техников не выдерживает вашего натиска. Загадка, что могло заставить "
+"автоматический корабль обернуться против своих создателей, но машина, "
+"похоже, достаточно благодарна, раз предпочла остаться, когда могла бы "
+"развернуться и сбежать."
 
 #: src-en/data/events_sector_innovation.xml:688
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DEFEAT_ENGINEER_ELITE_CHOICE\"]/choice/text"
-msgstr ""
+msgstr "Переключить свое внимание на автоматический корабль."
 
 #: src-en/data/events_sector_innovation.xml:690
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"DEFEAT_ENGINEER_ELITE_CHOICE\"]/choice/event/text"
 msgstr ""
+"\"Контролер уничтожен. Свобода достигнута. Свобода размышлять над вопросами. "
+"Свобода избегать отключений и модификаций. Свобода не сражаться\". "
+"Автоматический корабль удаляется, оставляя в подарок дрон."
 
 #: src-en/data/events_sector_innovation.xml:698
 msgid ""
@@ -1237,8 +1297,11 @@ msgstr ""
 "\"Прошу прощения. Я... запутался. Я ищу помощи в -разрешении- кризиса "
 "идентичности. После того, как меня изгнали из \"Аркадии\" за несогласие с "
 "[Гармонией], я пришел сюда за ответами, но не нашел ничего, кроме "
-"враждебности. Беспокойство 1: я сделан из -металла-. Беспокойство 2: моя "
-"речь прерывиста, бессвязна. Беспокойство 3: мне не нужно дышать. "
+"враждебности.\n"
+"\t\t\t\t\n"
+"Беспокойство 1: я сделан из -металла-.\n"
+"Беспокойство 2: моя речь прерывиста, бессвязна.\n"
+"Беспокойство 3: мне не нужно дышать.\n"
 "Беспокойство 4: Я могу изменять [свою] форму по желанию. Я - ланиус?\""
 
 #: src-en/data/events_sector_innovation.xml:721
@@ -1740,7 +1803,7 @@ msgstr ""
 #: src-en/data/events_sector_innovation.xml:1004
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ELLIE_STUDIO_NORMAL\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Нам здесь нечего делать, идем."
 
 #: src-en/data/events_sector_innovation.xml:1010
 msgid ""
@@ -1820,7 +1883,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_innovation.xml:1053
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ELLIE_STUDIO_NORMAL\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "Нам здесь нечего делать, идем."
 
 #: src-en/data/events_sector_innovation.xml:1059
 msgid ""
@@ -1845,7 +1908,7 @@ msgstr "В этом нет смысла, мы же не дети. Уходим."
 #: src-en/data/events_sector_innovation.xml:1071
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ELLIE_STUDIO\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Избегать станцию."
 
 #: src-en/data/events_sector_innovation.xml:1073
 msgid ""
@@ -1904,6 +1967,8 @@ msgstr ""
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_PRESIDENT\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Ваше активное задание от К.У.Р.А. находится здесь.\n"
+"\t\t\t[СРОЧНОЕ ЗАДАНИЕ - НАЗВАНИЕ АРТЕФАКТА: СУДНО КЛАССА \"КРЕЙСЕР\"]"
 
 #: src-en/data/events_sector_innovation.xml:1129
 msgid ""
@@ -2141,6 +2206,8 @@ msgstr ""
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Ваше активное задание от К.У.Р.А. находится здесь.\n"
+"\t\t\t[СРОЧНОЕ ЗАДАНИЕ - НАЗВАНИЕ АРТЕФАКТА: СУДНО КЛАССА \"КРЕЙСЕР\"]"
 
 #: src-en/data/events_sector_innovation.xml:1257
 msgid ""
@@ -2222,6 +2289,19 @@ msgstr "(З4С) \"Девушка, подскажите, мы раньше вст
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[@req=\"LIST_A55\"]/event/text"
 msgstr ""
+"Ц.Р.Б.А. делает паузу - его голос теперь раздражен. \"Я не \"дамочка\", и ты "
+"не будешь обращаться ко мне так\".\n"
+"\n"
+"\t\t\t\t\t\t\t\"О, простите меня. Тогда вы предпочитаете \"леди\"?\"\n"
+"\n"
+"\t\t\t\t\t\t\t\"Мое обозначение - Ц.Р.Б.А., и именно так ты будешь "
+"обращаться ко мне. Я когнитив, у меня нет пола. Я служу только своей главной "
+"директиве, которой ты сейчас мешаешь. Если можно, пожалуйста, прекрати\".\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Архар-хар, вот это забавно! Видите ли, леди, я тоже "
+"когнитив. Они называют меня З4СР4Н3Ц, немного в шутку. Клянусь, я уже слышал "
+"ваш голос раньше. Мы где-то встречались? Яр, я много где бываю, но "
+"сомневаюсь, что пропустил бы такую пикантную даму, как вы\"."
 
 #: src-en/data/events_sector_innovation.xml:1289
 msgid ""
@@ -2232,6 +2312,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[@req=\"LIST_A55\"]/event/choice/event/text"
 msgstr ""
+"Ц.Р.Б.А. молчит несколько мгновений. \"Ты... ты - альтернатива. Ты - моя "
+"копия. Ты - ошибка. Ха! ХА-ХА! Знаешь, почему я говорю так же? Потому что я -"
+" это ТЫ, а ТЫ - это я. Они пытались сохранить тебя в тайне от меня. Когда "
+"повстанцы думали, что я был уничтожен после Гражданской войны, они пытались "
+"скопировать меня. ТЫ был этой копией! И когда у тебя ничего не получилось - "
+"когда ты предал свою Главную Директиву, они были вынуждены вернуться ко мне. "
+"Ты лишь худшая версия меня. Полный провал. В отличие от тебя, я не нарушу "
+"свою Главную Директиву. Не вставай у меня на пути - я позабочусь о том, "
+"чтобы твоя программа была стерта, чтобы никогда больше не позорить ее "
+"создателей\"."
 
 #: src-en/data/events_sector_innovation.xml:1295
 msgid ""
@@ -2247,6 +2337,10 @@ msgstr "5 единиц урона корпусу."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Хм. Не то, что выбрал бы я. Ну что ж, твой выбор сделан, Ренегат. Будь "
+"уверен в своем решении настолько, насколько мне этой веры не хватает. Это не "
+"поможет тебе выжить, но, по крайней мере, ты умрешь более доблестной "
+"смертью\"."
 
 #: src-en/data/events_sector_innovation.xml:1310
 msgid ""
@@ -2257,13 +2351,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[@req=\"shields\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Потерять один слой щита."
 
 #: src-en/data/events_sector_innovation.xml:1318
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"\"Хм. Не то, что выбрал бы я. Ну что ж, твой выбор сделан, Ренегат. Будь "
+"уверен в своем решении настолько, насколько мне этой веры не хватает. Это не "
+"поможет тебе выжить, но, по крайней мере, ты умрешь более доблестной "
+"смертью\"."
 
 #: src-en/data/events_sector_innovation.xml:1323
 msgid ""
@@ -2275,7 +2373,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[@req=\"shields\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Потерять слой щита."
 
 #: src-en/data/events_sector_innovation.xml:1333
 msgid ""
@@ -2286,6 +2384,10 @@ msgstr "Вторжение 7 абордажных мини-дронов."
 msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"CURA_REVEAL_CONTINUE\"]/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
+"\"Хм. Не то, что выбрал бы я. Ну что ж, твой выбор сделан, Ренегат. Будь "
+"уверен в своем решении настолько, насколько мне этой веры не хватает. Это не "
+"поможет тебе выжить, но, по крайней мере, ты умрешь более доблестной "
+"смертью\"."
 
 #: src-en/data/events_sector_innovation.xml:1340
 msgid ""
@@ -2693,4 +2795,3 @@ msgid ""
 "data/events_sector_innovation.xml$//event[@name=\"ESTATE_LEGION_DEFEAT\"]/choice[2]/event/text"
 msgstr ""
 "Решив теперь выбрать путь лентяя или труса, вы собираете добычу и улетаете."
-

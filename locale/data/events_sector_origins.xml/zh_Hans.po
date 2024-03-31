@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-02-24 04:40+0000\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
+"ftl-multiverse/dataevents_sector_originsxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/events_sector_origins.xml:28
 msgid "data/events_sector_origins.xml$//event[@name=\"START_ORIGINS\"]/text"
@@ -150,7 +157,6 @@ msgid ""
 msgstr "(先进引擎)尝试逃离守卫。"
 
 #: src-en/data/events_sector_origins.xml:143
-#, fuzzy
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"GUARD_CULTIST\"]/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
@@ -242,7 +248,6 @@ msgid ""
 msgstr "(先进引擎)尝试逃离守卫。"
 
 #: src-en/data/events_sector_origins.xml:202
-#, fuzzy
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"GUARD_CULTIST_REVISIT\"]/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
@@ -339,7 +344,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_origins.xml:295
-#, fuzzy
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"FINISH_BEACON_ORIGINS_RUWEN\"]/choice[@req=\"loc_origins_exit\"]/event/choice[@req=\"engines\"]/text"
 msgstr "(先进引擎)尝试逃离精英舰。"
@@ -476,7 +480,8 @@ msgid ""
 "data/events_sector_origins.xml$//event[@name=\"FINISH_BEACON_ORIGINS_RUWEN\"]/choice[@req=\"loc_waystone\""
 " and @lvl=\"0\"]/event/choice[@req=\"unique_ruwen\" and "
 "@lvl=\"1\"]/event/choice/event/text"
-msgstr "\"永远不要再回到我们的星区。\"说完，茹文开始收拾他的东西，一旦你离开这个星区，他就离开了。"
+msgstr "\"永远不要再回到我们的星区。\"说完"
+"，茹文开始收拾他的东西。你离开这个星区之后，他也离开了。"
 
 #: src-en/data/events_sector_origins.xml:370
 msgid ""
@@ -573,7 +578,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_origins.xml:448
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"CULTIST_MOURNING\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr "(心灵感应的甲壳族)用你的甲壳族船员回答。"
+msgstr "(心灵感应甲壳族)用你的甲壳族船员回答。"
 
 #: src-en/data/events_sector_origins.xml:450
 msgid ""
@@ -959,7 +964,8 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_origins.xml:799
 msgid "data/events_sector_origins.xml$//event[@name=\"ORIGINS_DUEL_CHOICE\"]/text"
-msgstr "你发现附近有两艘船成直角驶离。第一批似乎是一些余烬教徒，他们迫不及待地追踪到一个水晶岗哨，结果却遭到了攻击！"
+msgstr "你发现附近有两艘船成直角驶离。第一批似乎是一些余烬教徒，他们迫不及待地追踪到"
+"一名水晶戍卫者，结果却遭到了攻击！"
 
 #: src-en/data/events_sector_origins.xml:801
 msgid ""
@@ -1034,7 +1040,8 @@ msgstr "同意。"
 #: src-en/data/events_sector_origins.xml:847
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"CULTIST_BOUNTY\"]/choice[1]/event/choice[1]/event/text"
-msgstr "你按照教派给出的坐标走，这把你带到了一个小行星带，里面藏着一艘水晶哨卫的舰船！"
+msgstr "你按照教派给出的坐标走，这把你带到了一个小行星带，里面藏着一艘水晶戍卫者的舰"
+"船！"
 
 #: src-en/data/events_sector_origins.xml:851
 msgid ""
@@ -1812,4 +1819,3 @@ msgstr "过了一会儿，沃蒂根醒了。\"你...你救了我？你疯了吗�
 msgid ""
 "data/events_sector_origins.xml$//event[@name=\"VORTIGON_SAVED\"]/crewMember"
 msgstr "沃蒂根"
-
